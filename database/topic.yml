@@ -1,16 +1,16 @@
-"Sparse":
-  "Format": '"Sparse Tensor"OR"Sparse Matrix"'
-  "Compile": '"Sparse Compiler"OR"Sparse Compile"'
-  "Operator": '"SpMM"OR"SpMV"OR"SpTV"OR"SpTTM"OR"SpTC"'
+"Sparse Computing":
+  "Sparse Format": '"Sparse Tensor"OR"Sparse Matrix"'
+  "Sparse Compile": '"Sparse Compiler"OR"Sparse Compile"'
+  "Sparse Operator": '"SpMM"OR"SpMV"OR"SpTV"OR"SpTTM"OR"SpTC"'
   
-"Code":
-  "Generation": '"Code Generation"OR"Code Generator"OR"Code Generate"'
-  "C": '"C Code"OR"C language code"OR"C/C++ Code"OR"C and C++ language code"'
+"Code Compile":
+  "C Code Generation": '"Code Generation"OR"Code Generator"OR"Code Generate"'
+  "C Code Migration": '"C Code Generation"OR"C Code Transfer"OR"C language code"OR"C/C++ Code"OR"C and C++ language code"'
 
 "Large-Language Model":
   "Large-Language Model": '"Large-Language Model"OR"LLM"OR"Large Language Model"OR"Pre-trained Language Model"OR"PLM"OR"Pretrained Language Model"OR"Language Model"OR"LM"OR"Transformer-based Language Model"OR"TB-LM"OR"Transformer based Language Model"'
 
 
 "AI":
-  "Theory": '"Mental Model"OR"Cognitive Architecture"'
-  "Agent": '"LLM-Based Agent"OR"Code Agent"OR"Code Prompt"'
+  "LLM Theory": '"Thought chain"OR"Mental Model"OR"Cognitive Architecture"'
+  "LLM Agent": '"LLM-Based Agent"OR"Code Agent"OR"Code Prompt"'
