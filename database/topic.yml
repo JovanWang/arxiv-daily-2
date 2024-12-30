@@ -1,11 +1,11 @@
 "Sparse Computing":
-  "Sparse Format": '"Sparse Tensor"OR"Sparse Matrix"'
-  "Sparse Compile": '"Sparse Compiler"OR"Sparse Compile"'
+  "Sparse Data Format": '"Sparse Tensor"OR"Sparse Matrix"'
+  "Sparse program Compile": '"Sparse Compiler"OR"Sparse Compile"'
   "Sparse Operator": '"SpMM"OR"SpMV"OR"SpTV"OR"SpTTM"OR"SpTC"'
   
 "Code Compile":
   "C Code Generation": '"Code Generation"OR"Code Generator"OR"Code Generate"'
-  "C Code Migration": '"C Code Generation"OR"C Code Transfer"OR"C language code"OR"C/C++ Code"OR"C and C++ language code"'
+  "C Code Migration": '"C Code Generation"OR"C Code Transfer"OR"C language code Generation"OR"C/C++ Code Generation"OR"C and C++ language code Generation"'
 
 "Large-Language Model":
   "Large-Language Model": '"Large-Language Model"OR"LLM"OR"Large Language Model"OR"Pre-trained Language Model"OR"PLM"OR"Pretrained Language Model"OR"Language Model"OR"LM"OR"Transformer-based Language Model"OR"TB-LM"OR"Transformer based Language Model"'
