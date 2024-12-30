@@ -1,15 +1,15 @@
 # arxiv-daily
- Automated deployment @ 2024-12-30 16:10:04 Asia/Shanghai
+ Automated deployment @ 2024-12-30 16:25:46 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
-## Sparse
+## Sparse Computing
 
-### Operator
+### Sparse Operator
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
 
-### Format
+### Sparse Format
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
 |**2024-12-27**|**Streamlined Krylov construction and classification of ergodic Floquet systems**|Nikita Kolganov et.al.|[2412.19797v1](http://arxiv.org/abs/2412.19797v1)|null|
@@ -43,7 +43,7 @@
 |**2024-12-27**|**The nucleus of the Johnson graph $J(N,D)$**|Kazumasa Nomura et.al.|[2412.19389v1](http://arxiv.org/abs/2412.19389v1)|null|
 |**2024-12-26**|**On the Quantum K-theory of Quiver Varieties at Roots of Unity**|Peter Koroteev et.al.|[2412.19383v1](http://arxiv.org/abs/2412.19383v1)|null|
 
-### Compile
+### Sparse Compile
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
 |**2024-12-27**|**Concentration of ergotropy in many-body systems**|Karen V. Hovhannisyan et.al.|[2412.19801v1](http://arxiv.org/abs/2412.19801v1)|null|
@@ -77,9 +77,9 @@
 |**2024-12-25**|**ObitoNet: Multimodal High-Resolution Point Cloud Reconstruction**|Apoorv Thapliyal et.al.|[2412.18775v1](http://arxiv.org/abs/2412.18775v1)|null|
 |**2024-12-25**|**Variational Bayesian Inference for Tensor Robust Principal Component Analysis**|Chao Wang et.al.|[2412.18717v1](http://arxiv.org/abs/2412.18717v1)|null|
 
-## Code
+## Code Compile
 
-### Generation
+### C Code Generation
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
 |**2024-12-27**|**A local automaton for the 2D toric code**|Shankar Balasubramanian et.al.|[2412.19803v1](http://arxiv.org/abs/2412.19803v1)|null|
@@ -113,7 +113,7 @@
 |**2024-12-27**|**Periodically and aperiodically Thue-Morse driven long-range systems: from dynamical localization to slow dynamics**|Vatsana Tiwari et.al.|[2412.19736v1](http://arxiv.org/abs/2412.19736v1)|null|
 |**2024-12-27**|**A General Framework of Brain Region Detection And Genetic Variants Selection in Imaging Genetics**|Siqiang Su et.al.|[2412.19735v1](http://arxiv.org/abs/2412.19735v1)|null|
 
-### C
+### C Code Migration
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
 |**2024-12-27**|**A local automaton for the 2D toric code**|Shankar Balasubramanian et.al.|[2412.19803v1](http://arxiv.org/abs/2412.19803v1)|null|
@@ -149,7 +149,7 @@
 
 ## AI
 
-### Agent
+### LLM Agent
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
 |**2024-12-27**|**Enhancing Whisper's Accuracy and Speed for Indian Languages through Prompt-Tuning and Tokenization**|Kumud Tripathi et.al.|[2412.19785v1](http://arxiv.org/abs/2412.19785v1)|null|
@@ -183,7 +183,7 @@
 |**2024-12-25**|**ModelGrow: Continual Text-to-Video Pre-training with Model Expansion and Language Understanding Enhancement**|Zhefan Rao et.al.|[2412.18966v1](http://arxiv.org/abs/2412.18966v1)|null|
 |**2024-12-25**|**UNIC-Adapter: Unified Image-instruction Adapter with Multi-modal Transformer for Image Generation**|Lunhao Duan et.al.|[2412.18928v1](http://arxiv.org/abs/2412.18928v1)|null|
 
-### Theory
+### LLM Theory
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
 |**2024-12-27**|**IMAGINE: An 8-to-1b 22nm FD-SOI Compute-In-Memory CNN Accelerator With an End-to-End Analog Charge-Based 0.15-8POPS/W Macro Featuring Distribution-Aware Data Reshaping**|Adrian Kneip et.al.|[2412.19750v1](http://arxiv.org/abs/2412.19750v1)|null|
@@ -192,6 +192,7 @@
 |**2024-12-27**|**EEG-Reptile: An Automatized Reptile-Based Meta-Learning Library for BCIs**|Daniil A. Berdyshev et.al.|[2412.19725v1](http://arxiv.org/abs/2412.19725v1)|[link](https://github.com/gasiki/eeg-reptile)|
 |**2024-12-27**|**Text2Insight: Transform natural language text into insights seamlessly using multi-model architecture**|Pradeep Sain et.al.|[2412.19718v1](http://arxiv.org/abs/2412.19718v1)|null|
 |**2024-12-27**|**ProKAN: Progressive Stacking of Kolmogorov-Arnold Networks for Efficient Liver Segmentation**|Bhavesh Gyanchandani et.al.|[2412.19713v1](http://arxiv.org/abs/2412.19713v1)|null|
+|**2024-12-27**|**Toward Adaptive Reasoning in Large Language Models with Thought Rollback**|Sijia Chen et.al.|[2412.19707v1](http://arxiv.org/abs/2412.19707v1)|[link](https://github.com/iQua/llmpebase)|
 |**2024-12-27**|**A Large-scale Interpretable Multi-modality Benchmark for Facial Image Forgery Localization**|Jingchun Lian et.al.|[2412.19685v1](http://arxiv.org/abs/2412.19685v1)|null|
 |**2024-12-27**|**Combining Machine Learning with Recurrence Analysis for resonance detection**|Ondřej Zelenka et.al.|[2412.19683v1](http://arxiv.org/abs/2412.19683v1)|null|
 |**2024-12-27**|**Deep ReLU networks -- injectivity capacity upper bounds**|Mihailo Stojnic et.al.|[2412.19677v1](http://arxiv.org/abs/2412.19677v1)|null|
@@ -207,15 +208,14 @@
 |**2024-12-27**|**Scalable Hierarchical Reinforcement Learning for Hyper Scale Multi-Robot Task Planning**|Xuan Zhou et.al.|[2412.19538v1](http://arxiv.org/abs/2412.19538v1)|null|
 |**2024-12-27**|**StyleRWKV: High-Quality and High-Efficiency Style Transfer with RWKV-like Architecture**|Miaomiao Dai et.al.|[2412.19535v1](http://arxiv.org/abs/2412.19535v1)|null|
 |**2024-12-27**|**P3S-Diffusion:A Selective Subject-driven Generation Framework via Point Supervision**|Junjie Hu et.al.|[2412.19533v1](http://arxiv.org/abs/2412.19533v1)|null|
+|**2024-12-27**|**Casevo: A Cognitive Agents and Social Evolution Simulator**|Zexun Jiang et.al.|[2412.19498v1](http://arxiv.org/abs/2412.19498v1)|null|
 |**2024-12-27**|**Retrieval-augmented Generation for GenAI-enabled Semantic Communications**|Shunpu Tang et.al.|[2412.19494v1](http://arxiv.org/abs/2412.19494v1)|null|
-|**2024-12-27**|**UniBrain: A Unified Model for Cross-Subject Brain Decoding**|Zicheng Wang et.al.|[2412.19487v1](http://arxiv.org/abs/2412.19487v1)|[link](https://github.com/xiaoyao3302/unibrain)|
 |**2024-12-27**|**Pre-training, Fine-tuning and Re-ranking: A Three-Stage Framework for Legal Question Answering**|Shiwen Ni et.al.|[2412.19482v1](http://arxiv.org/abs/2412.19482v1)|null|
 |**2024-12-27**|**An Overview of Machine Learning-Driven Resource Allocation in IoT Networks**|Zhengdong Li et.al.|[2412.19478v1](http://arxiv.org/abs/2412.19478v1)|null|
 |**2024-12-27**|**A C-Band Cryogenic GaAs MMIC Low-Noise Amplifier for Quantum Applications**|Zechen Guo et.al.|[2412.19477v1](http://arxiv.org/abs/2412.19477v1)|null|
 |**2024-12-27**|**Meta-Learning-Based Delayless Subband Adaptive Filter using Complex Self-Attention for Active Noise Control**|Pengxing Feng et.al.|[2412.19471v1](http://arxiv.org/abs/2412.19471v1)|null|
 |**2024-12-27**|**Optimizing Helmet Detection with Hybrid YOLO Pipelines: A Detailed Analysis**|Vaikunth M et.al.|[2412.19467v1](http://arxiv.org/abs/2412.19467v1)|null|
 |**2024-12-27**|**NijiGAN: Transform What You See into Anime with Contrastive Semi-Supervised Learning and Neural Ordinary Differential Equations**|Kevin Putra Santoso et.al.|[2412.19455v1](http://arxiv.org/abs/2412.19455v1)|null|
-|**2024-12-27**|**A Survey on Large Language Model Acceleration based on KV Cache Management**|Haoyang Li et.al.|[2412.19442v1](http://arxiv.org/abs/2412.19442v1)|null|
 
 ## Large-Language Model
 
