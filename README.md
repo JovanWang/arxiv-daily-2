@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-01-02 20:50:30 Asia/Shanghai
+ Automated deployment @ 2025-01-02 21:11:29 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -79,40 +79,6 @@
 
 ## Code Compile
 
-### C Code Generation
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-12-30**|**PERSE: Personalized 3D Generative Avatars from A Single Portrait**|Hyunsoo Cha et.al.|[2412.21206v1](http://arxiv.org/abs/2412.21206v1)|null|
-|**2024-12-30**|**Branes Screening Quarks and Defect Operators**|Andreas Karch et.al.|[2412.21204v1](http://arxiv.org/abs/2412.21204v1)|null|
-|**2024-12-30**|**Two-component Dark Matter and low scale Thermal Leptogenesis**|Subhaditya Bhattacharya et.al.|[2412.21202v1](http://arxiv.org/abs/2412.21202v1)|null|
-|**2024-12-30**|**Distributed Mixture-of-Agents for Edge Inference with Large Language Models**|Purbesh Mitra et.al.|[2412.21200v1](http://arxiv.org/abs/2412.21200v1)|[link](https://github.com/purbeshmitra/distributed_moa)|
-|**2024-12-30**|**HumanEval Pro and MBPP Pro: Evaluating Large Language Models on Self-invoking Code Generation**|Zhaojian Yu et.al.|[2412.21199v1](http://arxiv.org/abs/2412.21199v1)|[link](https://github.com/CodeEval-Pro/CodeEval-Pro)|
-|**2024-12-30**|**A Large-Scale Study on Video Action Dataset Condensation**|Yang Chen et.al.|[2412.21197v1](http://arxiv.org/abs/2412.21197v1)|null|
-|**2024-12-30**|**Investigating Temporal and Spatial Variation of Jupiter's Atmosphere with Radio Observations**|Joanna Hardesty et.al.|[2412.21191v1](http://arxiv.org/abs/2412.21191v1)|null|
-|**2024-12-30**|**Sparse chaos in cortical circuits**|Rainer Engelken et.al.|[2412.21188v1](http://arxiv.org/abs/2412.21188v1)|null|
-|**2024-12-30**|**The Gaussian Kicked Rotor: Periodic forcing with finite-width pulses and the role of shifting the kick**|Jonathan Berkheim et.al.|[2412.21186v1](http://arxiv.org/abs/2412.21186v1)|null|
-|**2024-12-30**|**Holographic observers for time-band algebras**|Kristan Jensen et.al.|[2412.21185v1](http://arxiv.org/abs/2412.21185v1)|null|
-|**2024-12-30**|**Abelian varieties genuinely of $\mathrm{GL}_n$-type**|Francesc Fité et.al.|[2412.21183v1](http://arxiv.org/abs/2412.21183v1)|null|
-|**2024-12-30**|**STITCHER: Real-Time Trajectory Planning with Motion Primitive Search**|Helene J. Levy et.al.|[2412.21180v1](http://arxiv.org/abs/2412.21180v1)|null|
-|**2024-12-30**|**Classical $J\bar T$ symmetries -- three ways -- and a precision holography check**|Silvia Georgescu et.al.|[2412.21176v1](http://arxiv.org/abs/2412.21176v1)|null|
-|**2024-12-30**|**Well-posedness of quadratic RBSDEs and BSDEs with one-sided growth restrictions**|Shiqiu Zheng et.al.|[2412.21172v1](http://arxiv.org/abs/2412.21172v1)|null|
-|**2024-12-30**|**Quantum Error Correction near the Coding Theoretical Bound**|Daiki Komoto et.al.|[2412.21171v1](http://arxiv.org/abs/2412.21171v1)|null|
-|**2024-12-30**|**On spectral stability of one- and bi-frequency solitary waves in Soler model in (3+1)D**|Nabile Boussaïd et.al.|[2412.21170v1](http://arxiv.org/abs/2412.21170v1)|null|
-|**2024-12-30**|**Causality and Stability from Acoustic Geometry**|Ignacy Sawicki et.al.|[2412.21169v1](http://arxiv.org/abs/2412.21169v1)|null|
-|**2024-12-30**|**Perfect stationary solutions of reaction-diffusion equations on lattices and regular graphs**|Vladimír Švígler et.al.|[2412.21168v1](http://arxiv.org/abs/2412.21168v1)|null|
-|**2024-12-30**|**Junction conditions for higher order gravity theories from a Gibbons-Hawking-York boundary term**|Marcos A. Ramirez et.al.|[2412.21167v1](http://arxiv.org/abs/2412.21167v1)|null|
-|**2024-12-30**|**Cavity-QED Simulation of a Maser beyond the Mean-Field Approximation**|Xinpeng Shu et.al.|[2412.21166v1](http://arxiv.org/abs/2412.21166v1)|null|
-|**2024-12-30**|**Open-Source 5G Core Platforms: A Low-Cost Solution and Performance Evaluation**|Maria Barbosa et.al.|[2412.21162v1](http://arxiv.org/abs/2412.21162v1)|null|
-|**2024-12-30**|**Open RAN-Enabled Deep Learning-Assisted Mobility Management for Connected Vehicles**|Maria Barbosa et.al.|[2412.21161v1](http://arxiv.org/abs/2412.21161v1)|null|
-|**2024-12-30**|**A Standardized Framework for Sensor Placement in Human Motion Capture and Wearable Applications**|Seyed Yahya Shirazi et.al.|[2412.21159v1](http://arxiv.org/abs/2412.21159v1)|null|
-|**2024-12-30**|**Accidental Peccei-Quinn Symmetry From Gauged U(1) and a High Quality Axion**|K. S. Babu et.al.|[2412.21157v1](http://arxiv.org/abs/2412.21157v1)|null|
-|**2024-12-30**|**Low coordinate degree algorithms II: Categorical signals and generalized stochastic block models**|Dmitriy Kunisky et.al.|[2412.21155v1](http://arxiv.org/abs/2412.21155v1)|null|
-|**2024-12-30**|**Aviary: training language agents on challenging scientific tasks**|Siddharth Narayanan et.al.|[2412.21154v1](http://arxiv.org/abs/2412.21154v1)|null|
-|**2024-12-30**|**PyG-SSL: A Graph Self-Supervised Learning Toolkit**|Lecheng Zheng et.al.|[2412.21151v1](http://arxiv.org/abs/2412.21151v1)|[link](https://github.com/idea-isail-lab-uiuc/pyg-ssl)|
-|**2024-12-30**|**Pressure-tunable structural instabilities in single-layer-trilayer La$_3$Ni$_2$O$_7$**|Alaska Subedi et.al.|[2412.21150v1](http://arxiv.org/abs/2412.21150v1)|null|
-|**2024-12-30**|**Functional Risk Minimization**|Ferran Alet et.al.|[2412.21149v1](http://arxiv.org/abs/2412.21149v1)|null|
-|**2024-12-30**|**Topological dark energy from black-hole formations and mergers through the gravity-thermodynamics approach**|Stylianos A. Tsilioukas et.al.|[2412.21146v1](http://arxiv.org/abs/2412.21146v1)|null|
-
 ### C Code Migration
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -146,6 +112,40 @@
 |**2024-12-30**|**Enhanced Two-Way Teleportation of Entangled States with Six-Qubit Cluster State**|Vedhanayagi R et.al.|[2412.21179v1](http://arxiv.org/abs/2412.21179v1)|null|
 |**2024-12-30**|**Two-component spatiotemporal template for activation-inhibition of speech in ECoG**|Eric Easthope et.al.|[2412.21178v1](http://arxiv.org/abs/2412.21178v1)|null|
 |**2024-12-30**|**Quantum algorithms for the simulation of QCD processes in the perturbative regime**|Herschel A. Chawdhry et.al.|[2412.21177v1](http://arxiv.org/abs/2412.21177v1)|null|
+
+### C Code Generation
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-12-30**|**PERSE: Personalized 3D Generative Avatars from A Single Portrait**|Hyunsoo Cha et.al.|[2412.21206v1](http://arxiv.org/abs/2412.21206v1)|null|
+|**2024-12-30**|**Branes Screening Quarks and Defect Operators**|Andreas Karch et.al.|[2412.21204v1](http://arxiv.org/abs/2412.21204v1)|null|
+|**2024-12-30**|**Two-component Dark Matter and low scale Thermal Leptogenesis**|Subhaditya Bhattacharya et.al.|[2412.21202v1](http://arxiv.org/abs/2412.21202v1)|null|
+|**2024-12-30**|**Distributed Mixture-of-Agents for Edge Inference with Large Language Models**|Purbesh Mitra et.al.|[2412.21200v1](http://arxiv.org/abs/2412.21200v1)|[link](https://github.com/purbeshmitra/distributed_moa)|
+|**2024-12-30**|**HumanEval Pro and MBPP Pro: Evaluating Large Language Models on Self-invoking Code Generation**|Zhaojian Yu et.al.|[2412.21199v1](http://arxiv.org/abs/2412.21199v1)|[link](https://github.com/CodeEval-Pro/CodeEval-Pro)|
+|**2024-12-30**|**A Large-Scale Study on Video Action Dataset Condensation**|Yang Chen et.al.|[2412.21197v1](http://arxiv.org/abs/2412.21197v1)|null|
+|**2024-12-30**|**Investigating Temporal and Spatial Variation of Jupiter's Atmosphere with Radio Observations**|Joanna Hardesty et.al.|[2412.21191v1](http://arxiv.org/abs/2412.21191v1)|null|
+|**2024-12-30**|**Sparse chaos in cortical circuits**|Rainer Engelken et.al.|[2412.21188v1](http://arxiv.org/abs/2412.21188v1)|null|
+|**2024-12-30**|**The Gaussian Kicked Rotor: Periodic forcing with finite-width pulses and the role of shifting the kick**|Jonathan Berkheim et.al.|[2412.21186v1](http://arxiv.org/abs/2412.21186v1)|null|
+|**2024-12-30**|**Holographic observers for time-band algebras**|Kristan Jensen et.al.|[2412.21185v1](http://arxiv.org/abs/2412.21185v1)|null|
+|**2024-12-30**|**Abelian varieties genuinely of $\mathrm{GL}_n$-type**|Francesc Fité et.al.|[2412.21183v1](http://arxiv.org/abs/2412.21183v1)|null|
+|**2024-12-30**|**STITCHER: Real-Time Trajectory Planning with Motion Primitive Search**|Helene J. Levy et.al.|[2412.21180v1](http://arxiv.org/abs/2412.21180v1)|null|
+|**2024-12-30**|**Classical $J\bar T$ symmetries -- three ways -- and a precision holography check**|Silvia Georgescu et.al.|[2412.21176v1](http://arxiv.org/abs/2412.21176v1)|null|
+|**2024-12-30**|**Well-posedness of quadratic RBSDEs and BSDEs with one-sided growth restrictions**|Shiqiu Zheng et.al.|[2412.21172v1](http://arxiv.org/abs/2412.21172v1)|null|
+|**2024-12-30**|**Quantum Error Correction near the Coding Theoretical Bound**|Daiki Komoto et.al.|[2412.21171v1](http://arxiv.org/abs/2412.21171v1)|null|
+|**2024-12-30**|**On spectral stability of one- and bi-frequency solitary waves in Soler model in (3+1)D**|Nabile Boussaïd et.al.|[2412.21170v1](http://arxiv.org/abs/2412.21170v1)|null|
+|**2024-12-30**|**Causality and Stability from Acoustic Geometry**|Ignacy Sawicki et.al.|[2412.21169v1](http://arxiv.org/abs/2412.21169v1)|null|
+|**2024-12-30**|**Perfect stationary solutions of reaction-diffusion equations on lattices and regular graphs**|Vladimír Švígler et.al.|[2412.21168v1](http://arxiv.org/abs/2412.21168v1)|null|
+|**2024-12-30**|**Junction conditions for higher order gravity theories from a Gibbons-Hawking-York boundary term**|Marcos A. Ramirez et.al.|[2412.21167v1](http://arxiv.org/abs/2412.21167v1)|null|
+|**2024-12-30**|**Cavity-QED Simulation of a Maser beyond the Mean-Field Approximation**|Xinpeng Shu et.al.|[2412.21166v1](http://arxiv.org/abs/2412.21166v1)|null|
+|**2024-12-30**|**Open-Source 5G Core Platforms: A Low-Cost Solution and Performance Evaluation**|Maria Barbosa et.al.|[2412.21162v1](http://arxiv.org/abs/2412.21162v1)|null|
+|**2024-12-30**|**Open RAN-Enabled Deep Learning-Assisted Mobility Management for Connected Vehicles**|Maria Barbosa et.al.|[2412.21161v1](http://arxiv.org/abs/2412.21161v1)|null|
+|**2024-12-30**|**A Standardized Framework for Sensor Placement in Human Motion Capture and Wearable Applications**|Seyed Yahya Shirazi et.al.|[2412.21159v1](http://arxiv.org/abs/2412.21159v1)|null|
+|**2024-12-30**|**Accidental Peccei-Quinn Symmetry From Gauged U(1) and a High Quality Axion**|K. S. Babu et.al.|[2412.21157v1](http://arxiv.org/abs/2412.21157v1)|null|
+|**2024-12-30**|**Low coordinate degree algorithms II: Categorical signals and generalized stochastic block models**|Dmitriy Kunisky et.al.|[2412.21155v1](http://arxiv.org/abs/2412.21155v1)|null|
+|**2024-12-30**|**Aviary: training language agents on challenging scientific tasks**|Siddharth Narayanan et.al.|[2412.21154v1](http://arxiv.org/abs/2412.21154v1)|null|
+|**2024-12-30**|**PyG-SSL: A Graph Self-Supervised Learning Toolkit**|Lecheng Zheng et.al.|[2412.21151v1](http://arxiv.org/abs/2412.21151v1)|[link](https://github.com/idea-isail-lab-uiuc/pyg-ssl)|
+|**2024-12-30**|**Pressure-tunable structural instabilities in single-layer-trilayer La$_3$Ni$_2$O$_7$**|Alaska Subedi et.al.|[2412.21150v1](http://arxiv.org/abs/2412.21150v1)|null|
+|**2024-12-30**|**Functional Risk Minimization**|Ferran Alet et.al.|[2412.21149v1](http://arxiv.org/abs/2412.21149v1)|null|
+|**2024-12-30**|**Topological dark energy from black-hole formations and mergers through the gravity-thermodynamics approach**|Stylianos A. Tsilioukas et.al.|[2412.21146v1](http://arxiv.org/abs/2412.21146v1)|null|
 
 ## AI
 
