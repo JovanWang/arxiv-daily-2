@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-01-02 10:04:28 Asia/Shanghai
+ Automated deployment @ 2025-01-02 20:14:01 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -8,40 +8,6 @@
 ### Sparse Operator
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-
-### Sparse Data Format
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2024-12-30**|**SoS Certificates for Sparse Singular Values and Their Applications: Robust Statistics, Subspace Distortion, and More**|Ilias Diakonikolas et.al.|[2412.21203v1](http://arxiv.org/abs/2412.21203v1)|null|
-|**2024-12-30**|**Injective norm of random tensors with independent entries**|March T. Boedihardjo et.al.|[2412.21193v1](http://arxiv.org/abs/2412.21193v1)|null|
-|**2024-12-30**|**Cut-Out Wedges in $H_{3}$ and the Borel-Resurgent Chern-Simons Matrix Integrals**|Tuo Jia et.al.|[2412.21190v1](http://arxiv.org/abs/2412.21190v1)|null|
-|**2024-12-30**|**Sparse chaos in cortical circuits**|Rainer Engelken et.al.|[2412.21188v1](http://arxiv.org/abs/2412.21188v1)|null|
-|**2024-12-30**|**Irreducible representations of welded braid group**|Inna Sysoeva et.al.|[2412.21133v1](http://arxiv.org/abs/2412.21133v1)|null|
-|**2024-12-30**|**The multilinear fractional sparse operator theory I: pointwise domination and weighted estimate**|Xi Cen et.al.|[2412.21121v1](http://arxiv.org/abs/2412.21121v1)|null|
-|**2024-12-30**|**Eigenstructure Analysis of Bloch Wave and Multislice Matrix Formulations for Dynamical Scattering in Transmission Electron Microscopy**|Arya Bangun et.al.|[2412.21119v1](http://arxiv.org/abs/2412.21119v1)|null|
-|**2024-12-30**|**Ordinary limits of the hyperbolic hypergeometric integral identities**|Mustafa Mullahasanoglu et.al.|[2412.21108v1](http://arxiv.org/abs/2412.21108v1)|null|
-|**2024-12-30**|**Finite Horizon Optimization: Framework and Applications**|Yushun Zhang et.al.|[2412.21068v1](http://arxiv.org/abs/2412.21068v1)|null|
-|**2024-12-30**|**The surface code under generic $X$-error channels: Statistical mechanics, error thresholds, and errorfield double phenomenology**|Jan Behrends et.al.|[2412.21055v1](http://arxiv.org/abs/2412.21055v1)|null|
-|**2024-12-30**|**Sparse PCA: Phase Transitions in the Critical Sparsity Regime**|Michael J. Feldman et.al.|[2412.21038v1](http://arxiv.org/abs/2412.21038v1)|null|
-|**2024-12-30**|**The Cut Equation**|Nima Arkani-Hamed et.al.|[2412.21027v1](http://arxiv.org/abs/2412.21027v1)|null|
-|**2024-12-30**|**Sparse Array Sensor Selection in ISAC with Identifiability Guarantees**|Robin Rajamäki et.al.|[2412.21002v1](http://arxiv.org/abs/2412.21002v1)|null|
-|**2024-12-30**|**Hierarchical Pose Estimation and Mapping with Multi-Scale Neural Feature Fields**|Evgenii Kruzhkov et.al.|[2412.20976v1](http://arxiv.org/abs/2412.20976v1)|null|
-|**2024-12-30**|**Effects of alternating interactions and boundary conditions on quantum entanglement of three-leg Heisenberg ladder**|Qinghui Li et.al.|[2412.20935v1](http://arxiv.org/abs/2412.20935v1)|null|
-|**2024-12-30**|**Parametrized topological phases in 1d and T-duality**|Roman Geiko et.al.|[2412.20905v1](http://arxiv.org/abs/2412.20905v1)|null|
-|**2024-12-30**|**DoTA: Weight-Decomposed Tensor Adaptation for Large Language Models**|Xiaolin Hu et.al.|[2412.20891v1](http://arxiv.org/abs/2412.20891v1)|null|
-|**2024-12-30**|**A gradient-based and determinant-free framework for fully Bayesian Gaussian process regression**|P. Michael Kielstra et.al.|[2412.20884v1](http://arxiv.org/abs/2412.20884v1)|null|
-|**2024-12-30**|**From sparse to dense functional time series: phase transitions of detecting structural breaks and beyond**|Leheng Cai et.al.|[2412.20858v1](http://arxiv.org/abs/2412.20858v1)|null|
-|**2024-12-30**|**Effective Application of Normalized Min-Sum Decoding for BCH Codes**|Guangwen Li et.al.|[2412.20828v1](http://arxiv.org/abs/2412.20828v1)|null|
-|**2024-12-30**|**Robust Matrix Completion for Discrete Rating-Scale Data**|Aurore Archimbaud et.al.|[2412.20802v1](http://arxiv.org/abs/2412.20802v1)|[link](https://github.com/aalfons/rdmc)|
-|**2024-12-30**|**A Projection Characterization and Symmetry Bootstrap for Elements of a von Neumann Algebra that are Nearby Commuting Elements**|David Herrera et.al.|[2412.20795v1](http://arxiv.org/abs/2412.20795v1)|null|
-|**2024-12-30**|**Sample Correlation for Fingerprinting Deep Face Recognition**|Jiyang Guan et.al.|[2412.20768v1](http://arxiv.org/abs/2412.20768v1)|[link](https://github.com/guanjiyang/sac_jc)|
-|**2024-12-30**|**KeyGS: A Keyframe-Centric Gaussian Splatting Method for Monocular Image Sequences**|Keng-Wei Chang et.al.|[2412.20767v1](http://arxiv.org/abs/2412.20767v1)|null|
-|**2024-12-30**|**Symmetry-enforced minimal entanglement and correlation in quantum spin chains**|Kangle Li et.al.|[2412.20765v1](http://arxiv.org/abs/2412.20765v1)|null|
-|**2024-12-30**|**Response of superfluid fermions at finite temperature**|Sumit Bhattacharjee et.al.|[2412.20751v1](http://arxiv.org/abs/2412.20751v1)|null|
-|**2024-12-30**|**SM3Det: A Unified Model for Multi-Modal Remote Sensing Object Detection**|Yuxuan Li et.al.|[2412.20665v1](http://arxiv.org/abs/2412.20665v1)|[link](https://github.com/zcablii/sm3det)|
-|**2024-12-30**|**On Discrete Curvatures of Trees**|Sawyer Jack Robertson et.al.|[2412.20661v1](http://arxiv.org/abs/2412.20661v1)|null|
-|**2024-12-29**|**Matrix Concentration for Random Signed Graphs and Community Recovery in the Signed Stochastic Block Model**|Sawyer Jack Robertson et.al.|[2412.20620v1](http://arxiv.org/abs/2412.20620v1)|null|
-|**2024-12-29**|**Uncertainty of high-dimensional genetic data prediction with polygenic risk scores**|Haoxuan Fu et.al.|[2412.20611v1](http://arxiv.org/abs/2412.20611v1)|null|
 
 ### Sparse program Compile
 |Publish Date|Title|Authors|PDF|Code|
@@ -76,6 +42,40 @@
 |**2024-12-28**|**BaiJia: A Large Scale Role-Playing Agent Corpus of Chinese Historical Charcaters**|Ting Bai et.al.|[2412.20024v1](http://arxiv.org/abs/2412.20024v1)|null|
 |**2024-12-28**|**Linear Shrinkage Convexification of Penalized Linear Regression With Missing Data**|Seongoh Park et.al.|[2412.19963v1](http://arxiv.org/abs/2412.19963v1)|null|
 |**2024-12-27**|**Chemotaxis and Reactions in Anomalous Diffusion Dynamics**|Crystianne L. De Andrade et.al.|[2412.19940v1](http://arxiv.org/abs/2412.19940v1)|null|
+
+### Sparse Data Format
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2024-12-30**|**SoS Certificates for Sparse Singular Values and Their Applications: Robust Statistics, Subspace Distortion, and More**|Ilias Diakonikolas et.al.|[2412.21203v1](http://arxiv.org/abs/2412.21203v1)|null|
+|**2024-12-30**|**Injective norm of random tensors with independent entries**|March T. Boedihardjo et.al.|[2412.21193v1](http://arxiv.org/abs/2412.21193v1)|null|
+|**2024-12-30**|**Cut-Out Wedges in $H_{3}$ and the Borel-Resurgent Chern-Simons Matrix Integrals**|Tuo Jia et.al.|[2412.21190v1](http://arxiv.org/abs/2412.21190v1)|null|
+|**2024-12-30**|**Sparse chaos in cortical circuits**|Rainer Engelken et.al.|[2412.21188v1](http://arxiv.org/abs/2412.21188v1)|null|
+|**2024-12-30**|**Irreducible representations of welded braid group**|Inna Sysoeva et.al.|[2412.21133v1](http://arxiv.org/abs/2412.21133v1)|null|
+|**2024-12-30**|**The multilinear fractional sparse operator theory I: pointwise domination and weighted estimate**|Xi Cen et.al.|[2412.21121v1](http://arxiv.org/abs/2412.21121v1)|null|
+|**2024-12-30**|**Eigenstructure Analysis of Bloch Wave and Multislice Matrix Formulations for Dynamical Scattering in Transmission Electron Microscopy**|Arya Bangun et.al.|[2412.21119v1](http://arxiv.org/abs/2412.21119v1)|null|
+|**2024-12-30**|**Ordinary limits of the hyperbolic hypergeometric integral identities**|Mustafa Mullahasanoglu et.al.|[2412.21108v1](http://arxiv.org/abs/2412.21108v1)|null|
+|**2024-12-30**|**Finite Horizon Optimization: Framework and Applications**|Yushun Zhang et.al.|[2412.21068v1](http://arxiv.org/abs/2412.21068v1)|null|
+|**2024-12-30**|**The surface code under generic $X$-error channels: Statistical mechanics, error thresholds, and errorfield double phenomenology**|Jan Behrends et.al.|[2412.21055v1](http://arxiv.org/abs/2412.21055v1)|null|
+|**2024-12-30**|**Sparse PCA: Phase Transitions in the Critical Sparsity Regime**|Michael J. Feldman et.al.|[2412.21038v1](http://arxiv.org/abs/2412.21038v1)|null|
+|**2024-12-30**|**The Cut Equation**|Nima Arkani-Hamed et.al.|[2412.21027v1](http://arxiv.org/abs/2412.21027v1)|null|
+|**2024-12-30**|**Sparse Array Sensor Selection in ISAC with Identifiability Guarantees**|Robin Rajamäki et.al.|[2412.21002v1](http://arxiv.org/abs/2412.21002v1)|null|
+|**2024-12-30**|**Hierarchical Pose Estimation and Mapping with Multi-Scale Neural Feature Fields**|Evgenii Kruzhkov et.al.|[2412.20976v1](http://arxiv.org/abs/2412.20976v1)|null|
+|**2024-12-30**|**Effects of alternating interactions and boundary conditions on quantum entanglement of three-leg Heisenberg ladder**|Qinghui Li et.al.|[2412.20935v1](http://arxiv.org/abs/2412.20935v1)|null|
+|**2024-12-30**|**Parametrized topological phases in 1d and T-duality**|Roman Geiko et.al.|[2412.20905v1](http://arxiv.org/abs/2412.20905v1)|null|
+|**2024-12-30**|**DoTA: Weight-Decomposed Tensor Adaptation for Large Language Models**|Xiaolin Hu et.al.|[2412.20891v1](http://arxiv.org/abs/2412.20891v1)|null|
+|**2024-12-30**|**A gradient-based and determinant-free framework for fully Bayesian Gaussian process regression**|P. Michael Kielstra et.al.|[2412.20884v1](http://arxiv.org/abs/2412.20884v1)|null|
+|**2024-12-30**|**From sparse to dense functional time series: phase transitions of detecting structural breaks and beyond**|Leheng Cai et.al.|[2412.20858v1](http://arxiv.org/abs/2412.20858v1)|null|
+|**2024-12-30**|**Effective Application of Normalized Min-Sum Decoding for BCH Codes**|Guangwen Li et.al.|[2412.20828v1](http://arxiv.org/abs/2412.20828v1)|null|
+|**2024-12-30**|**Robust Matrix Completion for Discrete Rating-Scale Data**|Aurore Archimbaud et.al.|[2412.20802v1](http://arxiv.org/abs/2412.20802v1)|[link](https://github.com/aalfons/rdmc)|
+|**2024-12-30**|**A Projection Characterization and Symmetry Bootstrap for Elements of a von Neumann Algebra that are Nearby Commuting Elements**|David Herrera et.al.|[2412.20795v1](http://arxiv.org/abs/2412.20795v1)|null|
+|**2024-12-30**|**Sample Correlation for Fingerprinting Deep Face Recognition**|Jiyang Guan et.al.|[2412.20768v1](http://arxiv.org/abs/2412.20768v1)|[link](https://github.com/guanjiyang/sac_jc)|
+|**2024-12-30**|**KeyGS: A Keyframe-Centric Gaussian Splatting Method for Monocular Image Sequences**|Keng-Wei Chang et.al.|[2412.20767v1](http://arxiv.org/abs/2412.20767v1)|null|
+|**2024-12-30**|**Symmetry-enforced minimal entanglement and correlation in quantum spin chains**|Kangle Li et.al.|[2412.20765v1](http://arxiv.org/abs/2412.20765v1)|null|
+|**2024-12-30**|**Response of superfluid fermions at finite temperature**|Sumit Bhattacharjee et.al.|[2412.20751v1](http://arxiv.org/abs/2412.20751v1)|null|
+|**2024-12-30**|**SM3Det: A Unified Model for Multi-Modal Remote Sensing Object Detection**|Yuxuan Li et.al.|[2412.20665v1](http://arxiv.org/abs/2412.20665v1)|[link](https://github.com/zcablii/sm3det)|
+|**2024-12-30**|**On Discrete Curvatures of Trees**|Sawyer Jack Robertson et.al.|[2412.20661v1](http://arxiv.org/abs/2412.20661v1)|null|
+|**2024-12-29**|**Matrix Concentration for Random Signed Graphs and Community Recovery in the Signed Stochastic Block Model**|Sawyer Jack Robertson et.al.|[2412.20620v1](http://arxiv.org/abs/2412.20620v1)|null|
+|**2024-12-29**|**Uncertainty of high-dimensional genetic data prediction with polygenic risk scores**|Haoxuan Fu et.al.|[2412.20611v1](http://arxiv.org/abs/2412.20611v1)|null|
 
 ## AI
 
