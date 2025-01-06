@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-01-05 21:03:13 Asia/Shanghai
+ Automated deployment @ 2025-01-06 08:40:31 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -79,40 +79,6 @@
 
 ## AI
 
-### LLM Agent
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2025-01-02**|**GPT4Scene: Understand 3D Scenes from Videos with Vision-Language Models**|Zhangyang Qi et.al.|[2501.01428v1](http://arxiv.org/abs/2501.01428v1)|null|
-|**2025-01-02**|**Object-level Visual Prompts for Compositional Image Generation**|Gaurav Parmar et.al.|[2501.01424v1](http://arxiv.org/abs/2501.01424v1)|null|
-|**2025-01-02**|**Multi-Modal Video Feature Extraction for Popularity Prediction**|Haixu Liu et.al.|[2501.01422v1](http://arxiv.org/abs/2501.01422v1)|null|
-|**2025-01-02**|**Nested Attention: Semantic-aware Attention Values for Concept Personalization**|Or Patashnik et.al.|[2501.01407v1](http://arxiv.org/abs/2501.01407v1)|null|
-|**2025-01-02**|**Training Medical Large Vision-Language Models with Abnormal-Aware Feedback**|Yucheng Zhou et.al.|[2501.01377v1](http://arxiv.org/abs/2501.01377v1)|null|
-|**2025-01-02**|**Test-time Controllable Image Generation by Explicit Spatial Constraint Enforcement**|Z. Zhang et.al.|[2501.01368v1](http://arxiv.org/abs/2501.01368v1)|null|
-|**2025-01-02**|**ViGiL3D: A Linguistically Diverse Dataset for 3D Visual Grounding**|Austin T. Wang et.al.|[2501.01366v1](http://arxiv.org/abs/2501.01366v1)|null|
-|**2025-01-02**|**CySecBench: Generative AI-based CyberSecurity-focused Prompt Dataset for Benchmarking Large Language Models**|Johan Wahréus et.al.|[2501.01335v1](http://arxiv.org/abs/2501.01335v1)|null|
-|**2025-01-02**|**Decoding Knowledge in Large Language Models: A Framework for Categorization and Comprehension**|Yanbo Fang et.al.|[2501.01332v1](http://arxiv.org/abs/2501.01332v1)|null|
-|**2025-01-02**|**The Prompt Alchemist: Automated LLM-Tailored Prompt Optimization for Test Case Generation**|Shuzheng Gao et.al.|[2501.01329v1](http://arxiv.org/abs/2501.01329v1)|null|
-|**2025-01-02**|**Large Language Models for Mental Health Diagnostic Assessments: Exploring The Potential of Large Language Models for Assisting with Mental Health Diagnostic Assessments -- The Depression and Anxiety Case**|Kaushik Roy et.al.|[2501.01305v1](http://arxiv.org/abs/2501.01305v1)|null|
-|**2025-01-02**|**ToolComp: A Multi-Tool Reasoning & Process Supervision Benchmark**|Vaskar Nath et.al.|[2501.01290v1](http://arxiv.org/abs/2501.01290v1)|null|
-|**2025-01-02**|**Digital Guardians: Can GPT-4, Perspective API, and Moderation API reliably detect hate speech in reader comments of German online newspapers?**|Manuel Weber et.al.|[2501.01256v1](http://arxiv.org/abs/2501.01256v1)|null|
-|**2025-01-02**|**Momentum tunnelling between nanoscale liquid flows**|Baptiste Coquinot et.al.|[2501.01253v1](http://arxiv.org/abs/2501.01253v1)|null|
-|**2025-01-02**|**Face-Human-Bench: A Comprehensive Benchmark of Face and Human Understanding for Multi-modal Assistants**|Lixiong Qin et.al.|[2501.01243v1](http://arxiv.org/abs/2501.01243v1)|null|
-|**2025-01-02**|**Automated Self-Refinement and Self-Correction for LLM-based Product Attribute Value Extraction**|Alexander Brinkmann et.al.|[2501.01237v1](http://arxiv.org/abs/2501.01237v1)|null|
-|**2025-01-02**|**Harnessing Multi-Agent LLMs for Complex Engineering Problem-Solving: A Framework for Senior Design Projects**|Abdullah Mushtaq et.al.|[2501.01205v1](http://arxiv.org/abs/2501.01205v1)|null|
-|**2025-01-02**|**3D-LLaVA: Towards Generalist 3D LMMs with Omni Superpoint Transformer**|Jiajun Deng et.al.|[2501.01163v1](http://arxiv.org/abs/2501.01163v1)|null|
-|**2025-01-02**|**Retrieval-Augmented Dynamic Prompt Tuning for Incomplete Multimodal Learning**|Jian Lang et.al.|[2501.01120v1](http://arxiv.org/abs/2501.01120v1)|null|
-|**2025-01-02**|**EliGen: Entity-Level Controlled Image Generation with Regional Attention**|Hong Zhang et.al.|[2501.01097v1](http://arxiv.org/abs/2501.01097v1)|null|
-|**2025-01-02**|**Evidential Calibrated Uncertainty-Guided Interactive Segmentation paradigm for Ultrasound Images**|Jiang Shang et.al.|[2501.01072v1](http://arxiv.org/abs/2501.01072v1)|null|
-|**2025-01-01**|**Investigating the interplay between initial hard processes and final-state effects measuring prompt and non-prompt $J/ψ$**|Maurice Coquet et.al.|[2501.00978v1](http://arxiv.org/abs/2501.00978v1)|null|
-|**2025-01-01**|**SPADE: Enhancing Adaptive Cyber Deception Strategies with Generative AI and Structured Prompt Engineering**|Shihab Ahmed et.al.|[2501.00940v1](http://arxiv.org/abs/2501.00940v1)|null|
-|**2025-01-01**|**Hierarchical Vision-Language Alignment for Text-to-Image Generation via Diffusion Models**|Emily Johnson et.al.|[2501.00917v1](http://arxiv.org/abs/2501.00917v1)|null|
-|**2025-01-01**|**Alzheimer's disease detection based on large language model prompt engineering**|Tian Zheng et.al.|[2501.00861v1](http://arxiv.org/abs/2501.00861v1)|null|
-|**2025-01-01**|**Navigating Nuance: In Quest for Political Truth**|Soumyadeep Sar et.al.|[2501.00782v1](http://arxiv.org/abs/2501.00782v1)|null|
-|**2025-01-01**|**REM: A Scalable Reinforced Multi-Expert Framework for Multiplex Influence Maximization**|Huyen Nguyen et.al.|[2501.00779v1](http://arxiv.org/abs/2501.00779v1)|null|
-|**2025-01-01**|**FitCF: A Framework for Automatic Feature Importance-guided Counterfactual Example Generation**|Qianli Wang et.al.|[2501.00777v1](http://arxiv.org/abs/2501.00777v1)|null|
-|**2025-01-01**|**Foreground-Covering Prototype Generation and Matching for SAM-Aided Few-Shot Segmentation**|Suho Park et.al.|[2501.00752v1](http://arxiv.org/abs/2501.00752v1)|null|
-|**2025-01-01**|**Beyond Text: Implementing Multimodal Large Language Model-Powered Multi-Agent Systems Using a No-Code Platform**|Cheonsu Jeong et.al.|[2501.00750v1](http://arxiv.org/abs/2501.00750v1)|null|
-
 ### LLM Theory
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -146,6 +112,40 @@
 |**2025-01-02**|**TabTreeFormer: Tree Augmented Tabular Data Generation using Transformers**|Jiayu Li et.al.|[2501.01216v1](http://arxiv.org/abs/2501.01216v1)|null|
 |**2025-01-02**|**D-HAT: a Diatom-inspired structure for a Helmet concept Against Trauma**|Ludovico Musenich et.al.|[2501.01211v1](http://arxiv.org/abs/2501.01211v1)|null|
 |**2025-01-02**|**A redescription mining framework for post-hoc explaining and relating deep learning models**|Matej Mihelčić et.al.|[2501.01209v1](http://arxiv.org/abs/2501.01209v1)|null|
+
+### LLM Agent
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2025-01-02**|**GPT4Scene: Understand 3D Scenes from Videos with Vision-Language Models**|Zhangyang Qi et.al.|[2501.01428v1](http://arxiv.org/abs/2501.01428v1)|null|
+|**2025-01-02**|**Object-level Visual Prompts for Compositional Image Generation**|Gaurav Parmar et.al.|[2501.01424v1](http://arxiv.org/abs/2501.01424v1)|null|
+|**2025-01-02**|**Multi-Modal Video Feature Extraction for Popularity Prediction**|Haixu Liu et.al.|[2501.01422v1](http://arxiv.org/abs/2501.01422v1)|null|
+|**2025-01-02**|**Nested Attention: Semantic-aware Attention Values for Concept Personalization**|Or Patashnik et.al.|[2501.01407v1](http://arxiv.org/abs/2501.01407v1)|null|
+|**2025-01-02**|**Training Medical Large Vision-Language Models with Abnormal-Aware Feedback**|Yucheng Zhou et.al.|[2501.01377v1](http://arxiv.org/abs/2501.01377v1)|null|
+|**2025-01-02**|**Test-time Controllable Image Generation by Explicit Spatial Constraint Enforcement**|Z. Zhang et.al.|[2501.01368v1](http://arxiv.org/abs/2501.01368v1)|null|
+|**2025-01-02**|**ViGiL3D: A Linguistically Diverse Dataset for 3D Visual Grounding**|Austin T. Wang et.al.|[2501.01366v1](http://arxiv.org/abs/2501.01366v1)|null|
+|**2025-01-02**|**CySecBench: Generative AI-based CyberSecurity-focused Prompt Dataset for Benchmarking Large Language Models**|Johan Wahréus et.al.|[2501.01335v1](http://arxiv.org/abs/2501.01335v1)|null|
+|**2025-01-02**|**Decoding Knowledge in Large Language Models: A Framework for Categorization and Comprehension**|Yanbo Fang et.al.|[2501.01332v1](http://arxiv.org/abs/2501.01332v1)|null|
+|**2025-01-02**|**The Prompt Alchemist: Automated LLM-Tailored Prompt Optimization for Test Case Generation**|Shuzheng Gao et.al.|[2501.01329v1](http://arxiv.org/abs/2501.01329v1)|null|
+|**2025-01-02**|**Large Language Models for Mental Health Diagnostic Assessments: Exploring The Potential of Large Language Models for Assisting with Mental Health Diagnostic Assessments -- The Depression and Anxiety Case**|Kaushik Roy et.al.|[2501.01305v1](http://arxiv.org/abs/2501.01305v1)|null|
+|**2025-01-02**|**ToolComp: A Multi-Tool Reasoning & Process Supervision Benchmark**|Vaskar Nath et.al.|[2501.01290v1](http://arxiv.org/abs/2501.01290v1)|null|
+|**2025-01-02**|**Digital Guardians: Can GPT-4, Perspective API, and Moderation API reliably detect hate speech in reader comments of German online newspapers?**|Manuel Weber et.al.|[2501.01256v1](http://arxiv.org/abs/2501.01256v1)|null|
+|**2025-01-02**|**Momentum tunnelling between nanoscale liquid flows**|Baptiste Coquinot et.al.|[2501.01253v1](http://arxiv.org/abs/2501.01253v1)|null|
+|**2025-01-02**|**Face-Human-Bench: A Comprehensive Benchmark of Face and Human Understanding for Multi-modal Assistants**|Lixiong Qin et.al.|[2501.01243v1](http://arxiv.org/abs/2501.01243v1)|null|
+|**2025-01-02**|**Automated Self-Refinement and Self-Correction for LLM-based Product Attribute Value Extraction**|Alexander Brinkmann et.al.|[2501.01237v1](http://arxiv.org/abs/2501.01237v1)|null|
+|**2025-01-02**|**Harnessing Multi-Agent LLMs for Complex Engineering Problem-Solving: A Framework for Senior Design Projects**|Abdullah Mushtaq et.al.|[2501.01205v1](http://arxiv.org/abs/2501.01205v1)|null|
+|**2025-01-02**|**3D-LLaVA: Towards Generalist 3D LMMs with Omni Superpoint Transformer**|Jiajun Deng et.al.|[2501.01163v1](http://arxiv.org/abs/2501.01163v1)|null|
+|**2025-01-02**|**Retrieval-Augmented Dynamic Prompt Tuning for Incomplete Multimodal Learning**|Jian Lang et.al.|[2501.01120v1](http://arxiv.org/abs/2501.01120v1)|null|
+|**2025-01-02**|**EliGen: Entity-Level Controlled Image Generation with Regional Attention**|Hong Zhang et.al.|[2501.01097v1](http://arxiv.org/abs/2501.01097v1)|null|
+|**2025-01-02**|**Evidential Calibrated Uncertainty-Guided Interactive Segmentation paradigm for Ultrasound Images**|Jiang Shang et.al.|[2501.01072v1](http://arxiv.org/abs/2501.01072v1)|null|
+|**2025-01-01**|**Investigating the interplay between initial hard processes and final-state effects measuring prompt and non-prompt $J/ψ$**|Maurice Coquet et.al.|[2501.00978v1](http://arxiv.org/abs/2501.00978v1)|null|
+|**2025-01-01**|**SPADE: Enhancing Adaptive Cyber Deception Strategies with Generative AI and Structured Prompt Engineering**|Shihab Ahmed et.al.|[2501.00940v1](http://arxiv.org/abs/2501.00940v1)|null|
+|**2025-01-01**|**Hierarchical Vision-Language Alignment for Text-to-Image Generation via Diffusion Models**|Emily Johnson et.al.|[2501.00917v1](http://arxiv.org/abs/2501.00917v1)|null|
+|**2025-01-01**|**Alzheimer's disease detection based on large language model prompt engineering**|Tian Zheng et.al.|[2501.00861v1](http://arxiv.org/abs/2501.00861v1)|null|
+|**2025-01-01**|**Navigating Nuance: In Quest for Political Truth**|Soumyadeep Sar et.al.|[2501.00782v1](http://arxiv.org/abs/2501.00782v1)|null|
+|**2025-01-01**|**REM: A Scalable Reinforced Multi-Expert Framework for Multiplex Influence Maximization**|Huyen Nguyen et.al.|[2501.00779v1](http://arxiv.org/abs/2501.00779v1)|null|
+|**2025-01-01**|**FitCF: A Framework for Automatic Feature Importance-guided Counterfactual Example Generation**|Qianli Wang et.al.|[2501.00777v1](http://arxiv.org/abs/2501.00777v1)|null|
+|**2025-01-01**|**Foreground-Covering Prototype Generation and Matching for SAM-Aided Few-Shot Segmentation**|Suho Park et.al.|[2501.00752v1](http://arxiv.org/abs/2501.00752v1)|null|
+|**2025-01-01**|**Beyond Text: Implementing Multimodal Large Language Model-Powered Multi-Agent Systems Using a No-Code Platform**|Cheonsu Jeong et.al.|[2501.00750v1](http://arxiv.org/abs/2501.00750v1)|null|
 
 ## Code Compile
 
@@ -182,6 +182,40 @@
 |**2025-01-02**|**Global Lipschitz and Sobolev estimates for the Monge-Ampère eigenfunctions of general bounded convex domains**|Nam Q. Le et.al.|[2501.01358v1](http://arxiv.org/abs/2501.01358v1)|null|
 |**2025-01-02**|**Rethinking Relation Extraction: Beyond Shortcuts to Generalization with a Debiased Benchmark**|Liang He et.al.|[2501.01349v1](http://arxiv.org/abs/2501.01349v1)|null|
 |**2025-01-02**|**AdaptVC: High Quality Voice Conversion with Adaptive Learning**|Jaehun Kim et.al.|[2501.01347v1](http://arxiv.org/abs/2501.01347v1)|null|
+
+### C Code Migration
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2025-01-02**|**GPT4Scene: Understand 3D Scenes from Videos with Vision-Language Models**|Zhangyang Qi et.al.|[2501.01428v1](http://arxiv.org/abs/2501.01428v1)|null|
+|**2025-01-02**|**VideoAnydoor: High-fidelity Video Object Insertion with Precise Motion Control**|Yuanpeng Tu et.al.|[2501.01427v1](http://arxiv.org/abs/2501.01427v1)|null|
+|**2025-01-02**|**Free-Form Motion Control: A Synthetic Video Generation Dataset with Controllable Camera and Object Motions**|Xincheng Shuai et.al.|[2501.01425v1](http://arxiv.org/abs/2501.01425v1)|null|
+|**2025-01-02**|**Unifying Specialized Visual Encoders for Video Language Models**|Jihoon Chung et.al.|[2501.01426v1](http://arxiv.org/abs/2501.01426v1)|null|
+|**2025-01-02**|**Object-level Visual Prompts for Compositional Image Generation**|Gaurav Parmar et.al.|[2501.01424v1](http://arxiv.org/abs/2501.01424v1)|null|
+|**2025-01-02**|**Reconstruction vs. Generation: Taming Optimization Dilemma in Latent Diffusion Models**|Jingfeng Yao et.al.|[2501.01423v1](http://arxiv.org/abs/2501.01423v1)|[link](https://github.com/hustvl/LightningDiT)|
+|**2025-01-02**|**Multi-Modal Video Feature Extraction for Popularity Prediction**|Haixu Liu et.al.|[2501.01422v1](http://arxiv.org/abs/2501.01422v1)|null|
+|**2025-01-02**|**R-SCoRe: Revisiting Scene Coordinate Regression for Robust Large-Scale Visual Localization**|Xudong Jiang et.al.|[2501.01421v1](http://arxiv.org/abs/2501.01421v1)|null|
+|**2025-01-02**|**A Multi-task Supervised Compression Model for Split Computing**|Yoshitomo Matsubara et.al.|[2501.01420v1](http://arxiv.org/abs/2501.01420v1)|null|
+|**2025-01-02**|**Riemann-Hilbert problems, Fredholm determinants, explicit combinatorial expansions, and connection formulas for the general $q$-Painlevé III$_3$ tau functions**|Pavlo Gavrylenko et.al.|[2501.01419v1](http://arxiv.org/abs/2501.01419v1)|null|
+|**2025-01-02**|**The Pseudospectrum of Random Compressions of Matrices**|Rikhav Shah et.al.|[2501.01418v1](http://arxiv.org/abs/2501.01418v1)|null|
+|**2025-01-02**|**The Bayesian Global Sky Model (B-GSM): Validation of a Data Driven Bayesian Simultaneous Component Separation and Calibration Algorithm for EoR Foreground Modelling**|George Carter et.al.|[2501.01417v1](http://arxiv.org/abs/2501.01417v1)|null|
+|**2025-01-02**|**Hierarchical Alignment-enhanced Adaptive Grounding Network for Generalized Referring Expression Comprehension**|Yaxian Wang et.al.|[2501.01416v1](http://arxiv.org/abs/2501.01416v1)|null|
+|**2025-01-02**|**Casimir Effect in Stochastic Semi-Classical Gravity**|M. Hossein. B. Khoshnevis et.al.|[2501.01415v1](http://arxiv.org/abs/2501.01415v1)|null|
+|**2025-01-02**|**Deep Discrete Encoders: Identifiable Deep Generative Models for Rich Data with Discrete Latent Layers**|Seunghyun Lee et.al.|[2501.01414v1](http://arxiv.org/abs/2501.01414v1)|null|
+|**2025-01-02**|**Post-adiabatic waveform-generation framework for asymmetric precessing binaries**|Josh Mathews et.al.|[2501.01413v1](http://arxiv.org/abs/2501.01413v1)|null|
+|**2025-01-02**|**Polynomial Time Quantum Gibbs Sampling for Fermi-Hubbard Model at any Temperature**|Štěpán Šmíd et.al.|[2501.01412v1](http://arxiv.org/abs/2501.01412v1)|[link](https://github.com/Quantum-AI-Lab-ICL/Quantum-Gibbs-Sampling)|
+|**2025-01-02**|**Maximally Extendable Product Codes are Good Coboundary Expanders**|Gleb Kalachev et.al.|[2501.01411v1](http://arxiv.org/abs/2501.01411v1)|null|
+|**2025-01-02**|**Strain-Induced Activation of Symmetry-Forbidden Exciton-Phonon Couplings for Enhanced Phonon-Assisted Photoluminescence in MoS$_2$ Monolayers**|Rishabh Saraswat et.al.|[2501.01410v1](http://arxiv.org/abs/2501.01410v1)|null|
+|**2025-01-02**|**On Unifying Video Generation and Camera Pose Estimation**|Chun-Hao Paul Huang et.al.|[2501.01409v1](http://arxiv.org/abs/2501.01409v1)|null|
+|**2025-01-02**|**Quantum periods, toric degenerations and intrinsic mirror symmetry**|Sam Johnston et.al.|[2501.01408v1](http://arxiv.org/abs/2501.01408v1)|null|
+|**2025-01-02**|**Nested Attention: Semantic-aware Attention Values for Concept Personalization**|Or Patashnik et.al.|[2501.01407v1](http://arxiv.org/abs/2501.01407v1)|null|
+|**2025-01-02**|**nnY-Net: Swin-NeXt with Cross-Attention for 3D Medical Images Segmentation**|Haixu Liu et.al.|[2501.01406v1](http://arxiv.org/abs/2501.01406v1)|null|
+|**2025-01-02**|**Foulis m-semilattices and their modules**|Michal Botur et.al.|[2501.01405v1](http://arxiv.org/abs/2501.01405v1)|null|
+|**2025-01-02**|**StereoMath: An Accessible and Musical Equation Editor**|Kenneth Ge et.al.|[2501.01404v1](http://arxiv.org/abs/2501.01404v1)|null|
+|**2025-01-02**|**Central simple algebras, Milnor $K$-theory and homogeneous spaces over complete discretely valued fields of dimension 2**|Philippe Gille et.al.|[2501.01403v1](http://arxiv.org/abs/2501.01403v1)|null|
+|**2025-01-02**|**Best Transition Matrix Esitimation or Best Label Noise Robustness Classifier? Two Possible Methods to Enhance the Performance of T-revision**|Haixu Liu et.al.|[2501.01402v1](http://arxiv.org/abs/2501.01402v1)|null|
+|**2025-01-02**|**VoiceVector: Multimodal Enrolment Vectors for Speaker Separation**|Akam Rahimi et.al.|[2501.01401v1](http://arxiv.org/abs/2501.01401v1)|null|
+|**2025-01-02**|**Sample shape dependence of magnetic noise**|Steven T. Bramwell et.al.|[2501.01400v1](http://arxiv.org/abs/2501.01400v1)|null|
+|**2025-01-02**|**Three-dimensional quantum anomalous Hall effect in Weyl semimetals**|Zhi-Qiang Zhang et.al.|[2501.01399v1](http://arxiv.org/abs/2501.01399v1)|null|
 
 ## Large-Language Model
 
