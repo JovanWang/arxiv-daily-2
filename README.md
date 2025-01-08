@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-01-07 21:14:11 Asia/Shanghai
+ Automated deployment @ 2025-01-08 08:38:19 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -79,40 +79,6 @@
 
 ## AI
 
-### LLM Theory
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2025-01-06**|**RW-Net: Enhancing Few-Shot Point Cloud Classification with a Wavelet Transform Projection-based Network**|Haosheng Zhang et.al.|[2501.03221v1](http://arxiv.org/abs/2501.03221v1)|null|
-|**2025-01-06**|**Dispider: Enabling Video LLMs with Active Real-Time Interaction via Disentangled Perception, Decision, and Reaction**|Rui Qian et.al.|[2501.03218v1](http://arxiv.org/abs/2501.03218v1)|[link](https://github.com/mark12ding/dispider)|
-|**2025-01-06**|**Simulation of entanglement based quantum networks for performance characterization**|David Pérez Castro et.al.|[2501.03210v1](http://arxiv.org/abs/2501.03210v1)|null|
-|**2025-01-06**|**Scalable Forward-Forward Algorithm**|Andrii Krutsylo et.al.|[2501.03176v1](http://arxiv.org/abs/2501.03176v1)|null|
-|**2025-01-06**|**GLiREL -- Generalist Model for Zero-Shot Relation Extraction**|Jack Boylan et.al.|[2501.03172v1](http://arxiv.org/abs/2501.03172v1)|null|
-|**2025-01-06**|**Distributed and heterogeneous tensor-vector contraction algorithms for high performance computing**|Pedro J. Martinez-Ferrer et.al.|[2501.03121v1](http://arxiv.org/abs/2501.03121v1)|null|
-|**2025-01-06**|**MVP: Multimodal Emotion Recognition based on Video and Physiological Signals**|Valeriya Strizhkova et.al.|[2501.03103v1](http://arxiv.org/abs/2501.03103v1)|null|
-|**2025-01-06**|**Analysis of mean-field models arising from self-attention dynamics in transformer architectures with layer normalization**|Martin Burger et.al.|[2501.03096v1](http://arxiv.org/abs/2501.03096v1)|null|
-|**2025-01-06**|**A Novel Structure-Agnostic Multi-Objective Approach for Weight-Sharing Compression in Deep Neural Networks**|Rasa Khosrowshahli et.al.|[2501.03095v1](http://arxiv.org/abs/2501.03095v1)|null|
-|**2025-01-06**|**The coronal power spectrum from MHD mode conversion above sunspots**|Hemanthi Miriyala et.al.|[2501.03094v1](http://arxiv.org/abs/2501.03094v1)|null|
-|**2025-01-06**|**Qinco2: Vector Compression and Search with Improved Implicit Neural Codebooks**|Théophane Vallaeys et.al.|[2501.03078v1](http://arxiv.org/abs/2501.03078v1)|[link](https://github.com/facebookresearch/qinco)|
-|**2025-01-06**|**The Eigenstate Thermalization Hypothesis in a Quantum Point Contact Geometry**|G. C. Levine et.al.|[2501.03076v1](http://arxiv.org/abs/2501.03076v1)|null|
-|**2025-01-06**|**RIS-Driven Resource Allocation Strategies for Diverse Network Environments: A Comprehensive Review**|Manzoor Ahmed et.al.|[2501.03075v1](http://arxiv.org/abs/2501.03075v1)|null|
-|**2025-01-06**|**Slim multi-scale convolutional autoencoder-based reduced-order models for interpretable features of a complex dynamical system**|Philipp Teutsch et.al.|[2501.03070v1](http://arxiv.org/abs/2501.03070v1)|null|
-|**2025-01-06**|**Design and implementation of tools to build an ontology of Security Requirements for Internet of Medical Things**|Daniel Naro et.al.|[2501.03067v1](http://arxiv.org/abs/2501.03067v1)|null|
-|**2025-01-06**|**Operating semiconductor qubits without individual barrier gates**|A. S. Ivlev et.al.|[2501.03033v1](http://arxiv.org/abs/2501.03033v1)|null|
-|**2025-01-06**|**Convexity in ReLU Neural Networks: beyond ICNNs?**|Anne Gagneux et.al.|[2501.03017v1](http://arxiv.org/abs/2501.03017v1)|null|
-|**2025-01-06**|**A lightweight analysis farm for fundamental physics experiments**|Sebastian Brommer et.al.|[2501.03007v1](http://arxiv.org/abs/2501.03007v1)|null|
-|**2025-01-06**|**TransPixar: Advancing Text-to-Video Generation with Transparency**|Luozhou Wang et.al.|[2501.03006v1](http://arxiv.org/abs/2501.03006v1)|null|
-|**2025-01-06**|**NeuroPMD: Neural Fields for Density Estimation on Product Manifolds**|William Consagra et.al.|[2501.02994v1](http://arxiv.org/abs/2501.02994v1)|null|
-|**2025-01-06**|**CONTINUUM: Detecting APT Attacks through Spatial-Temporal Graph Neural Networks**|Atmane Ayoub Mansour Bahara et.al.|[2501.02981v1](http://arxiv.org/abs/2501.02981v1)|null|
-|**2025-01-06**|**CAMP: Collaborative Attention Model with Profiles for Vehicle Routing Problems**|Chuanbo Hua et.al.|[2501.02977v1](http://arxiv.org/abs/2501.02977v1)|null|
-|**2025-01-06**|**Socratic Questioning: Learn to Self-guide Multimodal Reasoning in the Wild**|Wanpeng Hu et.al.|[2501.02964v1](http://arxiv.org/abs/2501.02964v1)|[link](https://github.com/aibee00/socraticquestioning)|
-|**2025-01-06**|**MotionBench: Benchmarking and Improving Fine-grained Video Motion Understanding for Vision Language Models**|Wenyi Hong et.al.|[2501.02955v1](http://arxiv.org/abs/2501.02955v1)|null|
-|**2025-01-06**|**Online Collaborative Resource Allocation and Task Offloading for Multi-access Edge Computing**|Geng Sun et.al.|[2501.02952v1](http://arxiv.org/abs/2501.02952v1)|null|
-|**2025-01-06**|**MSA-CNN: A Lightweight Multi-Scale CNN with Attention for Sleep Stage Classification**|Stephan Goerttler et.al.|[2501.02949v1](http://arxiv.org/abs/2501.02949v1)|[link](https://github.com/sgoerttler/msa-cnn)|
-|**2025-01-06**|**Self-Attention as a Parametric Endofunctor: A Categorical Framework for Transformer Architectures**|Charles O'Neill et.al.|[2501.02931v1](http://arxiv.org/abs/2501.02931v1)|null|
-|**2025-01-06**|**Deep Generative Model-Aided Power System Dynamic State Estimation and Reconstruction with Unknown Control Inputs or Data Distributions**|Jianhua Pei et.al.|[2501.02928v1](http://arxiv.org/abs/2501.02928v1)|null|
-|**2025-01-06**|**FoundPAD: Foundation Models Reloaded for Face Presentation Attack Detection**|Guray Ozgur et.al.|[2501.02892v1](http://arxiv.org/abs/2501.02892v1)|null|
-|**2025-01-06**|**PARF-Net: integrating pixel-wise adaptive receptive fields into hybrid Transformer-CNN network for medical image segmentation**|Xu Ma et.al.|[2501.02882v1](http://arxiv.org/abs/2501.02882v1)|null|
-
 ### LLM Agent
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -146,6 +112,40 @@
 |**2025-01-04**|**Generalizable Origin Identification for Text-Guided Image-to-Image Diffusion Models**|Wenhao Wang et.al.|[2501.02376v1](http://arxiv.org/abs/2501.02376v1)|null|
 |**2025-01-04**|**Enhancing Workplace Productivity and Well-being Using AI Agent**|Ravirajan K et.al.|[2501.02368v1](http://arxiv.org/abs/2501.02368v1)|null|
 |**2025-01-04**|**Explicit vs. Implicit: Investigating Social Bias in Large Language Models through Self-Reflection**|Yachao Zhao et.al.|[2501.02295v1](http://arxiv.org/abs/2501.02295v1)|null|
+
+### LLM Theory
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2025-01-06**|**RW-Net: Enhancing Few-Shot Point Cloud Classification with a Wavelet Transform Projection-based Network**|Haosheng Zhang et.al.|[2501.03221v1](http://arxiv.org/abs/2501.03221v1)|null|
+|**2025-01-06**|**Dispider: Enabling Video LLMs with Active Real-Time Interaction via Disentangled Perception, Decision, and Reaction**|Rui Qian et.al.|[2501.03218v1](http://arxiv.org/abs/2501.03218v1)|[link](https://github.com/mark12ding/dispider)|
+|**2025-01-06**|**Simulation of entanglement based quantum networks for performance characterization**|David Pérez Castro et.al.|[2501.03210v1](http://arxiv.org/abs/2501.03210v1)|null|
+|**2025-01-06**|**Scalable Forward-Forward Algorithm**|Andrii Krutsylo et.al.|[2501.03176v1](http://arxiv.org/abs/2501.03176v1)|null|
+|**2025-01-06**|**GLiREL -- Generalist Model for Zero-Shot Relation Extraction**|Jack Boylan et.al.|[2501.03172v1](http://arxiv.org/abs/2501.03172v1)|null|
+|**2025-01-06**|**Distributed and heterogeneous tensor-vector contraction algorithms for high performance computing**|Pedro J. Martinez-Ferrer et.al.|[2501.03121v1](http://arxiv.org/abs/2501.03121v1)|null|
+|**2025-01-06**|**MVP: Multimodal Emotion Recognition based on Video and Physiological Signals**|Valeriya Strizhkova et.al.|[2501.03103v1](http://arxiv.org/abs/2501.03103v1)|null|
+|**2025-01-06**|**Analysis of mean-field models arising from self-attention dynamics in transformer architectures with layer normalization**|Martin Burger et.al.|[2501.03096v1](http://arxiv.org/abs/2501.03096v1)|null|
+|**2025-01-06**|**A Novel Structure-Agnostic Multi-Objective Approach for Weight-Sharing Compression in Deep Neural Networks**|Rasa Khosrowshahli et.al.|[2501.03095v1](http://arxiv.org/abs/2501.03095v1)|null|
+|**2025-01-06**|**The coronal power spectrum from MHD mode conversion above sunspots**|Hemanthi Miriyala et.al.|[2501.03094v1](http://arxiv.org/abs/2501.03094v1)|null|
+|**2025-01-06**|**Qinco2: Vector Compression and Search with Improved Implicit Neural Codebooks**|Théophane Vallaeys et.al.|[2501.03078v1](http://arxiv.org/abs/2501.03078v1)|[link](https://github.com/facebookresearch/qinco)|
+|**2025-01-06**|**The Eigenstate Thermalization Hypothesis in a Quantum Point Contact Geometry**|G. C. Levine et.al.|[2501.03076v1](http://arxiv.org/abs/2501.03076v1)|null|
+|**2025-01-06**|**RIS-Driven Resource Allocation Strategies for Diverse Network Environments: A Comprehensive Review**|Manzoor Ahmed et.al.|[2501.03075v1](http://arxiv.org/abs/2501.03075v1)|null|
+|**2025-01-06**|**Slim multi-scale convolutional autoencoder-based reduced-order models for interpretable features of a complex dynamical system**|Philipp Teutsch et.al.|[2501.03070v1](http://arxiv.org/abs/2501.03070v1)|null|
+|**2025-01-06**|**Design and implementation of tools to build an ontology of Security Requirements for Internet of Medical Things**|Daniel Naro et.al.|[2501.03067v1](http://arxiv.org/abs/2501.03067v1)|null|
+|**2025-01-06**|**Operating semiconductor qubits without individual barrier gates**|A. S. Ivlev et.al.|[2501.03033v1](http://arxiv.org/abs/2501.03033v1)|null|
+|**2025-01-06**|**Convexity in ReLU Neural Networks: beyond ICNNs?**|Anne Gagneux et.al.|[2501.03017v1](http://arxiv.org/abs/2501.03017v1)|null|
+|**2025-01-06**|**A lightweight analysis farm for fundamental physics experiments**|Sebastian Brommer et.al.|[2501.03007v1](http://arxiv.org/abs/2501.03007v1)|null|
+|**2025-01-06**|**TransPixar: Advancing Text-to-Video Generation with Transparency**|Luozhou Wang et.al.|[2501.03006v1](http://arxiv.org/abs/2501.03006v1)|null|
+|**2025-01-06**|**NeuroPMD: Neural Fields for Density Estimation on Product Manifolds**|William Consagra et.al.|[2501.02994v1](http://arxiv.org/abs/2501.02994v1)|null|
+|**2025-01-06**|**CONTINUUM: Detecting APT Attacks through Spatial-Temporal Graph Neural Networks**|Atmane Ayoub Mansour Bahara et.al.|[2501.02981v1](http://arxiv.org/abs/2501.02981v1)|null|
+|**2025-01-06**|**CAMP: Collaborative Attention Model with Profiles for Vehicle Routing Problems**|Chuanbo Hua et.al.|[2501.02977v1](http://arxiv.org/abs/2501.02977v1)|null|
+|**2025-01-06**|**Socratic Questioning: Learn to Self-guide Multimodal Reasoning in the Wild**|Wanpeng Hu et.al.|[2501.02964v1](http://arxiv.org/abs/2501.02964v1)|[link](https://github.com/aibee00/socraticquestioning)|
+|**2025-01-06**|**MotionBench: Benchmarking and Improving Fine-grained Video Motion Understanding for Vision Language Models**|Wenyi Hong et.al.|[2501.02955v1](http://arxiv.org/abs/2501.02955v1)|null|
+|**2025-01-06**|**Online Collaborative Resource Allocation and Task Offloading for Multi-access Edge Computing**|Geng Sun et.al.|[2501.02952v1](http://arxiv.org/abs/2501.02952v1)|null|
+|**2025-01-06**|**MSA-CNN: A Lightweight Multi-Scale CNN with Attention for Sleep Stage Classification**|Stephan Goerttler et.al.|[2501.02949v1](http://arxiv.org/abs/2501.02949v1)|[link](https://github.com/sgoerttler/msa-cnn)|
+|**2025-01-06**|**Self-Attention as a Parametric Endofunctor: A Categorical Framework for Transformer Architectures**|Charles O'Neill et.al.|[2501.02931v1](http://arxiv.org/abs/2501.02931v1)|null|
+|**2025-01-06**|**Deep Generative Model-Aided Power System Dynamic State Estimation and Reconstruction with Unknown Control Inputs or Data Distributions**|Jianhua Pei et.al.|[2501.02928v1](http://arxiv.org/abs/2501.02928v1)|null|
+|**2025-01-06**|**FoundPAD: Foundation Models Reloaded for Face Presentation Attack Detection**|Guray Ozgur et.al.|[2501.02892v1](http://arxiv.org/abs/2501.02892v1)|null|
+|**2025-01-06**|**PARF-Net: integrating pixel-wise adaptive receptive fields into hybrid Transformer-CNN network for medical image segmentation**|Xu Ma et.al.|[2501.02882v1](http://arxiv.org/abs/2501.02882v1)|null|
 
 ## Code Compile
 
