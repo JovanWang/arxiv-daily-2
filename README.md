@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-01-08 21:14:02 Asia/Shanghai
+ Automated deployment @ 2025-01-09 08:38:15 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -22,7 +22,7 @@
 |**2025-01-07**|**Benchmarking seismic phase associators: Insights from synthetic scenarios**|Jorge Puente et.al.|[2501.03621v1](http://arxiv.org/abs/2501.03621v1)|null|
 |**2025-01-07**|**Is excess smoothing of Planck CMB ansiotropy data partially responsible for evidence for dark energy dynamics in other $w(z)$CDM parametrizations?**|Chan-Gyung Park et.al.|[2501.03480v1](http://arxiv.org/abs/2501.03480v1)|null|
 |**2025-01-07**|**Positivstellensätze for polynomial matrices with universal quantifiers**|Feng Guo et.al.|[2501.03470v1](http://arxiv.org/abs/2501.03470v1)|null|
-|**2025-01-06**|**Low-Order Flow Reconstruction and Uncertainty Quantification in Disturbed Aerodynamics Using Sparse Pressure Measurements**|Hanieh Mousavi et.al.|[2501.03406v1](http://arxiv.org/abs/2501.03406v1)|null|
+|**2025-01-06**|**Low-Order Flow Reconstruction and Uncertainty Quantification in Disturbed Aerodynamics Using Sparse Pressure Measurements**|Hanieh Mousavi et.al.|[2501.03406v1](http://arxiv.org/abs/2501.03406v1)|[link](https://github.com/haniehmsv/LowOrderFlowUQ)|
 |**2025-01-06**|**On the upper tail of star counts in random graphs**|Margarita Akhmejanova et.al.|[2501.03404v1](http://arxiv.org/abs/2501.03404v1)|null|
 |**2025-01-06**|**Strong Lensing analysis of SPT-CLJ2325$-$4111 and SPT-CLJ0049$-$2440, two Powerful Cosmic Telescopes ($R_E > 40''$) from the SPT Clusters Sample**|Guillaume Mahler et.al.|[2501.03361v1](http://arxiv.org/abs/2501.03361v1)|null|
 |**2025-01-06**|**Deep-Relative-Trust-Based Diffusion for Decentralized Deep Learning**|Muyun Li et.al.|[2501.03162v1](http://arxiv.org/abs/2501.03162v1)|null|
@@ -34,7 +34,7 @@
 |**2025-01-06**|**Steering Flexible Linear Objects in Planar Environments by Two Robot Hands Using Euler's Elastica Solutions**|Aharon Levin et.al.|[2501.02874v1](http://arxiv.org/abs/2501.02874v1)|null|
 |**2025-01-06**|**Universal Features Guided Zero-Shot Category-Level Object Pose Estimation**|Wentian Qu et.al.|[2501.02831v1](http://arxiv.org/abs/2501.02831v1)|null|
 |**2025-01-06**|**DarkFarseer: Inductive Spatio-temporal Kriging via Hidden Style Enhancement and Sparsity-Noise Mitigation**|Zhuoxuan Liang et.al.|[2501.02808v1](http://arxiv.org/abs/2501.02808v1)|null|
-|**2025-01-06**|**Segmenting Text and Learning Their Rewards for Improved RLHF in Language Model**|Yueqin Yin et.al.|[2501.02790v1](http://arxiv.org/abs/2501.02790v1)|null|
+|**2025-01-06**|**Segmenting Text and Learning Their Rewards for Improved RLHF in Language Model**|Yueqin Yin et.al.|[2501.02790v1](http://arxiv.org/abs/2501.02790v1)|[link](https://github.com/yinyueqin/denserewardrlhf-ppo)|
 |**2025-01-06**|**From Dense to Sparse: Event Response for Enhanced Residential Load Forecasting**|Xin Cao et.al.|[2501.02781v2](http://arxiv.org/abs/2501.02781v2)|null|
 |**2025-01-06**|**Constructing 4D Radio Map in LEO Satellite Networks with Limited Samples**|Haoxuan Yuan et.al.|[2501.02775v1](http://arxiv.org/abs/2501.02775v1)|null|
 |**2025-01-06**|**Digital Twin Aided Channel Estimation: Zone-Specific Subspace Prediction and Calibration**|Sadjad Alikhani et.al.|[2501.02758v1](http://arxiv.org/abs/2501.02758v1)|null|
@@ -66,7 +66,7 @@
 |**2025-01-07**|**Positivstellensätze for polynomial matrices with universal quantifiers**|Feng Guo et.al.|[2501.03470v1](http://arxiv.org/abs/2501.03470v1)|null|
 |**2025-01-07**|**Right-handed weak currents in neutrinoless $ββ$ decays and ton scale $ββ$ detectors**|H. Ejiri et.al.|[2501.03454v1](http://arxiv.org/abs/2501.03454v1)|null|
 |**2025-01-07**|**Feasibility of short blocklength Reed-Muller codes for coset coding over real environment**|Md Munibun Billah et.al.|[2501.03449v1](http://arxiv.org/abs/2501.03449v1)|null|
-|**2025-01-06**|**Low-Order Flow Reconstruction and Uncertainty Quantification in Disturbed Aerodynamics Using Sparse Pressure Measurements**|Hanieh Mousavi et.al.|[2501.03406v1](http://arxiv.org/abs/2501.03406v1)|null|
+|**2025-01-06**|**Low-Order Flow Reconstruction and Uncertainty Quantification in Disturbed Aerodynamics Using Sparse Pressure Measurements**|Hanieh Mousavi et.al.|[2501.03406v1](http://arxiv.org/abs/2501.03406v1)|[link](https://github.com/haniehmsv/LowOrderFlowUQ)|
 |**2025-01-06**|**On the upper tail of star counts in random graphs**|Margarita Akhmejanova et.al.|[2501.03404v1](http://arxiv.org/abs/2501.03404v1)|null|
 |**2025-01-06**|**Evolved Quantum Boltzmann Machines**|Michele Minervini et.al.|[2501.03367v1](http://arxiv.org/abs/2501.03367v1)|null|
 |**2025-01-06**|**Partial Auger Decay Widths from Complex-Valued Density Matrices**|Florian Matz et.al.|[2501.03362v1](http://arxiv.org/abs/2501.03362v1)|null|
@@ -128,9 +128,9 @@
 |**2025-01-07**|**LM-Net: A Light-weight and Multi-scale Network for Medical Image Segmentation**|Zhenkun Lu et.al.|[2501.03838v1](http://arxiv.org/abs/2501.03838v1)|[link](https://github.com/Asunatan/LM-Net)|
 |**2025-01-07**|**SCC-YOLO: An Improved Object Detector for Assisting in Brain Tumor Diagnosis**|Runci Bai et.al.|[2501.03836v1](http://arxiv.org/abs/2501.03836v1)|null|
 |**2025-01-07**|**Three-dimensional attention Transformer for state evaluation in real-time strategy games**|Yanqing Ye et.al.|[2501.03832v1](http://arxiv.org/abs/2501.03832v1)|null|
-|**2025-01-07**|**MADation: Face Morphing Attack Detection with Foundation Models**|Eduarda Caldeira et.al.|[2501.03800v1](http://arxiv.org/abs/2501.03800v1)|null|
+|**2025-01-07**|**MADation: Face Morphing Attack Detection with Foundation Models**|Eduarda Caldeira et.al.|[2501.03800v1](http://arxiv.org/abs/2501.03800v1)|[link](https://github.com/gurayozgur/madation)|
 |**2025-01-07**|**Vision Transformer Neural Architecture Search for Out-of-Distribution Generalization: Benchmark and Insights**|Sy-Tuyen Ho et.al.|[2501.03782v1](http://arxiv.org/abs/2501.03782v1)|null|
-|**2025-01-07**|**Strip R-CNN: Large Strip Convolution for Remote Sensing Object Detection**|Xinbin Yuan et.al.|[2501.03775v1](http://arxiv.org/abs/2501.03775v1)|[link](https://github.com/yxb-nku/strip-r-cnn)|
+|**2025-01-07**|**Strip R-CNN: Large Strip Convolution for Remote Sensing Object Detection**|Xinbin Yuan et.al.|[2501.03775v1](http://arxiv.org/abs/2501.03775v1)|[link](https://github.com/zcablii/lsknet)|
 |**2025-01-07**|**Multi-label Cross-lingual automatic music genre classification from lyrics with Sentence BERT**|Tiago Fernandes Tavares et.al.|[2501.03769v1](http://arxiv.org/abs/2501.03769v1)|null|
 |**2025-01-07**|**AutoFish: Dataset and Benchmark for Fine-grained Analysis of Fish**|Stefan Hein Bengtson et.al.|[2501.03767v1](http://arxiv.org/abs/2501.03767v1)|null|
 |**2025-01-07**|**Image Segmentation: Inducing graph-based learning**|Aryan Singh et.al.|[2501.03765v1](http://arxiv.org/abs/2501.03765v1)|[link](https://github.com/aryan-at-ul/electronic-imaging-2025-paper-4492)|
