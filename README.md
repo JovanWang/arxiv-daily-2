@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-01-09 21:13:48 Asia/Shanghai
+ Automated deployment @ 2025-01-10 08:39:14 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -79,40 +79,6 @@
 
 ## AI
 
-### LLM Theory
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2025-01-08**|**Planarian Neural Networks: Evolutionary Patterns from Basic Bilateria Shaping Modern Artificial Neural Network Architectures**|Ziyuan Huang et.al.|[2501.04700v1](http://arxiv.org/abs/2501.04700v1)|null|
-|**2025-01-08**|**URSA: Understanding and Verifying Chain-of-thought Reasoning in Multimodal Mathematics**|Ruilin Luo et.al.|[2501.04686v1](http://arxiv.org/abs/2501.04686v1)|null|
-|**2025-01-08**|**Towards System 2 Reasoning in LLMs: Learning How to Think With Meta Chain-of-Though**|Violet Xiang et.al.|[2501.04682v1](http://arxiv.org/abs/2501.04682v1)|null|
-|**2025-01-08**|**DRIVINGVQA: Analyzing Visual Chain-of-Thought Reasoning of Vision Language Models in Real-World Scenarios with Driving Theory Tests**|Charles Corbière et.al.|[2501.04671v1](http://arxiv.org/abs/2501.04671v1)|null|
-|**2025-01-08**|**Bundling architecture in elastic filaments with applied twist**|Amit Dawadi et.al.|[2501.04650v1](http://arxiv.org/abs/2501.04650v1)|null|
-|**2025-01-08**|**Discrete Wavelet Transform-Based Capsule Network for Hyperspectral Image Classification**|Zhiqiang Gao et.al.|[2501.04643v1](http://arxiv.org/abs/2501.04643v1)|null|
-|**2025-01-08**|**Resistive relativistic magnetohydrodynamics without Amperes Law**|Ruben Lier et.al.|[2501.04638v1](http://arxiv.org/abs/2501.04638v1)|null|
-|**2025-01-08**|**Knowledge Retrieval Based on Generative AI**|Te-Lun Yang et.al.|[2501.04635v1](http://arxiv.org/abs/2501.04635v1)|null|
-|**2025-01-08**|**Design of a 6-bit Threshold Inverter Quantization (TIQ) Flash Analog to Digital Converter (ADC)**|Noyon Kumar Sarkar et.al.|[2501.04627v1](http://arxiv.org/abs/2501.04627v1)|null|
-|**2025-01-08**|**Framework for Integrating Machine Learning Methods for Path-Aware Source Routing**|Anees Al-Najjar et.al.|[2501.04624v1](http://arxiv.org/abs/2501.04624v1)|null|
-|**2025-01-08**|**Accelerated Discovery of Vanadium Oxide Compositions: A WGAN-VAE Framework for Materials Design**|Danial Ebrahimzadeh et.al.|[2501.04604v1](http://arxiv.org/abs/2501.04604v1)|null|
-|**2025-01-08**|**A 65 nm Bayesian Neural Network Accelerator with 360 fJ/Sample In-Word GRNG for AI Uncertainty Estimation**|Zephan M. Enciso et.al.|[2501.04577v1](http://arxiv.org/abs/2501.04577v1)|null|
-|**2025-01-08**|**Scalable Data Notarization Leveraging Hybrid DLTs**|Domenico Tortola et.al.|[2501.04571v1](http://arxiv.org/abs/2501.04571v1)|null|
-|**2025-01-08**|**Physics-inspired Machine Learning for Quantum Error Mitigation**|Xiao-Yue Xu et.al.|[2501.04558v1](http://arxiv.org/abs/2501.04558v1)|null|
-|**2025-01-08**|**Satellite-Terrestrial Routing or Inter-Satellite Routing? A Stochastic Geometry Perspective**|Ruibo Wang et.al.|[2501.04557v1](http://arxiv.org/abs/2501.04557v1)|null|
-|**2025-01-08**|**Roadmap on Atomic-scale Semiconductor Devices**|Steven R. Schofield et.al.|[2501.04535v1](http://arxiv.org/abs/2501.04535v1)|null|
-|**2025-01-08**|**Histogram-Equalized Quantization for logic-gated Residual Neural Networks**|Van Thien Nguyen et.al.|[2501.04517v1](http://arxiv.org/abs/2501.04517v1)|null|
-|**2025-01-08**|**SplineFormer: An Explainable Transformer-Based Approach for Autonomous Endovascular Navigation**|Tudor Jianu et.al.|[2501.04515v1](http://arxiv.org/abs/2501.04515v1)|null|
-|**2025-01-08**|**Controlled probing of Anderson localization and non-Hermitian skin effect via topolectrical circuits**|Dipendu Halder et.al.|[2501.04502v1](http://arxiv.org/abs/2501.04502v1)|null|
-|**2025-01-08**|**Rotatable and Movable Antenna-Enabled Near-Field Integrated Sensing and Communication**|Yunan Sun et.al.|[2501.04490v1](http://arxiv.org/abs/2501.04490v1)|null|
-|**2025-01-08**|**MB-TaylorFormer V2: Improved Multi-branch Linear Transformer Expanded by Taylor Formula for Image Restoration**|Zhi Jin et.al.|[2501.04486v1](http://arxiv.org/abs/2501.04486v1)|[link](https://github.com/fvl2020/mb-taylorformerv2)|
-|**2025-01-08**|**Demystification and Near-perfect Estimation of Minimum Gas Limit and Gas Used for Ethereum Smart Contracts**|Danilo Rafael de Lima Cabral et.al.|[2501.04483v1](http://arxiv.org/abs/2501.04483v1)|null|
-|**2025-01-08**|**AI-assisted design of experiments at the frontiers of computation: methods and new perspectives**|Pietro Vischia et.al.|[2501.04448v1](http://arxiv.org/abs/2501.04448v1)|null|
-|**2025-01-08**|**Tracking UWB Devices Through Radio Frequency Fingerprinting Is Possible**|Thibaud Ardoin et.al.|[2501.04401v1](http://arxiv.org/abs/2501.04401v1)|null|
-|**2025-01-08**|**Modern Hardware Security: A Review of Attacks and Countermeasures**|Jyotiprakash Mishra et.al.|[2501.04394v1](http://arxiv.org/abs/2501.04394v1)|null|
-|**2025-01-08**|**iFADIT: Invertible Face Anonymization via Disentangled Identity Transform**|Lin Yuan et.al.|[2501.04390v1](http://arxiv.org/abs/2501.04390v1)|null|
-|**2025-01-08**|**The unbearable lightness of Restricted Boltzmann Machines: Theoretical Insights and Biological Applications**|Giovanni di Sarra et.al.|[2501.04387v1](http://arxiv.org/abs/2501.04387v1)|null|
-|**2025-01-08**|**An innovative data collection method to eliminate the preprocessing phase in web usage mining**|Ozkan Canay et.al.|[2501.04364v1](http://arxiv.org/abs/2501.04364v1)|null|
-|**2025-01-08**|**Decoding EEG Speech Perception with Transformers and VAE-based Data Augmentation**|Terrance Yu-Hao Chen et.al.|[2501.04359v1](http://arxiv.org/abs/2501.04359v1)|null|
-|**2025-01-08**|**Sustainability in Telecommunication Networks and Key Value Indicators: a Survey**|Lucia Pintor et.al.|[2501.04356v1](http://arxiv.org/abs/2501.04356v1)|null|
-
 ### LLM Agent
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -147,6 +113,40 @@
 |**2025-01-07**|**Semantically Cohesive Word Grouping in Indian Languages**|N J Karthika et.al.|[2501.03988v1](http://arxiv.org/abs/2501.03988v1)|null|
 |**2025-01-07**|**VLM-driven Behavior Tree for Context-aware Task Planning**|Naoki Wake et.al.|[2501.03968v1](http://arxiv.org/abs/2501.03968v1)|null|
 
+### LLM Theory
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2025-01-08**|**Planarian Neural Networks: Evolutionary Patterns from Basic Bilateria Shaping Modern Artificial Neural Network Architectures**|Ziyuan Huang et.al.|[2501.04700v1](http://arxiv.org/abs/2501.04700v1)|null|
+|**2025-01-08**|**URSA: Understanding and Verifying Chain-of-thought Reasoning in Multimodal Mathematics**|Ruilin Luo et.al.|[2501.04686v1](http://arxiv.org/abs/2501.04686v1)|null|
+|**2025-01-08**|**Towards System 2 Reasoning in LLMs: Learning How to Think With Meta Chain-of-Thought**|Violet Xiang et.al.|[2501.04682v1](http://arxiv.org/abs/2501.04682v1)|null|
+|**2025-01-08**|**DRIVINGVQA: Analyzing Visual Chain-of-Thought Reasoning of Vision Language Models in Real-World Scenarios with Driving Theory Tests**|Charles Corbière et.al.|[2501.04671v1](http://arxiv.org/abs/2501.04671v1)|null|
+|**2025-01-08**|**Bundling architecture in elastic filaments with applied twist**|Amit Dawadi et.al.|[2501.04650v1](http://arxiv.org/abs/2501.04650v1)|null|
+|**2025-01-08**|**Discrete Wavelet Transform-Based Capsule Network for Hyperspectral Image Classification**|Zhiqiang Gao et.al.|[2501.04643v1](http://arxiv.org/abs/2501.04643v1)|null|
+|**2025-01-08**|**Resistive relativistic magnetohydrodynamics without Amperes Law**|Ruben Lier et.al.|[2501.04638v1](http://arxiv.org/abs/2501.04638v1)|null|
+|**2025-01-08**|**Knowledge Retrieval Based on Generative AI**|Te-Lun Yang et.al.|[2501.04635v1](http://arxiv.org/abs/2501.04635v1)|null|
+|**2025-01-08**|**Design of a 6-bit Threshold Inverter Quantization (TIQ) Flash Analog to Digital Converter (ADC)**|Noyon Kumar Sarkar et.al.|[2501.04627v1](http://arxiv.org/abs/2501.04627v1)|null|
+|**2025-01-08**|**Framework for Integrating Machine Learning Methods for Path-Aware Source Routing**|Anees Al-Najjar et.al.|[2501.04624v1](http://arxiv.org/abs/2501.04624v1)|null|
+|**2025-01-08**|**Accelerated Discovery of Vanadium Oxide Compositions: A WGAN-VAE Framework for Materials Design**|Danial Ebrahimzadeh et.al.|[2501.04604v1](http://arxiv.org/abs/2501.04604v1)|null|
+|**2025-01-08**|**A 65 nm Bayesian Neural Network Accelerator with 360 fJ/Sample In-Word GRNG for AI Uncertainty Estimation**|Zephan M. Enciso et.al.|[2501.04577v1](http://arxiv.org/abs/2501.04577v1)|null|
+|**2025-01-08**|**Scalable Data Notarization Leveraging Hybrid DLTs**|Domenico Tortola et.al.|[2501.04571v1](http://arxiv.org/abs/2501.04571v1)|null|
+|**2025-01-08**|**Physics-inspired Machine Learning for Quantum Error Mitigation**|Xiao-Yue Xu et.al.|[2501.04558v1](http://arxiv.org/abs/2501.04558v1)|null|
+|**2025-01-08**|**Satellite-Terrestrial Routing or Inter-Satellite Routing? A Stochastic Geometry Perspective**|Ruibo Wang et.al.|[2501.04557v1](http://arxiv.org/abs/2501.04557v1)|null|
+|**2025-01-08**|**Roadmap on Atomic-scale Semiconductor Devices**|Steven R. Schofield et.al.|[2501.04535v1](http://arxiv.org/abs/2501.04535v1)|null|
+|**2025-01-08**|**Histogram-Equalized Quantization for logic-gated Residual Neural Networks**|Van Thien Nguyen et.al.|[2501.04517v1](http://arxiv.org/abs/2501.04517v1)|null|
+|**2025-01-08**|**SplineFormer: An Explainable Transformer-Based Approach for Autonomous Endovascular Navigation**|Tudor Jianu et.al.|[2501.04515v1](http://arxiv.org/abs/2501.04515v1)|null|
+|**2025-01-08**|**Controlled probing of Anderson localization and non-Hermitian skin effect via topolectrical circuits**|Dipendu Halder et.al.|[2501.04502v1](http://arxiv.org/abs/2501.04502v1)|null|
+|**2025-01-08**|**Rotatable and Movable Antenna-Enabled Near-Field Integrated Sensing and Communication**|Yunan Sun et.al.|[2501.04490v1](http://arxiv.org/abs/2501.04490v1)|null|
+|**2025-01-08**|**MB-TaylorFormer V2: Improved Multi-branch Linear Transformer Expanded by Taylor Formula for Image Restoration**|Zhi Jin et.al.|[2501.04486v1](http://arxiv.org/abs/2501.04486v1)|[link](https://github.com/fvl2020/mb-taylorformerv2)|
+|**2025-01-08**|**Demystification and Near-perfect Estimation of Minimum Gas Limit and Gas Used for Ethereum Smart Contracts**|Danilo Rafael de Lima Cabral et.al.|[2501.04483v1](http://arxiv.org/abs/2501.04483v1)|null|
+|**2025-01-08**|**AI-assisted design of experiments at the frontiers of computation: methods and new perspectives**|Pietro Vischia et.al.|[2501.04448v1](http://arxiv.org/abs/2501.04448v1)|null|
+|**2025-01-08**|**Tracking UWB Devices Through Radio Frequency Fingerprinting Is Possible**|Thibaud Ardoin et.al.|[2501.04401v1](http://arxiv.org/abs/2501.04401v1)|null|
+|**2025-01-08**|**Modern Hardware Security: A Review of Attacks and Countermeasures**|Jyotiprakash Mishra et.al.|[2501.04394v1](http://arxiv.org/abs/2501.04394v1)|null|
+|**2025-01-08**|**iFADIT: Invertible Face Anonymization via Disentangled Identity Transform**|Lin Yuan et.al.|[2501.04390v1](http://arxiv.org/abs/2501.04390v1)|null|
+|**2025-01-08**|**The unbearable lightness of Restricted Boltzmann Machines: Theoretical Insights and Biological Applications**|Giovanni di Sarra et.al.|[2501.04387v1](http://arxiv.org/abs/2501.04387v1)|null|
+|**2025-01-08**|**An innovative data collection method to eliminate the preprocessing phase in web usage mining**|Ozkan Canay et.al.|[2501.04364v1](http://arxiv.org/abs/2501.04364v1)|null|
+|**2025-01-08**|**Decoding EEG Speech Perception with Transformers and VAE-based Data Augmentation**|Terrance Yu-Hao Chen et.al.|[2501.04359v1](http://arxiv.org/abs/2501.04359v1)|null|
+|**2025-01-08**|**Sustainability in Telecommunication Networks and Key Value Indicators: a Survey**|Lucia Pintor et.al.|[2501.04356v1](http://arxiv.org/abs/2501.04356v1)|null|
+
 ## Code Compile
 
 ### C Code Generation
@@ -164,7 +164,7 @@
 |**2025-01-08**|**SPAR3D: Stable Point-Aware Reconstruction of 3D Objects from Single Images**|Zixuan Huang et.al.|[2501.04689v1](http://arxiv.org/abs/2501.04689v1)|null|
 |**2025-01-08**|**URSA: Understanding and Verifying Chain-of-thought Reasoning in Multimodal Mathematics**|Ruilin Luo et.al.|[2501.04686v1](http://arxiv.org/abs/2501.04686v1)|null|
 |**2025-01-08**|**Toward Sufficient Statistical Power in Algorithmic Bias Assessment: A Test for ABROCA**|Conrad Borchers et.al.|[2501.04683v1](http://arxiv.org/abs/2501.04683v1)|null|
-|**2025-01-08**|**Towards System 2 Reasoning in LLMs: Learning How to Think With Meta Chain-of-Though**|Violet Xiang et.al.|[2501.04682v1](http://arxiv.org/abs/2501.04682v1)|null|
+|**2025-01-08**|**Towards System 2 Reasoning in LLMs: Learning How to Think With Meta Chain-of-Thought**|Violet Xiang et.al.|[2501.04682v1](http://arxiv.org/abs/2501.04682v1)|null|
 |**2025-01-08**|**Cosmic deceptions due to peculiar motions**|Christos G. Tsagas et.al.|[2501.04680v1](http://arxiv.org/abs/2501.04680v1)|null|
 |**2025-01-08**|**RadGPT: Constructing 3D Image-Text Tumor Datasets**|Pedro R. A. S. Bassi et.al.|[2501.04678v1](http://arxiv.org/abs/2501.04678v1)|[link](https://github.com/mrgiovanni/radgpt)|
 |**2025-01-08**|**Kerr black hole parameters and its distance from the Earth in terms of directly measurable quantities of accretion disk**|Mehrab Momennia et.al.|[2501.04677v1](http://arxiv.org/abs/2501.04677v1)|null|
@@ -204,7 +204,7 @@
 |**2025-01-08**|**Integrating IPbus ALFRED into the ALICE-FIT setup**|Krystian Roslon et.al.|[2501.04685v1](http://arxiv.org/abs/2501.04685v1)|null|
 |**2025-01-08**|**A Novel Highly Parallelizable Machine-Learning Based Method for the Fast Solution of Integral Equations for Electromagnetic Scattering Problems**|Enes Koç et.al.|[2501.04684v1](http://arxiv.org/abs/2501.04684v1)|null|
 |**2025-01-08**|**Toward Sufficient Statistical Power in Algorithmic Bias Assessment: A Test for ABROCA**|Conrad Borchers et.al.|[2501.04683v1](http://arxiv.org/abs/2501.04683v1)|null|
-|**2025-01-08**|**Towards System 2 Reasoning in LLMs: Learning How to Think With Meta Chain-of-Though**|Violet Xiang et.al.|[2501.04682v1](http://arxiv.org/abs/2501.04682v1)|null|
+|**2025-01-08**|**Towards System 2 Reasoning in LLMs: Learning How to Think With Meta Chain-of-Thought**|Violet Xiang et.al.|[2501.04682v1](http://arxiv.org/abs/2501.04682v1)|null|
 |**2025-01-08**|**Learning by Confusion: The Phase Diagram of the Holstein Model**|George Issa et.al.|[2501.04681v1](http://arxiv.org/abs/2501.04681v1)|null|
 |**2025-01-08**|**Cosmic deceptions due to peculiar motions**|Christos G. Tsagas et.al.|[2501.04680v1](http://arxiv.org/abs/2501.04680v1)|null|
 |**2025-01-08**|**Exploring nontrivial topology at quantum criticality in a superconducting processor**|Ziqi Tan et.al.|[2501.04679v1](http://arxiv.org/abs/2501.04679v1)|null|
@@ -237,7 +237,7 @@
 |**2025-01-08**|**Integrating IPbus ALFRED into the ALICE-FIT setup**|Krystian Roslon et.al.|[2501.04685v1](http://arxiv.org/abs/2501.04685v1)|null|
 |**2025-01-08**|**A Novel Highly Parallelizable Machine-Learning Based Method for the Fast Solution of Integral Equations for Electromagnetic Scattering Problems**|Enes Koç et.al.|[2501.04684v1](http://arxiv.org/abs/2501.04684v1)|null|
 |**2025-01-08**|**Toward Sufficient Statistical Power in Algorithmic Bias Assessment: A Test for ABROCA**|Conrad Borchers et.al.|[2501.04683v1](http://arxiv.org/abs/2501.04683v1)|null|
-|**2025-01-08**|**Towards System 2 Reasoning in LLMs: Learning How to Think With Meta Chain-of-Though**|Violet Xiang et.al.|[2501.04682v1](http://arxiv.org/abs/2501.04682v1)|null|
+|**2025-01-08**|**Towards System 2 Reasoning in LLMs: Learning How to Think With Meta Chain-of-Thought**|Violet Xiang et.al.|[2501.04682v1](http://arxiv.org/abs/2501.04682v1)|null|
 |**2025-01-08**|**Learning by Confusion: The Phase Diagram of the Holstein Model**|George Issa et.al.|[2501.04681v1](http://arxiv.org/abs/2501.04681v1)|null|
 |**2025-01-08**|**Exploring nontrivial topology at quantum criticality in a superconducting processor**|Ziqi Tan et.al.|[2501.04679v1](http://arxiv.org/abs/2501.04679v1)|null|
 |**2025-01-08**|**RadGPT: Constructing 3D Image-Text Tumor Datasets**|Pedro R. A. S. Bassi et.al.|[2501.04678v1](http://arxiv.org/abs/2501.04678v1)|[link](https://github.com/mrgiovanni/radgpt)|
