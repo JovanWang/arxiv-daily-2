@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-01-16 21:11:00 Asia/Shanghai
+ Automated deployment @ 2025-01-17 08:36:55 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -20,7 +20,7 @@
 |**2025-01-15**|**Enhanced Multi-Scale Cross-Attention for Person Image Generation**|Hao Tang et.al.|[2501.08900v1](http://arxiv.org/abs/2501.08900v1)|null|
 |**2025-01-15**|**Karatsuba Matrix Multiplication and its Efficient Custom Hardware Implementations**|Trevor E. Pogue et.al.|[2501.08889v1](http://arxiv.org/abs/2501.08889v1)|[link](https://github.com/trevorpogue/algebraic-nnhw)|
 |**2025-01-15**|**Benchmarking analytical electron ptychography methods for the low-dose imaging of beam-sensitive materials**|Hoelen L. Lalandec Robert et.al.|[2501.08874v1](http://arxiv.org/abs/2501.08874v1)|null|
-|**2025-01-15**|**Riemannian quantum circuit optimization based on matrix product operators**|Isabel Nha Minh Le et.al.|[2501.08872v1](http://arxiv.org/abs/2501.08872v1)|null|
+|**2025-01-15**|**Riemannian quantum circuit optimization based on matrix product operators**|Isabel Nha Minh Le et.al.|[2501.08872v1](http://arxiv.org/abs/2501.08872v1)|[link](https://github.com/INMLe/rqcopt-mpo)|
 |**2025-01-15**|**Joint Detection and Decoding: A Graph Neural Network Approach**|Jannis Clausius et.al.|[2501.08871v1](http://arxiv.org/abs/2501.08871v1)|null|
 |**2025-01-15**|**Breakdown of superdiffusion in perturbed quantum integrable spin chains and ladders**|Kevin Wang et.al.|[2501.08866v1](http://arxiv.org/abs/2501.08866v1)|null|
 |**2025-01-15**|**Chirality transfer from chiral perovskite to molecular dopants via charge transfer states**|Guan-Lin Chen et.al.|[2501.08852v1](http://arxiv.org/abs/2501.08852v1)|null|
