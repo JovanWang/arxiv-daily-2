@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-01-17 08:36:55 Asia/Shanghai
+ Automated deployment @ 2025-01-17 10:00:02 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -33,7 +33,7 @@
 |**2025-01-15**|**Extrapolated Hard Thresholding Algorithms with Finite Length for Composite $\ell_0$ Penalized Problems**|Fan Wu et.al.|[2501.08719v1](http://arxiv.org/abs/2501.08719v1)|null|
 |**2025-01-15**|**GS-LIVO: Real-Time LiDAR, Inertial, and Visual Multi-sensor Fused Odometry with Gaussian Mapping**|Sheng Hong et.al.|[2501.08672v1](http://arxiv.org/abs/2501.08672v1)|null|
 |**2025-01-15**|**Consensus ranking by quantum annealing**|Daniele Franch et.al.|[2501.08664v1](http://arxiv.org/abs/2501.08664v1)|null|
-|**2025-01-15**|**Optimal $W_1$ and Berry-Esseen bound between the spectral radius of large Chiral non-Hermitian random matrices and Gumbel**|Yutao Ma et.al.|[2501.08661v1](http://arxiv.org/abs/2501.08661v1)|null|
+|**2025-01-15**|**Optimal $W_1$ and Berry-Esseen bound between the spectral radius of large Chiral non-Hermitian random matrices and Gumbel**|Yutao Ma et.al.|[2501.08661v2](http://arxiv.org/abs/2501.08661v2)|null|
 |**2025-01-15**|**Geometry of Sparsity-Inducing Norms**|Jean-Philippe Chancelier et.al.|[2501.08651v1](http://arxiv.org/abs/2501.08651v1)|null|
 |**2025-01-15**|**Learnable Sparsification of Die-to-Die Communication via Spike-Based Encoding**|Joshua Nardone et.al.|[2501.08645v1](http://arxiv.org/abs/2501.08645v1)|null|
 |**2025-01-15**|**Delocalization of a general class of random block Schrödinger operators**|Fan Yang et.al.|[2501.08608v1](http://arxiv.org/abs/2501.08608v1)|null|
@@ -140,11 +140,11 @@
 |**2025-01-15**|**Opportunities and Challenges for Virtual Reality Streaming over Millimeter-Wave: An Experimental Analysis**|Jakob Struye et.al.|[2501.08752v1](http://arxiv.org/abs/2501.08752v1)|null|
 |**2025-01-15**|**Can Millimeter-Wave Support Interactive Extended Reality Under Rapid Rotational Motion?**|Jakob Struye et.al.|[2501.08751v1](http://arxiv.org/abs/2501.08751v1)|null|
 |**2025-01-15**|**MeshMask: Physics-Based Simulations with Masked Graph Neural Networks**|Paul Garnier et.al.|[2501.08738v1](http://arxiv.org/abs/2501.08738v1)|null|
-|**2025-01-15**|**Holoview: Interactive 3D visualization of medical data in AR**|Pankaj Kaushik et.al.|[2501.08736v1](http://arxiv.org/abs/2501.08736v1)|null|
+|**2025-01-15**|**Holoview: Interactive 3D visualization of medical data in AR**|Pankaj Kaushik et.al.|[2501.08736v2](http://arxiv.org/abs/2501.08736v2)|null|
 |**2025-01-15**|**Real-time Indexing for Large-scale Recommendation by Streaming Vector Quantization Retriever**|Xingyan Bin et.al.|[2501.08695v1](http://arxiv.org/abs/2501.08695v1)|null|
 |**2025-01-15**|**Digital Twin Online Channel Modeling: Challenges,Principles, and Applications**|Junling Li et.al.|[2501.08680v1](http://arxiv.org/abs/2501.08680v1)|null|
 |**2025-01-15**|**TimeFlow: Longitudinal Brain Image Registration and Aging Progression Analysis**|Bailiang Jian et.al.|[2501.08667v1](http://arxiv.org/abs/2501.08667v1)|null|
-|**2025-01-15**|**BRIGHT-VO: Brightness-Guided Hybrid Transformer for Visual Odometry with Multi-modality Refinement Module**|Dongzhihan Wang et.al.|[2501.08659v1](http://arxiv.org/abs/2501.08659v1)|null|
+|**2025-01-15**|**BRIGHT-VO: Brightness-Guided Hybrid Transformer for Visual Odometry with Multi-modality Refinement Module**|Dongzhihan Wang et.al.|[2501.08659v2](http://arxiv.org/abs/2501.08659v2)|null|
 |**2025-01-15**|**Application of Deep Reinforcement Learning to UAV Swarming for Ground Surveillance**|Raúl Arranz et.al.|[2501.08655v1](http://arxiv.org/abs/2501.08655v1)|null|
 
 ## Code Compile
