@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-01-19 20:12:10 Asia/Shanghai
+ Automated deployment @ 2025-01-19 20:45:13 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -149,40 +149,6 @@
 
 ## AI
 
-### LLM Agent
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2025-01-16**|**Comparative Insights from 12 Machine Learning Models in Extracting Economic Ideology from Political Text**|Jihed Ncib et.al.|[2501.09719v1](http://arxiv.org/abs/2501.09719v1)|null|
-|**2025-01-16**|**CyberMentor: AI Powered Learning Tool Platform to Address Diverse Student Needs in Cybersecurity Education**|Tianyu Wang et.al.|[2501.09709v1](http://arxiv.org/abs/2501.09709v1)|null|
-|**2025-01-16**|**Mitigating Hallucinations in Large Vision-Language Models via DPO: On-Policy Data Hold the Key**|Zhihe Yang et.al.|[2501.09695v1](http://arxiv.org/abs/2501.09695v1)|null|
-|**2025-01-16**|**Constraints on Cosmic Rays Acceleration in Bright Gamma-ray Bursts with Observations of Fermi**|Xing-Fu Zhang et.al.|[2501.09594v1](http://arxiv.org/abs/2501.09594v1)|null|
-|**2025-01-16**|**An Intermediate-mass Black Hole Lurking in A Galactic Halo Caught Alive during Outburst**|C. -C. Jin et.al.|[2501.09580v1](http://arxiv.org/abs/2501.09580v1)|null|
-|**2025-01-16**|**"A Great Start, But...": Evaluating LLM-Generated Mind Maps for Information Mapping in Video-Based Design**|Tianhao He et.al.|[2501.09457v1](http://arxiv.org/abs/2501.09457v1)|null|
-|**2025-01-16**|**A Survey on Responsible LLMs: Inherent Risk, Malicious Use, and Mitigation Strategy**|Huandong Wang et.al.|[2501.09431v1](http://arxiv.org/abs/2501.09431v1)|null|
-|**2025-01-16**|**Role of $a_0( 1710)$ in the $D_s^+\toρ^+φ,~~ρ^+ω$ decays**|Jing Song et.al.|[2501.09422v1](http://arxiv.org/abs/2501.09422v1)|null|
-|**2025-01-16**|**Towards Robust and Realistic Human Pose Estimation via WiFi Signals**|Yang Chen et.al.|[2501.09411v1](http://arxiv.org/abs/2501.09411v1)|null|
-|**2025-01-16**|**Evaluating LLM Abilities to Understand Tabular Electronic Health Records: A Comprehensive Study of Patient Data Extraction and Retrieval**|Jesus Lovon et.al.|[2501.09384v1](http://arxiv.org/abs/2501.09384v1)|null|
-|**2025-01-16**|**Discovery of anomalous nuclear effect on electron transfer between atoms**|Sota Kimura et.al.|[2501.09364v1](http://arxiv.org/abs/2501.09364v1)|null|
-|**2025-01-16**|**YETI (YET to Intervene) Proactive Interventions by Multimodal AI Agents in Augmented Reality Tasks**|Saptarashmi Bandyopadhyay et.al.|[2501.09355v1](http://arxiv.org/abs/2501.09355v1)|null|
-|**2025-01-16**|**PAL: Prompting Analytic Learning with Missing Modality for Multi-Modal Class-Incremental Learning**|Xianghu Yue et.al.|[2501.09352v1](http://arxiv.org/abs/2501.09352v1)|null|
-|**2025-01-16**|**Rational Tuning of LLM Cascades via Probabilistic Modeling**|Michael J. Zellinger et.al.|[2501.09345v1](http://arxiv.org/abs/2501.09345v1)|null|
-|**2025-01-16**|**Prompt-CAM: A Simpler Interpretable Transformer for Fine-Grained Analysis**|Arpita Chowdhury et.al.|[2501.09333v1](http://arxiv.org/abs/2501.09333v1)|null|
-|**2025-01-16**|**Perspective Transition of Large Language Models for Solving Subjective Tasks**|Xiaolong Wang et.al.|[2501.09265v1](http://arxiv.org/abs/2501.09265v1)|null|
-|**2025-01-16**|**Task Vectors in In-Context Learning: Emergence, Formation, and Benefit**|Liu Yang et.al.|[2501.09240v1](http://arxiv.org/abs/2501.09240v1)|null|
-|**2025-01-16**|**Foundations of Large Language Models**|Tong Xiao et.al.|[2501.09223v1](http://arxiv.org/abs/2501.09223v1)|null|
-|**2025-01-15**|**Guiding Retrieval using LLM-based Listwise Rankers**|Mandeep Rathee et.al.|[2501.09186v1](http://arxiv.org/abs/2501.09186v1)|[link](https://github.com/mandeep-rathee/llmgar)|
-|**2025-01-15**|**Embodied Scene Understanding for Vision Language Models via MetaVQA**|Weizhen Wang et.al.|[2501.09167v1](http://arxiv.org/abs/2501.09167v1)|null|
-|**2025-01-15**|**Breaking Barriers or Building Dependency? Exploring Team-LLM Collaboration in AI-infused Classroom Debate**|Zihan Zhang et.al.|[2501.09165v1](http://arxiv.org/abs/2501.09165v1)|null|
-|**2025-01-15**|**Evaluating GenAI for Simplifying Texts for Education: Improving Accuracy and Consistency for Enhanced Readability**|Stephanie L. Day et.al.|[2501.09158v1](http://arxiv.org/abs/2501.09158v1)|null|
-|**2025-01-15**|**Few-Shot Adaptation of Training-Free Foundation Model for 3D Medical Image Segmentation**|Xingxin He et.al.|[2501.09138v1](http://arxiv.org/abs/2501.09138v1)|null|
-|**2025-01-15**|**HAFix: History-Augmented Large Language Models for Bug Fixing**|Yu Shi et.al.|[2501.09135v1](http://arxiv.org/abs/2501.09135v1)|null|
-|**2025-01-15**|**Prompt gravitational-wave mergers aided by gas in Active Galactic Nuclei: The hydrodynamics of binary-single black hole scatterings**|Connar Rowan et.al.|[2501.09017v1](http://arxiv.org/abs/2501.09017v1)|null|
-|**2025-01-15**|**How Do Generative Models Draw a Software Engineer? A Case Study on Stable Diffusion Bias**|Tosin Fadahunsi et.al.|[2501.09014v1](http://arxiv.org/abs/2501.09014v1)|[link](https://github.com/giordanodaloisio/sd-bias)|
-|**2025-01-15**|**Decompose-ToM: Enhancing Theory of Mind Reasoning in Large Language Models through Simulation and Task Decomposition**|Sneheel Sarangi et.al.|[2501.09056v1](http://arxiv.org/abs/2501.09056v1)|[link](https://github.com/xarangi/decompose-tom)|
-|**2025-01-15**|**Bayesian analysis of analog gravity systems with the Rezzolla-Zhidenko metric**|Saulo Albuquerque et.al.|[2501.09000v1](http://arxiv.org/abs/2501.09000v1)|null|
-|**2025-01-15**|**Analyzing the Ethical Logic of Six Large Language Models**|W. Russell Neuman et.al.|[2501.08951v1](http://arxiv.org/abs/2501.08951v1)|null|
-|**2025-01-15**|**Disentangling Exploration of Large Language Models by Optimal Exploitation**|Tim Grams et.al.|[2501.08925v1](http://arxiv.org/abs/2501.08925v1)|null|
-
 ### LLM Theory
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -216,6 +182,40 @@
 |**2025-01-16**|**Scaling up self-supervised learning for improved surgical foundation models**|Tim J. M. Jaspers et.al.|[2501.09436v1](http://arxiv.org/abs/2501.09436v1)|[link](https://github.com/timjaspers0801/surgenet)|
 |**2025-01-16**|**Agile System Development Lifecycle for AI Systems: Decision Architecture**|Asif Q. Gill et.al.|[2501.09434v1](http://arxiv.org/abs/2501.09434v1)|null|
 |**2025-01-16**|**HpC: A Calculus for Hybrid and Mobile Systems -- Full Version**|Xiong Xu et.al.|[2501.09430v1](http://arxiv.org/abs/2501.09430v1)|null|
+
+### LLM Agent
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2025-01-16**|**Comparative Insights from 12 Machine Learning Models in Extracting Economic Ideology from Political Text**|Jihed Ncib et.al.|[2501.09719v1](http://arxiv.org/abs/2501.09719v1)|null|
+|**2025-01-16**|**CyberMentor: AI Powered Learning Tool Platform to Address Diverse Student Needs in Cybersecurity Education**|Tianyu Wang et.al.|[2501.09709v1](http://arxiv.org/abs/2501.09709v1)|null|
+|**2025-01-16**|**Mitigating Hallucinations in Large Vision-Language Models via DPO: On-Policy Data Hold the Key**|Zhihe Yang et.al.|[2501.09695v1](http://arxiv.org/abs/2501.09695v1)|null|
+|**2025-01-16**|**Constraints on Cosmic Rays Acceleration in Bright Gamma-ray Bursts with Observations of Fermi**|Xing-Fu Zhang et.al.|[2501.09594v1](http://arxiv.org/abs/2501.09594v1)|null|
+|**2025-01-16**|**An Intermediate-mass Black Hole Lurking in A Galactic Halo Caught Alive during Outburst**|C. -C. Jin et.al.|[2501.09580v1](http://arxiv.org/abs/2501.09580v1)|null|
+|**2025-01-16**|**"A Great Start, But...": Evaluating LLM-Generated Mind Maps for Information Mapping in Video-Based Design**|Tianhao He et.al.|[2501.09457v1](http://arxiv.org/abs/2501.09457v1)|null|
+|**2025-01-16**|**A Survey on Responsible LLMs: Inherent Risk, Malicious Use, and Mitigation Strategy**|Huandong Wang et.al.|[2501.09431v1](http://arxiv.org/abs/2501.09431v1)|null|
+|**2025-01-16**|**Role of $a_0( 1710)$ in the $D_s^+\toρ^+φ,~~ρ^+ω$ decays**|Jing Song et.al.|[2501.09422v1](http://arxiv.org/abs/2501.09422v1)|null|
+|**2025-01-16**|**Towards Robust and Realistic Human Pose Estimation via WiFi Signals**|Yang Chen et.al.|[2501.09411v1](http://arxiv.org/abs/2501.09411v1)|null|
+|**2025-01-16**|**Evaluating LLM Abilities to Understand Tabular Electronic Health Records: A Comprehensive Study of Patient Data Extraction and Retrieval**|Jesus Lovon et.al.|[2501.09384v1](http://arxiv.org/abs/2501.09384v1)|null|
+|**2025-01-16**|**Discovery of anomalous nuclear effect on electron transfer between atoms**|Sota Kimura et.al.|[2501.09364v1](http://arxiv.org/abs/2501.09364v1)|null|
+|**2025-01-16**|**YETI (YET to Intervene) Proactive Interventions by Multimodal AI Agents in Augmented Reality Tasks**|Saptarashmi Bandyopadhyay et.al.|[2501.09355v1](http://arxiv.org/abs/2501.09355v1)|null|
+|**2025-01-16**|**PAL: Prompting Analytic Learning with Missing Modality for Multi-Modal Class-Incremental Learning**|Xianghu Yue et.al.|[2501.09352v1](http://arxiv.org/abs/2501.09352v1)|null|
+|**2025-01-16**|**Rational Tuning of LLM Cascades via Probabilistic Modeling**|Michael J. Zellinger et.al.|[2501.09345v1](http://arxiv.org/abs/2501.09345v1)|null|
+|**2025-01-16**|**Prompt-CAM: A Simpler Interpretable Transformer for Fine-Grained Analysis**|Arpita Chowdhury et.al.|[2501.09333v1](http://arxiv.org/abs/2501.09333v1)|null|
+|**2025-01-16**|**Perspective Transition of Large Language Models for Solving Subjective Tasks**|Xiaolong Wang et.al.|[2501.09265v1](http://arxiv.org/abs/2501.09265v1)|null|
+|**2025-01-16**|**Task Vectors in In-Context Learning: Emergence, Formation, and Benefit**|Liu Yang et.al.|[2501.09240v1](http://arxiv.org/abs/2501.09240v1)|null|
+|**2025-01-16**|**Foundations of Large Language Models**|Tong Xiao et.al.|[2501.09223v1](http://arxiv.org/abs/2501.09223v1)|null|
+|**2025-01-15**|**Guiding Retrieval using LLM-based Listwise Rankers**|Mandeep Rathee et.al.|[2501.09186v1](http://arxiv.org/abs/2501.09186v1)|[link](https://github.com/mandeep-rathee/llmgar)|
+|**2025-01-15**|**Embodied Scene Understanding for Vision Language Models via MetaVQA**|Weizhen Wang et.al.|[2501.09167v1](http://arxiv.org/abs/2501.09167v1)|null|
+|**2025-01-15**|**Breaking Barriers or Building Dependency? Exploring Team-LLM Collaboration in AI-infused Classroom Debate**|Zihan Zhang et.al.|[2501.09165v1](http://arxiv.org/abs/2501.09165v1)|null|
+|**2025-01-15**|**Evaluating GenAI for Simplifying Texts for Education: Improving Accuracy and Consistency for Enhanced Readability**|Stephanie L. Day et.al.|[2501.09158v1](http://arxiv.org/abs/2501.09158v1)|null|
+|**2025-01-15**|**Few-Shot Adaptation of Training-Free Foundation Model for 3D Medical Image Segmentation**|Xingxin He et.al.|[2501.09138v1](http://arxiv.org/abs/2501.09138v1)|null|
+|**2025-01-15**|**HAFix: History-Augmented Large Language Models for Bug Fixing**|Yu Shi et.al.|[2501.09135v1](http://arxiv.org/abs/2501.09135v1)|null|
+|**2025-01-15**|**Prompt gravitational-wave mergers aided by gas in Active Galactic Nuclei: The hydrodynamics of binary-single black hole scatterings**|Connar Rowan et.al.|[2501.09017v1](http://arxiv.org/abs/2501.09017v1)|null|
+|**2025-01-15**|**How Do Generative Models Draw a Software Engineer? A Case Study on Stable Diffusion Bias**|Tosin Fadahunsi et.al.|[2501.09014v1](http://arxiv.org/abs/2501.09014v1)|[link](https://github.com/giordanodaloisio/sd-bias)|
+|**2025-01-15**|**Decompose-ToM: Enhancing Theory of Mind Reasoning in Large Language Models through Simulation and Task Decomposition**|Sneheel Sarangi et.al.|[2501.09056v1](http://arxiv.org/abs/2501.09056v1)|[link](https://github.com/xarangi/decompose-tom)|
+|**2025-01-15**|**Bayesian analysis of analog gravity systems with the Rezzolla-Zhidenko metric**|Saulo Albuquerque et.al.|[2501.09000v1](http://arxiv.org/abs/2501.09000v1)|null|
+|**2025-01-15**|**Analyzing the Ethical Logic of Six Large Language Models**|W. Russell Neuman et.al.|[2501.08951v1](http://arxiv.org/abs/2501.08951v1)|null|
+|**2025-01-15**|**Disentangling Exploration of Large Language Models by Optimal Exploitation**|Tim Grams et.al.|[2501.08925v1](http://arxiv.org/abs/2501.08925v1)|null|
 
 ## Large-Language Model
 
