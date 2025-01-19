@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-01-19 08:40:57 Asia/Shanghai
+ Automated deployment @ 2025-01-19 10:08:54 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -8,40 +8,6 @@
 ### Sparse Operator
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-
-### Sparse program Compile
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2025-01-16**|**Practical Continual Forgetting for Pre-trained Vision Models**|Hongbo Zhao et.al.|[2501.09705v1](http://arxiv.org/abs/2501.09705v1)|[link](https://github.com/bjzhb666/GS-LoRA)|
-|**2025-01-16**|**Sample-based Krylov Quantum Diagonalization**|Jeffery Yu et.al.|[2501.09702v1](http://arxiv.org/abs/2501.09702v1)|null|
-|**2025-01-16**|**Unitary Expressions: A Necessary Abstraction for Extensible Quantum Programming Languages and Systems**|Ed Younis et.al.|[2501.09667v1](http://arxiv.org/abs/2501.09667v1)|null|
-|**2025-01-16**|**ARMAX identification of low rank graphical models**|Wenqi Cao et.al.|[2501.09616v1](http://arxiv.org/abs/2501.09616v1)|null|
-|**2025-01-16**|**Mesh2SLAM in VR: A Fast Geometry-Based SLAM Framework for Rapid Prototyping in Virtual Reality Applications**|Carlos Augusto Pinheiro de Sousa et.al.|[2501.09600v1](http://arxiv.org/abs/2501.09600v1)|null|
-|**2025-01-16**|**Comparison of Various SLAM Systems for Mobile Robot in an Indoor Environment**|Maksim Filipenko et.al.|[2501.09490v1](http://arxiv.org/abs/2501.09490v1)|null|
-|**2025-01-16**|**The Devil is in the Details: Simple Remedies for Image-to-LiDAR Representation Learning**|Wonjun Jo et.al.|[2501.09485v1](http://arxiv.org/abs/2501.09485v1)|null|
-|**2025-01-16**|**Pruning for Sparse Diffusion Models based on Gradient Flow**|Ben Wan et.al.|[2501.09464v1](http://arxiv.org/abs/2501.09464v1)|null|
-|**2025-01-16**|**Quantum algorithm for the gradient of a logarithm-determinant**|Thomas E. Baker et.al.|[2501.09413v1](http://arxiv.org/abs/2501.09413v1)|null|
-|**2025-01-16**|**ChartInsighter: An Approach for Mitigating Hallucination in Time-series Chart Summary Generation with A Benchmark Dataset**|Fen Wang et.al.|[2501.09349v1](http://arxiv.org/abs/2501.09349v1)|[link](https://github.com/wangfen01/chartinsighter)|
-|**2025-01-16**|**Rapid, Comprehensive Search of Crystalline Phases from X-ray Diffraction in Seconds via GPU-Accelerated Bayesian Variational Inference**|Ryo Murakami et.al.|[2501.09308v1](http://arxiv.org/abs/2501.09308v1)|null|
-|**2025-01-16**|**Acc-SpMM: Accelerating General-purpose Sparse Matrix-Matrix Multiplication with GPU Tensor Cores**|Haisha Zhao et.al.|[2501.09251v1](http://arxiv.org/abs/2501.09251v1)|null|
-|**2025-01-16**|**Holistic Optimization Framework for FPGA Accelerators**|Stéphane Pouget et.al.|[2501.09242v1](http://arxiv.org/abs/2501.09242v1)|null|
-|**2025-01-16**|**Near-Field XL-MIMO Systems with Sparse UPAs**|Xianzhe Chen et.al.|[2501.09234v1](http://arxiv.org/abs/2501.09234v1)|null|
-|**2025-01-15**|**Rule-Based Graph Programs Matching the Time Complexity of Imperative Algorithms**|Ziad Ismaili Alaoui et.al.|[2501.09144v1](http://arxiv.org/abs/2501.09144v1)|null|
-|**2025-01-15**|**The COSMOS-Web deep galaxy group catalog up to $z=3.7$**|Greta Toni et.al.|[2501.09060v1](http://arxiv.org/abs/2501.09060v1)|null|
-|**2025-01-15**|**Optimizing compilation of error correction codes for 2xN quantum dot arrays and its NP-hardness**|Anthony Micciche et.al.|[2501.09061v1](http://arxiv.org/abs/2501.09061v1)|null|
-|**2025-01-15**|**Properties of high-redshift Type II supernovae discovered by the JADES transient survey**|Takashi J. Moriya et.al.|[2501.08969v1](http://arxiv.org/abs/2501.08969v1)|null|
-|**2025-01-15**|**Kolmogorov-Arnold Networks for Time Series Granger Causality Inference**|Meiliang Liu et.al.|[2501.08958v1](http://arxiv.org/abs/2501.08958v1)|null|
-|**2025-01-15**|**Integrated Photonic Programmable Random Matrix Generator with Minimal Active Components**|Kevin Zelaya et.al.|[2501.08953v1](http://arxiv.org/abs/2501.08953v1)|null|
-|**2025-01-15**|**Benchmarking analytical electron ptychography methods for the low-dose imaging of beam-sensitive materials**|Hoelen L. Lalandec Robert et.al.|[2501.08874v1](http://arxiv.org/abs/2501.08874v1)|null|
-|**2025-01-15**|**CveBinarySheet: A Comprehensive Pre-built Binaries Database for IoT Vulnerability Analysis**|Lingfeng Chen et.al.|[2501.08840v1](http://arxiv.org/abs/2501.08840v1)|null|
-|**2025-01-15**|**MANTA: Diffusion Mamba for Efficient and Effective Stochastic Long-Term Dense Anticipation**|Olga Zatsarynna et.al.|[2501.08837v1](http://arxiv.org/abs/2501.08837v1)|null|
-|**2025-01-15**|**Extrapolated Hard Thresholding Algorithms with Finite Length for Composite $\ell_0$ Penalized Problems**|Fan Wu et.al.|[2501.08719v1](http://arxiv.org/abs/2501.08719v1)|null|
-|**2025-01-15**|**GS-LIVO: Real-Time LiDAR, Inertial, and Visual Multi-sensor Fused Odometry with Gaussian Mapping**|Sheng Hong et.al.|[2501.08672v1](http://arxiv.org/abs/2501.08672v1)|null|
-|**2025-01-15**|**Geometry of Sparsity-Inducing Norms**|Jean-Philippe Chancelier et.al.|[2501.08651v1](http://arxiv.org/abs/2501.08651v1)|null|
-|**2025-01-15**|**Learnable Sparsification of Die-to-Die Communication via Spike-Based Encoding**|Joshua Nardone et.al.|[2501.08645v1](http://arxiv.org/abs/2501.08645v1)|null|
-|**2025-01-15**|**LoRS: Efficient Low-Rank Adaptation for Sparse Large Language Model**|Yuxuan Hu et.al.|[2501.08582v1](http://arxiv.org/abs/2501.08582v1)|null|
-|**2025-01-14**|**The NEMESIS Catalogue of Young Stellar Objects for the Orion Star Formation Complex. I. General description of data curation**|J. Roquette et.al.|[2501.08486v1](http://arxiv.org/abs/2501.08486v1)|null|
-|**2025-01-14**|**Modular Compilation for Quantum Chiplet Architectures**|Mingyoung Jessica Jeng et.al.|[2501.08478v1](http://arxiv.org/abs/2501.08478v1)|null|
 
 ### Sparse Data Format
 |Publish Date|Title|Authors|PDF|Code|
@@ -76,6 +42,40 @@
 |**2025-01-16**|**ThinTact:Thin Vision-Based Tactile Sensor by Lensless Imaging**|Jing Xu et.al.|[2501.09273v1](http://arxiv.org/abs/2501.09273v1)|null|
 |**2025-01-16**|**Acc-SpMM: Accelerating General-purpose Sparse Matrix-Matrix Multiplication with GPU Tensor Cores**|Haisha Zhao et.al.|[2501.09251v1](http://arxiv.org/abs/2501.09251v1)|null|
 |**2025-01-16**|**Near-Field XL-MIMO Systems with Sparse UPAs**|Xianzhe Chen et.al.|[2501.09234v1](http://arxiv.org/abs/2501.09234v1)|null|
+
+### Sparse program Compile
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2025-01-16**|**Practical Continual Forgetting for Pre-trained Vision Models**|Hongbo Zhao et.al.|[2501.09705v1](http://arxiv.org/abs/2501.09705v1)|[link](https://github.com/bjzhb666/GS-LoRA)|
+|**2025-01-16**|**Sample-based Krylov Quantum Diagonalization**|Jeffery Yu et.al.|[2501.09702v1](http://arxiv.org/abs/2501.09702v1)|null|
+|**2025-01-16**|**Unitary Expressions: A Necessary Abstraction for Extensible Quantum Programming Languages and Systems**|Ed Younis et.al.|[2501.09667v1](http://arxiv.org/abs/2501.09667v1)|null|
+|**2025-01-16**|**ARMAX identification of low rank graphical models**|Wenqi Cao et.al.|[2501.09616v1](http://arxiv.org/abs/2501.09616v1)|null|
+|**2025-01-16**|**Mesh2SLAM in VR: A Fast Geometry-Based SLAM Framework for Rapid Prototyping in Virtual Reality Applications**|Carlos Augusto Pinheiro de Sousa et.al.|[2501.09600v1](http://arxiv.org/abs/2501.09600v1)|null|
+|**2025-01-16**|**Comparison of Various SLAM Systems for Mobile Robot in an Indoor Environment**|Maksim Filipenko et.al.|[2501.09490v1](http://arxiv.org/abs/2501.09490v1)|null|
+|**2025-01-16**|**The Devil is in the Details: Simple Remedies for Image-to-LiDAR Representation Learning**|Wonjun Jo et.al.|[2501.09485v1](http://arxiv.org/abs/2501.09485v1)|null|
+|**2025-01-16**|**Pruning for Sparse Diffusion Models based on Gradient Flow**|Ben Wan et.al.|[2501.09464v1](http://arxiv.org/abs/2501.09464v1)|null|
+|**2025-01-16**|**Quantum algorithm for the gradient of a logarithm-determinant**|Thomas E. Baker et.al.|[2501.09413v1](http://arxiv.org/abs/2501.09413v1)|null|
+|**2025-01-16**|**ChartInsighter: An Approach for Mitigating Hallucination in Time-series Chart Summary Generation with A Benchmark Dataset**|Fen Wang et.al.|[2501.09349v1](http://arxiv.org/abs/2501.09349v1)|[link](https://github.com/wangfen01/chartinsighter)|
+|**2025-01-16**|**Rapid, Comprehensive Search of Crystalline Phases from X-ray Diffraction in Seconds via GPU-Accelerated Bayesian Variational Inference**|Ryo Murakami et.al.|[2501.09308v1](http://arxiv.org/abs/2501.09308v1)|null|
+|**2025-01-16**|**Acc-SpMM: Accelerating General-purpose Sparse Matrix-Matrix Multiplication with GPU Tensor Cores**|Haisha Zhao et.al.|[2501.09251v1](http://arxiv.org/abs/2501.09251v1)|null|
+|**2025-01-16**|**Holistic Optimization Framework for FPGA Accelerators**|Stéphane Pouget et.al.|[2501.09242v1](http://arxiv.org/abs/2501.09242v1)|null|
+|**2025-01-16**|**Near-Field XL-MIMO Systems with Sparse UPAs**|Xianzhe Chen et.al.|[2501.09234v1](http://arxiv.org/abs/2501.09234v1)|null|
+|**2025-01-15**|**Rule-Based Graph Programs Matching the Time Complexity of Imperative Algorithms**|Ziad Ismaili Alaoui et.al.|[2501.09144v1](http://arxiv.org/abs/2501.09144v1)|null|
+|**2025-01-15**|**The COSMOS-Web deep galaxy group catalog up to $z=3.7$**|Greta Toni et.al.|[2501.09060v1](http://arxiv.org/abs/2501.09060v1)|null|
+|**2025-01-15**|**Optimizing compilation of error correction codes for 2xN quantum dot arrays and its NP-hardness**|Anthony Micciche et.al.|[2501.09061v1](http://arxiv.org/abs/2501.09061v1)|null|
+|**2025-01-15**|**Properties of high-redshift Type II supernovae discovered by the JADES transient survey**|Takashi J. Moriya et.al.|[2501.08969v1](http://arxiv.org/abs/2501.08969v1)|null|
+|**2025-01-15**|**Kolmogorov-Arnold Networks for Time Series Granger Causality Inference**|Meiliang Liu et.al.|[2501.08958v1](http://arxiv.org/abs/2501.08958v1)|null|
+|**2025-01-15**|**Integrated Photonic Programmable Random Matrix Generator with Minimal Active Components**|Kevin Zelaya et.al.|[2501.08953v1](http://arxiv.org/abs/2501.08953v1)|null|
+|**2025-01-15**|**Benchmarking analytical electron ptychography methods for the low-dose imaging of beam-sensitive materials**|Hoelen L. Lalandec Robert et.al.|[2501.08874v1](http://arxiv.org/abs/2501.08874v1)|null|
+|**2025-01-15**|**CveBinarySheet: A Comprehensive Pre-built Binaries Database for IoT Vulnerability Analysis**|Lingfeng Chen et.al.|[2501.08840v1](http://arxiv.org/abs/2501.08840v1)|null|
+|**2025-01-15**|**MANTA: Diffusion Mamba for Efficient and Effective Stochastic Long-Term Dense Anticipation**|Olga Zatsarynna et.al.|[2501.08837v1](http://arxiv.org/abs/2501.08837v1)|null|
+|**2025-01-15**|**Extrapolated Hard Thresholding Algorithms with Finite Length for Composite $\ell_0$ Penalized Problems**|Fan Wu et.al.|[2501.08719v1](http://arxiv.org/abs/2501.08719v1)|null|
+|**2025-01-15**|**GS-LIVO: Real-Time LiDAR, Inertial, and Visual Multi-sensor Fused Odometry with Gaussian Mapping**|Sheng Hong et.al.|[2501.08672v1](http://arxiv.org/abs/2501.08672v1)|null|
+|**2025-01-15**|**Geometry of Sparsity-Inducing Norms**|Jean-Philippe Chancelier et.al.|[2501.08651v1](http://arxiv.org/abs/2501.08651v1)|null|
+|**2025-01-15**|**Learnable Sparsification of Die-to-Die Communication via Spike-Based Encoding**|Joshua Nardone et.al.|[2501.08645v1](http://arxiv.org/abs/2501.08645v1)|null|
+|**2025-01-15**|**LoRS: Efficient Low-Rank Adaptation for Sparse Large Language Model**|Yuxuan Hu et.al.|[2501.08582v1](http://arxiv.org/abs/2501.08582v1)|null|
+|**2025-01-14**|**The NEMESIS Catalogue of Young Stellar Objects for the Orion Star Formation Complex. I. General description of data curation**|J. Roquette et.al.|[2501.08486v1](http://arxiv.org/abs/2501.08486v1)|null|
+|**2025-01-14**|**Modular Compilation for Quantum Chiplet Architectures**|Mingyoung Jessica Jeng et.al.|[2501.08478v1](http://arxiv.org/abs/2501.08478v1)|null|
 
 ## Code Compile
 
@@ -149,40 +149,6 @@
 
 ## AI
 
-### LLM Theory
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2025-01-16**|**Learnings from Scaling Visual Tokenizers for Reconstruction and Generation**|Philippe Hansen-Estruch et.al.|[2501.09755v1](http://arxiv.org/abs/2501.09755v1)|null|
-|**2025-01-16**|**Generating particle physics Lagrangians with transformers**|Yong Sheng Koay et.al.|[2501.09729v1](http://arxiv.org/abs/2501.09729v1)|null|
-|**2025-01-16**|**Parallel multi-objective metaheuristics for smart communications in vehicular networks**|Jamal Toutouh et.al.|[2501.09725v1](http://arxiv.org/abs/2501.09725v1)|null|
-|**2025-01-16**|**Running EFT-hedron with null constraints at loop level**|Guangzhuo Peng et.al.|[2501.09717v1](http://arxiv.org/abs/2501.09717v1)|null|
-|**2025-01-16**|**Intelligent OLSR Routing Protocol Optimization for VANETs**|Jamal Toutouh et.al.|[2501.09716v1](http://arxiv.org/abs/2501.09716v1)|null|
-|**2025-01-16**|**Cueless EEG imagined speech for subject identification: dataset and benchmarks**|Ali Derakhshesh et.al.|[2501.09700v1](http://arxiv.org/abs/2501.09700v1)|[link](https://github.com/alidr79/cueless_eeg_subject_identification)|
-|**2025-01-16**|**Towards Large Reasoning Models: A Survey of Reinforced Reasoning with Large Language Models**|Fengli Xu et.al.|[2501.09686v1](http://arxiv.org/abs/2501.09686v1)|null|
-|**2025-01-16**|**Data mining the functional architecture of the brain's circuitry**|Adam S. Charles et.al.|[2501.09684v1](http://arxiv.org/abs/2501.09684v1)|null|
-|**2025-01-16**|**Authenticated Delegation and Authorized AI Agents**|Tobin South et.al.|[2501.09674v1](http://arxiv.org/abs/2501.09674v1)|null|
-|**2025-01-16**|**Integrated electronic controller for dynamic self-configuration of photonic circuits**|Emanuele Sacchi et.al.|[2501.09664v1](http://arxiv.org/abs/2501.09664v1)|null|
-|**2025-01-16**|**A Survey of Research in Large Language Models for Electronic Design Automation**|Jingyu Pan et.al.|[2501.09655v1](http://arxiv.org/abs/2501.09655v1)|null|
-|**2025-01-16**|**Electronic Health Records: Towards Digital Twins in Healthcare**|Muhammet Alkan et.al.|[2501.09640v1](http://arxiv.org/abs/2501.09640v1)|null|
-|**2025-01-16**|**LLM-Based Routing in Mixture of Experts: A Novel Framework for Trading**|Kuan-Ming Liu et.al.|[2501.09636v1](http://arxiv.org/abs/2501.09636v1)|null|
-|**2025-01-16**|**WMamba: Wavelet-based Mamba for Face Forgery Detection**|Siran Peng et.al.|[2501.09617v1](http://arxiv.org/abs/2501.09617v1)|null|
-|**2025-01-16**|**Adversarial-Ensemble Kolmogorov Arnold Networks for Enhancing Indoor Wi-Fi Positioning: A Defensive Approach Against Spoofing and Signal Manipulation Attacks**|Mitul Goswami et.al.|[2501.09609v1](http://arxiv.org/abs/2501.09609v1)|null|
-|**2025-01-16**|**Metric Learning with Progressive Self-Distillation for Audio-Visual Embedding Learning**|Donghuo Zeng et.al.|[2501.09608v1](http://arxiv.org/abs/2501.09608v1)|null|
-|**2025-01-16**|**Managed-Retention Memory: A New Class of Memory for the AI Era**|Sergey Legtchenko et.al.|[2501.09605v1](http://arxiv.org/abs/2501.09605v1)|null|
-|**2025-01-16**|**From Scarcity to Capability: Empowering Fake News Detection in Low-Resource Languages with LLMs**|Hrithik Majumdar Shibu et.al.|[2501.09604v1](http://arxiv.org/abs/2501.09604v1)|[link](https://github.com/shibu4064/indonlp)|
-|**2025-01-16**|**Atleus: Accelerating Transformers on the Edge Enabled by 3D Heterogeneous Manycore Architectures**|Pratyush Dhingra et.al.|[2501.09588v1](http://arxiv.org/abs/2501.09588v1)|null|
-|**2025-01-16**|**MatrixNet: Learning over symmetry groups using learned group representations**|Lucas Laird et.al.|[2501.09571v1](http://arxiv.org/abs/2501.09571v1)|[link](https://github.com/lucas-laird/matrixnet)|
-|**2025-01-16**|**A Multi-agent System for Hybrid Optimization**|Eric S. Fraga et.al.|[2501.09563v1](http://arxiv.org/abs/2501.09563v1)|null|
-|**2025-01-16**|**MOGNET: A Mux-residual quantized Network leveraging Online-Generated weights**|Van Thien Nguyen et.al.|[2501.09531v1](http://arxiv.org/abs/2501.09531v1)|null|
-|**2025-01-16**|**Multimodal Marvels of Deep Learning in Medical Diagnosis: A Comprehensive Review of COVID-19 Detection**|Md Shofiqul Islama et.al.|[2501.09506v1](http://arxiv.org/abs/2501.09506v1)|[link](https://github.com/shafiq-islam-cse/multimodal-marvels-of-deep-learning-using-image-speech-and-text-review-of-covid-19-detection)|
-|**2025-01-16**|**HydraMix: Multi-Image Feature Mixing for Small Data Image Classification**|Christoph Reinders et.al.|[2501.09504v1](http://arxiv.org/abs/2501.09504v1)|null|
-|**2025-01-16**|**On the robustness of exoplanet atmospheric detections: insights from extensive simulations**|A. Sánchez-López et.al.|[2501.09494v1](http://arxiv.org/abs/2501.09494v1)|null|
-|**2025-01-16**|**Teaching Wav2Vec2 the Language of the Brain**|Tobias Fiedler et.al.|[2501.09459v1](http://arxiv.org/abs/2501.09459v1)|[link](https://github.com/tfiedlerdev/wav2vec2forbrain)|
-|**2025-01-16**|**Scaling Graph-Based Dependency Parsing with Arc Vectorization and Attention-Based Refinement**|Nicolas Floquet et.al.|[2501.09451v1](http://arxiv.org/abs/2501.09451v1)|null|
-|**2025-01-16**|**Scaling up self-supervised learning for improved surgical foundation models**|Tim J. M. Jaspers et.al.|[2501.09436v1](http://arxiv.org/abs/2501.09436v1)|[link](https://github.com/timjaspers0801/surgenet)|
-|**2025-01-16**|**Agile System Development Lifecycle for AI Systems: Decision Architecture**|Asif Q. Gill et.al.|[2501.09434v1](http://arxiv.org/abs/2501.09434v1)|null|
-|**2025-01-16**|**HpC: A Calculus for Hybrid and Mobile Systems -- Full Version**|Xiong Xu et.al.|[2501.09430v1](http://arxiv.org/abs/2501.09430v1)|null|
-
 ### LLM Agent
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -216,6 +182,40 @@
 |**2025-01-15**|**Bayesian analysis of analog gravity systems with the Rezzolla-Zhidenko metric**|Saulo Albuquerque et.al.|[2501.09000v1](http://arxiv.org/abs/2501.09000v1)|null|
 |**2025-01-15**|**Analyzing the Ethical Logic of Six Large Language Models**|W. Russell Neuman et.al.|[2501.08951v1](http://arxiv.org/abs/2501.08951v1)|null|
 |**2025-01-15**|**Disentangling Exploration of Large Language Models by Optimal Exploitation**|Tim Grams et.al.|[2501.08925v1](http://arxiv.org/abs/2501.08925v1)|null|
+
+### LLM Theory
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2025-01-16**|**Learnings from Scaling Visual Tokenizers for Reconstruction and Generation**|Philippe Hansen-Estruch et.al.|[2501.09755v1](http://arxiv.org/abs/2501.09755v1)|null|
+|**2025-01-16**|**Generating particle physics Lagrangians with transformers**|Yong Sheng Koay et.al.|[2501.09729v1](http://arxiv.org/abs/2501.09729v1)|null|
+|**2025-01-16**|**Parallel multi-objective metaheuristics for smart communications in vehicular networks**|Jamal Toutouh et.al.|[2501.09725v1](http://arxiv.org/abs/2501.09725v1)|null|
+|**2025-01-16**|**Running EFT-hedron with null constraints at loop level**|Guangzhuo Peng et.al.|[2501.09717v1](http://arxiv.org/abs/2501.09717v1)|null|
+|**2025-01-16**|**Intelligent OLSR Routing Protocol Optimization for VANETs**|Jamal Toutouh et.al.|[2501.09716v1](http://arxiv.org/abs/2501.09716v1)|null|
+|**2025-01-16**|**Cueless EEG imagined speech for subject identification: dataset and benchmarks**|Ali Derakhshesh et.al.|[2501.09700v1](http://arxiv.org/abs/2501.09700v1)|[link](https://github.com/alidr79/cueless_eeg_subject_identification)|
+|**2025-01-16**|**Towards Large Reasoning Models: A Survey of Reinforced Reasoning with Large Language Models**|Fengli Xu et.al.|[2501.09686v1](http://arxiv.org/abs/2501.09686v1)|null|
+|**2025-01-16**|**Data mining the functional architecture of the brain's circuitry**|Adam S. Charles et.al.|[2501.09684v1](http://arxiv.org/abs/2501.09684v1)|null|
+|**2025-01-16**|**Authenticated Delegation and Authorized AI Agents**|Tobin South et.al.|[2501.09674v1](http://arxiv.org/abs/2501.09674v1)|null|
+|**2025-01-16**|**Integrated electronic controller for dynamic self-configuration of photonic circuits**|Emanuele Sacchi et.al.|[2501.09664v1](http://arxiv.org/abs/2501.09664v1)|null|
+|**2025-01-16**|**A Survey of Research in Large Language Models for Electronic Design Automation**|Jingyu Pan et.al.|[2501.09655v1](http://arxiv.org/abs/2501.09655v1)|null|
+|**2025-01-16**|**Electronic Health Records: Towards Digital Twins in Healthcare**|Muhammet Alkan et.al.|[2501.09640v1](http://arxiv.org/abs/2501.09640v1)|null|
+|**2025-01-16**|**LLM-Based Routing in Mixture of Experts: A Novel Framework for Trading**|Kuan-Ming Liu et.al.|[2501.09636v1](http://arxiv.org/abs/2501.09636v1)|null|
+|**2025-01-16**|**WMamba: Wavelet-based Mamba for Face Forgery Detection**|Siran Peng et.al.|[2501.09617v1](http://arxiv.org/abs/2501.09617v1)|null|
+|**2025-01-16**|**Adversarial-Ensemble Kolmogorov Arnold Networks for Enhancing Indoor Wi-Fi Positioning: A Defensive Approach Against Spoofing and Signal Manipulation Attacks**|Mitul Goswami et.al.|[2501.09609v1](http://arxiv.org/abs/2501.09609v1)|null|
+|**2025-01-16**|**Metric Learning with Progressive Self-Distillation for Audio-Visual Embedding Learning**|Donghuo Zeng et.al.|[2501.09608v1](http://arxiv.org/abs/2501.09608v1)|null|
+|**2025-01-16**|**Managed-Retention Memory: A New Class of Memory for the AI Era**|Sergey Legtchenko et.al.|[2501.09605v1](http://arxiv.org/abs/2501.09605v1)|null|
+|**2025-01-16**|**From Scarcity to Capability: Empowering Fake News Detection in Low-Resource Languages with LLMs**|Hrithik Majumdar Shibu et.al.|[2501.09604v1](http://arxiv.org/abs/2501.09604v1)|[link](https://github.com/shibu4064/indonlp)|
+|**2025-01-16**|**Atleus: Accelerating Transformers on the Edge Enabled by 3D Heterogeneous Manycore Architectures**|Pratyush Dhingra et.al.|[2501.09588v1](http://arxiv.org/abs/2501.09588v1)|null|
+|**2025-01-16**|**MatrixNet: Learning over symmetry groups using learned group representations**|Lucas Laird et.al.|[2501.09571v1](http://arxiv.org/abs/2501.09571v1)|[link](https://github.com/lucas-laird/matrixnet)|
+|**2025-01-16**|**A Multi-agent System for Hybrid Optimization**|Eric S. Fraga et.al.|[2501.09563v1](http://arxiv.org/abs/2501.09563v1)|null|
+|**2025-01-16**|**MOGNET: A Mux-residual quantized Network leveraging Online-Generated weights**|Van Thien Nguyen et.al.|[2501.09531v1](http://arxiv.org/abs/2501.09531v1)|null|
+|**2025-01-16**|**Multimodal Marvels of Deep Learning in Medical Diagnosis: A Comprehensive Review of COVID-19 Detection**|Md Shofiqul Islama et.al.|[2501.09506v1](http://arxiv.org/abs/2501.09506v1)|[link](https://github.com/shafiq-islam-cse/multimodal-marvels-of-deep-learning-using-image-speech-and-text-review-of-covid-19-detection)|
+|**2025-01-16**|**HydraMix: Multi-Image Feature Mixing for Small Data Image Classification**|Christoph Reinders et.al.|[2501.09504v1](http://arxiv.org/abs/2501.09504v1)|null|
+|**2025-01-16**|**On the robustness of exoplanet atmospheric detections: insights from extensive simulations**|A. Sánchez-López et.al.|[2501.09494v1](http://arxiv.org/abs/2501.09494v1)|null|
+|**2025-01-16**|**Teaching Wav2Vec2 the Language of the Brain**|Tobias Fiedler et.al.|[2501.09459v1](http://arxiv.org/abs/2501.09459v1)|[link](https://github.com/tfiedlerdev/wav2vec2forbrain)|
+|**2025-01-16**|**Scaling Graph-Based Dependency Parsing with Arc Vectorization and Attention-Based Refinement**|Nicolas Floquet et.al.|[2501.09451v1](http://arxiv.org/abs/2501.09451v1)|null|
+|**2025-01-16**|**Scaling up self-supervised learning for improved surgical foundation models**|Tim J. M. Jaspers et.al.|[2501.09436v1](http://arxiv.org/abs/2501.09436v1)|[link](https://github.com/timjaspers0801/surgenet)|
+|**2025-01-16**|**Agile System Development Lifecycle for AI Systems: Decision Architecture**|Asif Q. Gill et.al.|[2501.09434v1](http://arxiv.org/abs/2501.09434v1)|null|
+|**2025-01-16**|**HpC: A Calculus for Hybrid and Mobile Systems -- Full Version**|Xiong Xu et.al.|[2501.09430v1](http://arxiv.org/abs/2501.09430v1)|null|
 
 ## Large-Language Model
 
