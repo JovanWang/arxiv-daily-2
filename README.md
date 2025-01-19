@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-01-19 10:08:54 Asia/Shanghai
+ Automated deployment @ 2025-01-19 20:12:10 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -8,40 +8,6 @@
 ### Sparse Operator
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-
-### Sparse Data Format
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2025-01-16**|**Partonic distribution functions and amplitudes using tensor network methods**|Zhong-Bo Kang et.al.|[2501.09738v1](http://arxiv.org/abs/2501.09738v1)|null|
-|**2025-01-16**|**MultiGraphMatch: a subgraph matching algorithm for multigraphs**|Giovanni Micale et.al.|[2501.09736v1](http://arxiv.org/abs/2501.09736v1)|null|
-|**2025-01-16**|**Unveiling the origin of XMM-Newton soft proton flares: I. Design and validation of a response matrix for proton spectral analysis**|Valentina Fioretti et.al.|[2501.09724v1](http://arxiv.org/abs/2501.09724v1)|null|
-|**2025-01-16**|**Practical Continual Forgetting for Pre-trained Vision Models**|Hongbo Zhao et.al.|[2501.09705v1](http://arxiv.org/abs/2501.09705v1)|[link](https://github.com/bjzhb666/GS-LoRA)|
-|**2025-01-16**|**Infinity norm bounds for the inverse of Nekrasov matrices using scaling matrices**|Héctor Orera et.al.|[2501.09704v1](http://arxiv.org/abs/2501.09704v1)|null|
-|**2025-01-16**|**Sample-based Krylov Quantum Diagonalization**|Jeffery Yu et.al.|[2501.09702v1](http://arxiv.org/abs/2501.09702v1)|null|
-|**2025-01-16**|**Chemical master equation parameter exploration using DMRG**|John P. Zima et.al.|[2501.09692v1](http://arxiv.org/abs/2501.09692v1)|null|
-|**2025-01-16**|**ARMAX identification of low rank graphical models**|Wenqi Cao et.al.|[2501.09616v1](http://arxiv.org/abs/2501.09616v1)|null|
-|**2025-01-16**|**A posteriori error estimates for the Lindblad master equation**|Paul-Louis Etienney et.al.|[2501.09607v1](http://arxiv.org/abs/2501.09607v1)|null|
-|**2025-01-16**|**Mesh2SLAM in VR: A Fast Geometry-Based SLAM Framework for Rapid Prototyping in Virtual Reality Applications**|Carlos Augusto Pinheiro de Sousa et.al.|[2501.09600v1](http://arxiv.org/abs/2501.09600v1)|null|
-|**2025-01-16**|**MatrixNet: Learning over symmetry groups using learned group representations**|Lucas Laird et.al.|[2501.09571v1](http://arxiv.org/abs/2501.09571v1)|[link](https://github.com/lucas-laird/matrixnet)|
-|**2025-01-16**|**Bridging conformal field theory and parton approaches to SU(n)_k chiral spin liquids**|Tong Liu et.al.|[2501.09567v1](http://arxiv.org/abs/2501.09567v1)|null|
-|**2025-01-16**|**Bacterial proliferation pattern formation**|John S. Chuang et.al.|[2501.09546v1](http://arxiv.org/abs/2501.09546v1)|null|
-|**2025-01-16**|**Convergence Rates of GMM Estimators with Nonsmooth Moments under Misspecification**|Byunghoon Kang et.al.|[2501.09540v1](http://arxiv.org/abs/2501.09540v1)|null|
-|**2025-01-16**|**Analyzing Continuous Semantic Shifts with Diachronic Word Similarity Matrices**|Hajime Kiyama et.al.|[2501.09538v1](http://arxiv.org/abs/2501.09538v1)|[link](https://github.com/kiyama-hajime/acss-simmat)|
-|**2025-01-16**|**PIER: A Novel Metric for Evaluating What Matters in Code-Switching**|Enes Yavuz Ugan et.al.|[2501.09512v1](http://arxiv.org/abs/2501.09512v1)|null|
-|**2025-01-16**|**Comparison of Various SLAM Systems for Mobile Robot in an Indoor Environment**|Maksim Filipenko et.al.|[2501.09490v1](http://arxiv.org/abs/2501.09490v1)|null|
-|**2025-01-16**|**The Devil is in the Details: Simple Remedies for Image-to-LiDAR Representation Learning**|Wonjun Jo et.al.|[2501.09485v1](http://arxiv.org/abs/2501.09485v1)|null|
-|**2025-01-16**|**Pruning for Sparse Diffusion Models based on Gradient Flow**|Ben Wan et.al.|[2501.09464v1](http://arxiv.org/abs/2501.09464v1)|null|
-|**2025-01-16**|**Auslander regular algebras and Coxeter matrices**|Viktória Klász et.al.|[2501.09447v1](http://arxiv.org/abs/2501.09447v1)|null|
-|**2025-01-16**|**Quantum algorithm for the gradient of a logarithm-determinant**|Thomas E. Baker et.al.|[2501.09413v1](http://arxiv.org/abs/2501.09413v1)|null|
-|**2025-01-16**|**SE-BSFV: Online Subspace Learning based Shadow Enhancement and Background Suppression for ViSAR under Complex Background**|Shangqu Yan et.al.|[2501.09341v1](http://arxiv.org/abs/2501.09341v1)|null|
-|**2025-01-16**|**Estimating shared subspace with AJIVE: the power and limitation of multiple data matrices**|Yuepeng Yang et.al.|[2501.09336v1](http://arxiv.org/abs/2501.09336v1)|null|
-|**2025-01-16**|**Rapid, Comprehensive Search of Crystalline Phases from X-ray Diffraction in Seconds via GPU-Accelerated Bayesian Variational Inference**|Ryo Murakami et.al.|[2501.09308v1](http://arxiv.org/abs/2501.09308v1)|null|
-|**2025-01-16**|**Variational method for $\mathbb{Z}_K$ wavefunctions in spin-$J$ PXP model**|Zhigang Hu et.al.|[2501.09301v1](http://arxiv.org/abs/2501.09301v1)|null|
-|**2025-01-16**|**To Retrieve or Not to Retrieve? Uncertainty Detection for Dynamic Retrieval Augmented Generation**|Kaustubh D. Dhole et.al.|[2501.09292v1](http://arxiv.org/abs/2501.09292v1)|null|
-|**2025-01-16**|**SEAL: Entangled White-box Watermarks on Low-Rank Adaptation**|Giyeong Oh et.al.|[2501.09284v1](http://arxiv.org/abs/2501.09284v1)|null|
-|**2025-01-16**|**ThinTact:Thin Vision-Based Tactile Sensor by Lensless Imaging**|Jing Xu et.al.|[2501.09273v1](http://arxiv.org/abs/2501.09273v1)|null|
-|**2025-01-16**|**Acc-SpMM: Accelerating General-purpose Sparse Matrix-Matrix Multiplication with GPU Tensor Cores**|Haisha Zhao et.al.|[2501.09251v1](http://arxiv.org/abs/2501.09251v1)|null|
-|**2025-01-16**|**Near-Field XL-MIMO Systems with Sparse UPAs**|Xianzhe Chen et.al.|[2501.09234v1](http://arxiv.org/abs/2501.09234v1)|null|
 
 ### Sparse program Compile
 |Publish Date|Title|Authors|PDF|Code|
@@ -76,6 +42,40 @@
 |**2025-01-15**|**LoRS: Efficient Low-Rank Adaptation for Sparse Large Language Model**|Yuxuan Hu et.al.|[2501.08582v1](http://arxiv.org/abs/2501.08582v1)|null|
 |**2025-01-14**|**The NEMESIS Catalogue of Young Stellar Objects for the Orion Star Formation Complex. I. General description of data curation**|J. Roquette et.al.|[2501.08486v1](http://arxiv.org/abs/2501.08486v1)|null|
 |**2025-01-14**|**Modular Compilation for Quantum Chiplet Architectures**|Mingyoung Jessica Jeng et.al.|[2501.08478v1](http://arxiv.org/abs/2501.08478v1)|null|
+
+### Sparse Data Format
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2025-01-16**|**Partonic distribution functions and amplitudes using tensor network methods**|Zhong-Bo Kang et.al.|[2501.09738v1](http://arxiv.org/abs/2501.09738v1)|null|
+|**2025-01-16**|**MultiGraphMatch: a subgraph matching algorithm for multigraphs**|Giovanni Micale et.al.|[2501.09736v1](http://arxiv.org/abs/2501.09736v1)|null|
+|**2025-01-16**|**Unveiling the origin of XMM-Newton soft proton flares: I. Design and validation of a response matrix for proton spectral analysis**|Valentina Fioretti et.al.|[2501.09724v1](http://arxiv.org/abs/2501.09724v1)|null|
+|**2025-01-16**|**Practical Continual Forgetting for Pre-trained Vision Models**|Hongbo Zhao et.al.|[2501.09705v1](http://arxiv.org/abs/2501.09705v1)|[link](https://github.com/bjzhb666/GS-LoRA)|
+|**2025-01-16**|**Infinity norm bounds for the inverse of Nekrasov matrices using scaling matrices**|Héctor Orera et.al.|[2501.09704v1](http://arxiv.org/abs/2501.09704v1)|null|
+|**2025-01-16**|**Sample-based Krylov Quantum Diagonalization**|Jeffery Yu et.al.|[2501.09702v1](http://arxiv.org/abs/2501.09702v1)|null|
+|**2025-01-16**|**Chemical master equation parameter exploration using DMRG**|John P. Zima et.al.|[2501.09692v1](http://arxiv.org/abs/2501.09692v1)|null|
+|**2025-01-16**|**ARMAX identification of low rank graphical models**|Wenqi Cao et.al.|[2501.09616v1](http://arxiv.org/abs/2501.09616v1)|null|
+|**2025-01-16**|**A posteriori error estimates for the Lindblad master equation**|Paul-Louis Etienney et.al.|[2501.09607v1](http://arxiv.org/abs/2501.09607v1)|null|
+|**2025-01-16**|**Mesh2SLAM in VR: A Fast Geometry-Based SLAM Framework for Rapid Prototyping in Virtual Reality Applications**|Carlos Augusto Pinheiro de Sousa et.al.|[2501.09600v1](http://arxiv.org/abs/2501.09600v1)|null|
+|**2025-01-16**|**MatrixNet: Learning over symmetry groups using learned group representations**|Lucas Laird et.al.|[2501.09571v1](http://arxiv.org/abs/2501.09571v1)|[link](https://github.com/lucas-laird/matrixnet)|
+|**2025-01-16**|**Bridging conformal field theory and parton approaches to SU(n)_k chiral spin liquids**|Tong Liu et.al.|[2501.09567v1](http://arxiv.org/abs/2501.09567v1)|null|
+|**2025-01-16**|**Bacterial proliferation pattern formation**|John S. Chuang et.al.|[2501.09546v1](http://arxiv.org/abs/2501.09546v1)|null|
+|**2025-01-16**|**Convergence Rates of GMM Estimators with Nonsmooth Moments under Misspecification**|Byunghoon Kang et.al.|[2501.09540v1](http://arxiv.org/abs/2501.09540v1)|null|
+|**2025-01-16**|**Analyzing Continuous Semantic Shifts with Diachronic Word Similarity Matrices**|Hajime Kiyama et.al.|[2501.09538v1](http://arxiv.org/abs/2501.09538v1)|[link](https://github.com/kiyama-hajime/acss-simmat)|
+|**2025-01-16**|**PIER: A Novel Metric for Evaluating What Matters in Code-Switching**|Enes Yavuz Ugan et.al.|[2501.09512v1](http://arxiv.org/abs/2501.09512v1)|null|
+|**2025-01-16**|**Comparison of Various SLAM Systems for Mobile Robot in an Indoor Environment**|Maksim Filipenko et.al.|[2501.09490v1](http://arxiv.org/abs/2501.09490v1)|null|
+|**2025-01-16**|**The Devil is in the Details: Simple Remedies for Image-to-LiDAR Representation Learning**|Wonjun Jo et.al.|[2501.09485v1](http://arxiv.org/abs/2501.09485v1)|null|
+|**2025-01-16**|**Pruning for Sparse Diffusion Models based on Gradient Flow**|Ben Wan et.al.|[2501.09464v1](http://arxiv.org/abs/2501.09464v1)|null|
+|**2025-01-16**|**Auslander regular algebras and Coxeter matrices**|Viktória Klász et.al.|[2501.09447v1](http://arxiv.org/abs/2501.09447v1)|null|
+|**2025-01-16**|**Quantum algorithm for the gradient of a logarithm-determinant**|Thomas E. Baker et.al.|[2501.09413v1](http://arxiv.org/abs/2501.09413v1)|null|
+|**2025-01-16**|**SE-BSFV: Online Subspace Learning based Shadow Enhancement and Background Suppression for ViSAR under Complex Background**|Shangqu Yan et.al.|[2501.09341v1](http://arxiv.org/abs/2501.09341v1)|null|
+|**2025-01-16**|**Estimating shared subspace with AJIVE: the power and limitation of multiple data matrices**|Yuepeng Yang et.al.|[2501.09336v1](http://arxiv.org/abs/2501.09336v1)|null|
+|**2025-01-16**|**Rapid, Comprehensive Search of Crystalline Phases from X-ray Diffraction in Seconds via GPU-Accelerated Bayesian Variational Inference**|Ryo Murakami et.al.|[2501.09308v1](http://arxiv.org/abs/2501.09308v1)|null|
+|**2025-01-16**|**Variational method for $\mathbb{Z}_K$ wavefunctions in spin-$J$ PXP model**|Zhigang Hu et.al.|[2501.09301v1](http://arxiv.org/abs/2501.09301v1)|null|
+|**2025-01-16**|**To Retrieve or Not to Retrieve? Uncertainty Detection for Dynamic Retrieval Augmented Generation**|Kaustubh D. Dhole et.al.|[2501.09292v1](http://arxiv.org/abs/2501.09292v1)|null|
+|**2025-01-16**|**SEAL: Entangled White-box Watermarks on Low-Rank Adaptation**|Giyeong Oh et.al.|[2501.09284v1](http://arxiv.org/abs/2501.09284v1)|null|
+|**2025-01-16**|**ThinTact:Thin Vision-Based Tactile Sensor by Lensless Imaging**|Jing Xu et.al.|[2501.09273v1](http://arxiv.org/abs/2501.09273v1)|null|
+|**2025-01-16**|**Acc-SpMM: Accelerating General-purpose Sparse Matrix-Matrix Multiplication with GPU Tensor Cores**|Haisha Zhao et.al.|[2501.09251v1](http://arxiv.org/abs/2501.09251v1)|null|
+|**2025-01-16**|**Near-Field XL-MIMO Systems with Sparse UPAs**|Xianzhe Chen et.al.|[2501.09234v1](http://arxiv.org/abs/2501.09234v1)|null|
 
 ## Code Compile
 
