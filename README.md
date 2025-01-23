@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-01-23 20:50:43 Asia/Shanghai
+ Automated deployment @ 2025-01-23 21:12:03 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -8,40 +8,6 @@
 ### Sparse Operator
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-
-### Sparse program Compile
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2025-01-22**|**Neural Radiance Fields for the Real World: A Survey**|Wenhui Xiao et.al.|[2501.13104v1](http://arxiv.org/abs/2501.13104v1)|null|
-|**2025-01-22**|**Orchid: Image Latent Diffusion for Joint Appearance and Geometry Generation**|Akshay Krishnan et.al.|[2501.13087v1](http://arxiv.org/abs/2501.13087v1)|null|
-|**2025-01-22**|**Attention-Driven Hierarchical Reinforcement Learning with Particle Filtering for Source Localization in Dynamic Fields**|Yiwei Shi et.al.|[2501.13084v1](http://arxiv.org/abs/2501.13084v1)|null|
-|**2025-01-22**|**Certified Knowledge Compilation with Application to Formally Verified Model Counting**|Randal E. Bryant et.al.|[2501.12906v1](http://arxiv.org/abs/2501.12906v1)|null|
-|**2025-01-22**|**Flexible tree-structured regression for clustered data with an application to quality of life in older adults**|Nikolai Spuck et.al.|[2501.12787v1](http://arxiv.org/abs/2501.12787v1)|null|
-|**2025-01-22**|**DWTNeRF: Boosting Few-shot Neural Radiance Fields via Discrete Wavelet Transform**|Hung Nguyen et.al.|[2501.12637v1](http://arxiv.org/abs/2501.12637v1)|null|
-|**2025-01-22**|**SoMa: Identifying, Exploring, and Understanding the DRAM Communication Scheduling Space for DNN Accelerators**|Jingwei Cai et.al.|[2501.12634v1](http://arxiv.org/abs/2501.12634v1)|null|
-|**2025-01-22**|**Deep Reinforcement Learning with Hybrid Intrinsic Reward Model**|Mingqi Yuan et.al.|[2501.12627v1](http://arxiv.org/abs/2501.12627v1)|null|
-|**2025-01-22**|**Fundamental Limits of Non-Adaptive Group Testing with Markovian Correlation**|Aditya Narayan Ravi et.al.|[2501.12588v1](http://arxiv.org/abs/2501.12588v1)|null|
-|**2025-01-21**|**A Fast Counting-Free Algorithm for Computing Atomic Sets in Feature Models**|Tobias Heß et.al.|[2501.12490v1](http://arxiv.org/abs/2501.12490v1)|null|
-|**2025-01-21**|**The Journey Matters: Average Parameter Count over Pre-training Unifies Sparse and Dense Scaling Laws**|Tian Jin et.al.|[2501.12486v1](http://arxiv.org/abs/2501.12486v1)|null|
-|**2025-01-21**|**TOFFE -- Temporally-binned Object Flow from Events for High-speed and Energy-Efficient Object Detection and Tracking**|Adarsh Kumar Kosta et.al.|[2501.12482v1](http://arxiv.org/abs/2501.12482v1)|null|
-|**2025-01-21**|**Efficient Compilation for Shuttling Trapped-Ion Machines via the Position Graph Architectural Abstraction**|Bao Bach et.al.|[2501.12470v1](http://arxiv.org/abs/2501.12470v1)|null|
-|**2025-01-21**|**Parameters vs FLOPs: Scaling Laws for Optimal Sparsity for Mixture-of-Experts Language Models**|Samira Abnar et.al.|[2501.12370v1](http://arxiv.org/abs/2501.12370v1)|null|
-|**2025-01-21**|**Efficient Algorithm for Sparse Fourier Transform of Generalized q-ary Functions**|Darin Tsui et.al.|[2501.12365v1](http://arxiv.org/abs/2501.12365v1)|null|
-|**2025-01-21**|**Quantum Compressive Sensing Meets Quantum Noise: A Practical Exploration**|Naveed Naimipour et.al.|[2501.12335v1](http://arxiv.org/abs/2501.12335v1)|null|
-|**2025-01-21**|**On the Complexity of Telephone Broadcasting: From Cacti to Bounded Pathwidth Graphs**|Aida Aminian et.al.|[2501.12316v1](http://arxiv.org/abs/2501.12316v1)|null|
-|**2025-01-21**|**MoGERNN: An Inductive Traffic Predictor for Unobserved Locations in Dynamic Sensing Networks**|Qishen Zhou et.al.|[2501.12281v1](http://arxiv.org/abs/2501.12281v1)|[link](https://github.com/youxiaotu/MoGERNN)|
-|**2025-01-21**|**HAC++: Towards 100X Compression of 3D Gaussian Splatting**|Yihang Chen et.al.|[2501.12255v2](http://arxiv.org/abs/2501.12255v2)|[link](https://github.com/yihangchen-ee/hac-plus)|
-|**2025-01-21**|**Joint Reconstruction and Motion Estimation in Sparse-View 4DCT Using Diffusion Models within a Blind Inverse Problem Framework**|Antoine De Paepe et.al.|[2501.12249v1](http://arxiv.org/abs/2501.12249v1)|null|
-|**2025-01-21**|**Fast sparse optimization via adaptive shrinkage**|Vito Cerone et.al.|[2501.12236v1](http://arxiv.org/abs/2501.12236v1)|null|
-|**2025-01-21**|**Explainability for Vision Foundation Models: A Survey**|Rémi Kazmierczak et.al.|[2501.12203v1](http://arxiv.org/abs/2501.12203v1)|null|
-|**2025-01-21**|**MirrorCBO: A consensus-based optimization method in the spirit of mirror descent**|Leon Bungert et.al.|[2501.12189v1](http://arxiv.org/abs/2501.12189v1)|[link](https://github.com/TimRoith/MirrorCBX)|
-|**2025-01-21**|**Heterogeneous Federated Learning System for Sparse Healthcare Time-Series Prediction**|Jia-Hao Syu et.al.|[2501.12125v1](http://arxiv.org/abs/2501.12125v1)|null|
-|**2025-01-21**|**Meta-Sparsity: Learning Optimal Sparse Structures in Multi-task Networks through Meta-learning**|Richa Upadhyay et.al.|[2501.12115v1](http://arxiv.org/abs/2501.12115v1)|null|
-|**2025-01-21**|**Checkification: A Practical Approach for Testing Static Analysis Truths**|Daniela Ferreiro et.al.|[2501.12093v1](http://arxiv.org/abs/2501.12093v1)|null|
-|**2025-01-21**|**ORCAst: Operational High-Resolution Current Forecasts**|Pierre Garcia et.al.|[2501.12054v1](http://arxiv.org/abs/2501.12054v1)|null|
-|**2025-01-21**|**SMamba: Sparse Mamba for Event-based Object Detection**|Nan Yang et.al.|[2501.11971v1](http://arxiv.org/abs/2501.11971v1)|null|
-|**2025-01-21**|**Learning to Hop for a Single-Legged Robot with Parallel Mechanism**|Hongbo Zhang et.al.|[2501.11945v1](http://arxiv.org/abs/2501.11945v1)|null|
-|**2025-01-21**|**Build Optimization: A Systematic Literature Review**|Henri Aïdasso et.al.|[2501.11940v1](http://arxiv.org/abs/2501.11940v1)|null|
 
 ### Sparse Data Format
 |Publish Date|Title|Authors|PDF|Code|
@@ -76,6 +42,40 @@
 |**2025-01-21**|**TOFFE -- Temporally-binned Object Flow from Events for High-speed and Energy-Efficient Object Detection and Tracking**|Adarsh Kumar Kosta et.al.|[2501.12482v1](http://arxiv.org/abs/2501.12482v1)|null|
 |**2025-01-21**|**Self-assembling of Ge quantum dots in an alumina matrix**|M. Buljan et.al.|[2501.12455v1](http://arxiv.org/abs/2501.12455v1)|null|
 |**2025-01-21**|**Tight relations and equivalences between smooth relative entropies**|Bartosz Regula et.al.|[2501.12447v1](http://arxiv.org/abs/2501.12447v1)|null|
+
+### Sparse program Compile
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2025-01-22**|**Neural Radiance Fields for the Real World: A Survey**|Wenhui Xiao et.al.|[2501.13104v1](http://arxiv.org/abs/2501.13104v1)|null|
+|**2025-01-22**|**Orchid: Image Latent Diffusion for Joint Appearance and Geometry Generation**|Akshay Krishnan et.al.|[2501.13087v1](http://arxiv.org/abs/2501.13087v1)|null|
+|**2025-01-22**|**Attention-Driven Hierarchical Reinforcement Learning with Particle Filtering for Source Localization in Dynamic Fields**|Yiwei Shi et.al.|[2501.13084v1](http://arxiv.org/abs/2501.13084v1)|null|
+|**2025-01-22**|**Certified Knowledge Compilation with Application to Formally Verified Model Counting**|Randal E. Bryant et.al.|[2501.12906v1](http://arxiv.org/abs/2501.12906v1)|null|
+|**2025-01-22**|**Flexible tree-structured regression for clustered data with an application to quality of life in older adults**|Nikolai Spuck et.al.|[2501.12787v1](http://arxiv.org/abs/2501.12787v1)|null|
+|**2025-01-22**|**DWTNeRF: Boosting Few-shot Neural Radiance Fields via Discrete Wavelet Transform**|Hung Nguyen et.al.|[2501.12637v1](http://arxiv.org/abs/2501.12637v1)|null|
+|**2025-01-22**|**SoMa: Identifying, Exploring, and Understanding the DRAM Communication Scheduling Space for DNN Accelerators**|Jingwei Cai et.al.|[2501.12634v1](http://arxiv.org/abs/2501.12634v1)|null|
+|**2025-01-22**|**Deep Reinforcement Learning with Hybrid Intrinsic Reward Model**|Mingqi Yuan et.al.|[2501.12627v1](http://arxiv.org/abs/2501.12627v1)|null|
+|**2025-01-22**|**Fundamental Limits of Non-Adaptive Group Testing with Markovian Correlation**|Aditya Narayan Ravi et.al.|[2501.12588v1](http://arxiv.org/abs/2501.12588v1)|null|
+|**2025-01-21**|**A Fast Counting-Free Algorithm for Computing Atomic Sets in Feature Models**|Tobias Heß et.al.|[2501.12490v1](http://arxiv.org/abs/2501.12490v1)|null|
+|**2025-01-21**|**The Journey Matters: Average Parameter Count over Pre-training Unifies Sparse and Dense Scaling Laws**|Tian Jin et.al.|[2501.12486v1](http://arxiv.org/abs/2501.12486v1)|null|
+|**2025-01-21**|**TOFFE -- Temporally-binned Object Flow from Events for High-speed and Energy-Efficient Object Detection and Tracking**|Adarsh Kumar Kosta et.al.|[2501.12482v1](http://arxiv.org/abs/2501.12482v1)|null|
+|**2025-01-21**|**Efficient Compilation for Shuttling Trapped-Ion Machines via the Position Graph Architectural Abstraction**|Bao Bach et.al.|[2501.12470v1](http://arxiv.org/abs/2501.12470v1)|null|
+|**2025-01-21**|**Parameters vs FLOPs: Scaling Laws for Optimal Sparsity for Mixture-of-Experts Language Models**|Samira Abnar et.al.|[2501.12370v1](http://arxiv.org/abs/2501.12370v1)|null|
+|**2025-01-21**|**Efficient Algorithm for Sparse Fourier Transform of Generalized q-ary Functions**|Darin Tsui et.al.|[2501.12365v1](http://arxiv.org/abs/2501.12365v1)|null|
+|**2025-01-21**|**Quantum Compressive Sensing Meets Quantum Noise: A Practical Exploration**|Naveed Naimipour et.al.|[2501.12335v1](http://arxiv.org/abs/2501.12335v1)|null|
+|**2025-01-21**|**On the Complexity of Telephone Broadcasting: From Cacti to Bounded Pathwidth Graphs**|Aida Aminian et.al.|[2501.12316v1](http://arxiv.org/abs/2501.12316v1)|null|
+|**2025-01-21**|**MoGERNN: An Inductive Traffic Predictor for Unobserved Locations in Dynamic Sensing Networks**|Qishen Zhou et.al.|[2501.12281v1](http://arxiv.org/abs/2501.12281v1)|[link](https://github.com/youxiaotu/MoGERNN)|
+|**2025-01-21**|**HAC++: Towards 100X Compression of 3D Gaussian Splatting**|Yihang Chen et.al.|[2501.12255v2](http://arxiv.org/abs/2501.12255v2)|[link](https://github.com/yihangchen-ee/hac-plus)|
+|**2025-01-21**|**Joint Reconstruction and Motion Estimation in Sparse-View 4DCT Using Diffusion Models within a Blind Inverse Problem Framework**|Antoine De Paepe et.al.|[2501.12249v1](http://arxiv.org/abs/2501.12249v1)|null|
+|**2025-01-21**|**Fast sparse optimization via adaptive shrinkage**|Vito Cerone et.al.|[2501.12236v1](http://arxiv.org/abs/2501.12236v1)|null|
+|**2025-01-21**|**Explainability for Vision Foundation Models: A Survey**|Rémi Kazmierczak et.al.|[2501.12203v1](http://arxiv.org/abs/2501.12203v1)|null|
+|**2025-01-21**|**MirrorCBO: A consensus-based optimization method in the spirit of mirror descent**|Leon Bungert et.al.|[2501.12189v1](http://arxiv.org/abs/2501.12189v1)|[link](https://github.com/TimRoith/MirrorCBX)|
+|**2025-01-21**|**Heterogeneous Federated Learning System for Sparse Healthcare Time-Series Prediction**|Jia-Hao Syu et.al.|[2501.12125v1](http://arxiv.org/abs/2501.12125v1)|null|
+|**2025-01-21**|**Meta-Sparsity: Learning Optimal Sparse Structures in Multi-task Networks through Meta-learning**|Richa Upadhyay et.al.|[2501.12115v1](http://arxiv.org/abs/2501.12115v1)|null|
+|**2025-01-21**|**Checkification: A Practical Approach for Testing Static Analysis Truths**|Daniela Ferreiro et.al.|[2501.12093v1](http://arxiv.org/abs/2501.12093v1)|null|
+|**2025-01-21**|**ORCAst: Operational High-Resolution Current Forecasts**|Pierre Garcia et.al.|[2501.12054v1](http://arxiv.org/abs/2501.12054v1)|null|
+|**2025-01-21**|**SMamba: Sparse Mamba for Event-based Object Detection**|Nan Yang et.al.|[2501.11971v1](http://arxiv.org/abs/2501.11971v1)|null|
+|**2025-01-21**|**Learning to Hop for a Single-Legged Robot with Parallel Mechanism**|Hongbo Zhang et.al.|[2501.11945v1](http://arxiv.org/abs/2501.11945v1)|null|
+|**2025-01-21**|**Build Optimization: A Systematic Literature Review**|Henri Aïdasso et.al.|[2501.11940v1](http://arxiv.org/abs/2501.11940v1)|null|
 
 ## AI
 
