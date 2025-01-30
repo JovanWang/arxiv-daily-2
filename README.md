@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-01-30 20:14:35 Asia/Shanghai
+ Automated deployment @ 2025-01-30 20:49:39 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -8,40 +8,6 @@
 ### Sparse Operator
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-
-### Sparse program Compile
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2025-01-29**|**Anti-scarring from eigenstate stacking in a chaotic spinor condensate**|Zhongling Lu et.al.|[2501.17856v1](http://arxiv.org/abs/2501.17856v1)|null|
-|**2025-01-29**|**From Sparse to Dense: Toddler-inspired Reward Transition in Goal-Oriented Reinforcement Learning**|Junseok Park et.al.|[2501.17842v1](http://arxiv.org/abs/2501.17842v1)|null|
-|**2025-01-29**|**Matrix Product Sketching via Coordinated Sampling**|Majid Daliri et.al.|[2501.17836v1](http://arxiv.org/abs/2501.17836v1)|null|
-|**2025-01-29**|**Aggregation Schemes for Single-Vector WSI Representation Learning in Digital Pathology**|Sobhan Hemati et.al.|[2501.17822v1](http://arxiv.org/abs/2501.17822v1)|null|
-|**2025-01-29**|**SSF: Sparse Long-Range Scene Flow for Autonomous Driving**|Ajinkya Khoche et.al.|[2501.17821v1](http://arxiv.org/abs/2501.17821v1)|null|
-|**2025-01-29**|**AdditiveLLM: Large Language Models Predict Defects in Additive Manufacturing**|Peter Pak et.al.|[2501.17784v1](http://arxiv.org/abs/2501.17784v1)|null|
-|**2025-01-29**|**Iso-Recursive Multiparty Sessions and their Automated Verification -- Technical Report**|Marco Giunti et.al.|[2501.17778v1](http://arxiv.org/abs/2501.17778v1)|null|
-|**2025-01-29**|**Formally Verified Binary-level Pointer Analysis**|Freek Verbeek et.al.|[2501.17766v1](http://arxiv.org/abs/2501.17766v1)|null|
-|**2025-01-29**|**Sparser, Better, Faster, Stronger: Efficient Automatic Differentiation for Sparse Jacobians and Hessians**|Adrian Hill et.al.|[2501.17737v1](http://arxiv.org/abs/2501.17737v1)|null|
-|**2025-01-29**|**BitMLx: Secure Cross-chain Smart Contracts For Bitcoin-style Cryptocurrencies**|Federico Badaloni et.al.|[2501.17733v1](http://arxiv.org/abs/2501.17733v1)|null|
-|**2025-01-29**|**Sparse Autoencoders Can Interpret Randomly Initialized Transformers**|Thomas Heap et.al.|[2501.17727v1](http://arxiv.org/abs/2501.17727v1)|null|
-|**2025-01-29**|**Ownership-based Virtual Memory for Intermittently-Powered Embedded Systems**|Markus Elias Gerber et.al.|[2501.17707v1](http://arxiv.org/abs/2501.17707v1)|null|
-|**2025-01-29**|**Analysis of the Motion Sickness and the Lack of Comfort in Car Passengers**|Estibaliz Asua et.al.|[2501.17664v1](http://arxiv.org/abs/2501.17664v1)|null|
-|**2025-01-29**|**Multi-Agent Path Finding Using Conflict-Based Search and Structural-Semantic Topometric Maps**|Scott Fredriksson et.al.|[2501.17661v1](http://arxiv.org/abs/2501.17661v1)|null|
-|**2025-01-29**|**Drivetrain simulation using variational autoencoders**|Pallavi Sharma et.al.|[2501.17653v1](http://arxiv.org/abs/2501.17653v1)|null|
-|**2025-01-29**|**Fine-Grained 1-Day Vulnerability Detection in Binaries via Patch Code Localization**|Chaopeng Dong et.al.|[2501.17413v1](http://arxiv.org/abs/2501.17413v1)|null|
-|**2025-01-29**|**A Genetic Algorithm-Based Approach for Automated Optimization of Kolmogorov-Arnold Networks in Classification Tasks**|Quan Long et.al.|[2501.17411v1](http://arxiv.org/abs/2501.17411v1)|null|
-|**2025-01-29**|**Consistent continuum equations and numerical benchmarks for a perturbation-based, variable-coefficient acoustofluidic solver**|Khemraj Gautam Kshetri et.al.|[2501.17398v1](http://arxiv.org/abs/2501.17398v1)|null|
-|**2025-01-28**|**Hardness and Approximation Algorithms for Balanced Districting Problems**|Prathamesh Dharangutte et.al.|[2501.17277v1](http://arxiv.org/abs/2501.17277v1)|null|
-|**2025-01-28**|**ViT-2SPN: Vision Transformer-based Dual-Stream Self-Supervised Pretraining Networks for Retinal OCT Classification**|Mohammadreza Saraei et.al.|[2501.17260v1](http://arxiv.org/abs/2501.17260v1)|null|
-|**2025-01-28**|**Efficient compilation of quantum circuits using multi-qubit gates**|Jonathan Nemirovsky et.al.|[2501.17246v1](http://arxiv.org/abs/2501.17246v1)|null|
-|**2025-01-28**|**Learning Orthogonal Random Unitary Channels with Contracted Quantum Approaches and Simplex Optimization**|Scott E. Smart et.al.|[2501.17243v1](http://arxiv.org/abs/2501.17243v1)|null|
-|**2025-01-28**|**AxBench: Steering LLMs? Even Simple Baselines Outperform Sparse Autoencoders**|Zhengxuan Wu et.al.|[2501.17148v2](http://arxiv.org/abs/2501.17148v2)|null|
-|**2025-01-28**|**Graph Transformers for inverse physics: reconstructing flows around arbitrary 2D airfoils**|Gregory Duthé et.al.|[2501.17081v1](http://arxiv.org/abs/2501.17081v1)|null|
-|**2025-01-28**|**Learning Mean Field Control on Sparse Graphs**|Christian Fabian et.al.|[2501.17079v1](http://arxiv.org/abs/2501.17079v1)|null|
-|**2025-01-28**|**Two measurement bases are asymptotically informationally complete for any pure state tomography**|Tianfeng Feng et.al.|[2501.17061v1](http://arxiv.org/abs/2501.17061v1)|null|
-|**2025-01-28**|**Channel Estimation for XL-MIMO Systems with Decentralized Baseband Processing: Integrating Local Reconstruction with Global Refinement**|Anzheng Tang et.al.|[2501.17059v2](http://arxiv.org/abs/2501.17059v2)|null|
-|**2025-01-28**|**From Partial Calibration to Full Potential: A Two-Stage Sparse DOA Estimation for Incoherently-Distributed Sources with Gain-Phase Uncertainty**|He Xu et.al.|[2501.16854v1](http://arxiv.org/abs/2501.16854v1)|null|
-|**2025-01-28**|**Bones of Contention: Exploring Query-Efficient Attacks Against Skeleton Recognition Systems**|Yuxin Cao et.al.|[2501.16843v1](http://arxiv.org/abs/2501.16843v1)|null|
-|**2025-01-28**|**Phase Noise Resilient Codebook Design for Sparse Code Multiple Access**|Haibo Liu et.al.|[2501.16823v1](http://arxiv.org/abs/2501.16823v1)|null|
 
 ### Sparse Data Format
 |Publish Date|Title|Authors|PDF|Code|
@@ -76,6 +42,40 @@
 |**2025-01-29**|**DINT Transformer**|Yueyang Cang et.al.|[2501.17486v1](http://arxiv.org/abs/2501.17486v1)|null|
 |**2025-01-29**|**Applying non-negative matrix factorization with covariates to multivariate time series data as a vector autoregression model**|Kenichi Satoh et.al.|[2501.17446v1](http://arxiv.org/abs/2501.17446v1)|null|
 |**2025-01-29**|**A Genetic Algorithm-Based Approach for Automated Optimization of Kolmogorov-Arnold Networks in Classification Tasks**|Quan Long et.al.|[2501.17411v1](http://arxiv.org/abs/2501.17411v1)|null|
+
+### Sparse program Compile
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2025-01-29**|**Anti-scarring from eigenstate stacking in a chaotic spinor condensate**|Zhongling Lu et.al.|[2501.17856v1](http://arxiv.org/abs/2501.17856v1)|null|
+|**2025-01-29**|**From Sparse to Dense: Toddler-inspired Reward Transition in Goal-Oriented Reinforcement Learning**|Junseok Park et.al.|[2501.17842v1](http://arxiv.org/abs/2501.17842v1)|null|
+|**2025-01-29**|**Matrix Product Sketching via Coordinated Sampling**|Majid Daliri et.al.|[2501.17836v1](http://arxiv.org/abs/2501.17836v1)|null|
+|**2025-01-29**|**Aggregation Schemes for Single-Vector WSI Representation Learning in Digital Pathology**|Sobhan Hemati et.al.|[2501.17822v1](http://arxiv.org/abs/2501.17822v1)|null|
+|**2025-01-29**|**SSF: Sparse Long-Range Scene Flow for Autonomous Driving**|Ajinkya Khoche et.al.|[2501.17821v1](http://arxiv.org/abs/2501.17821v1)|null|
+|**2025-01-29**|**AdditiveLLM: Large Language Models Predict Defects in Additive Manufacturing**|Peter Pak et.al.|[2501.17784v1](http://arxiv.org/abs/2501.17784v1)|null|
+|**2025-01-29**|**Iso-Recursive Multiparty Sessions and their Automated Verification -- Technical Report**|Marco Giunti et.al.|[2501.17778v1](http://arxiv.org/abs/2501.17778v1)|null|
+|**2025-01-29**|**Formally Verified Binary-level Pointer Analysis**|Freek Verbeek et.al.|[2501.17766v1](http://arxiv.org/abs/2501.17766v1)|null|
+|**2025-01-29**|**Sparser, Better, Faster, Stronger: Efficient Automatic Differentiation for Sparse Jacobians and Hessians**|Adrian Hill et.al.|[2501.17737v1](http://arxiv.org/abs/2501.17737v1)|null|
+|**2025-01-29**|**BitMLx: Secure Cross-chain Smart Contracts For Bitcoin-style Cryptocurrencies**|Federico Badaloni et.al.|[2501.17733v1](http://arxiv.org/abs/2501.17733v1)|null|
+|**2025-01-29**|**Sparse Autoencoders Can Interpret Randomly Initialized Transformers**|Thomas Heap et.al.|[2501.17727v1](http://arxiv.org/abs/2501.17727v1)|null|
+|**2025-01-29**|**Ownership-based Virtual Memory for Intermittently-Powered Embedded Systems**|Markus Elias Gerber et.al.|[2501.17707v1](http://arxiv.org/abs/2501.17707v1)|null|
+|**2025-01-29**|**Analysis of the Motion Sickness and the Lack of Comfort in Car Passengers**|Estibaliz Asua et.al.|[2501.17664v1](http://arxiv.org/abs/2501.17664v1)|null|
+|**2025-01-29**|**Multi-Agent Path Finding Using Conflict-Based Search and Structural-Semantic Topometric Maps**|Scott Fredriksson et.al.|[2501.17661v1](http://arxiv.org/abs/2501.17661v1)|null|
+|**2025-01-29**|**Drivetrain simulation using variational autoencoders**|Pallavi Sharma et.al.|[2501.17653v1](http://arxiv.org/abs/2501.17653v1)|null|
+|**2025-01-29**|**Fine-Grained 1-Day Vulnerability Detection in Binaries via Patch Code Localization**|Chaopeng Dong et.al.|[2501.17413v1](http://arxiv.org/abs/2501.17413v1)|null|
+|**2025-01-29**|**A Genetic Algorithm-Based Approach for Automated Optimization of Kolmogorov-Arnold Networks in Classification Tasks**|Quan Long et.al.|[2501.17411v1](http://arxiv.org/abs/2501.17411v1)|null|
+|**2025-01-29**|**Consistent continuum equations and numerical benchmarks for a perturbation-based, variable-coefficient acoustofluidic solver**|Khemraj Gautam Kshetri et.al.|[2501.17398v1](http://arxiv.org/abs/2501.17398v1)|null|
+|**2025-01-28**|**Hardness and Approximation Algorithms for Balanced Districting Problems**|Prathamesh Dharangutte et.al.|[2501.17277v1](http://arxiv.org/abs/2501.17277v1)|null|
+|**2025-01-28**|**ViT-2SPN: Vision Transformer-based Dual-Stream Self-Supervised Pretraining Networks for Retinal OCT Classification**|Mohammadreza Saraei et.al.|[2501.17260v1](http://arxiv.org/abs/2501.17260v1)|null|
+|**2025-01-28**|**Efficient compilation of quantum circuits using multi-qubit gates**|Jonathan Nemirovsky et.al.|[2501.17246v1](http://arxiv.org/abs/2501.17246v1)|null|
+|**2025-01-28**|**Learning Orthogonal Random Unitary Channels with Contracted Quantum Approaches and Simplex Optimization**|Scott E. Smart et.al.|[2501.17243v1](http://arxiv.org/abs/2501.17243v1)|null|
+|**2025-01-28**|**AxBench: Steering LLMs? Even Simple Baselines Outperform Sparse Autoencoders**|Zhengxuan Wu et.al.|[2501.17148v2](http://arxiv.org/abs/2501.17148v2)|null|
+|**2025-01-28**|**Graph Transformers for inverse physics: reconstructing flows around arbitrary 2D airfoils**|Gregory Duthé et.al.|[2501.17081v1](http://arxiv.org/abs/2501.17081v1)|null|
+|**2025-01-28**|**Learning Mean Field Control on Sparse Graphs**|Christian Fabian et.al.|[2501.17079v1](http://arxiv.org/abs/2501.17079v1)|null|
+|**2025-01-28**|**Two measurement bases are asymptotically informationally complete for any pure state tomography**|Tianfeng Feng et.al.|[2501.17061v1](http://arxiv.org/abs/2501.17061v1)|null|
+|**2025-01-28**|**Channel Estimation for XL-MIMO Systems with Decentralized Baseband Processing: Integrating Local Reconstruction with Global Refinement**|Anzheng Tang et.al.|[2501.17059v2](http://arxiv.org/abs/2501.17059v2)|null|
+|**2025-01-28**|**From Partial Calibration to Full Potential: A Two-Stage Sparse DOA Estimation for Incoherently-Distributed Sources with Gain-Phase Uncertainty**|He Xu et.al.|[2501.16854v1](http://arxiv.org/abs/2501.16854v1)|null|
+|**2025-01-28**|**Bones of Contention: Exploring Query-Efficient Attacks Against Skeleton Recognition Systems**|Yuxin Cao et.al.|[2501.16843v1](http://arxiv.org/abs/2501.16843v1)|null|
+|**2025-01-28**|**Phase Noise Resilient Codebook Design for Sparse Code Multiple Access**|Haibo Liu et.al.|[2501.16823v1](http://arxiv.org/abs/2501.16823v1)|null|
 
 ## Code Compile
 
