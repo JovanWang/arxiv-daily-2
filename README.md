@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-02-02 20:12:12 Asia/Shanghai
+ Automated deployment @ 2025-02-02 20:44:14 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -185,40 +185,6 @@
 
 ## Code Compile
 
-### C Code Generation
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2025-01-30**|**Diffusion Autoencoders are Scalable Image Tokenizers**|Yinbo Chen et.al.|[2501.18593v1](http://arxiv.org/abs/2501.18593v1)|null|
-|**2025-01-30**|**Advances in Multimodal Adaptation and Generalization: From Traditional Approaches to Foundation Models**|Hao Dong et.al.|[2501.18592v1](http://arxiv.org/abs/2501.18592v1)|[link](https://github.com/donghao51/awesome-multimodal-adaptation)|
-|**2025-01-30**|**Non-Hermitian catalysis of density-wave orders on Euclidean and hyperbolic lattices**|Christopher A. Leong et.al.|[2501.18591v1](http://arxiv.org/abs/2501.18591v1)|null|
-|**2025-01-30**|**DiffusionRenderer: Neural Inverse and Forward Rendering with Video Diffusion Models**|Ruofan Liang et.al.|[2501.18590v1](http://arxiv.org/abs/2501.18590v1)|null|
-|**2025-01-30**|**Inkspire: Supporting Design Exploration with Generative AI through Analogical Sketching**|David Chuan-En Lin et.al.|[2501.18588v1](http://arxiv.org/abs/2501.18588v1)|null|
-|**2025-01-30**|**Towards more accurate $B_{(s)}\rightarrowπ(K)$ and $D_{(s)}\rightarrowπ(K)$ form factors**|Logan Roberts et.al.|[2501.18586v1](http://arxiv.org/abs/2501.18586v1)|null|
-|**2025-01-30**|**Reducing Simulation Effort for RIS Optimization using an Efficient Far-Field Approximation**|Hans-Dieter Lang et.al.|[2501.18583v1](http://arxiv.org/abs/2501.18583v1)|null|
-|**2025-01-30**|**Accuracy and Robustness of Weight-Balancing Methods for Training PINNs**|Matthieu Barreau et.al.|[2501.18582v1](http://arxiv.org/abs/2501.18582v1)|null|
-|**2025-01-30**|**Bias-variance decompositions: the exclusive privilege of Bregman divergences**|Tom Heskes et.al.|[2501.18581v1](http://arxiv.org/abs/2501.18581v1)|null|
-|**2025-01-30**|**Token-Hungry, Yet Precise: DeepSeek R1 Highlights the Need for Multi-Step Reasoning Over Speed in MATH**|Evgenii Evstafev et.al.|[2501.18576v1](http://arxiv.org/abs/2501.18576v1)|null|
-|**2025-01-30**|**Comparison of lubrication theory and Stokes flow models in step bearings with flow separation**|Sarah Dennis et.al.|[2501.18575v1](http://arxiv.org/abs/2501.18575v1)|[link](https://github.com/sarah-dennis/Stokes-Reynolds)|
-|**2025-01-30**|**Inductive methods for counting number fields**|Brandon Alberts et.al.|[2501.18574v1](http://arxiv.org/abs/2501.18574v1)|null|
-|**2025-01-30**|**Derivation of the free energy, entropy and specific heat for planar Ising models: Application to Archimedean lattices and their duals**|Laurent Pierre et.al.|[2501.18569v1](http://arxiv.org/abs/2501.18569v1)|null|
-|**2025-01-30**|**BounTCHA: A CAPTCHA Utilizing Boundary Identification in AI-extended Videos**|Lehao Lin et.al.|[2501.18565v1](http://arxiv.org/abs/2501.18565v1)|null|
-|**2025-01-30**|**SAM2Act: Integrating Visual Foundation Model with A Memory Architecture for Robotic Manipulation**|Haoquan Fang et.al.|[2501.18564v1](http://arxiv.org/abs/2501.18564v1)|null|
-|**2025-01-30**|**CGAN-Based Framework for Meson Mass and Width Prediction**|S. Rostami et.al.|[2501.18562v1](http://arxiv.org/abs/2501.18562v1)|null|
-|**2025-01-30**|**Nonlinear SPDEs and Maximal Regularity: An Extended Survey**|Antonio Agresti et.al.|[2501.18561v1](http://arxiv.org/abs/2501.18561v1)|null|
-|**2025-01-30**|**Classical facets of quantum integrability**|A. Zabrodin et.al.|[2501.18557v1](http://arxiv.org/abs/2501.18557v1)|null|
-|**2025-01-30**|**Log-Gaussian Cox Processes on General Metric Graphs**|David Bolin et.al.|[2501.18558v1](http://arxiv.org/abs/2501.18558v1)|null|
-|**2025-01-30**|**Smoothing of operator semigroups under relatively bounded perturbations**|Sahiba Arora et.al.|[2501.18556v1](http://arxiv.org/abs/2501.18556v1)|null|
-|**2025-01-30**|**An Empirical Study of Dotfiles Repositories Containing User-Specific Configuration Files**|Wenhan Zhu et.al.|[2501.18555v1](http://arxiv.org/abs/2501.18555v1)|null|
-|**2025-01-30**|**Construction of tame supercuspidal representations in arbitrary residue characteristic**|Jessica Fintzen et.al.|[2501.18553v1](http://arxiv.org/abs/2501.18553v1)|null|
-|**2025-01-30**|**Transverse spin photocurrents in ultrathin topological insulator films**|Shahrzad Movafagh et.al.|[2501.18547v1](http://arxiv.org/abs/2501.18547v1)|null|
-|**2025-01-30**|**Universal description of the Neutron Star's surface and its key global properties: A Machine Learning Approach for nonrotating and rapidly rotating stellar models**|Grigorios Papigkiotis et.al.|[2501.18544v1](http://arxiv.org/abs/2501.18544v1)|[link](https://github.com/gregorypapi/universal-description-of-the-ns-surface-using-ml)|
-|**2025-01-30**|**Semantic Web and Creative AI -- A Technical Report from ISWS 2023**|Raia Abu Ahmad et.al.|[2501.18542v1](http://arxiv.org/abs/2501.18542v1)|null|
-|**2025-01-30**|**Loss Functions and Operators Generated by f-Divergences**|Vincent Roulet et.al.|[2501.18537v1](http://arxiv.org/abs/2501.18537v1)|null|
-|**2025-01-30**|**Illusions of Relevance: Using Content Injection Attacks to Deceive Retrievers, Rerankers, and LLM Judges**|Manveer Singh Tamber et.al.|[2501.18536v1](http://arxiv.org/abs/2501.18536v1)|[link](https://github.com/manveertamber/content_injection_attacks)|
-|**2025-01-30**|**A Hybrid Data-Driven Approach For Analyzing And Predicting Inpatient Length Of Stay In Health Centre**|Tasfia Noor Chowdhury et.al.|[2501.18535v1](http://arxiv.org/abs/2501.18535v1)|null|
-|**2025-01-30**|**Sample Classification using Machine Learning-Assisted Entangled Two-Photon Absorption**|Áulide Martínez-Tapia et.al.|[2501.18534v1](http://arxiv.org/abs/2501.18534v1)|null|
-|**2025-01-30**|**Rethinking Bottlenecks in Safety Fine-Tuning of Vision Language Models**|Yi Ding et.al.|[2501.18533v1](http://arxiv.org/abs/2501.18533v1)|null|
-
 ### C Code Migration
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -252,3 +218,37 @@
 |**2025-01-30**|**Derivation of the free energy, entropy and specific heat for planar Ising models: Application to Archimedean lattices and their duals**|Laurent Pierre et.al.|[2501.18569v1](http://arxiv.org/abs/2501.18569v1)|null|
 |**2025-01-30**|**Freeze-and-release direct optimization method for variational calculations of excited electronic states**|Yorick L. A. Schmerwitz et.al.|[2501.18568v1](http://arxiv.org/abs/2501.18568v1)|null|
 |**2025-01-30**|**High-resolution deuterium metabolic imaging of the human brain at 9.4 T using bSSFP spectral-spatial acquisitions**|Praveen Iyyappan Valsala et.al.|[2501.18567v1](http://arxiv.org/abs/2501.18567v1)|[link](https://github.com/praveenivp/DeuteMetCon)|
+
+### C Code Generation
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2025-01-30**|**Diffusion Autoencoders are Scalable Image Tokenizers**|Yinbo Chen et.al.|[2501.18593v1](http://arxiv.org/abs/2501.18593v1)|null|
+|**2025-01-30**|**Advances in Multimodal Adaptation and Generalization: From Traditional Approaches to Foundation Models**|Hao Dong et.al.|[2501.18592v1](http://arxiv.org/abs/2501.18592v1)|[link](https://github.com/donghao51/awesome-multimodal-adaptation)|
+|**2025-01-30**|**Non-Hermitian catalysis of density-wave orders on Euclidean and hyperbolic lattices**|Christopher A. Leong et.al.|[2501.18591v1](http://arxiv.org/abs/2501.18591v1)|null|
+|**2025-01-30**|**DiffusionRenderer: Neural Inverse and Forward Rendering with Video Diffusion Models**|Ruofan Liang et.al.|[2501.18590v1](http://arxiv.org/abs/2501.18590v1)|null|
+|**2025-01-30**|**Inkspire: Supporting Design Exploration with Generative AI through Analogical Sketching**|David Chuan-En Lin et.al.|[2501.18588v1](http://arxiv.org/abs/2501.18588v1)|null|
+|**2025-01-30**|**Towards more accurate $B_{(s)}\rightarrowπ(K)$ and $D_{(s)}\rightarrowπ(K)$ form factors**|Logan Roberts et.al.|[2501.18586v1](http://arxiv.org/abs/2501.18586v1)|null|
+|**2025-01-30**|**Reducing Simulation Effort for RIS Optimization using an Efficient Far-Field Approximation**|Hans-Dieter Lang et.al.|[2501.18583v1](http://arxiv.org/abs/2501.18583v1)|null|
+|**2025-01-30**|**Accuracy and Robustness of Weight-Balancing Methods for Training PINNs**|Matthieu Barreau et.al.|[2501.18582v1](http://arxiv.org/abs/2501.18582v1)|null|
+|**2025-01-30**|**Bias-variance decompositions: the exclusive privilege of Bregman divergences**|Tom Heskes et.al.|[2501.18581v1](http://arxiv.org/abs/2501.18581v1)|null|
+|**2025-01-30**|**Token-Hungry, Yet Precise: DeepSeek R1 Highlights the Need for Multi-Step Reasoning Over Speed in MATH**|Evgenii Evstafev et.al.|[2501.18576v1](http://arxiv.org/abs/2501.18576v1)|null|
+|**2025-01-30**|**Comparison of lubrication theory and Stokes flow models in step bearings with flow separation**|Sarah Dennis et.al.|[2501.18575v1](http://arxiv.org/abs/2501.18575v1)|[link](https://github.com/sarah-dennis/Stokes-Reynolds)|
+|**2025-01-30**|**Inductive methods for counting number fields**|Brandon Alberts et.al.|[2501.18574v1](http://arxiv.org/abs/2501.18574v1)|null|
+|**2025-01-30**|**Derivation of the free energy, entropy and specific heat for planar Ising models: Application to Archimedean lattices and their duals**|Laurent Pierre et.al.|[2501.18569v1](http://arxiv.org/abs/2501.18569v1)|null|
+|**2025-01-30**|**BounTCHA: A CAPTCHA Utilizing Boundary Identification in AI-extended Videos**|Lehao Lin et.al.|[2501.18565v1](http://arxiv.org/abs/2501.18565v1)|null|
+|**2025-01-30**|**SAM2Act: Integrating Visual Foundation Model with A Memory Architecture for Robotic Manipulation**|Haoquan Fang et.al.|[2501.18564v1](http://arxiv.org/abs/2501.18564v1)|null|
+|**2025-01-30**|**CGAN-Based Framework for Meson Mass and Width Prediction**|S. Rostami et.al.|[2501.18562v1](http://arxiv.org/abs/2501.18562v1)|null|
+|**2025-01-30**|**Nonlinear SPDEs and Maximal Regularity: An Extended Survey**|Antonio Agresti et.al.|[2501.18561v1](http://arxiv.org/abs/2501.18561v1)|null|
+|**2025-01-30**|**Classical facets of quantum integrability**|A. Zabrodin et.al.|[2501.18557v1](http://arxiv.org/abs/2501.18557v1)|null|
+|**2025-01-30**|**Log-Gaussian Cox Processes on General Metric Graphs**|David Bolin et.al.|[2501.18558v1](http://arxiv.org/abs/2501.18558v1)|null|
+|**2025-01-30**|**Smoothing of operator semigroups under relatively bounded perturbations**|Sahiba Arora et.al.|[2501.18556v1](http://arxiv.org/abs/2501.18556v1)|null|
+|**2025-01-30**|**An Empirical Study of Dotfiles Repositories Containing User-Specific Configuration Files**|Wenhan Zhu et.al.|[2501.18555v1](http://arxiv.org/abs/2501.18555v1)|null|
+|**2025-01-30**|**Construction of tame supercuspidal representations in arbitrary residue characteristic**|Jessica Fintzen et.al.|[2501.18553v1](http://arxiv.org/abs/2501.18553v1)|null|
+|**2025-01-30**|**Transverse spin photocurrents in ultrathin topological insulator films**|Shahrzad Movafagh et.al.|[2501.18547v1](http://arxiv.org/abs/2501.18547v1)|null|
+|**2025-01-30**|**Universal description of the Neutron Star's surface and its key global properties: A Machine Learning Approach for nonrotating and rapidly rotating stellar models**|Grigorios Papigkiotis et.al.|[2501.18544v1](http://arxiv.org/abs/2501.18544v1)|[link](https://github.com/gregorypapi/universal-description-of-the-ns-surface-using-ml)|
+|**2025-01-30**|**Semantic Web and Creative AI -- A Technical Report from ISWS 2023**|Raia Abu Ahmad et.al.|[2501.18542v1](http://arxiv.org/abs/2501.18542v1)|null|
+|**2025-01-30**|**Loss Functions and Operators Generated by f-Divergences**|Vincent Roulet et.al.|[2501.18537v1](http://arxiv.org/abs/2501.18537v1)|null|
+|**2025-01-30**|**Illusions of Relevance: Using Content Injection Attacks to Deceive Retrievers, Rerankers, and LLM Judges**|Manveer Singh Tamber et.al.|[2501.18536v1](http://arxiv.org/abs/2501.18536v1)|[link](https://github.com/manveertamber/content_injection_attacks)|
+|**2025-01-30**|**A Hybrid Data-Driven Approach For Analyzing And Predicting Inpatient Length Of Stay In Health Centre**|Tasfia Noor Chowdhury et.al.|[2501.18535v1](http://arxiv.org/abs/2501.18535v1)|null|
+|**2025-01-30**|**Sample Classification using Machine Learning-Assisted Entangled Two-Photon Absorption**|Áulide Martínez-Tapia et.al.|[2501.18534v1](http://arxiv.org/abs/2501.18534v1)|null|
+|**2025-01-30**|**Rethinking Bottlenecks in Safety Fine-Tuning of Vision Language Models**|Yi Ding et.al.|[2501.18533v1](http://arxiv.org/abs/2501.18533v1)|null|
