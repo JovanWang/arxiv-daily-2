@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-02-07 08:37:56 Asia/Shanghai
+ Automated deployment @ 2025-02-07 10:05:13 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -8,40 +8,6 @@
 ### Sparse Operator
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-
-### Sparse program Compile
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2025-02-05**|**BFS-Prover: Scalable Best-First Tree Search for LLM-based Automatic Theorem Proving**|Ran Xin et.al.|[2502.03438v1](http://arxiv.org/abs/2502.03438v1)|null|
-|**2025-02-05**|**Tensor Evolution: A framework for Fast Evaluation of Tensor Computations using Recurrences**|Javed Absar et.al.|[2502.03402v1](http://arxiv.org/abs/2502.03402v1)|null|
-|**2025-02-05**|**CAPE: Covariate-Adjusted Pre-Training for Epidemic Time Series Forecasting**|Zewen Liu et.al.|[2502.03393v1](http://arxiv.org/abs/2502.03393v1)|null|
-|**2025-02-05**|**SyMANTIC: An Efficient Symbolic Regression Method for Interpretable and Parsimonious Model Discovery in Science and Beyond**|Madhav R. Muthyala et.al.|[2502.03367v1](http://arxiv.org/abs/2502.03367v1)|null|
-|**2025-02-05**|**An efficient end-to-end computational framework for the generation of ECG calibrated volumetric models of human atrial electrophysiology**|Elena Zappon et.al.|[2502.03322v1](http://arxiv.org/abs/2502.03322v1)|null|
-|**2025-02-05**|**Single Antenna Terahertz Sensing using Preconfigured Metasurfaces**|Furkan Ilgac et.al.|[2502.03291v1](http://arxiv.org/abs/2502.03291v1)|null|
-|**2025-02-05**|**STEM: Spatial-Temporal Mapping Tool For Spiking Neural Networks**|Sherif Eissa et.al.|[2502.03287v1](http://arxiv.org/abs/2502.03287v1)|null|
-|**2025-02-05**|**A scale of conceptual orality and literacy: Automatic text categorization in the tradition of "Nähe und Distanz"**|Volker Emmrich et.al.|[2502.03252v1](http://arxiv.org/abs/2502.03252v1)|null|
-|**2025-02-05**|**AL-Bench: A Benchmark for Automatic Logging**|Boyin Tan et.al.|[2502.03160v1](http://arxiv.org/abs/2502.03160v1)|null|
-|**2025-02-05**|**Analyze Feature Flow to Enhance Interpretation and Steering in Language Models**|Daniil Laptev et.al.|[2502.03032v1](http://arxiv.org/abs/2502.03032v1)|null|
-|**2025-02-05**|**Determine the point source of the heat equation with sparse boundary measurements**|Qiling Gu et.al.|[2502.03018v1](http://arxiv.org/abs/2502.03018v1)|null|
-|**2025-02-05**|**Issy: A Comprehensive Tool for Specification and Synthesis of Infinite-State Reactive Systems**|Philippe Heim et.al.|[2502.03013v1](http://arxiv.org/abs/2502.03013v1)|null|
-|**2025-02-05**|**Armadillo: An Efficient Framework for Numerical Linear Algebra**|Conrad Sanderson et.al.|[2502.03000v1](http://arxiv.org/abs/2502.03000v1)|null|
-|**2025-02-05**|**Matching Criterion for Identifiability in Sparse Factor Analysis**|Nils Sturma et.al.|[2502.02986v1](http://arxiv.org/abs/2502.02986v1)|null|
-|**2025-02-05**|**Every Angle Is Worth A Second Glance: Mining Kinematic Skeletal Structures from Multi-view Joint Cloud**|Junkun Jiang et.al.|[2502.02936v1](http://arxiv.org/abs/2502.02936v1)|null|
-|**2025-02-05**|**Global Contact-Rich Planning with Sparsity-Rich Semidefinite Relaxations**|Shucheng Kang et.al.|[2502.02829v1](http://arxiv.org/abs/2502.02829v1)|null|
-|**2025-02-05**|**Accessible and Portable LLM Inference by Compiling Computational Graphs into SQL**|Wenbo Sun et.al.|[2502.02818v1](http://arxiv.org/abs/2502.02818v1)|null|
-|**2025-02-04**|**When are Diffusion Priors Helpful in Sparse Reconstruction? A Study with Sparse-view CT**|Matt Y. Cheung et.al.|[2502.02771v1](http://arxiv.org/abs/2502.02771v1)|null|
-|**2025-02-04**|**Twilight: Adaptive Attention Sparsity with Hierarchical Top-$p$ Pruning**|Chaofan Lin et.al.|[2502.02770v1](http://arxiv.org/abs/2502.02770v1)|null|
-|**2025-02-04**|**Improving polynomial bounds for the Graphical Traveling Salesman Problem with release dates on paths**|Thailsson Clementino et.al.|[2502.02680v1](http://arxiv.org/abs/2502.02680v1)|null|
-|**2025-02-04**|**New stellar bow shocks and bubbles found around runaway stars**|M. Carretero-Castrillo et.al.|[2502.02658v1](http://arxiv.org/abs/2502.02658v1)|null|
-|**2025-02-04**|**Hecate: Unlocking Efficient Sparse Model Training via Fully Sharded Sparse Data Parallelism**|Yuhao Qing et.al.|[2502.02581v1](http://arxiv.org/abs/2502.02581v1)|null|
-|**2025-02-04**|**Particle Trajectory Representation Learning with Masked Point Modeling**|Sam Young et.al.|[2502.02558v1](http://arxiv.org/abs/2502.02558v1)|null|
-|**2025-02-04**|**Hierarchical Sparse Bayesian Multitask Model with Scalable Inference for Microbiome Analysis**|Haonan Zhu et.al.|[2502.02552v1](http://arxiv.org/abs/2502.02552v1)|null|
-|**2025-02-04**|**Deep Weight Factorization: Sparse Learning Through the Lens of Artificial Symmetries**|Chris Kolb et.al.|[2502.02496v1](http://arxiv.org/abs/2502.02496v1)|null|
-|**2025-02-04**|**$O(a)$-improved QCD+QED Wilson Dirac operator on GPUs**|Anian Altherr et.al.|[2502.02490v1](http://arxiv.org/abs/2502.02490v1)|null|
-|**2025-02-04**|**Stable Port-Hamiltonian Neural Networks**|Fabian J. Roth et.al.|[2502.02480v1](http://arxiv.org/abs/2502.02480v1)|null|
-|**2025-02-04**|**Rankify: A Comprehensive Python Toolkit for Retrieval, Re-Ranking, and Retrieval-Augmented Generation**|Abdelrahman Abdallah et.al.|[2502.02464v2](http://arxiv.org/abs/2502.02464v2)|null|
-|**2025-02-04**|**Sparse Data Generation Using Diffusion Models**|Phil Ostheimer et.al.|[2502.02448v1](http://arxiv.org/abs/2502.02448v1)|null|
-|**2025-02-04**|**Unlocking the power of global quantum gates with machine learning**|Vinit Singh et.al.|[2502.02405v1](http://arxiv.org/abs/2502.02405v1)|null|
 
 ### Sparse Data Format
 |Publish Date|Title|Authors|PDF|Code|
@@ -66,7 +32,7 @@
 |**2025-02-05**|**The bilinear Hessian for large scale optimization**|Marcus Carlsson et.al.|[2502.03070v1](http://arxiv.org/abs/2502.03070v1)|null|
 |**2025-02-05**|**RepLoRA: Reparameterizing Low-Rank Adaptation via the Perspective of Mixture of Experts**|Tuan Truong et.al.|[2502.03044v1](http://arxiv.org/abs/2502.03044v1)|null|
 |**2025-02-05**|**Aggregate to Adapt: Node-Centric Aggregation for Multi-Source-Free Graph Domain Adaptation**|Zhen Zhang et.al.|[2502.03033v1](http://arxiv.org/abs/2502.03033v1)|null|
-|**2025-02-05**|**Analyze Feature Flow to Enhance Interpretation and Steering in Language Models**|Daniil Laptev et.al.|[2502.03032v1](http://arxiv.org/abs/2502.03032v1)|null|
+|**2025-02-05**|**Analyze Feature Flow to Enhance Interpretation and Steering in Language Models**|Daniil Laptev et.al.|[2502.03032v2](http://arxiv.org/abs/2502.03032v2)|null|
 |**2025-02-05**|**Determine the point source of the heat equation with sparse boundary measurements**|Qiling Gu et.al.|[2502.03018v1](http://arxiv.org/abs/2502.03018v1)|null|
 |**2025-02-05**|**An Augmented Backward-Corrected Projector Splitting Integrator for Dynamical Low-Rank Training**|Jonas Kusch et.al.|[2502.03006v1](http://arxiv.org/abs/2502.03006v1)|null|
 |**2025-02-05**|**Matching Criterion for Identifiability in Sparse Factor Analysis**|Nils Sturma et.al.|[2502.02986v1](http://arxiv.org/abs/2502.02986v1)|null|
@@ -76,6 +42,40 @@
 |**2025-02-05**|**Improving the Direct Determination of $|V_{ts}|$ using Deep Learning**|Jeewon Heo et.al.|[2502.02918v1](http://arxiv.org/abs/2502.02918v1)|null|
 |**2025-02-05**|**Physically Consistent Global Atmospheric Data Assimilation with Machine Learning in a Latent Space**|Hang Fan et.al.|[2502.02884v1](http://arxiv.org/abs/2502.02884v1)|null|
 |**2025-02-05**|**Kronecker sum covariance models for spatio-temporal data**|Shuheng Zhou et.al.|[2502.02848v1](http://arxiv.org/abs/2502.02848v1)|null|
+
+### Sparse program Compile
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2025-02-05**|**BFS-Prover: Scalable Best-First Tree Search for LLM-based Automatic Theorem Proving**|Ran Xin et.al.|[2502.03438v1](http://arxiv.org/abs/2502.03438v1)|null|
+|**2025-02-05**|**Tensor Evolution: A framework for Fast Evaluation of Tensor Computations using Recurrences**|Javed Absar et.al.|[2502.03402v1](http://arxiv.org/abs/2502.03402v1)|null|
+|**2025-02-05**|**CAPE: Covariate-Adjusted Pre-Training for Epidemic Time Series Forecasting**|Zewen Liu et.al.|[2502.03393v1](http://arxiv.org/abs/2502.03393v1)|null|
+|**2025-02-05**|**SyMANTIC: An Efficient Symbolic Regression Method for Interpretable and Parsimonious Model Discovery in Science and Beyond**|Madhav R. Muthyala et.al.|[2502.03367v1](http://arxiv.org/abs/2502.03367v1)|null|
+|**2025-02-05**|**An efficient end-to-end computational framework for the generation of ECG calibrated volumetric models of human atrial electrophysiology**|Elena Zappon et.al.|[2502.03322v1](http://arxiv.org/abs/2502.03322v1)|null|
+|**2025-02-05**|**Single Antenna Terahertz Sensing using Preconfigured Metasurfaces**|Furkan Ilgac et.al.|[2502.03291v1](http://arxiv.org/abs/2502.03291v1)|null|
+|**2025-02-05**|**STEM: Spatial-Temporal Mapping Tool For Spiking Neural Networks**|Sherif Eissa et.al.|[2502.03287v1](http://arxiv.org/abs/2502.03287v1)|null|
+|**2025-02-05**|**A scale of conceptual orality and literacy: Automatic text categorization in the tradition of "Nähe und Distanz"**|Volker Emmrich et.al.|[2502.03252v1](http://arxiv.org/abs/2502.03252v1)|null|
+|**2025-02-05**|**AL-Bench: A Benchmark for Automatic Logging**|Boyin Tan et.al.|[2502.03160v1](http://arxiv.org/abs/2502.03160v1)|null|
+|**2025-02-05**|**Analyze Feature Flow to Enhance Interpretation and Steering in Language Models**|Daniil Laptev et.al.|[2502.03032v2](http://arxiv.org/abs/2502.03032v2)|null|
+|**2025-02-05**|**Determine the point source of the heat equation with sparse boundary measurements**|Qiling Gu et.al.|[2502.03018v1](http://arxiv.org/abs/2502.03018v1)|null|
+|**2025-02-05**|**Issy: A Comprehensive Tool for Specification and Synthesis of Infinite-State Reactive Systems**|Philippe Heim et.al.|[2502.03013v1](http://arxiv.org/abs/2502.03013v1)|null|
+|**2025-02-05**|**Armadillo: An Efficient Framework for Numerical Linear Algebra**|Conrad Sanderson et.al.|[2502.03000v1](http://arxiv.org/abs/2502.03000v1)|null|
+|**2025-02-05**|**Matching Criterion for Identifiability in Sparse Factor Analysis**|Nils Sturma et.al.|[2502.02986v1](http://arxiv.org/abs/2502.02986v1)|null|
+|**2025-02-05**|**Every Angle Is Worth A Second Glance: Mining Kinematic Skeletal Structures from Multi-view Joint Cloud**|Junkun Jiang et.al.|[2502.02936v1](http://arxiv.org/abs/2502.02936v1)|null|
+|**2025-02-05**|**Global Contact-Rich Planning with Sparsity-Rich Semidefinite Relaxations**|Shucheng Kang et.al.|[2502.02829v2](http://arxiv.org/abs/2502.02829v2)|null|
+|**2025-02-05**|**Accessible and Portable LLM Inference by Compiling Computational Graphs into SQL**|Wenbo Sun et.al.|[2502.02818v1](http://arxiv.org/abs/2502.02818v1)|null|
+|**2025-02-04**|**When are Diffusion Priors Helpful in Sparse Reconstruction? A Study with Sparse-view CT**|Matt Y. Cheung et.al.|[2502.02771v1](http://arxiv.org/abs/2502.02771v1)|null|
+|**2025-02-04**|**Twilight: Adaptive Attention Sparsity with Hierarchical Top-$p$ Pruning**|Chaofan Lin et.al.|[2502.02770v2](http://arxiv.org/abs/2502.02770v2)|null|
+|**2025-02-04**|**Improving polynomial bounds for the Graphical Traveling Salesman Problem with release dates on paths**|Thailsson Clementino et.al.|[2502.02680v2](http://arxiv.org/abs/2502.02680v2)|null|
+|**2025-02-04**|**New stellar bow shocks and bubbles found around runaway stars**|M. Carretero-Castrillo et.al.|[2502.02658v1](http://arxiv.org/abs/2502.02658v1)|null|
+|**2025-02-04**|**Hecate: Unlocking Efficient Sparse Model Training via Fully Sharded Sparse Data Parallelism**|Yuhao Qing et.al.|[2502.02581v1](http://arxiv.org/abs/2502.02581v1)|null|
+|**2025-02-04**|**Particle Trajectory Representation Learning with Masked Point Modeling**|Sam Young et.al.|[2502.02558v1](http://arxiv.org/abs/2502.02558v1)|null|
+|**2025-02-04**|**Hierarchical Sparse Bayesian Multitask Model with Scalable Inference for Microbiome Analysis**|Haonan Zhu et.al.|[2502.02552v1](http://arxiv.org/abs/2502.02552v1)|null|
+|**2025-02-04**|**Deep Weight Factorization: Sparse Learning Through the Lens of Artificial Symmetries**|Chris Kolb et.al.|[2502.02496v1](http://arxiv.org/abs/2502.02496v1)|null|
+|**2025-02-04**|**$O(a)$-improved QCD+QED Wilson Dirac operator on GPUs**|Anian Altherr et.al.|[2502.02490v1](http://arxiv.org/abs/2502.02490v1)|null|
+|**2025-02-04**|**Stable Port-Hamiltonian Neural Networks**|Fabian J. Roth et.al.|[2502.02480v1](http://arxiv.org/abs/2502.02480v1)|null|
+|**2025-02-04**|**Rankify: A Comprehensive Python Toolkit for Retrieval, Re-Ranking, and Retrieval-Augmented Generation**|Abdelrahman Abdallah et.al.|[2502.02464v2](http://arxiv.org/abs/2502.02464v2)|null|
+|**2025-02-04**|**Sparse Data Generation Using Diffusion Models**|Phil Ostheimer et.al.|[2502.02448v1](http://arxiv.org/abs/2502.02448v1)|null|
+|**2025-02-04**|**Unlocking the power of global quantum gates with machine learning**|Vinit Singh et.al.|[2502.02405v1](http://arxiv.org/abs/2502.02405v1)|null|
 
 ## AI
 
@@ -195,9 +195,9 @@
 |**2025-02-05**|**Adapt-Pruner: Adaptive Structural Pruning for Efficient Small Language Model Training**|Boyao Wang et.al.|[2502.03460v1](http://arxiv.org/abs/2502.03460v1)|null|
 |**2025-02-05**|**SKI Models: Skeleton Induced Vision-Language Embeddings for Understanding Activities of Daily Living**|Arkaprava Sinha et.al.|[2502.03459v1](http://arxiv.org/abs/2502.03459v1)|null|
 |**2025-02-05**|**The Performance Of The Unadjusted Langevin Algorithm Without Smoothness Assumptions**|Tim Johnston et.al.|[2502.03458v1](http://arxiv.org/abs/2502.03458v1)|null|
-|**2025-02-05**|**Clustering of the extrema: A theoretical description of weak lensing critical points power spectra in the mildly nonlinear regime**|Zhengyangguang Gong et.al.|[2502.03457v1](http://arxiv.org/abs/2502.03457v1)|null|
+|**2025-02-05**|**Clustering of the extreme: A theoretical description of weak lensing critical points power spectra in the mildly nonlinear regime**|Zhengyangguang Gong et.al.|[2502.03457v2](http://arxiv.org/abs/2502.03457v2)|null|
 |**2025-02-05**|**Learning dissipation and instability fields from chaotic dynamics**|Ludovico T Giorgini et.al.|[2502.03456v1](http://arxiv.org/abs/2502.03456v1)|null|
-|**2025-02-05**|**DESI Strong Lens Foundry I: HST Observations and Modeling with GIGA-Lens**|X. Huang et.al.|[2502.03455v1](http://arxiv.org/abs/2502.03455v1)|null|
+|**2025-02-05**|**DESI Strong Lens Foundry I: HST Observations and Modeling with GIGA-Lens**|X. Huang et.al.|[2502.03455v2](http://arxiv.org/abs/2502.03455v2)|null|
 |**2025-02-05**|**Kineto-Dynamical Planning and Accurate Execution of Minimum-Time Maneuvers on Three-Dimensional Circuits**|Mattia Piccinini et.al.|[2502.03454v1](http://arxiv.org/abs/2502.03454v1)|null|
 |**2025-02-05**|**Gamma Ray Burst GRB 221009A: two distinct hints at once at new physics**|Giorgio Galanti et.al.|[2502.03453v1](http://arxiv.org/abs/2502.03453v1)|null|
 |**2025-02-05**|**Unconventional anomalous Hall effect in hexagonal polar magnet Y_3Co_8Sn_4**|Afsar Ahmed et.al.|[2502.03452v1](http://arxiv.org/abs/2502.03452v1)|null|
@@ -229,8 +229,8 @@
 |**2025-02-05**|**Adapt-Pruner: Adaptive Structural Pruning for Efficient Small Language Model Training**|Boyao Wang et.al.|[2502.03460v1](http://arxiv.org/abs/2502.03460v1)|null|
 |**2025-02-05**|**SKI Models: Skeleton Induced Vision-Language Embeddings for Understanding Activities of Daily Living**|Arkaprava Sinha et.al.|[2502.03459v1](http://arxiv.org/abs/2502.03459v1)|null|
 |**2025-02-05**|**The Performance Of The Unadjusted Langevin Algorithm Without Smoothness Assumptions**|Tim Johnston et.al.|[2502.03458v1](http://arxiv.org/abs/2502.03458v1)|null|
-|**2025-02-05**|**Clustering of the extrema: A theoretical description of weak lensing critical points power spectra in the mildly nonlinear regime**|Zhengyangguang Gong et.al.|[2502.03457v1](http://arxiv.org/abs/2502.03457v1)|null|
-|**2025-02-05**|**DESI Strong Lens Foundry I: HST Observations and Modeling with GIGA-Lens**|X. Huang et.al.|[2502.03455v1](http://arxiv.org/abs/2502.03455v1)|null|
+|**2025-02-05**|**Clustering of the extreme: A theoretical description of weak lensing critical points power spectra in the mildly nonlinear regime**|Zhengyangguang Gong et.al.|[2502.03457v2](http://arxiv.org/abs/2502.03457v2)|null|
+|**2025-02-05**|**DESI Strong Lens Foundry I: HST Observations and Modeling with GIGA-Lens**|X. Huang et.al.|[2502.03455v2](http://arxiv.org/abs/2502.03455v2)|null|
 |**2025-02-05**|**Kineto-Dynamical Planning and Accurate Execution of Minimum-Time Maneuvers on Three-Dimensional Circuits**|Mattia Piccinini et.al.|[2502.03454v1](http://arxiv.org/abs/2502.03454v1)|null|
 |**2025-02-05**|**A Schema-Guided Reason-while-Retrieve framework for Reasoning on Scene Graphs with Large-Language-Models (LLMs)**|Yiye Chen et.al.|[2502.03450v1](http://arxiv.org/abs/2502.03450v1)|null|
 |**2025-02-05**|**Dress-1-to-3: Single Image to Simulation-Ready 3D Outfit with Diffusion Prior and Differentiable Physics**|Xuan Li et.al.|[2502.03449v1](http://arxiv.org/abs/2502.03449v1)|null|
