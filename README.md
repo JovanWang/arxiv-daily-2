@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-02-11 08:37:48 Asia/Shanghai
+ Automated deployment @ 2025-02-11 10:03:49 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -8,40 +8,6 @@
 ### Sparse Operator
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-
-### Sparse Data Format
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2025-02-07**|**Fillerbuster: Multi-View Scene Completion for Casual Captures**|Ethan Weber et.al.|[2502.05175v1](http://arxiv.org/abs/2502.05175v1)|null|
-|**2025-02-07**|**Estimated Roadway Segment Traffic Data by Vehicle Class for the United States: A Machine Learning Approach**|Brittany Antonczak et.al.|[2502.05161v1](http://arxiv.org/abs/2502.05161v1)|null|
-|**2025-02-07**|**Tractable description of hydrodynamic limits of a class of interacting jump processes on sparse graphs**|Juniper Cocomello et.al.|[2502.05156v1](http://arxiv.org/abs/2502.05156v1)|null|
-|**2025-02-07**|**Two-Point Deterministic Equivalence for Stochastic Gradient Dynamics in Linear Models**|Alexander Atanasov et.al.|[2502.05074v1](http://arxiv.org/abs/2502.05074v1)|null|
-|**2025-02-07**|**Energy dynamics in a class of local random matrix Hamiltonians**|Klée Pollock et.al.|[2502.05045v1](http://arxiv.org/abs/2502.05045v1)|null|
-|**2025-02-07**|**MindAligner: Explicit Brain Functional Alignment for Cross-Subject Visual Decoding from Limited fMRI Data**|Yuqin Dai et.al.|[2502.05034v1](http://arxiv.org/abs/2502.05034v1)|null|
-|**2025-02-07**|**On the minimum number of distinct eigenvalues of triangle-free strongly regular graphs**|Emily Egolf et.al.|[2502.05031v1](http://arxiv.org/abs/2502.05031v1)|null|
-|**2025-02-07**|**Impact of Model Mismatch on DOA Estimation with MUSIC: Near-Field and Far-Field**|Don-Roberts Emenonye et.al.|[2502.05016v1](http://arxiv.org/abs/2502.05016v1)|null|
-|**2025-02-07**|**QuEST: Stable Training of LLMs with 1-Bit Weights and Activations**|Andrei Panferov et.al.|[2502.05003v1](http://arxiv.org/abs/2502.05003v1)|[link](https://github.com/IST-DASLab/QuEST)|
-|**2025-02-07**|**The multiple Markov theorem on Angelesco sets**|K. Castillo et.al.|[2502.04992v1](http://arxiv.org/abs/2502.04992v1)|null|
-|**2025-02-07**|**Hilbert Bundles and Holographic Space-time: the Hydrodynamic Approach to Gravity**|T. Banks et.al.|[2502.04924v1](http://arxiv.org/abs/2502.04924v1)|null|
-|**2025-02-07**|**Observation of non-Hermitian topological disclination states and charge fractionalization**|Ruifeng Li et.al.|[2502.04922v1](http://arxiv.org/abs/2502.04922v1)|null|
-|**2025-02-07**|**Sparse Autoencoders Do Not Find Canonical Units of Analysis**|Patrick Leask et.al.|[2502.04878v1](http://arxiv.org/abs/2502.04878v1)|null|
-|**2025-02-07**|**Ultraviolet Renormalization of Spin Boson Models I. Normal and 2-Nilpotent Interactions**|Benjamin Hinrichs et.al.|[2502.04876v1](http://arxiv.org/abs/2502.04876v1)|null|
-|**2025-02-07**|**Crossover from Wannier-Stark localization to charge density waves for interacting spinless fermions in one dimension**|Nair Aucar Boidi et.al.|[2502.04866v1](http://arxiv.org/abs/2502.04866v1)|null|
-|**2025-02-07**|**$TAR^2$: Temporal-Agent Reward Redistribution for Optimal Policy Preservation in Multi-Agent Reinforcement Learning**|Aditya Kapoor et.al.|[2502.04864v1](http://arxiv.org/abs/2502.04864v1)|null|
-|**2025-02-07**|**Explicit Pfaffian Formula for Amplitudes of Fermionic Gaussian Pure States in Arbitrary Pauli Bases**|M. A. Rajabpour et.al.|[2502.04857v1](http://arxiv.org/abs/2502.04857v1)|null|
-|**2025-02-07**|**PoI: Pixel of Interest for Novel View Synthesis Assisted Scene Coordinate Regression**|Feifei Li et.al.|[2502.04843v1](http://arxiv.org/abs/2502.04843v1)|null|
-|**2025-02-07**|**Memory Capacity of Nonlinear Recurrent Networks: Is it Informative?**|Giovanni Ballarin et.al.|[2502.04832v1](http://arxiv.org/abs/2502.04832v1)|null|
-|**2025-02-07**|**A family of algebraic operations extending the Turaev cobracket**|Toyo Taniguchi et.al.|[2502.04806v1](http://arxiv.org/abs/2502.04806v1)|null|
-|**2025-02-07**|**DULRTC-RME: A Deep Unrolled Low-rank Tensor Completion Network for Radio Map Estimation**|Yao Wang et.al.|[2502.04796v1](http://arxiv.org/abs/2502.04796v1)|null|
-|**2025-02-07**|**Why ETH? On thermalization and locality**|Stefan Eccles et.al.|[2502.04784v1](http://arxiv.org/abs/2502.04784v1)|null|
-|**2025-02-07**|**Community detection for directed networks revisited using bimodularity**|Alexandre Cionca et.al.|[2502.04777v1](http://arxiv.org/abs/2502.04777v1)|null|
-|**2025-02-07**|**Differential Privacy of Quantum and Quantum-Inspired-Classical Recommendation Algorithms**|Chenjian Li et.al.|[2502.04758v1](http://arxiv.org/abs/2502.04758v1)|null|
-|**2025-02-07**|**Tighter sparse variational Gaussian processes**|Thang D. Bui et.al.|[2502.04750v1](http://arxiv.org/abs/2502.04750v1)|null|
-|**2025-02-07**|**Multivalued forbidden numbers of two-rowed configurations -- the missing cases**|Wallace Peaslee et.al.|[2502.04741v1](http://arxiv.org/abs/2502.04741v1)|null|
-|**2025-02-07**|**Semileptonic kaon decays and the precise determination of $V_{us}$**|Chien-Yeah Seng et.al.|[2502.04721v1](http://arxiv.org/abs/2502.04721v1)|null|
-|**2025-02-07**|**Fluctuations of the largest eigenvalues of transformed spiked Wigner matrices**|Aro Lee et.al.|[2502.04720v1](http://arxiv.org/abs/2502.04720v1)|null|
-|**2025-02-07**|**Rigorous Perturbation Bounds for the QX Decomposition for Centrosymmetric Matrices**|Aamir Farooq et.al.|[2502.04698v1](http://arxiv.org/abs/2502.04698v1)|null|
-|**2025-02-07**|**Implicit Bias of SignGD and Adam on Multiclass Separable Data**|Chen Fan et.al.|[2502.04664v1](http://arxiv.org/abs/2502.04664v1)|null|
 
 ### Sparse program Compile
 |Publish Date|Title|Authors|PDF|Code|
@@ -76,6 +42,40 @@
 |**2025-02-06**|**A Retrospective Systematic Study on Hierarchical Sparse Query Transformer-assisted Ultrasound Screening for Early Hepatocellular Carcinoma**|Chaoyin She et.al.|[2502.03772v1](http://arxiv.org/abs/2502.03772v1)|[link](https://github.com/Asunatan/HSQformer)|
 |**2025-02-06**|**Systolic Sparse Tensor Slices: FPGA Building Blocks for Sparse and Dense AI Acceleration**|Endri Taka et.al.|[2502.03763v1](http://arxiv.org/abs/2502.03763v1)|null|
 |**2025-02-06**|**PINS: Proximal Iterations with Sparse Newton and Sinkhorn for Optimal Transport**|Di Wu et.al.|[2502.03749v1](http://arxiv.org/abs/2502.03749v1)|null|
+
+### Sparse Data Format
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2025-02-07**|**Fillerbuster: Multi-View Scene Completion for Casual Captures**|Ethan Weber et.al.|[2502.05175v1](http://arxiv.org/abs/2502.05175v1)|null|
+|**2025-02-07**|**Estimated Roadway Segment Traffic Data by Vehicle Class for the United States: A Machine Learning Approach**|Brittany Antonczak et.al.|[2502.05161v1](http://arxiv.org/abs/2502.05161v1)|null|
+|**2025-02-07**|**Tractable description of hydrodynamic limits of a class of interacting jump processes on sparse graphs**|Juniper Cocomello et.al.|[2502.05156v1](http://arxiv.org/abs/2502.05156v1)|null|
+|**2025-02-07**|**Two-Point Deterministic Equivalence for Stochastic Gradient Dynamics in Linear Models**|Alexander Atanasov et.al.|[2502.05074v1](http://arxiv.org/abs/2502.05074v1)|null|
+|**2025-02-07**|**Energy dynamics in a class of local random matrix Hamiltonians**|Klée Pollock et.al.|[2502.05045v1](http://arxiv.org/abs/2502.05045v1)|null|
+|**2025-02-07**|**MindAligner: Explicit Brain Functional Alignment for Cross-Subject Visual Decoding from Limited fMRI Data**|Yuqin Dai et.al.|[2502.05034v1](http://arxiv.org/abs/2502.05034v1)|null|
+|**2025-02-07**|**On the minimum number of distinct eigenvalues of triangle-free strongly regular graphs**|Emily Egolf et.al.|[2502.05031v1](http://arxiv.org/abs/2502.05031v1)|null|
+|**2025-02-07**|**Impact of Model Mismatch on DOA Estimation with MUSIC: Near-Field and Far-Field**|Don-Roberts Emenonye et.al.|[2502.05016v1](http://arxiv.org/abs/2502.05016v1)|null|
+|**2025-02-07**|**QuEST: Stable Training of LLMs with 1-Bit Weights and Activations**|Andrei Panferov et.al.|[2502.05003v1](http://arxiv.org/abs/2502.05003v1)|[link](https://github.com/IST-DASLab/QuEST)|
+|**2025-02-07**|**The multiple Markov theorem on Angelesco sets**|K. Castillo et.al.|[2502.04992v1](http://arxiv.org/abs/2502.04992v1)|null|
+|**2025-02-07**|**Hilbert Bundles and Holographic Space-time: the Hydrodynamic Approach to Gravity**|T. Banks et.al.|[2502.04924v1](http://arxiv.org/abs/2502.04924v1)|null|
+|**2025-02-07**|**Observation of non-Hermitian topological disclination states and charge fractionalization**|Ruifeng Li et.al.|[2502.04922v1](http://arxiv.org/abs/2502.04922v1)|null|
+|**2025-02-07**|**Sparse Autoencoders Do Not Find Canonical Units of Analysis**|Patrick Leask et.al.|[2502.04878v1](http://arxiv.org/abs/2502.04878v1)|null|
+|**2025-02-07**|**Ultraviolet Renormalization of Spin Boson Models I. Normal and 2-Nilpotent Interactions**|Benjamin Hinrichs et.al.|[2502.04876v1](http://arxiv.org/abs/2502.04876v1)|null|
+|**2025-02-07**|**Crossover from Wannier-Stark localization to charge density waves for interacting spinless fermions in one dimension**|Nair Aucar Boidi et.al.|[2502.04866v1](http://arxiv.org/abs/2502.04866v1)|null|
+|**2025-02-07**|**$TAR^2$: Temporal-Agent Reward Redistribution for Optimal Policy Preservation in Multi-Agent Reinforcement Learning**|Aditya Kapoor et.al.|[2502.04864v1](http://arxiv.org/abs/2502.04864v1)|null|
+|**2025-02-07**|**Explicit Pfaffian Formula for Amplitudes of Fermionic Gaussian Pure States in Arbitrary Pauli Bases**|M. A. Rajabpour et.al.|[2502.04857v1](http://arxiv.org/abs/2502.04857v1)|null|
+|**2025-02-07**|**PoI: Pixel of Interest for Novel View Synthesis Assisted Scene Coordinate Regression**|Feifei Li et.al.|[2502.04843v1](http://arxiv.org/abs/2502.04843v1)|null|
+|**2025-02-07**|**Memory Capacity of Nonlinear Recurrent Networks: Is it Informative?**|Giovanni Ballarin et.al.|[2502.04832v1](http://arxiv.org/abs/2502.04832v1)|null|
+|**2025-02-07**|**A family of algebraic operations extending the Turaev cobracket**|Toyo Taniguchi et.al.|[2502.04806v1](http://arxiv.org/abs/2502.04806v1)|null|
+|**2025-02-07**|**DULRTC-RME: A Deep Unrolled Low-rank Tensor Completion Network for Radio Map Estimation**|Yao Wang et.al.|[2502.04796v1](http://arxiv.org/abs/2502.04796v1)|null|
+|**2025-02-07**|**Why ETH? On thermalization and locality**|Stefan Eccles et.al.|[2502.04784v1](http://arxiv.org/abs/2502.04784v1)|null|
+|**2025-02-07**|**Community detection for directed networks revisited using bimodularity**|Alexandre Cionca et.al.|[2502.04777v1](http://arxiv.org/abs/2502.04777v1)|null|
+|**2025-02-07**|**Differential Privacy of Quantum and Quantum-Inspired-Classical Recommendation Algorithms**|Chenjian Li et.al.|[2502.04758v1](http://arxiv.org/abs/2502.04758v1)|null|
+|**2025-02-07**|**Tighter sparse variational Gaussian processes**|Thang D. Bui et.al.|[2502.04750v1](http://arxiv.org/abs/2502.04750v1)|null|
+|**2025-02-07**|**Multivalued forbidden numbers of two-rowed configurations -- the missing cases**|Wallace Peaslee et.al.|[2502.04741v1](http://arxiv.org/abs/2502.04741v1)|null|
+|**2025-02-07**|**Semileptonic kaon decays and the precise determination of $V_{us}$**|Chien-Yeah Seng et.al.|[2502.04721v1](http://arxiv.org/abs/2502.04721v1)|null|
+|**2025-02-07**|**Fluctuations of the largest eigenvalues of transformed spiked Wigner matrices**|Aro Lee et.al.|[2502.04720v1](http://arxiv.org/abs/2502.04720v1)|null|
+|**2025-02-07**|**Rigorous Perturbation Bounds for the QX Decomposition for Centrosymmetric Matrices**|Aamir Farooq et.al.|[2502.04698v1](http://arxiv.org/abs/2502.04698v1)|null|
+|**2025-02-07**|**Implicit Bias of SignGD and Adam on Multiclass Separable Data**|Chen Fan et.al.|[2502.04664v1](http://arxiv.org/abs/2502.04664v1)|null|
 
 ## Code Compile
 
