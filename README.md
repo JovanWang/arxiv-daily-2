@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-02-16 08:41:30 Asia/Shanghai
+ Automated deployment @ 2025-02-16 10:11:45 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -147,6 +147,42 @@
 |**2025-02-13**|**BenchQC: A Benchmarking Toolkit for Quantum Computation**|Nia Pollard et.al.|[2502.09595v1](http://arxiv.org/abs/2502.09595v1)|null|
 |**2025-02-13**|**Spin wave interactions in the pyrochlore Heisenberg antiferromagnet with Dzyaloshinskii-Moriya interactions**|V. V. Jyothis et.al.|[2502.09594v1](http://arxiv.org/abs/2502.09594v1)|null|
 
+## Large-Language Model
+
+### Large-Language Model
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2025-02-13**|**Embed Any NeRF: Graph Meta-Networks for Neural Tasks on Arbitrary NeRF Architectures**|Francesco Ballerini et.al.|[2502.09623v1](http://arxiv.org/abs/2502.09623v1)|null|
+|**2025-02-13**|**Theoretical Benefit and Limitation of Diffusion Language Model**|Guhao Feng et.al.|[2502.09622v1](http://arxiv.org/abs/2502.09622v1)|null|
+|**2025-02-13**|**MME-CoT: Benchmarking Chain-of-Thought in Large Multimodal Models for Reasoning Quality, Robustness, and Efficiency**|Dongzhi Jiang et.al.|[2502.09621v1](http://arxiv.org/abs/2502.09621v1)|null|
+|**2025-02-13**|**Exploring the Potential of Encoder-free Architectures in 3D LMMs**|Yiwen Tang et.al.|[2502.09620v1](http://arxiv.org/abs/2502.09620v1)|null|
+|**2025-02-13**|**Can this Model Also Recognize Dogs? Zero-Shot Model Search from Weights**|Jonathan Kahana et.al.|[2502.09619v1](http://arxiv.org/abs/2502.09619v1)|null|
+|**2025-02-13**|**Pitfalls of Evidence-Based AI Policy**|Stephen Casper et.al.|[2502.09618v1](http://arxiv.org/abs/2502.09618v1)|null|
+|**2025-02-13**|**LIFe-GoM: Generalizable Human Rendering with Learned Iterative Feedback Over Multi-Resolution Gaussians-on-Mesh**|Jing Wen et.al.|[2502.09617v1](http://arxiv.org/abs/2502.09617v1)|null|
+|**2025-02-13**|**Variational Rectified Flow Matching**|Pengsheng Guo et.al.|[2502.09616v1](http://arxiv.org/abs/2502.09616v1)|null|
+|**2025-02-13**|**DexTrack: Towards Generalizable Neural Tracking Control for Dexterous Manipulation from Human References**|Xueyi Liu et.al.|[2502.09614v1](http://arxiv.org/abs/2502.09614v1)|null|
+|**2025-02-13**|**RigAnything: Template-Free Autoregressive Rigging for Diverse 3D Assets**|Isabella Liu et.al.|[2502.09615v1](http://arxiv.org/abs/2502.09615v1)|null|
+|**2025-02-13**|**Superspin Renormalization and Slow Relaxation in Random Spin Systems**|Yi J. Zhao et.al.|[2502.09612v1](http://arxiv.org/abs/2502.09612v1)|null|
+|**2025-02-13**|**Designing a Conditional Prior Distribution for Flow-Based Generative Models**|Noam Issachar et.al.|[2502.09611v1](http://arxiv.org/abs/2502.09611v1)|null|
+|**2025-02-13**|**Score-of-Mixture Training: Training One-Step Generative Models Made Simple**|Tejas Jayashankar et.al.|[2502.09609v1](http://arxiv.org/abs/2502.09609v1)|null|
+|**2025-02-13**|**Instance Segmentation of Scene Sketches Using Natural Image Priors**|Mia Tang et.al.|[2502.09608v1](http://arxiv.org/abs/2502.09608v1)|null|
+|**2025-02-13**|**The role of triple evolution in the formation of LISA double white dwarfs**|Abinaya Swaruba Rajamuthukumar et.al.|[2502.09607v1](http://arxiv.org/abs/2502.09607v1)|null|
+|**2025-02-13**|**Human-LLM Coevolution: Evidence from Academic Writing**|Mingmeng Geng et.al.|[2502.09606v1](http://arxiv.org/abs/2502.09606v1)|null|
+|**2025-02-13**|**SelfCite: Self-Supervised Alignment for Context Attribution in Large Language Models**|Yung-Sung Chuang et.al.|[2502.09604v1](http://arxiv.org/abs/2502.09604v1)|null|
+|**2025-02-13**|**$B\to K\sf{+}invisible$, dark matter, and $CP$ violation in hyperon decays**|Xiao-Gang He et.al.|[2502.09603v1](http://arxiv.org/abs/2502.09603v1)|null|
+|**2025-02-13**|**Shadow Molecular Dynamics for a Charge-Potential Equilibration Model**|Robert Stanton et.al.|[2502.09602v1](http://arxiv.org/abs/2502.09602v1)|null|
+|**2025-02-13**|**CoT-Valve: Length-Compressible Chain-of-Thought Tuning**|Xinyin Ma et.al.|[2502.09601v1](http://arxiv.org/abs/2502.09601v1)|null|
+|**2025-02-13**|**GAIA: A Global, Multi-modal, Multi-scale Vision-Language Dataset for Remote Sensing Image Analysis**|Angelos Zavras et.al.|[2502.09598v1](http://arxiv.org/abs/2502.09598v1)|null|
+|**2025-02-13**|**Do LLMs Recognize Your Preferences? Evaluating Personalized Preference Following in LLMs**|Siyan Zhao et.al.|[2502.09597v1](http://arxiv.org/abs/2502.09597v1)|null|
+|**2025-02-13**|**KIMAs: A Configurable Knowledge Integrated Multi-Agent System**|Zitao Li et.al.|[2502.09596v1](http://arxiv.org/abs/2502.09596v1)|null|
+|**2025-02-13**|**BenchQC: A Benchmarking Toolkit for Quantum Computation**|Nia Pollard et.al.|[2502.09595v1](http://arxiv.org/abs/2502.09595v1)|null|
+|**2025-02-13**|**Cosmological phase transitions from the functional measure**|Bruno Berganholi et.al.|[2502.09593v1](http://arxiv.org/abs/2502.09593v1)|null|
+|**2025-02-13**|**A Data-Driven Method for Microgrid System Identification: Physically Consistent Sparse Identification of Nonlinear Dynamics**|Mohan Du et.al.|[2502.09592v1](http://arxiv.org/abs/2502.09592v1)|null|
+|**2025-02-13**|**Censor Dependent Variational Inference**|Chuanhui Liu et.al.|[2502.09591v1](http://arxiv.org/abs/2502.09591v1)|null|
+|**2025-02-13**|**The Eigenfunctions of the Transfer Operator for the Dyson model in a field**|Mirmukhsin Makhmudov et.al.|[2502.09588v1](http://arxiv.org/abs/2502.09588v1)|null|
+|**2025-02-13**|**Logical forms complement probability in understanding language model (and human) performance**|Yixuan Wang et.al.|[2502.09589v1](http://arxiv.org/abs/2502.09589v1)|null|
+|**2025-02-13**|**Rolling Ahead Diffusion for Traffic Scene Simulation**|Yunpeng Liu et.al.|[2502.09587v1](http://arxiv.org/abs/2502.09587v1)|null|
+
 ## AI
 
 ### LLM Agent
@@ -216,39 +252,3 @@
 |**2025-02-13**|**Predicting Drive Test Results in Mobile Networks Using Optimization Techniques**|MohammadJava Taheri et.al.|[2502.09305v1](http://arxiv.org/abs/2502.09305v1)|null|
 |**2025-02-13**|**When do neural networks learn world models?**|Tianren Zhang et.al.|[2502.09297v1](http://arxiv.org/abs/2502.09297v1)|null|
 |**2025-02-13**|**Fast Userspace Networking for the Rest of Us**|Alireza Sanaee et.al.|[2502.09281v1](http://arxiv.org/abs/2502.09281v1)|null|
-
-## Large-Language Model
-
-### Large-Language Model
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2025-02-13**|**Embed Any NeRF: Graph Meta-Networks for Neural Tasks on Arbitrary NeRF Architectures**|Francesco Ballerini et.al.|[2502.09623v1](http://arxiv.org/abs/2502.09623v1)|null|
-|**2025-02-13**|**Theoretical Benefit and Limitation of Diffusion Language Model**|Guhao Feng et.al.|[2502.09622v1](http://arxiv.org/abs/2502.09622v1)|null|
-|**2025-02-13**|**MME-CoT: Benchmarking Chain-of-Thought in Large Multimodal Models for Reasoning Quality, Robustness, and Efficiency**|Dongzhi Jiang et.al.|[2502.09621v1](http://arxiv.org/abs/2502.09621v1)|null|
-|**2025-02-13**|**Exploring the Potential of Encoder-free Architectures in 3D LMMs**|Yiwen Tang et.al.|[2502.09620v1](http://arxiv.org/abs/2502.09620v1)|null|
-|**2025-02-13**|**Can this Model Also Recognize Dogs? Zero-Shot Model Search from Weights**|Jonathan Kahana et.al.|[2502.09619v1](http://arxiv.org/abs/2502.09619v1)|null|
-|**2025-02-13**|**Pitfalls of Evidence-Based AI Policy**|Stephen Casper et.al.|[2502.09618v1](http://arxiv.org/abs/2502.09618v1)|null|
-|**2025-02-13**|**LIFe-GoM: Generalizable Human Rendering with Learned Iterative Feedback Over Multi-Resolution Gaussians-on-Mesh**|Jing Wen et.al.|[2502.09617v1](http://arxiv.org/abs/2502.09617v1)|null|
-|**2025-02-13**|**Variational Rectified Flow Matching**|Pengsheng Guo et.al.|[2502.09616v1](http://arxiv.org/abs/2502.09616v1)|null|
-|**2025-02-13**|**DexTrack: Towards Generalizable Neural Tracking Control for Dexterous Manipulation from Human References**|Xueyi Liu et.al.|[2502.09614v1](http://arxiv.org/abs/2502.09614v1)|null|
-|**2025-02-13**|**RigAnything: Template-Free Autoregressive Rigging for Diverse 3D Assets**|Isabella Liu et.al.|[2502.09615v1](http://arxiv.org/abs/2502.09615v1)|null|
-|**2025-02-13**|**Superspin Renormalization and Slow Relaxation in Random Spin Systems**|Yi J. Zhao et.al.|[2502.09612v1](http://arxiv.org/abs/2502.09612v1)|null|
-|**2025-02-13**|**Designing a Conditional Prior Distribution for Flow-Based Generative Models**|Noam Issachar et.al.|[2502.09611v1](http://arxiv.org/abs/2502.09611v1)|null|
-|**2025-02-13**|**Score-of-Mixture Training: Training One-Step Generative Models Made Simple**|Tejas Jayashankar et.al.|[2502.09609v1](http://arxiv.org/abs/2502.09609v1)|null|
-|**2025-02-13**|**Instance Segmentation of Scene Sketches Using Natural Image Priors**|Mia Tang et.al.|[2502.09608v1](http://arxiv.org/abs/2502.09608v1)|null|
-|**2025-02-13**|**The role of triple evolution in the formation of LISA double white dwarfs**|Abinaya Swaruba Rajamuthukumar et.al.|[2502.09607v1](http://arxiv.org/abs/2502.09607v1)|null|
-|**2025-02-13**|**Human-LLM Coevolution: Evidence from Academic Writing**|Mingmeng Geng et.al.|[2502.09606v1](http://arxiv.org/abs/2502.09606v1)|null|
-|**2025-02-13**|**SelfCite: Self-Supervised Alignment for Context Attribution in Large Language Models**|Yung-Sung Chuang et.al.|[2502.09604v1](http://arxiv.org/abs/2502.09604v1)|null|
-|**2025-02-13**|**$B\to K\sf{+}invisible$, dark matter, and $CP$ violation in hyperon decays**|Xiao-Gang He et.al.|[2502.09603v1](http://arxiv.org/abs/2502.09603v1)|null|
-|**2025-02-13**|**Shadow Molecular Dynamics for a Charge-Potential Equilibration Model**|Robert Stanton et.al.|[2502.09602v1](http://arxiv.org/abs/2502.09602v1)|null|
-|**2025-02-13**|**CoT-Valve: Length-Compressible Chain-of-Thought Tuning**|Xinyin Ma et.al.|[2502.09601v1](http://arxiv.org/abs/2502.09601v1)|null|
-|**2025-02-13**|**GAIA: A Global, Multi-modal, Multi-scale Vision-Language Dataset for Remote Sensing Image Analysis**|Angelos Zavras et.al.|[2502.09598v1](http://arxiv.org/abs/2502.09598v1)|null|
-|**2025-02-13**|**Do LLMs Recognize Your Preferences? Evaluating Personalized Preference Following in LLMs**|Siyan Zhao et.al.|[2502.09597v1](http://arxiv.org/abs/2502.09597v1)|null|
-|**2025-02-13**|**KIMAs: A Configurable Knowledge Integrated Multi-Agent System**|Zitao Li et.al.|[2502.09596v1](http://arxiv.org/abs/2502.09596v1)|null|
-|**2025-02-13**|**BenchQC: A Benchmarking Toolkit for Quantum Computation**|Nia Pollard et.al.|[2502.09595v1](http://arxiv.org/abs/2502.09595v1)|null|
-|**2025-02-13**|**Cosmological phase transitions from the functional measure**|Bruno Berganholi et.al.|[2502.09593v1](http://arxiv.org/abs/2502.09593v1)|null|
-|**2025-02-13**|**A Data-Driven Method for Microgrid System Identification: Physically Consistent Sparse Identification of Nonlinear Dynamics**|Mohan Du et.al.|[2502.09592v1](http://arxiv.org/abs/2502.09592v1)|null|
-|**2025-02-13**|**Censor Dependent Variational Inference**|Chuanhui Liu et.al.|[2502.09591v1](http://arxiv.org/abs/2502.09591v1)|null|
-|**2025-02-13**|**The Eigenfunctions of the Transfer Operator for the Dyson model in a field**|Mirmukhsin Makhmudov et.al.|[2502.09588v1](http://arxiv.org/abs/2502.09588v1)|null|
-|**2025-02-13**|**Logical forms complement probability in understanding language model (and human) performance**|Yixuan Wang et.al.|[2502.09589v1](http://arxiv.org/abs/2502.09589v1)|null|
-|**2025-02-13**|**Rolling Ahead Diffusion for Traffic Scene Simulation**|Yunpeng Liu et.al.|[2502.09587v1](http://arxiv.org/abs/2502.09587v1)|null|
