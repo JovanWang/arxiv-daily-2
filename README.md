@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-02-19 20:49:43 Asia/Shanghai
+ Automated deployment @ 2025-02-19 21:11:51 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -8,40 +8,6 @@
 ### Sparse Operator
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-
-### Sparse Data Format
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2025-02-18**|**A robust estimation and variable selection approach for sparse partially linear additive models**|Alejandra Mercedes Martínez et.al.|[2502.13126v1](http://arxiv.org/abs/2502.13126v1)|null|
-|**2025-02-18**|**Discrete $N$-particle systems at high temperature through Jack generating functions**|Cesar Cuenca et.al.|[2502.13098v1](http://arxiv.org/abs/2502.13098v1)|null|
-|**2025-02-18**|**Automated Linear Parameter-Varying Modeling of Nonlinear Systems: A Global Embedding Approach**|E. Javier Olucha et.al.|[2502.13082v1](http://arxiv.org/abs/2502.13082v1)|null|
-|**2025-02-18**|**L4P: Low-Level 4D Vision Perception Unified**|Abhishek Badki et.al.|[2502.13078v1](http://arxiv.org/abs/2502.13078v1)|null|
-|**2025-02-18**|**Real-time interpretation of neutron vibrational spectra with symmetry-equivariant Hessian matrix prediction**|Bowen Han et.al.|[2502.13070v1](http://arxiv.org/abs/2502.13070v1)|null|
-|**2025-02-18**|**Improving Algorithmic Efficiency using Cryptography**|Vinod Vaikuntanathan et.al.|[2502.13065v1](http://arxiv.org/abs/2502.13065v1)|null|
-|**2025-02-18**|**Sublinear-Overhead Secure Linear Algebra on a Dishonest Server**|Mark Braverman et.al.|[2502.13060v1](http://arxiv.org/abs/2502.13060v1)|null|
-|**2025-02-18**|**Benchmarking MedMNIST dataset on real quantum hardware**|Gurinder Singh et.al.|[2502.13056v1](http://arxiv.org/abs/2502.13056v1)|null|
-|**2025-02-18**|**On the Alleged Locality in the Schrödinger Picture**|Charles Alexandre Bédard et.al.|[2502.12991v1](http://arxiv.org/abs/2502.12991v1)|null|
-|**2025-02-18**|**Efficient Learning Under Density Shift in Incremental Settings Using Cramér-Rao-Based Regularization**|Behraj Khan et.al.|[2502.12949v1](http://arxiv.org/abs/2502.12949v1)|null|
-|**2025-02-18**|**A Bayesian Perspective on Uncertainty Quantification for Estimated Graph Signals**|Lennard Rompelberg et.al.|[2502.12971v1](http://arxiv.org/abs/2502.12971v1)|null|
-|**2025-02-18**|**The Canonical Forms of Matrix Product States in Infinite-Dimensional Hilbert Spaces**|Niilo Heikkinen et.al.|[2502.12934v1](http://arxiv.org/abs/2502.12934v1)|null|
-|**2025-02-18**|**Finedeep: Mitigating Sparse Activation in Dense LLMs via Multi-Layer Fine-Grained Experts**|Leiyu Pan et.al.|[2502.12928v1](http://arxiv.org/abs/2502.12928v1)|null|
-|**2025-02-18**|**Archetypal SAE: Adaptive and Stable Dictionary Learning for Concept Extraction in Large Vision Models**|Thomas Fel et.al.|[2502.12892v1](http://arxiv.org/abs/2502.12892v1)|null|
-|**2025-02-18**|**Primitivity Testing in Free Group Algebras via Duality**|Matan Seidel et.al.|[2502.12885v1](http://arxiv.org/abs/2502.12885v1)|null|
-|**2025-02-18**|**Efficient classical algorithms for linear optical circuits**|Youngrong Lim et.al.|[2502.12882v1](http://arxiv.org/abs/2502.12882v1)|null|
-|**2025-02-18**|**Automatically setting arbitrary magnitude and phase of Mach-Zehnder interferometers for scalable optical computing**|Alessandro di Tria et.al.|[2502.12869v1](http://arxiv.org/abs/2502.12869v1)|null|
-|**2025-02-18**|**Analysis of a household-scale model for the invasion of Wolbachia into a resident mosquito population**|Abby Barlow et.al.|[2502.12833v1](http://arxiv.org/abs/2502.12833v1)|null|
-|**2025-02-18**|**Grothendieck group of the Leavitt path algebra over power graphs of prime-power cyclic groups**|Aslı Güçlükan İlhan et.al.|[2502.12822v1](http://arxiv.org/abs/2502.12822v1)|null|
-|**2025-02-18**|**Learning Wall Segmentation in 3D Vessel Trees using Sparse Annotations**|Hinrich Rahlfs et.al.|[2502.12801v1](http://arxiv.org/abs/2502.12801v1)|null|
-|**2025-02-18**|**On the edge reconstruction of the second immanantal polynomials of undirected graph and digraph**|Tingzeng Wu et.al.|[2502.12781v1](http://arxiv.org/abs/2502.12781v1)|null|
-|**2025-02-18**|**One-bit Compressed Sensing using Generative Models**|Swatantra Kafle et.al.|[2502.12762v1](http://arxiv.org/abs/2502.12762v1)|null|
-|**2025-02-18**|**High-Fidelity Novel View Synthesis via Splatting-Guided Diffusion**|Xiang Zhang et.al.|[2502.12752v1](http://arxiv.org/abs/2502.12752v1)|null|
-|**2025-02-18**|**Computation of the Hilbert Series for the Support-Minors Modeling of the MinRank Problem**|Magali Bardet et.al.|[2502.12721v1](http://arxiv.org/abs/2502.12721v1)|null|
-|**2025-02-18**|**Relaxation dynamics of a quantum spin coupled to a topological edge state**|Qiyu Liu et.al.|[2502.12715v1](http://arxiv.org/abs/2502.12715v1)|null|
-|**2025-02-18**|**Role extraction by matrix equations and generalized random walks**|Dario Fasino et.al.|[2502.12689v1](http://arxiv.org/abs/2502.12689v1)|null|
-|**2025-02-18**|**RadSplatter: Extending 3D Gaussian Splatting to Radio Frequencies for Wireless Radiomap Extrapolation**|Yiheng Wang et.al.|[2502.12686v1](http://arxiv.org/abs/2502.12686v1)|null|
-|**2025-02-18**|**K-núcleo: Una herramienta para detectar la estructura conceptual de los campos de investigación. El caso práctico de la Altmetría**|Carmen Gálvez et.al.|[2502.12682v1](http://arxiv.org/abs/2502.12682v1)|null|
-|**2025-02-18**|**Stability of Floquet sidebands and quantum coherence in 1D strongly interacting spinless fermions**|Karun Gadge et.al.|[2502.12643v1](http://arxiv.org/abs/2502.12643v1)|null|
-|**2025-02-18**|**Matrix Product States as Observations of Entangled Hidden Markov Models**|Abdessatar Souissi et.al.|[2502.12641v1](http://arxiv.org/abs/2502.12641v1)|null|
 
 ### Sparse program Compile
 |Publish Date|Title|Authors|PDF|Code|
@@ -76,6 +42,40 @@
 |**2025-02-17**|**LM Agents for Coordinating Multi-User Information Gathering**|Harsh Jhamtani et.al.|[2502.12328v1](http://arxiv.org/abs/2502.12328v1)|null|
 |**2025-02-17**|**Duo Streamers: A Streaming Gesture Recognition Framework**|Boxuan Zhu et.al.|[2502.12297v1](http://arxiv.org/abs/2502.12297v1)|null|
 |**2025-02-17**|**Towards Practical First-Order Model Counting**|Ananth K. Kidambi et.al.|[2502.12278v1](http://arxiv.org/abs/2502.12278v1)|null|
+
+### Sparse Data Format
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2025-02-18**|**A robust estimation and variable selection approach for sparse partially linear additive models**|Alejandra Mercedes Martínez et.al.|[2502.13126v1](http://arxiv.org/abs/2502.13126v1)|null|
+|**2025-02-18**|**Discrete $N$-particle systems at high temperature through Jack generating functions**|Cesar Cuenca et.al.|[2502.13098v1](http://arxiv.org/abs/2502.13098v1)|null|
+|**2025-02-18**|**Automated Linear Parameter-Varying Modeling of Nonlinear Systems: A Global Embedding Approach**|E. Javier Olucha et.al.|[2502.13082v1](http://arxiv.org/abs/2502.13082v1)|null|
+|**2025-02-18**|**L4P: Low-Level 4D Vision Perception Unified**|Abhishek Badki et.al.|[2502.13078v1](http://arxiv.org/abs/2502.13078v1)|null|
+|**2025-02-18**|**Real-time interpretation of neutron vibrational spectra with symmetry-equivariant Hessian matrix prediction**|Bowen Han et.al.|[2502.13070v1](http://arxiv.org/abs/2502.13070v1)|null|
+|**2025-02-18**|**Improving Algorithmic Efficiency using Cryptography**|Vinod Vaikuntanathan et.al.|[2502.13065v1](http://arxiv.org/abs/2502.13065v1)|null|
+|**2025-02-18**|**Sublinear-Overhead Secure Linear Algebra on a Dishonest Server**|Mark Braverman et.al.|[2502.13060v1](http://arxiv.org/abs/2502.13060v1)|null|
+|**2025-02-18**|**Benchmarking MedMNIST dataset on real quantum hardware**|Gurinder Singh et.al.|[2502.13056v1](http://arxiv.org/abs/2502.13056v1)|null|
+|**2025-02-18**|**On the Alleged Locality in the Schrödinger Picture**|Charles Alexandre Bédard et.al.|[2502.12991v1](http://arxiv.org/abs/2502.12991v1)|null|
+|**2025-02-18**|**Efficient Learning Under Density Shift in Incremental Settings Using Cramér-Rao-Based Regularization**|Behraj Khan et.al.|[2502.12949v1](http://arxiv.org/abs/2502.12949v1)|null|
+|**2025-02-18**|**A Bayesian Perspective on Uncertainty Quantification for Estimated Graph Signals**|Lennard Rompelberg et.al.|[2502.12971v1](http://arxiv.org/abs/2502.12971v1)|null|
+|**2025-02-18**|**The Canonical Forms of Matrix Product States in Infinite-Dimensional Hilbert Spaces**|Niilo Heikkinen et.al.|[2502.12934v1](http://arxiv.org/abs/2502.12934v1)|null|
+|**2025-02-18**|**Finedeep: Mitigating Sparse Activation in Dense LLMs via Multi-Layer Fine-Grained Experts**|Leiyu Pan et.al.|[2502.12928v1](http://arxiv.org/abs/2502.12928v1)|null|
+|**2025-02-18**|**Archetypal SAE: Adaptive and Stable Dictionary Learning for Concept Extraction in Large Vision Models**|Thomas Fel et.al.|[2502.12892v1](http://arxiv.org/abs/2502.12892v1)|null|
+|**2025-02-18**|**Primitivity Testing in Free Group Algebras via Duality**|Matan Seidel et.al.|[2502.12885v1](http://arxiv.org/abs/2502.12885v1)|null|
+|**2025-02-18**|**Efficient classical algorithms for linear optical circuits**|Youngrong Lim et.al.|[2502.12882v1](http://arxiv.org/abs/2502.12882v1)|null|
+|**2025-02-18**|**Automatically setting arbitrary magnitude and phase of Mach-Zehnder interferometers for scalable optical computing**|Alessandro di Tria et.al.|[2502.12869v1](http://arxiv.org/abs/2502.12869v1)|null|
+|**2025-02-18**|**Analysis of a household-scale model for the invasion of Wolbachia into a resident mosquito population**|Abby Barlow et.al.|[2502.12833v1](http://arxiv.org/abs/2502.12833v1)|null|
+|**2025-02-18**|**Grothendieck group of the Leavitt path algebra over power graphs of prime-power cyclic groups**|Aslı Güçlükan İlhan et.al.|[2502.12822v1](http://arxiv.org/abs/2502.12822v1)|null|
+|**2025-02-18**|**Learning Wall Segmentation in 3D Vessel Trees using Sparse Annotations**|Hinrich Rahlfs et.al.|[2502.12801v1](http://arxiv.org/abs/2502.12801v1)|null|
+|**2025-02-18**|**On the edge reconstruction of the second immanantal polynomials of undirected graph and digraph**|Tingzeng Wu et.al.|[2502.12781v1](http://arxiv.org/abs/2502.12781v1)|null|
+|**2025-02-18**|**One-bit Compressed Sensing using Generative Models**|Swatantra Kafle et.al.|[2502.12762v1](http://arxiv.org/abs/2502.12762v1)|null|
+|**2025-02-18**|**High-Fidelity Novel View Synthesis via Splatting-Guided Diffusion**|Xiang Zhang et.al.|[2502.12752v1](http://arxiv.org/abs/2502.12752v1)|null|
+|**2025-02-18**|**Computation of the Hilbert Series for the Support-Minors Modeling of the MinRank Problem**|Magali Bardet et.al.|[2502.12721v1](http://arxiv.org/abs/2502.12721v1)|null|
+|**2025-02-18**|**Relaxation dynamics of a quantum spin coupled to a topological edge state**|Qiyu Liu et.al.|[2502.12715v1](http://arxiv.org/abs/2502.12715v1)|null|
+|**2025-02-18**|**Role extraction by matrix equations and generalized random walks**|Dario Fasino et.al.|[2502.12689v1](http://arxiv.org/abs/2502.12689v1)|null|
+|**2025-02-18**|**RadSplatter: Extending 3D Gaussian Splatting to Radio Frequencies for Wireless Radiomap Extrapolation**|Yiheng Wang et.al.|[2502.12686v1](http://arxiv.org/abs/2502.12686v1)|null|
+|**2025-02-18**|**K-núcleo: Una herramienta para detectar la estructura conceptual de los campos de investigación. El caso práctico de la Altmetría**|Carmen Gálvez et.al.|[2502.12682v1](http://arxiv.org/abs/2502.12682v1)|null|
+|**2025-02-18**|**Stability of Floquet sidebands and quantum coherence in 1D strongly interacting spinless fermions**|Karun Gadge et.al.|[2502.12643v1](http://arxiv.org/abs/2502.12643v1)|null|
+|**2025-02-18**|**Matrix Product States as Observations of Entangled Hidden Markov Models**|Abdessatar Souissi et.al.|[2502.12641v1](http://arxiv.org/abs/2502.12641v1)|null|
 
 ## AI
 
