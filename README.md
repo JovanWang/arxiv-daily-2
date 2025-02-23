@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-02-23 20:47:31 Asia/Shanghai
+ Automated deployment @ 2025-02-23 21:02:26 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -8,40 +8,6 @@
 ### Sparse Operator
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-
-### Sparse Data Format
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2025-02-20**|**LServe: Efficient Long-sequence LLM Serving with Unified Sparse Attention**|Shang Yang et.al.|[2502.14866v1](http://arxiv.org/abs/2502.14866v1)|null|
-|**2025-02-20**|**The Fourier coefficients of the holomorphic multiplicative chaos in the limit of large frequency**|Joseph Najnudel et.al.|[2502.14863v1](http://arxiv.org/abs/2502.14863v1)|null|
-|**2025-02-20**|**Dynamic Low-Rank Sparse Adaptation for Large Language Models**|Weizhong Huang et.al.|[2502.14816v1](http://arxiv.org/abs/2502.14816v1)|null|
-|**2025-02-20**|**Every Graph is Essential to Large Treewidth**|Bogdan Alecu et.al.|[2502.14775v1](http://arxiv.org/abs/2502.14775v1)|null|
-|**2025-02-20**|**Sparse Activations as Conformal Predictors**|Margarida M. Campos et.al.|[2502.14773v1](http://arxiv.org/abs/2502.14773v1)|null|
-|**2025-02-20**|**Determining Layer-wise Sparsity for Large Language Models Through a Theoretical Perspective**|Weizhong Huang et.al.|[2502.14770v1](http://arxiv.org/abs/2502.14770v1)|null|
-|**2025-02-20**|**Sculpting [CLS] Features for Pre-Trained Model-Based Class-Incremental Learning**|Murat Onur Yildirim et.al.|[2502.14762v1](http://arxiv.org/abs/2502.14762v1)|null|
-|**2025-02-20**|**Bispectrum constraints on Primordial non-Gaussianities with the eBOSS DR16 quasars**|Marina S. Cagliari et.al.|[2502.14758v1](http://arxiv.org/abs/2502.14758v1)|null|
-|**2025-02-20**|**Ranking Joint Policies in Dynamic Games using Evolutionary Dynamics**|Natalia Koliou et.al.|[2502.14724v1](http://arxiv.org/abs/2502.14724v1)|null|
-|**2025-02-20**|**Confidence Estimation via Sequential Likelihood Mixing**|Johannes Kirschner et.al.|[2502.14689v1](http://arxiv.org/abs/2502.14689v1)|null|
-|**2025-02-20**|**CDGS: Confidence-Aware Depth Regularization for 3D Gaussian Splatting**|Qilin Zhang et.al.|[2502.14684v1](http://arxiv.org/abs/2502.14684v1)|null|
-|**2025-02-20**|**BP-SGCN: Behavioral Pseudo-Label Informed Sparse Graph Convolution Network for Pedestrian and Heterogeneous Trajectory Prediction**|Ruochen Li et.al.|[2502.14676v1](http://arxiv.org/abs/2502.14676v1)|null|
-|**2025-02-20**|**The Restricted Isometry Property for Measurements from Group Orbits**|Hartmut Führ et.al.|[2502.14663v1](http://arxiv.org/abs/2502.14663v1)|null|
-|**2025-02-20**|**Magnetic Thomson Transport in High Opacity Domains**|Matthew G. Baring et.al.|[2502.14615v1](http://arxiv.org/abs/2502.14615v1)|null|
-|**2025-02-20**|**Enhancing nuclear cross-section predictions with deep learning: the DINo algorithm**|Levana Gesson et.al.|[2502.14599v1](http://arxiv.org/abs/2502.14599v1)|null|
-|**2025-02-20**|**A note on plane trees with decreasing labels**|Tsun-Ming Cheung et.al.|[2502.14596v1](http://arxiv.org/abs/2502.14596v1)|null|
-|**2025-02-20**|**Quantum computer formulation of the FKP-operator eigenvalue problem for probabilistic learning on manifolds**|Christian Soize et.al.|[2502.14580v1](http://arxiv.org/abs/2502.14580v1)|null|
-|**2025-02-20**|**Exploring the phase diagram of $SU(2)_4$ strange correlator**|Ce Shen et.al.|[2502.14556v1](http://arxiv.org/abs/2502.14556v1)|null|
-|**2025-02-20**|**On strong nodal domains for eigenfunctions of Hamming graphs**|Alexandr Valyuzhenich et.al.|[2502.14543v1](http://arxiv.org/abs/2502.14543v1)|null|
-|**2025-02-20**|**Nontrivial damping of magnetization currents in perturbed spin chains**|Mariel Kempa et.al.|[2502.14537v1](http://arxiv.org/abs/2502.14537v1)|null|
-|**2025-02-20**|**Learning Temporal 3D Semantic Scene Completion via Optical Flow Guidance**|Meng Wang et.al.|[2502.14520v1](http://arxiv.org/abs/2502.14520v1)|null|
-|**2025-02-20**|**Sharp thresholds for higher powers of Hamilton cycles in random graphs**|Tamás Makai et.al.|[2502.14515v1](http://arxiv.org/abs/2502.14515v1)|null|
-|**2025-02-20**|**NLoRA: Nyström-Initiated Low-Rank Adaptation for Large Language Models**|Chenlu Guo et.al.|[2502.14482v1](http://arxiv.org/abs/2502.14482v1)|null|
-|**2025-02-20**|**Provable Quantum Algorithm Advantage for Gaussian Process Quadrature**|Cristian A. Galvis-Florez et.al.|[2502.14467v1](http://arxiv.org/abs/2502.14467v1)|null|
-|**2025-02-20**|**Signless Laplacian State Transfer on Vertex Complemented Coronae**|Ke-Yu Zhu et.al.|[2502.14460v1](http://arxiv.org/abs/2502.14460v1)|null|
-|**2025-02-20**|**New estimates for character sums over sparse elements of finite fields**|Kaimin Cheng et.al.|[2502.14436v1](http://arxiv.org/abs/2502.14436v1)|null|
-|**2025-02-20**|**Triply Laplacian Scale Mixture Modeling for Seismic Data Noise Suppression**|Sirui Pan et.al.|[2502.14355v1](http://arxiv.org/abs/2502.14355v1)|null|
-|**2025-02-20**|**Clustering-based Low Rank Approximation Method**|Yujun Zhu et.al.|[2502.14331v1](http://arxiv.org/abs/2502.14331v1)|null|
-|**2025-02-20**|**On the Lyapunov spectrum of the twisted cocycle for substitutions**|Boris Solomyak et.al.|[2502.14308v1](http://arxiv.org/abs/2502.14308v1)|null|
-|**2025-02-20**|**OrchardDepth: Precise Metric Depth Estimation of Orchard Scene from Monocular Camera Images**|Zhichao Zheng et.al.|[2502.14279v1](http://arxiv.org/abs/2502.14279v1)|null|
 
 ### Sparse program Compile
 |Publish Date|Title|Authors|PDF|Code|
@@ -76,6 +42,40 @@
 |**2025-02-19**|**Self-Regularization with Latent Space Explanations for Controllable LLM-based Classification**|Xuansheng Wu et.al.|[2502.14133v1](http://arxiv.org/abs/2502.14133v1)|null|
 |**2025-02-19**|**A Supervised Machine-Learning Approach For Turboshaft Engine Dynamic Modeling Under Real Flight Conditions**|Damiano Paniccia et.al.|[2502.14120v1](http://arxiv.org/abs/2502.14120v1)|null|
 |**2025-02-19**|**RocketKV: Accelerating Long-Context LLM Inference via Two-Stage KV Cache Compression**|Payman Behnam et.al.|[2502.14051v1](http://arxiv.org/abs/2502.14051v1)|null|
+
+### Sparse Data Format
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2025-02-20**|**LServe: Efficient Long-sequence LLM Serving with Unified Sparse Attention**|Shang Yang et.al.|[2502.14866v1](http://arxiv.org/abs/2502.14866v1)|null|
+|**2025-02-20**|**The Fourier coefficients of the holomorphic multiplicative chaos in the limit of large frequency**|Joseph Najnudel et.al.|[2502.14863v1](http://arxiv.org/abs/2502.14863v1)|null|
+|**2025-02-20**|**Dynamic Low-Rank Sparse Adaptation for Large Language Models**|Weizhong Huang et.al.|[2502.14816v1](http://arxiv.org/abs/2502.14816v1)|null|
+|**2025-02-20**|**Every Graph is Essential to Large Treewidth**|Bogdan Alecu et.al.|[2502.14775v1](http://arxiv.org/abs/2502.14775v1)|null|
+|**2025-02-20**|**Sparse Activations as Conformal Predictors**|Margarida M. Campos et.al.|[2502.14773v1](http://arxiv.org/abs/2502.14773v1)|null|
+|**2025-02-20**|**Determining Layer-wise Sparsity for Large Language Models Through a Theoretical Perspective**|Weizhong Huang et.al.|[2502.14770v1](http://arxiv.org/abs/2502.14770v1)|null|
+|**2025-02-20**|**Sculpting [CLS] Features for Pre-Trained Model-Based Class-Incremental Learning**|Murat Onur Yildirim et.al.|[2502.14762v1](http://arxiv.org/abs/2502.14762v1)|null|
+|**2025-02-20**|**Bispectrum constraints on Primordial non-Gaussianities with the eBOSS DR16 quasars**|Marina S. Cagliari et.al.|[2502.14758v1](http://arxiv.org/abs/2502.14758v1)|null|
+|**2025-02-20**|**Ranking Joint Policies in Dynamic Games using Evolutionary Dynamics**|Natalia Koliou et.al.|[2502.14724v1](http://arxiv.org/abs/2502.14724v1)|null|
+|**2025-02-20**|**Confidence Estimation via Sequential Likelihood Mixing**|Johannes Kirschner et.al.|[2502.14689v1](http://arxiv.org/abs/2502.14689v1)|null|
+|**2025-02-20**|**CDGS: Confidence-Aware Depth Regularization for 3D Gaussian Splatting**|Qilin Zhang et.al.|[2502.14684v1](http://arxiv.org/abs/2502.14684v1)|null|
+|**2025-02-20**|**BP-SGCN: Behavioral Pseudo-Label Informed Sparse Graph Convolution Network for Pedestrian and Heterogeneous Trajectory Prediction**|Ruochen Li et.al.|[2502.14676v1](http://arxiv.org/abs/2502.14676v1)|null|
+|**2025-02-20**|**The Restricted Isometry Property for Measurements from Group Orbits**|Hartmut Führ et.al.|[2502.14663v1](http://arxiv.org/abs/2502.14663v1)|null|
+|**2025-02-20**|**Magnetic Thomson Transport in High Opacity Domains**|Matthew G. Baring et.al.|[2502.14615v1](http://arxiv.org/abs/2502.14615v1)|null|
+|**2025-02-20**|**Enhancing nuclear cross-section predictions with deep learning: the DINo algorithm**|Levana Gesson et.al.|[2502.14599v1](http://arxiv.org/abs/2502.14599v1)|null|
+|**2025-02-20**|**A note on plane trees with decreasing labels**|Tsun-Ming Cheung et.al.|[2502.14596v1](http://arxiv.org/abs/2502.14596v1)|null|
+|**2025-02-20**|**Quantum computer formulation of the FKP-operator eigenvalue problem for probabilistic learning on manifolds**|Christian Soize et.al.|[2502.14580v1](http://arxiv.org/abs/2502.14580v1)|null|
+|**2025-02-20**|**Exploring the phase diagram of $SU(2)_4$ strange correlator**|Ce Shen et.al.|[2502.14556v1](http://arxiv.org/abs/2502.14556v1)|null|
+|**2025-02-20**|**On strong nodal domains for eigenfunctions of Hamming graphs**|Alexandr Valyuzhenich et.al.|[2502.14543v1](http://arxiv.org/abs/2502.14543v1)|null|
+|**2025-02-20**|**Nontrivial damping of magnetization currents in perturbed spin chains**|Mariel Kempa et.al.|[2502.14537v1](http://arxiv.org/abs/2502.14537v1)|null|
+|**2025-02-20**|**Learning Temporal 3D Semantic Scene Completion via Optical Flow Guidance**|Meng Wang et.al.|[2502.14520v1](http://arxiv.org/abs/2502.14520v1)|null|
+|**2025-02-20**|**Sharp thresholds for higher powers of Hamilton cycles in random graphs**|Tamás Makai et.al.|[2502.14515v1](http://arxiv.org/abs/2502.14515v1)|null|
+|**2025-02-20**|**NLoRA: Nyström-Initiated Low-Rank Adaptation for Large Language Models**|Chenlu Guo et.al.|[2502.14482v1](http://arxiv.org/abs/2502.14482v1)|null|
+|**2025-02-20**|**Provable Quantum Algorithm Advantage for Gaussian Process Quadrature**|Cristian A. Galvis-Florez et.al.|[2502.14467v1](http://arxiv.org/abs/2502.14467v1)|null|
+|**2025-02-20**|**Signless Laplacian State Transfer on Vertex Complemented Coronae**|Ke-Yu Zhu et.al.|[2502.14460v1](http://arxiv.org/abs/2502.14460v1)|null|
+|**2025-02-20**|**New estimates for character sums over sparse elements of finite fields**|Kaimin Cheng et.al.|[2502.14436v1](http://arxiv.org/abs/2502.14436v1)|null|
+|**2025-02-20**|**Triply Laplacian Scale Mixture Modeling for Seismic Data Noise Suppression**|Sirui Pan et.al.|[2502.14355v1](http://arxiv.org/abs/2502.14355v1)|null|
+|**2025-02-20**|**Clustering-based Low Rank Approximation Method**|Yujun Zhu et.al.|[2502.14331v1](http://arxiv.org/abs/2502.14331v1)|null|
+|**2025-02-20**|**On the Lyapunov spectrum of the twisted cocycle for substitutions**|Boris Solomyak et.al.|[2502.14308v1](http://arxiv.org/abs/2502.14308v1)|null|
+|**2025-02-20**|**OrchardDepth: Precise Metric Depth Estimation of Orchard Scene from Monocular Camera Images**|Zhichao Zheng et.al.|[2502.14279v1](http://arxiv.org/abs/2502.14279v1)|null|
 
 ## AI
 
