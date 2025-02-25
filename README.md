@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-02-25 08:39:13 Asia/Shanghai
+ Automated deployment @ 2025-02-25 10:08:21 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -8,6 +8,40 @@
 ### Sparse Operator
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+
+### Sparse program Compile
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2025-02-21**|**The SARAO MeerKAT Galactic Plane Survey extended source catalogue**|C. Bordiu et.al.|[2502.15640v1](http://arxiv.org/abs/2502.15640v1)|null|
+|**2025-02-21**|**A Note on Weak Saturation Number of Trees**|Wenchong Chen et.al.|[2502.15626v1](http://arxiv.org/abs/2502.15626v1)|null|
+|**2025-02-21**|**Improving variable selection properties by using external data**|Paul Rognon-Vael et.al.|[2502.15584v1](http://arxiv.org/abs/2502.15584v1)|null|
+|**2025-02-21**|**Chats-Grid: An Iterative Retrieval Q&A Optimization Scheme Leveraging Large Model and Retrieval Enhancement Generation in smart grid**|Yunfeng Li et.al.|[2502.15583v1](http://arxiv.org/abs/2502.15583v1)|null|
+|**2025-02-21**|**Interpreting and Steering LLMs with Mutual Information-based Explanations on Sparse Autoencoders**|Xuansheng Wu et.al.|[2502.15576v1](http://arxiv.org/abs/2502.15576v1)|null|
+|**2025-02-21**|**DReSD: Dense Retrieval for Speculative Decoding**|Milan Gritta et.al.|[2502.15572v1](http://arxiv.org/abs/2502.15572v1)|null|
+|**2025-02-21**|**Forecasting and Analysis of Solar Energetic Particle Radiation Storms**|Olga Malandraki et.al.|[2502.15555v1](http://arxiv.org/abs/2502.15555v1)|null|
+|**2025-02-21**|**NPB-Rust: NAS Parallel Benchmarks in Rust**|Eduardo M. Martins et.al.|[2502.15536v1](http://arxiv.org/abs/2502.15536v1)|null|
+|**2025-02-21**|**Loop unrolling: formal definition and application to testing**|Li Huang et.al.|[2502.15535v1](http://arxiv.org/abs/2502.15535v1)|null|
+|**2025-02-21**|**A fast block nonlinear Bregman-Kaczmarz method with averaging for nonlinear sparse signal recovery**|Aqin Xiao et.al.|[2502.15529v1](http://arxiv.org/abs/2502.15529v1)|null|
+|**2025-02-21**|**Scaling Sparse and Dense Retrieval in Decoder-Only LLMs**|Hansi Zeng et.al.|[2502.15526v1](http://arxiv.org/abs/2502.15526v1)|null|
+|**2025-02-21**|**Depth-aware Fusion Method based on Image and 4D Radar Spectrum for 3D Object Detection**|Yue Sun et.al.|[2502.15516v1](http://arxiv.org/abs/2502.15516v1)|null|
+|**2025-02-21**|**Confidence-Based Annotation Of Brain Tumours In Ultrasound**|Alistair Weld et.al.|[2502.15484v1](http://arxiv.org/abs/2502.15484v1)|null|
+|**2025-02-21**|**Learning Long-Horizon Robot Manipulation Skills via Privileged Action**|Xiaofeng Mao et.al.|[2502.15442v1](http://arxiv.org/abs/2502.15442v1)|null|
+|**2025-02-21**|**State-space kinetic Ising model reveals task-dependent entropy flow in sparsely active nonequilibrium neuronal dynamics**|Ken Ishihara et.al.|[2502.15440v1](http://arxiv.org/abs/2502.15440v1)|null|
+|**2025-02-21**|**LEAP: Enhancing Vision-Based Occupancy Networks with Lightweight Spatio-Temporal Correlation**|Fengcheng Yu et.al.|[2502.15438v1](http://arxiv.org/abs/2502.15438v1)|null|
+|**2025-02-21**|**Efficient and Provable Algorithms for Covariate Shift**|Deeksha Adil et.al.|[2502.15372v1](http://arxiv.org/abs/2502.15372v1)|null|
+|**2025-02-21**|**Constructing Fermionic Hamiltonians with Non-Gaussianic low-energy states**|Kartik Anand et.al.|[2502.15368v1](http://arxiv.org/abs/2502.15368v1)|null|
+|**2025-02-21**|**PFSD: A Multi-Modal Pedestrian-Focus Scene Dataset for Rich Tasks in Semi-Structured Environments**|Yueting Liu et.al.|[2502.15342v1](http://arxiv.org/abs/2502.15342v1)|null|
+|**2025-02-21**|**Tight Clusters Make Specialized Experts**|Stefan K. Nielsen et.al.|[2502.15315v1](http://arxiv.org/abs/2502.15315v1)|null|
+|**2025-02-21**|**A Novel Riemannian Sparse Representation Learning Network for Polarimetric SAR Image Classification**|Junfei Shi et.al.|[2502.15302v1](http://arxiv.org/abs/2502.15302v1)|null|
+|**2025-02-20**|**Estimating Neural Representation Alignment from Limited Inputs and Features**|Chanwoo Chun et.al.|[2502.15104v1](http://arxiv.org/abs/2502.15104v1)|null|
+|**2025-02-20**|**Multi-Source Static CT with Adaptive Fluence Modulation to Minimize Hallucinations in Generative Reconstructions**|Matthew Tivnan et.al.|[2502.15060v1](http://arxiv.org/abs/2502.15060v1)|null|
+|**2025-02-20**|**Notions of Stack-manipulating Computation and Relative Monads (Extended Version)**|Yuchen Jiang et.al.|[2502.15031v1](http://arxiv.org/abs/2502.15031v1)|null|
+|**2025-02-20**|**LServe: Efficient Long-sequence LLM Serving with Unified Sparse Attention**|Shang Yang et.al.|[2502.14866v1](http://arxiv.org/abs/2502.14866v1)|[link](https://github.com/mit-han-lab/omniserve)|
+|**2025-02-20**|**Dynamic Low-Rank Sparse Adaptation for Large Language Models**|Weizhong Huang et.al.|[2502.14816v1](http://arxiv.org/abs/2502.14816v1)|null|
+|**2025-02-20**|**Every Graph is Essential to Large Treewidth**|Bogdan Alecu et.al.|[2502.14775v1](http://arxiv.org/abs/2502.14775v1)|null|
+|**2025-02-20**|**Sparse Activations as Conformal Predictors**|Margarida M. Campos et.al.|[2502.14773v2](http://arxiv.org/abs/2502.14773v2)|[link](https://github.com/deep-spin/sparse-activations-cp)|
+|**2025-02-20**|**Determining Layer-wise Sparsity for Large Language Models Through a Theoretical Perspective**|Weizhong Huang et.al.|[2502.14770v1](http://arxiv.org/abs/2502.14770v1)|null|
+|**2025-02-20**|**Sculpting [CLS] Features for Pre-Trained Model-Based Class-Incremental Learning**|Murat Onur Yildirim et.al.|[2502.14762v1](http://arxiv.org/abs/2502.14762v1)|null|
 
 ### Sparse Data Format
 |Publish Date|Title|Authors|PDF|Code|
@@ -42,40 +76,6 @@
 |**2025-02-21**|**PFSD: A Multi-Modal Pedestrian-Focus Scene Dataset for Rich Tasks in Semi-Structured Environments**|Yueting Liu et.al.|[2502.15342v1](http://arxiv.org/abs/2502.15342v1)|null|
 |**2025-02-21**|**Constructing a Tutte polynomial for graphs embedded in surfaces**|Iain Moffatt et.al.|[2502.15318v1](http://arxiv.org/abs/2502.15318v1)|null|
 |**2025-02-21**|**Tight Clusters Make Specialized Experts**|Stefan K. Nielsen et.al.|[2502.15315v1](http://arxiv.org/abs/2502.15315v1)|null|
-
-### Sparse program Compile
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2025-02-21**|**The SARAO MeerKAT Galactic Plane Survey extended source catalogue**|C. Bordiu et.al.|[2502.15640v1](http://arxiv.org/abs/2502.15640v1)|null|
-|**2025-02-21**|**A Note on Weak Saturation Number of Trees**|Wenchong Chen et.al.|[2502.15626v1](http://arxiv.org/abs/2502.15626v1)|null|
-|**2025-02-21**|**Improving variable selection properties by using external data**|Paul Rognon-Vael et.al.|[2502.15584v1](http://arxiv.org/abs/2502.15584v1)|null|
-|**2025-02-21**|**Chats-Grid: An Iterative Retrieval Q&A Optimization Scheme Leveraging Large Model and Retrieval Enhancement Generation in smart grid**|Yunfeng Li et.al.|[2502.15583v1](http://arxiv.org/abs/2502.15583v1)|null|
-|**2025-02-21**|**Interpreting and Steering LLMs with Mutual Information-based Explanations on Sparse Autoencoders**|Xuansheng Wu et.al.|[2502.15576v1](http://arxiv.org/abs/2502.15576v1)|null|
-|**2025-02-21**|**DReSD: Dense Retrieval for Speculative Decoding**|Milan Gritta et.al.|[2502.15572v1](http://arxiv.org/abs/2502.15572v1)|null|
-|**2025-02-21**|**Forecasting and Analysis of Solar Energetic Particle Radiation Storms**|Olga Malandraki et.al.|[2502.15555v1](http://arxiv.org/abs/2502.15555v1)|null|
-|**2025-02-21**|**NPB-Rust: NAS Parallel Benchmarks in Rust**|Eduardo M. Martins et.al.|[2502.15536v1](http://arxiv.org/abs/2502.15536v1)|null|
-|**2025-02-21**|**Loop unrolling: formal definition and application to testing**|Li Huang et.al.|[2502.15535v1](http://arxiv.org/abs/2502.15535v1)|null|
-|**2025-02-21**|**A fast block nonlinear Bregman-Kaczmarz method with averaging for nonlinear sparse signal recovery**|Aqin Xiao et.al.|[2502.15529v1](http://arxiv.org/abs/2502.15529v1)|null|
-|**2025-02-21**|**Scaling Sparse and Dense Retrieval in Decoder-Only LLMs**|Hansi Zeng et.al.|[2502.15526v1](http://arxiv.org/abs/2502.15526v1)|null|
-|**2025-02-21**|**Depth-aware Fusion Method based on Image and 4D Radar Spectrum for 3D Object Detection**|Yue Sun et.al.|[2502.15516v1](http://arxiv.org/abs/2502.15516v1)|null|
-|**2025-02-21**|**Confidence-Based Annotation Of Brain Tumours In Ultrasound**|Alistair Weld et.al.|[2502.15484v1](http://arxiv.org/abs/2502.15484v1)|null|
-|**2025-02-21**|**Learning Long-Horizon Robot Manipulation Skills via Privileged Action**|Xiaofeng Mao et.al.|[2502.15442v1](http://arxiv.org/abs/2502.15442v1)|null|
-|**2025-02-21**|**State-space kinetic Ising model reveals task-dependent entropy flow in sparsely active nonequilibrium neuronal dynamics**|Ken Ishihara et.al.|[2502.15440v1](http://arxiv.org/abs/2502.15440v1)|null|
-|**2025-02-21**|**LEAP: Enhancing Vision-Based Occupancy Networks with Lightweight Spatio-Temporal Correlation**|Fengcheng Yu et.al.|[2502.15438v1](http://arxiv.org/abs/2502.15438v1)|null|
-|**2025-02-21**|**Efficient and Provable Algorithms for Covariate Shift**|Deeksha Adil et.al.|[2502.15372v1](http://arxiv.org/abs/2502.15372v1)|null|
-|**2025-02-21**|**Constructing Fermionic Hamiltonians with Non-Gaussianic low-energy states**|Kartik Anand et.al.|[2502.15368v1](http://arxiv.org/abs/2502.15368v1)|null|
-|**2025-02-21**|**PFSD: A Multi-Modal Pedestrian-Focus Scene Dataset for Rich Tasks in Semi-Structured Environments**|Yueting Liu et.al.|[2502.15342v1](http://arxiv.org/abs/2502.15342v1)|null|
-|**2025-02-21**|**Tight Clusters Make Specialized Experts**|Stefan K. Nielsen et.al.|[2502.15315v1](http://arxiv.org/abs/2502.15315v1)|null|
-|**2025-02-21**|**A Novel Riemannian Sparse Representation Learning Network for Polarimetric SAR Image Classification**|Junfei Shi et.al.|[2502.15302v1](http://arxiv.org/abs/2502.15302v1)|null|
-|**2025-02-20**|**Estimating Neural Representation Alignment from Limited Inputs and Features**|Chanwoo Chun et.al.|[2502.15104v1](http://arxiv.org/abs/2502.15104v1)|null|
-|**2025-02-20**|**Multi-Source Static CT with Adaptive Fluence Modulation to Minimize Hallucinations in Generative Reconstructions**|Matthew Tivnan et.al.|[2502.15060v1](http://arxiv.org/abs/2502.15060v1)|null|
-|**2025-02-20**|**Notions of Stack-manipulating Computation and Relative Monads (Extended Version)**|Yuchen Jiang et.al.|[2502.15031v1](http://arxiv.org/abs/2502.15031v1)|null|
-|**2025-02-20**|**LServe: Efficient Long-sequence LLM Serving with Unified Sparse Attention**|Shang Yang et.al.|[2502.14866v1](http://arxiv.org/abs/2502.14866v1)|[link](https://github.com/mit-han-lab/omniserve)|
-|**2025-02-20**|**Dynamic Low-Rank Sparse Adaptation for Large Language Models**|Weizhong Huang et.al.|[2502.14816v1](http://arxiv.org/abs/2502.14816v1)|null|
-|**2025-02-20**|**Every Graph is Essential to Large Treewidth**|Bogdan Alecu et.al.|[2502.14775v1](http://arxiv.org/abs/2502.14775v1)|null|
-|**2025-02-20**|**Sparse Activations as Conformal Predictors**|Margarida M. Campos et.al.|[2502.14773v1](http://arxiv.org/abs/2502.14773v1)|[link](https://github.com/deep-spin/sparse-activations-cp)|
-|**2025-02-20**|**Determining Layer-wise Sparsity for Large Language Models Through a Theoretical Perspective**|Weizhong Huang et.al.|[2502.14770v1](http://arxiv.org/abs/2502.14770v1)|null|
-|**2025-02-20**|**Sculpting [CLS] Features for Pre-Trained Model-Based Class-Incremental Learning**|Murat Onur Yildirim et.al.|[2502.14762v1](http://arxiv.org/abs/2502.14762v1)|null|
 
 ## AI
 
