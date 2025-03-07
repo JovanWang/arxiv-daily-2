@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-03-07 08:39:33 Asia/Shanghai
+ Automated deployment @ 2025-03-07 10:11:28 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -19,7 +19,7 @@
 |**2025-03-05**|**Ambiguity-Free Broadband DOA Estimation Relying on Parameterized Time-Frequency Transform**|Wei Wang et.al.|[2503.03691v1](http://arxiv.org/abs/2503.03691v1)|null|
 |**2025-03-05**|**Empowering Multi-class Classification for Complex Functional Data with Simultaneous Feature Selection**|Shuoyang Wang et.al.|[2503.03679v1](http://arxiv.org/abs/2503.03679v1)|null|
 |**2025-03-05**|**F-theory with hyperelliptic fibrations**|E. Ballico et.al.|[2503.03673v1](http://arxiv.org/abs/2503.03673v1)|null|
-|**2025-03-05**|**Chunking the Critic: A Transformer-based Soft Actor-Critic with N-Step Returns**|Dong Tian et.al.|[2503.03660v1](http://arxiv.org/abs/2503.03660v1)|null|
+|**2025-03-05**|**Chunking the Critic: A Transformer-based Soft Actor-Critic with N-Step Returns**|Dong Tian et.al.|[2503.03660v2](http://arxiv.org/abs/2503.03660v2)|null|
 |**2025-03-05**|**Robust Learning of Diverse Code Edits**|Tushar Aggarwal et.al.|[2503.03656v1](http://arxiv.org/abs/2503.03656v1)|null|
 |**2025-03-05**|**Fermat's and Catalan's equations over $M_2(\mathbb{Z})$**|Hongjian Li et.al.|[2503.03621v1](http://arxiv.org/abs/2503.03621v1)|null|
 |**2025-03-05**|**Feature-Level Insights into Artificial Text Detection with Sparse Autoencoders**|Kristian Kuznetsov et.al.|[2503.03601v1](http://arxiv.org/abs/2503.03601v1)|null|
@@ -52,7 +52,7 @@
 |**2025-03-05**|**AEGIS: Towards Formalized and Practical Memory-Safe Execution of C programs via MSWASM**|Shahram Esmaeilsabzali et.al.|[2503.03698v1](http://arxiv.org/abs/2503.03698v1)|null|
 |**2025-03-05**|**Ambiguity-Free Broadband DOA Estimation Relying on Parameterized Time-Frequency Transform**|Wei Wang et.al.|[2503.03691v1](http://arxiv.org/abs/2503.03691v1)|null|
 |**2025-03-05**|**Empowering Multi-class Classification for Complex Functional Data with Simultaneous Feature Selection**|Shuoyang Wang et.al.|[2503.03679v1](http://arxiv.org/abs/2503.03679v1)|null|
-|**2025-03-05**|**Chunking the Critic: A Transformer-based Soft Actor-Critic with N-Step Returns**|Dong Tian et.al.|[2503.03660v1](http://arxiv.org/abs/2503.03660v1)|null|
+|**2025-03-05**|**Chunking the Critic: A Transformer-based Soft Actor-Critic with N-Step Returns**|Dong Tian et.al.|[2503.03660v2](http://arxiv.org/abs/2503.03660v2)|null|
 |**2025-03-05**|**Robust Learning of Diverse Code Edits**|Tushar Aggarwal et.al.|[2503.03656v1](http://arxiv.org/abs/2503.03656v1)|null|
 |**2025-03-05**|**Revisiting the observation-theory confrontation in high-frequency QPOs:a new QPO in NGC 5506, intermediate mass black holes, and the crucial role of accretion state**|Haoyang Zhang et.al.|[2503.03631v1](http://arxiv.org/abs/2503.03631v1)|null|
 |**2025-03-05**|**Feature-Level Insights into Artificial Text Detection with Sparse Autoencoders**|Kristian Kuznetsov et.al.|[2503.03601v1](http://arxiv.org/abs/2503.03601v1)|null|
@@ -66,7 +66,7 @@
 |**2025-03-05**|**Direct Sparse Odometry with Continuous 3D Gaussian Maps for Indoor Environments**|Jie Deng et.al.|[2503.03373v1](http://arxiv.org/abs/2503.03373v1)|null|
 |**2025-03-05**|**Iterating Pointers: Enabling Static Analysis for Loop-based Pointers**|Andrea Lepori et.al.|[2503.03359v1](http://arxiv.org/abs/2503.03359v1)|null|
 |**2025-03-05**|**Full-DoF Egomotion Estimation for Event Cameras Using Geometric Solvers**|Ji Zhao et.al.|[2503.03307v1](http://arxiv.org/abs/2503.03307v1)|null|
-|**2025-03-05**|**Towards Effective and Sparse Adversarial Attack on Spiking Neural Networks via Breaking Invisible Surrogate Gradients**|Li Lun et.al.|[2503.03272v1](http://arxiv.org/abs/2503.03272v1)|null|
+|**2025-03-05**|**Towards Effective and Sparse Adversarial Attack on Spiking Neural Networks via Breaking Invisible Surrogate Gradients**|Li Lun et.al.|[2503.03272v2](http://arxiv.org/abs/2503.03272v2)|null|
 |**2025-03-05**|**Less is more? Rewards in RL for Cyber Defence**|Elizabeth Bates et.al.|[2503.03245v1](http://arxiv.org/abs/2503.03245v1)|null|
 |**2025-03-05**|**Prediction of Halo Coronal Mass Ejections Using SDO/HMI Vector Magnetic Data Products and a Transformer Model**|Hongyang Zhang et.al.|[2503.03237v1](http://arxiv.org/abs/2503.03237v1)|null|
 |**2025-03-05**|**Convergence Rates for Softmax Gating Mixture of Experts**|Huy Nguyen et.al.|[2503.03213v1](http://arxiv.org/abs/2503.03213v1)|null|
@@ -89,12 +89,12 @@
 |**2025-03-05**|**OTTER: A Vision-Language-Action Model with Text-Aware Visual Feature Extraction**|Huang Huang et.al.|[2503.03734v1](http://arxiv.org/abs/2503.03734v1)|null|
 |**2025-03-05**|**LuxNAS: A Coherent Photonic Neural Network Powered by Neural Architecture Search**|Amin Shafiee et.al.|[2503.03731v1](http://arxiv.org/abs/2503.03731v1)|null|
 |**2025-03-05**|**Deep Causal Behavioral Policy Learning: Applications to Healthcare**|Jonas Knecht et.al.|[2503.03724v1](http://arxiv.org/abs/2503.03724v1)|null|
-|**2025-03-05**|**When Radiation Meets Linux: Analyzing Soft Errors in Linux on COTS SoCs under Proton Irradiation**|Saad Memon et.al.|[2503.03722v1](http://arxiv.org/abs/2503.03722v1)|null|
+|**2025-03-05**|**When Radiation Meets Linux: Analyzing Soft Errors in Linux on COTS SoCs under Proton Irradiation**|Saad Memon et.al.|[2503.03722v2](http://arxiv.org/abs/2503.03722v2)|null|
 |**2025-03-05**|**Rethinking Video Tokenization: A Conditioned Diffusion-based Approach**|Nianzu Yang et.al.|[2503.03708v1](http://arxiv.org/abs/2503.03708v1)|null|
 |**2025-03-05**|**Embedding Matrices in Programmable Photonic Networks with Flexible Depth and Width**|Matthew Markowitz et.al.|[2503.03696v1](http://arxiv.org/abs/2503.03696v1)|null|
 |**2025-03-05**|**Empowering Multi-class Classification for Complex Functional Data with Simultaneous Feature Selection**|Shuoyang Wang et.al.|[2503.03679v1](http://arxiv.org/abs/2503.03679v1)|null|
 |**2025-03-05**|**Attentive Reasoning Queries: A Systematic Method for Optimizing Instruction-Following in Large Language Models**|Bar Karov et.al.|[2503.03669v1](http://arxiv.org/abs/2503.03669v1)|null|
-|**2025-03-05**|**Chunking the Critic: A Transformer-based Soft Actor-Critic with N-Step Returns**|Dong Tian et.al.|[2503.03660v1](http://arxiv.org/abs/2503.03660v1)|null|
+|**2025-03-05**|**Chunking the Critic: A Transformer-based Soft Actor-Critic with N-Step Returns**|Dong Tian et.al.|[2503.03660v2](http://arxiv.org/abs/2503.03660v2)|null|
 |**2025-03-05**|**Modelowanie nieliniowej charakterystyki szerokopasmowych wzmacniaczy radiowych o zmiennym napięciu zasilania; Modeling Nonlinear Characteristics of Wideband Radio Frequency Amplifiers with Variable Supply Voltage**|Kornelia Kostrzewska et.al.|[2503.03648v1](http://arxiv.org/abs/2503.03648v1)|null|
 |**2025-03-05**|**Efektywne energetycznie wielodostępowe przetwarzanie brzegowe w sieci 5G; Energy efficient Multi-access Edge Computing in 5G network**|Paweł Kryszkiewicz et.al.|[2503.03646v1](http://arxiv.org/abs/2503.03646v1)|null|
 |**2025-03-05**|**Psy-Copilot: Visual Chain of Thought for Counseling**|Keqi Chen et.al.|[2503.03645v1](http://arxiv.org/abs/2503.03645v1)|null|
@@ -103,7 +103,7 @@
 |**2025-03-05**|**Design and Implementation of an IoT Cluster with Raspberry Pi Powered by Solar Energy: A Theoretical Approach**|Noel Portillo et.al.|[2503.03618v1](http://arxiv.org/abs/2503.03618v1)|null|
 |**2025-03-05**|**Large language models in finance: estimating financial sentiment for stock prediction**|Kemal Kirtac et.al.|[2503.03612v1](http://arxiv.org/abs/2503.03612v1)|null|
 |**2025-03-05**|**Enhancing the Accuracy and Comprehensibility in Architectural Tactics Detection via Small Model-Augmented Prompt Engineering**|Lingli Cao et.al.|[2503.03609v1](http://arxiv.org/abs/2503.03609v1)|null|
-|**2025-03-05**|**Decoupled Recommender Systems: Exploring Alternative Recommender Ecosystem Designs**|Anas Buhayh et.al.|[2503.03606v1](http://arxiv.org/abs/2503.03606v1)|null|
+|**2025-03-05**|**Decoupled Recommender Systems: Exploring Alternative Recommender Ecosystem Designs**|Anas Buhayh et.al.|[2503.03606v2](http://arxiv.org/abs/2503.03606v2)|null|
 |**2025-03-05**|**Towards Understanding Text Hallucination of Diffusion Models via Local Generation Bias**|Rui Lu et.al.|[2503.03595v1](http://arxiv.org/abs/2503.03595v1)|null|
 |**2025-03-05**|**Small but Mighty: Enhancing Time Series Forecasting with Lightweight LLMs**|Haoran Fan et.al.|[2503.03594v1](http://arxiv.org/abs/2503.03594v1)|null|
 |**2025-03-05**|**English K_Quantization of LLMs Does Not Disproportionately Diminish Multilingual Performance**|Karl Audun Borgersen et.al.|[2503.03592v1](http://arxiv.org/abs/2503.03592v1)|null|
@@ -125,7 +125,7 @@
 |**2025-03-05**|**CURVALID: Geometrically-guided Adversarial Prompt Detection**|Canaan Yung et.al.|[2503.03502v1](http://arxiv.org/abs/2503.03502v1)|null|
 |**2025-03-05**|**State-offset Tuning: State-based Parameter-Efficient Fine-Tuning for State Space Models**|Wonjun Kang et.al.|[2503.03499v1](http://arxiv.org/abs/2503.03499v1)|null|
 |**2025-03-05**|**Find First, Track Next: Decoupling Identification and Propagation in Referring Video Object Segmentation**|Suhwan Cho et.al.|[2503.03492v1](http://arxiv.org/abs/2503.03492v1)|[link](https://github.com/suhwan-cho/FindTrack)|
-|**2025-03-05**|**Exploring Visual Prompts: Refining Images with Scribbles and Annotations in Generative AI Image Tools**|Hyerim Park et.al.|[2503.03398v1](http://arxiv.org/abs/2503.03398v1)|null|
+|**2025-03-05**|**Exploring Visual Prompts: Refining Images with Scribbles and Annotations in Generative AI Image Tools**|Hyerim Park et.al.|[2503.03398v2](http://arxiv.org/abs/2503.03398v2)|null|
 |**2025-03-05**|**Leveraging Large Language Models to Develop Heuristics for Emerging Optimization Problems**|Thomas Bömer et.al.|[2503.03350v1](http://arxiv.org/abs/2503.03350v1)|null|
 |**2025-03-05**|**LLM as GNN: Graph Vocabulary Learning for Text-Attributed Graph Foundation Models**|Xi Zhu et.al.|[2503.03313v1](http://arxiv.org/abs/2503.03313v1)|null|
 |**2025-03-05**|**Enhancing Abnormality Grounding for Vision Language Models with Knowledge Descriptions**|Jun Li et.al.|[2503.03278v1](http://arxiv.org/abs/2503.03278v1)|null|
@@ -133,7 +133,7 @@
 |**2025-03-05**|**PAIR: A Novel Large Language Model-Guided Selection Strategy for Evolutionary Algorithms**|Shady Ali et.al.|[2503.03239v1](http://arxiv.org/abs/2503.03239v1)|[link](https://github.com/SHIXOOM/PAIR)|
 |**2025-03-05**|**Targeted Distillation for Sentiment Analysis**|Yice Zhang et.al.|[2503.03225v1](http://arxiv.org/abs/2503.03225v1)|null|
 |**2025-03-05**|**Find Matching Faces Based On Face Parameters**|Setu A. Bhatt et.al.|[2503.03204v1](http://arxiv.org/abs/2503.03204v1)|null|
-|**2025-03-05**|**Dango: A Mixed-Initiative Data Wrangling System using Large Language Model**|Wei-Hao Chen et.al.|[2503.03154v1](http://arxiv.org/abs/2503.03154v1)|null|
+|**2025-03-05**|**Dango: A Mixed-Initiative Data Wrangling System using Large Language Model**|Wei-Hao Chen et.al.|[2503.03154v2](http://arxiv.org/abs/2503.03154v2)|null|
 |**2025-03-05**|**Bridging Molecular Graphs and Large Language Models**|Runze Wang et.al.|[2503.03135v1](http://arxiv.org/abs/2503.03135v1)|null|
 |**2025-03-05**|**Making AI-Enhanced Videos: Analyzing Generative AI Use Cases in YouTube Content Creation**|Torin Anderson et.al.|[2503.03134v1](http://arxiv.org/abs/2503.03134v1)|null|
 |**2025-03-05**|**From Architectural Sketch to Conceptual Representation: Using Structure-Aware Diffusion Model to Generate Renderings of School Buildings**|Zhengyang Wang et.al.|[2503.03090v1](http://arxiv.org/abs/2503.03090v1)|null|
@@ -165,7 +165,7 @@
 |**2025-03-05**|**OTTER: A Vision-Language-Action Model with Text-Aware Visual Feature Extraction**|Huang Huang et.al.|[2503.03734v1](http://arxiv.org/abs/2503.03734v1)|null|
 |**2025-03-05**|**Rethinking Deep Clustering Paradigms: Self-Supervision Is All You Need**|Amal Shaheena et.al.|[2503.03733v1](http://arxiv.org/abs/2503.03733v1)|null|
 |**2025-03-05**|**Evaluating Compression and Nanoindentation in FCC Nickel: A Methodology for Interatomic Potential Selection**|K. Cichocki et.al.|[2503.03723v1](http://arxiv.org/abs/2503.03723v1)|null|
-|**2025-03-05**|**When Radiation Meets Linux: Analyzing Soft Errors in Linux on COTS SoCs under Proton Irradiation**|Saad Memon et.al.|[2503.03722v1](http://arxiv.org/abs/2503.03722v1)|null|
+|**2025-03-05**|**When Radiation Meets Linux: Analyzing Soft Errors in Linux on COTS SoCs under Proton Irradiation**|Saad Memon et.al.|[2503.03722v2](http://arxiv.org/abs/2503.03722v2)|null|
 |**2025-03-05**|**Positivity of generalized cluster scattering diagrams**|Amanda Burcroff et.al.|[2503.03719v1](http://arxiv.org/abs/2503.03719v1)|null|
 |**2025-03-05**|**Handling Uncertainty in Health Data using Generative Algorithms**|Mahdi Arab Loodaricheh et.al.|[2503.03715v1](http://arxiv.org/abs/2503.03715v1)|null|
 |**2025-03-05**|**Dynamic Hologram Generation with Automatic Differentiation**|Xing-Yu Zhang et.al.|[2503.03714v1](http://arxiv.org/abs/2503.03714v1)|null|
@@ -214,7 +214,7 @@
 |**2025-03-05**|**Noncommutative Phantom BTZ Black Hole**|B. Hamil et.al.|[2503.03725v1](http://arxiv.org/abs/2503.03725v1)|null|
 |**2025-03-05**|**Deep Causal Behavioral Policy Learning: Applications to Healthcare**|Jonas Knecht et.al.|[2503.03724v1](http://arxiv.org/abs/2503.03724v1)|null|
 |**2025-03-05**|**Evaluating Compression and Nanoindentation in FCC Nickel: A Methodology for Interatomic Potential Selection**|K. Cichocki et.al.|[2503.03723v1](http://arxiv.org/abs/2503.03723v1)|null|
-|**2025-03-05**|**When Radiation Meets Linux: Analyzing Soft Errors in Linux on COTS SoCs under Proton Irradiation**|Saad Memon et.al.|[2503.03722v1](http://arxiv.org/abs/2503.03722v1)|null|
+|**2025-03-05**|**When Radiation Meets Linux: Analyzing Soft Errors in Linux on COTS SoCs under Proton Irradiation**|Saad Memon et.al.|[2503.03722v2](http://arxiv.org/abs/2503.03722v2)|null|
 |**2025-03-05**|**A covering index for Banach spaces**|Matias Raja et.al.|[2503.03721v1](http://arxiv.org/abs/2503.03721v1)|null|
 
 ## Large-Language Model
