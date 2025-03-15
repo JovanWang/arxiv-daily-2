@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-03-15 20:48:13 Asia/Shanghai
+ Automated deployment @ 2025-03-15 21:03:28 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -76,6 +76,76 @@
 |**2025-03-12**|**Equivalence of Quantum Approximate Optimization Algorithm and Linear-Time Quantum Annealing for the Sherrington-Kirkpatrick Model**|Sami Boulebnane et.al.|[2503.09563v1](http://arxiv.org/abs/2503.09563v1)|null|
 |**2025-03-12**|**The Value of Goal Commitment in Planning**|Alberto Pozanco et.al.|[2503.09545v1](http://arxiv.org/abs/2503.09545v1)|null|
 |**2025-03-12**|**SAEBench: A Comprehensive Benchmark for Sparse Autoencoders in Language Model Interpretability**|Adam Karvonen et.al.|[2503.09532v2](http://arxiv.org/abs/2503.09532v2)|null|
+
+## AI
+
+### LLM Agent
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2025-03-13**|**GoT: Unleashing Reasoning Capability of Multimodal Large Language Model for Visual Generation and Editing**|Rongyao Fang et.al.|[2503.10639v1](http://arxiv.org/abs/2503.10639v1)|null|
+|**2025-03-13**|**Distilling Diversity and Control in Diffusion Models**|Rohit Gandikota et.al.|[2503.10637v1](http://arxiv.org/abs/2503.10637v1)|null|
+|**2025-03-13**|**V2Edit: Versatile Video Diffusion Editor for Videos and 3D Scenes**|Yanming Zhang et.al.|[2503.10634v1](http://arxiv.org/abs/2503.10634v1)|null|
+|**2025-03-13**|**Siege: Autonomous Multi-Turn Jailbreaking of Large Language Models with Tree Search**|Andy Zhou et.al.|[2503.10619v1](http://arxiv.org/abs/2503.10619v1)|null|
+|**2025-03-13**|**Unlock the Power of Unlabeled Data in Language Driving Model**|Chaoqun Wang et.al.|[2503.10586v1](http://arxiv.org/abs/2503.10586v1)|null|
+|**2025-03-13**|**ASIDE: Architectural Separation of Instructions and Data in Language Models**|Egor Zverev et.al.|[2503.10566v1](http://arxiv.org/abs/2503.10566v1)|null|
+|**2025-03-13**|**MASQUE: A Text-Guided Diffusion-Based Framework for Localized and Customized Adversarial Makeup**|Youngjin Kwon et.al.|[2503.10549v1](http://arxiv.org/abs/2503.10549v1)|null|
+|**2025-03-13**|**KUDA: Keypoints to Unify Dynamics Learning and Visual Prompting for Open-Vocabulary Robotic Manipulation**|Zixian Liu et.al.|[2503.10546v1](http://arxiv.org/abs/2503.10546v1)|null|
+|**2025-03-13**|**DP-GPL: Differentially Private Graph Prompt Learning**|Jing Xu et.al.|[2503.10544v1](http://arxiv.org/abs/2503.10544v1)|null|
+|**2025-03-13**|**Conformal Prediction Sets for Deep Generative Models via Reduction to Conformal Regression**|Hooman Shahrokhi et.al.|[2503.10512v1](http://arxiv.org/abs/2503.10512v1)|null|
+|**2025-03-13**|**MMLU-ProX: A Multilingual Benchmark for Advanced Large Language Model Evaluation**|Weihao Xuan et.al.|[2503.10497v1](http://arxiv.org/abs/2503.10497v1)|null|
+|**2025-03-13**|**4D LangSplat: 4D Language Gaussian Splatting via Multimodal Large Language Models**|Wanhua Li et.al.|[2503.10437v1](http://arxiv.org/abs/2503.10437v1)|null|
+|**2025-03-13**|**Category Prompt Mamba Network for Nuclei Segmentation and Classification**|Ye Zhang et.al.|[2503.10422v1](http://arxiv.org/abs/2503.10422v1)|null|
+|**2025-03-13**|**CINEMA: Coherent Multi-Subject Video Generation via MLLM-Based Guidance**|Yufan Deng et.al.|[2503.10391v1](http://arxiv.org/abs/2503.10391v1)|null|
+|**2025-03-13**|**Piece it Together: Part-Based Concepting with IP-Priors**|Elad Richardson et.al.|[2503.10365v1](http://arxiv.org/abs/2503.10365v1)|null|
+|**2025-03-13**|**ConceptGuard: Continual Personalized Text-to-Image Generation with Forgetting and Confusion Mitigation**|Zirun Guo et.al.|[2503.10358v1](http://arxiv.org/abs/2503.10358v1)|null|
+|**2025-03-13**|**Test Amplification for REST APIs Using "Out-of-the-box" Large Language Models**|Tolgahan Bardakci et.al.|[2503.10306v1](http://arxiv.org/abs/2503.10306v1)|null|
+|**2025-03-13**|**Eye on the Target: Eye Tracking Meets Rodent Tracking**|Emil Mededovic et.al.|[2503.10305v1](http://arxiv.org/abs/2503.10305v1)|null|
+|**2025-03-13**|**MaterialMVP: Illumination-Invariant Material Generation via Multi-view PBR Diffusion**|Zebin He et.al.|[2503.10289v1](http://arxiv.org/abs/2503.10289v1)|null|
+|**2025-03-13**|**EEdit : Rethinking the Spatial and Temporal Redundancy for Efficient Image Editing**|Zexuan Yan et.al.|[2503.10270v1](http://arxiv.org/abs/2503.10270v1)|null|
+|**2025-03-13**|**SurgRAW: Multi-Agent Workflow with Chain-of-Thought Reasoning for Surgical Intelligence**|Chang Han Low et.al.|[2503.10265v1](http://arxiv.org/abs/2503.10265v1)|null|
+|**2025-03-13**|**MinorBench: A hand-built benchmark for content-based risks for children**|Shaun Khoo et.al.|[2503.10242v1](http://arxiv.org/abs/2503.10242v1)|null|
+|**2025-03-13**|**R.U.Psycho? Robust Unified Psychometric Testing of Language Models**|Julian Schelb et.al.|[2503.10229v1](http://arxiv.org/abs/2503.10229v1)|null|
+|**2025-03-13**|**Singular Value Fine-tuning for Few-Shot Class-Incremental Learning**|Zhiwu Wang et.al.|[2503.10214v1](http://arxiv.org/abs/2503.10214v1)|null|
+|**2025-03-13**|**High-rate self-referenced continuous-variable quantum key distribution over high-loss free-space channel**|Xiaojuan Liao et.al.|[2503.10168v1](http://arxiv.org/abs/2503.10168v1)|null|
+|**2025-03-13**|**"Well, Keep Thinking": Enhancing LLM Reasoning with Adaptive Injection Decoding**|Hyunbin Jin et.al.|[2503.10167v1](http://arxiv.org/abs/2503.10167v1)|null|
+|**2025-03-13**|**PlanGen: Towards Unified Layout Planning and Image Generation in Auto-Regressive Vision Language Models**|Runze He et.al.|[2503.10127v1](http://arxiv.org/abs/2503.10127v1)|null|
+|**2025-03-13**|**Proxy-Tuning: Tailoring Multimodal Autoregressive Models for Subject-Driven Image Generation**|Yi Wu et.al.|[2503.10125v1](http://arxiv.org/abs/2503.10125v1)|null|
+|**2025-03-13**|**Hybrid Agents for Image Restoration**|Bingchen Li et.al.|[2503.10120v1](http://arxiv.org/abs/2503.10120v1)|null|
+|**2025-03-13**|**Dream-IF: Dynamic Relative EnhAnceMent for Image Fusion**|Xingxin Xu et.al.|[2503.10109v1](http://arxiv.org/abs/2503.10109v1)|null|
+
+### LLM Theory
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2025-03-13**|**GoT: Unleashing Reasoning Capability of Multimodal Large Language Model for Visual Generation and Editing**|Rongyao Fang et.al.|[2503.10639v1](http://arxiv.org/abs/2503.10639v1)|null|
+|**2025-03-13**|**Kolmogorov-Arnold Attention: Is Learnable Attention Better For Vision Transformers?**|Subhajit Maity et.al.|[2503.10632v1](http://arxiv.org/abs/2503.10632v1)|null|
+|**2025-03-13**|**Uncertainty in Action: Confidence Elicitation in Embodied Agents**|Tianjiao Yu et.al.|[2503.10628v1](http://arxiv.org/abs/2503.10628v1)|null|
+|**2025-03-13**|**SciVerse: Unveiling the Knowledge Comprehension and Visual Reasoning of LMMs on Multi-modal Scientific Problems**|Ziyu Guo et.al.|[2503.10627v1](http://arxiv.org/abs/2503.10627v1)|null|
+|**2025-03-13**|**LHM: Large Animatable Human Reconstruction Model from a Single Image in Seconds**|Lingteng Qiu et.al.|[2503.10625v1](http://arxiv.org/abs/2503.10625v1)|null|
+|**2025-03-13**|**Fast Sideband Control of a Weakly Coupled Multimode Bosonic Memory**|Jordan Huang et.al.|[2503.10623v1](http://arxiv.org/abs/2503.10623v1)|null|
+|**2025-03-13**|**DiT-Air: Revisiting the Efficiency of Diffusion Model Architecture Design in Text to Image Generation**|Chen Chen et.al.|[2503.10618v1](http://arxiv.org/abs/2503.10618v1)|null|
+|**2025-03-13**|**Dual-Stage Cross-Modal Network with Dynamic Feature Fusion for Emotional Mimicry Intensity Estimation**|Jun Yu et.al.|[2503.10603v1](http://arxiv.org/abs/2503.10603v1)|null|
+|**2025-03-13**|**Performance of the spin qubit shuttling architecture for a surface code implementation**|Berat Yenilen et.al.|[2503.10601v1](http://arxiv.org/abs/2503.10601v1)|null|
+|**2025-03-13**|**Unveiling the Mathematical Reasoning in DeepSeek Models: A Comparative Study of Large Language Models**|Afrar Jahin et.al.|[2503.10573v1](http://arxiv.org/abs/2503.10573v1)|null|
+|**2025-03-13**|**Radar: Fast Long-Context Decoding for Any Transformer**|Yongchang Hao et.al.|[2503.10571v1](http://arxiv.org/abs/2503.10571v1)|null|
+|**2025-03-13**|**ASIDE: Architectural Separation of Instructions and Data in Language Models**|Egor Zverev et.al.|[2503.10566v1](http://arxiv.org/abs/2503.10566v1)|null|
+|**2025-03-13**|**Towards Safe Path Tracking Using the Simplex Architecture**|Georg Jäger et.al.|[2503.10559v1](http://arxiv.org/abs/2503.10559v1)|null|
+|**2025-03-13**|**DP-GPL: Differentially Private Graph Prompt Learning**|Jing Xu et.al.|[2503.10544v1](http://arxiv.org/abs/2503.10544v1)|null|
+|**2025-03-13**|**Foundation Models for Atomistic Simulation of Chemistry and Materials**|Eric C. -Y. Yuan et.al.|[2503.10538v1](http://arxiv.org/abs/2503.10538v1)|null|
+|**2025-03-13**|**AudioX: Diffusion Transformer for Anything-to-Audio Generation**|Zeyue Tian et.al.|[2503.10522v1](http://arxiv.org/abs/2503.10522v1)|null|
+|**2025-03-13**|**Concurrent Scheduling of High-Level Parallel Programs on Multi-GPU Systems**|Fabian Knorr et.al.|[2503.10516v1](http://arxiv.org/abs/2503.10516v1)|null|
+|**2025-03-13**|**Extreme Learning Machines for Attention-based Multiple Instance Learning in Whole-Slide Image Classification**|Rajiv Krishnakumar et.al.|[2503.10510v1](http://arxiv.org/abs/2503.10510v1)|null|
+|**2025-03-13**|**Safety Filter for Limiting the Current of Grid-Forming Matrix Modular Multilevel Converters**|Michael Schneeberger et.al.|[2503.10498v1](http://arxiv.org/abs/2503.10498v1)|null|
+|**2025-03-13**|**MMLU-ProX: A Multilingual Benchmark for Advanced Large Language Model Evaluation**|Weihao Xuan et.al.|[2503.10497v1](http://arxiv.org/abs/2503.10497v1)|null|
+|**2025-03-13**|**Representation Learning, Large-Scale 3D Molecular Pretraining, Molecular Property**|Shuqi Lu et.al.|[2503.10489v1](http://arxiv.org/abs/2503.10489v1)|null|
+|**2025-03-13**|**Low Complexity Point Tracking of the Myocardium in 2D Echocardiography**|Artem Chernyshov et.al.|[2503.10431v1](http://arxiv.org/abs/2503.10431v1)|null|
+|**2025-03-13**|**An Architectural View Type for Elasticity Modeling and Simulation -- The Slingshot Approach**|Floriment Klinaku et.al.|[2503.10407v1](http://arxiv.org/abs/2503.10407v1)|null|
+|**2025-03-13**|**Architecture-Aware Minimization (A$^2$M): How to Find Flat Minima in Neural Architecture Search**|Matteo Gambella et.al.|[2503.10404v1](http://arxiv.org/abs/2503.10404v1)|null|
+|**2025-03-13**|**Deep source separation of overlapping gravitational-wave signals and non-stationary noise artifacts**|Niklas Houba et.al.|[2503.10398v1](http://arxiv.org/abs/2503.10398v1)|null|
+|**2025-03-13**|**RoMA: Scaling up Mamba-based Foundation Models for Remote Sensing**|Fengxiang Wang et.al.|[2503.10392v1](http://arxiv.org/abs/2503.10392v1)|null|
+|**2025-03-13**|**Extractors: QLDPC Architectures for Efficient Pauli-Based Computation**|Zhiyang He et.al.|[2503.10390v1](http://arxiv.org/abs/2503.10390v1)|null|
+|**2025-03-13**|**BioSerenity-E1: a self-supervised EEG model for medical applications**|Ruggero G. Bettinardi et.al.|[2503.10362v1](http://arxiv.org/abs/2503.10362v1)|null|
+|**2025-03-13**|**The stochastic gravitational wave background from cosmic superstrings**|Anastasios Avgoustidis et.al.|[2503.10361v1](http://arxiv.org/abs/2503.10361v1)|null|
+|**2025-03-13**|**A Hybrid Architecture with Efficient Fine Tuning for Abstractive Patent Document Summarization**|Nevidu Jayatilleke et.al.|[2503.10354v1](http://arxiv.org/abs/2503.10354v1)|null|
 
 ## Code Compile
 
@@ -182,73 +252,3 @@
 |**2025-03-13**|**Utilizing discrete variable representations for decoherence-accurate numerical simulation of superconducting circuits**|Brittany Richman et.al.|[2503.10607v1](http://arxiv.org/abs/2503.10607v1)|null|
 |**2025-03-13**|**OCCUQ: Exploring Efficient Uncertainty Quantification for 3D Occupancy Prediction**|Severin Heidrich et.al.|[2503.10605v1](http://arxiv.org/abs/2503.10605v1)|null|
 |**2025-03-13**|**MuDG: Taming Multi-modal Diffusion with Gaussian Splatting for Urban Scene Reconstruction**|Yingshuang Zou et.al.|[2503.10604v1](http://arxiv.org/abs/2503.10604v1)|null|
-
-## AI
-
-### LLM Agent
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2025-03-13**|**GoT: Unleashing Reasoning Capability of Multimodal Large Language Model for Visual Generation and Editing**|Rongyao Fang et.al.|[2503.10639v1](http://arxiv.org/abs/2503.10639v1)|null|
-|**2025-03-13**|**Distilling Diversity and Control in Diffusion Models**|Rohit Gandikota et.al.|[2503.10637v1](http://arxiv.org/abs/2503.10637v1)|null|
-|**2025-03-13**|**V2Edit: Versatile Video Diffusion Editor for Videos and 3D Scenes**|Yanming Zhang et.al.|[2503.10634v1](http://arxiv.org/abs/2503.10634v1)|null|
-|**2025-03-13**|**Siege: Autonomous Multi-Turn Jailbreaking of Large Language Models with Tree Search**|Andy Zhou et.al.|[2503.10619v1](http://arxiv.org/abs/2503.10619v1)|null|
-|**2025-03-13**|**Unlock the Power of Unlabeled Data in Language Driving Model**|Chaoqun Wang et.al.|[2503.10586v1](http://arxiv.org/abs/2503.10586v1)|null|
-|**2025-03-13**|**ASIDE: Architectural Separation of Instructions and Data in Language Models**|Egor Zverev et.al.|[2503.10566v1](http://arxiv.org/abs/2503.10566v1)|null|
-|**2025-03-13**|**MASQUE: A Text-Guided Diffusion-Based Framework for Localized and Customized Adversarial Makeup**|Youngjin Kwon et.al.|[2503.10549v1](http://arxiv.org/abs/2503.10549v1)|null|
-|**2025-03-13**|**KUDA: Keypoints to Unify Dynamics Learning and Visual Prompting for Open-Vocabulary Robotic Manipulation**|Zixian Liu et.al.|[2503.10546v1](http://arxiv.org/abs/2503.10546v1)|null|
-|**2025-03-13**|**DP-GPL: Differentially Private Graph Prompt Learning**|Jing Xu et.al.|[2503.10544v1](http://arxiv.org/abs/2503.10544v1)|null|
-|**2025-03-13**|**Conformal Prediction Sets for Deep Generative Models via Reduction to Conformal Regression**|Hooman Shahrokhi et.al.|[2503.10512v1](http://arxiv.org/abs/2503.10512v1)|null|
-|**2025-03-13**|**MMLU-ProX: A Multilingual Benchmark for Advanced Large Language Model Evaluation**|Weihao Xuan et.al.|[2503.10497v1](http://arxiv.org/abs/2503.10497v1)|null|
-|**2025-03-13**|**4D LangSplat: 4D Language Gaussian Splatting via Multimodal Large Language Models**|Wanhua Li et.al.|[2503.10437v1](http://arxiv.org/abs/2503.10437v1)|null|
-|**2025-03-13**|**Category Prompt Mamba Network for Nuclei Segmentation and Classification**|Ye Zhang et.al.|[2503.10422v1](http://arxiv.org/abs/2503.10422v1)|null|
-|**2025-03-13**|**CINEMA: Coherent Multi-Subject Video Generation via MLLM-Based Guidance**|Yufan Deng et.al.|[2503.10391v1](http://arxiv.org/abs/2503.10391v1)|null|
-|**2025-03-13**|**Piece it Together: Part-Based Concepting with IP-Priors**|Elad Richardson et.al.|[2503.10365v1](http://arxiv.org/abs/2503.10365v1)|null|
-|**2025-03-13**|**ConceptGuard: Continual Personalized Text-to-Image Generation with Forgetting and Confusion Mitigation**|Zirun Guo et.al.|[2503.10358v1](http://arxiv.org/abs/2503.10358v1)|null|
-|**2025-03-13**|**Test Amplification for REST APIs Using "Out-of-the-box" Large Language Models**|Tolgahan Bardakci et.al.|[2503.10306v1](http://arxiv.org/abs/2503.10306v1)|null|
-|**2025-03-13**|**Eye on the Target: Eye Tracking Meets Rodent Tracking**|Emil Mededovic et.al.|[2503.10305v1](http://arxiv.org/abs/2503.10305v1)|null|
-|**2025-03-13**|**MaterialMVP: Illumination-Invariant Material Generation via Multi-view PBR Diffusion**|Zebin He et.al.|[2503.10289v1](http://arxiv.org/abs/2503.10289v1)|null|
-|**2025-03-13**|**EEdit : Rethinking the Spatial and Temporal Redundancy for Efficient Image Editing**|Zexuan Yan et.al.|[2503.10270v1](http://arxiv.org/abs/2503.10270v1)|null|
-|**2025-03-13**|**SurgRAW: Multi-Agent Workflow with Chain-of-Thought Reasoning for Surgical Intelligence**|Chang Han Low et.al.|[2503.10265v1](http://arxiv.org/abs/2503.10265v1)|null|
-|**2025-03-13**|**MinorBench: A hand-built benchmark for content-based risks for children**|Shaun Khoo et.al.|[2503.10242v1](http://arxiv.org/abs/2503.10242v1)|null|
-|**2025-03-13**|**R.U.Psycho? Robust Unified Psychometric Testing of Language Models**|Julian Schelb et.al.|[2503.10229v1](http://arxiv.org/abs/2503.10229v1)|null|
-|**2025-03-13**|**Singular Value Fine-tuning for Few-Shot Class-Incremental Learning**|Zhiwu Wang et.al.|[2503.10214v1](http://arxiv.org/abs/2503.10214v1)|null|
-|**2025-03-13**|**High-rate self-referenced continuous-variable quantum key distribution over high-loss free-space channel**|Xiaojuan Liao et.al.|[2503.10168v1](http://arxiv.org/abs/2503.10168v1)|null|
-|**2025-03-13**|**"Well, Keep Thinking": Enhancing LLM Reasoning with Adaptive Injection Decoding**|Hyunbin Jin et.al.|[2503.10167v1](http://arxiv.org/abs/2503.10167v1)|null|
-|**2025-03-13**|**PlanGen: Towards Unified Layout Planning and Image Generation in Auto-Regressive Vision Language Models**|Runze He et.al.|[2503.10127v1](http://arxiv.org/abs/2503.10127v1)|null|
-|**2025-03-13**|**Proxy-Tuning: Tailoring Multimodal Autoregressive Models for Subject-Driven Image Generation**|Yi Wu et.al.|[2503.10125v1](http://arxiv.org/abs/2503.10125v1)|null|
-|**2025-03-13**|**Hybrid Agents for Image Restoration**|Bingchen Li et.al.|[2503.10120v1](http://arxiv.org/abs/2503.10120v1)|null|
-|**2025-03-13**|**Dream-IF: Dynamic Relative EnhAnceMent for Image Fusion**|Xingxin Xu et.al.|[2503.10109v1](http://arxiv.org/abs/2503.10109v1)|null|
-
-### LLM Theory
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2025-03-13**|**GoT: Unleashing Reasoning Capability of Multimodal Large Language Model for Visual Generation and Editing**|Rongyao Fang et.al.|[2503.10639v1](http://arxiv.org/abs/2503.10639v1)|null|
-|**2025-03-13**|**Kolmogorov-Arnold Attention: Is Learnable Attention Better For Vision Transformers?**|Subhajit Maity et.al.|[2503.10632v1](http://arxiv.org/abs/2503.10632v1)|null|
-|**2025-03-13**|**Uncertainty in Action: Confidence Elicitation in Embodied Agents**|Tianjiao Yu et.al.|[2503.10628v1](http://arxiv.org/abs/2503.10628v1)|null|
-|**2025-03-13**|**SciVerse: Unveiling the Knowledge Comprehension and Visual Reasoning of LMMs on Multi-modal Scientific Problems**|Ziyu Guo et.al.|[2503.10627v1](http://arxiv.org/abs/2503.10627v1)|null|
-|**2025-03-13**|**LHM: Large Animatable Human Reconstruction Model from a Single Image in Seconds**|Lingteng Qiu et.al.|[2503.10625v1](http://arxiv.org/abs/2503.10625v1)|null|
-|**2025-03-13**|**Fast Sideband Control of a Weakly Coupled Multimode Bosonic Memory**|Jordan Huang et.al.|[2503.10623v1](http://arxiv.org/abs/2503.10623v1)|null|
-|**2025-03-13**|**DiT-Air: Revisiting the Efficiency of Diffusion Model Architecture Design in Text to Image Generation**|Chen Chen et.al.|[2503.10618v1](http://arxiv.org/abs/2503.10618v1)|null|
-|**2025-03-13**|**Dual-Stage Cross-Modal Network with Dynamic Feature Fusion for Emotional Mimicry Intensity Estimation**|Jun Yu et.al.|[2503.10603v1](http://arxiv.org/abs/2503.10603v1)|null|
-|**2025-03-13**|**Performance of the spin qubit shuttling architecture for a surface code implementation**|Berat Yenilen et.al.|[2503.10601v1](http://arxiv.org/abs/2503.10601v1)|null|
-|**2025-03-13**|**Unveiling the Mathematical Reasoning in DeepSeek Models: A Comparative Study of Large Language Models**|Afrar Jahin et.al.|[2503.10573v1](http://arxiv.org/abs/2503.10573v1)|null|
-|**2025-03-13**|**Radar: Fast Long-Context Decoding for Any Transformer**|Yongchang Hao et.al.|[2503.10571v1](http://arxiv.org/abs/2503.10571v1)|null|
-|**2025-03-13**|**ASIDE: Architectural Separation of Instructions and Data in Language Models**|Egor Zverev et.al.|[2503.10566v1](http://arxiv.org/abs/2503.10566v1)|null|
-|**2025-03-13**|**Towards Safe Path Tracking Using the Simplex Architecture**|Georg Jäger et.al.|[2503.10559v1](http://arxiv.org/abs/2503.10559v1)|null|
-|**2025-03-13**|**DP-GPL: Differentially Private Graph Prompt Learning**|Jing Xu et.al.|[2503.10544v1](http://arxiv.org/abs/2503.10544v1)|null|
-|**2025-03-13**|**Foundation Models for Atomistic Simulation of Chemistry and Materials**|Eric C. -Y. Yuan et.al.|[2503.10538v1](http://arxiv.org/abs/2503.10538v1)|null|
-|**2025-03-13**|**AudioX: Diffusion Transformer for Anything-to-Audio Generation**|Zeyue Tian et.al.|[2503.10522v1](http://arxiv.org/abs/2503.10522v1)|null|
-|**2025-03-13**|**Concurrent Scheduling of High-Level Parallel Programs on Multi-GPU Systems**|Fabian Knorr et.al.|[2503.10516v1](http://arxiv.org/abs/2503.10516v1)|null|
-|**2025-03-13**|**Extreme Learning Machines for Attention-based Multiple Instance Learning in Whole-Slide Image Classification**|Rajiv Krishnakumar et.al.|[2503.10510v1](http://arxiv.org/abs/2503.10510v1)|null|
-|**2025-03-13**|**Safety Filter for Limiting the Current of Grid-Forming Matrix Modular Multilevel Converters**|Michael Schneeberger et.al.|[2503.10498v1](http://arxiv.org/abs/2503.10498v1)|null|
-|**2025-03-13**|**MMLU-ProX: A Multilingual Benchmark for Advanced Large Language Model Evaluation**|Weihao Xuan et.al.|[2503.10497v1](http://arxiv.org/abs/2503.10497v1)|null|
-|**2025-03-13**|**Representation Learning, Large-Scale 3D Molecular Pretraining, Molecular Property**|Shuqi Lu et.al.|[2503.10489v1](http://arxiv.org/abs/2503.10489v1)|null|
-|**2025-03-13**|**Low Complexity Point Tracking of the Myocardium in 2D Echocardiography**|Artem Chernyshov et.al.|[2503.10431v1](http://arxiv.org/abs/2503.10431v1)|null|
-|**2025-03-13**|**An Architectural View Type for Elasticity Modeling and Simulation -- The Slingshot Approach**|Floriment Klinaku et.al.|[2503.10407v1](http://arxiv.org/abs/2503.10407v1)|null|
-|**2025-03-13**|**Architecture-Aware Minimization (A$^2$M): How to Find Flat Minima in Neural Architecture Search**|Matteo Gambella et.al.|[2503.10404v1](http://arxiv.org/abs/2503.10404v1)|null|
-|**2025-03-13**|**Deep source separation of overlapping gravitational-wave signals and non-stationary noise artifacts**|Niklas Houba et.al.|[2503.10398v1](http://arxiv.org/abs/2503.10398v1)|null|
-|**2025-03-13**|**RoMA: Scaling up Mamba-based Foundation Models for Remote Sensing**|Fengxiang Wang et.al.|[2503.10392v1](http://arxiv.org/abs/2503.10392v1)|null|
-|**2025-03-13**|**Extractors: QLDPC Architectures for Efficient Pauli-Based Computation**|Zhiyang He et.al.|[2503.10390v1](http://arxiv.org/abs/2503.10390v1)|null|
-|**2025-03-13**|**BioSerenity-E1: a self-supervised EEG model for medical applications**|Ruggero G. Bettinardi et.al.|[2503.10362v1](http://arxiv.org/abs/2503.10362v1)|null|
-|**2025-03-13**|**The stochastic gravitational wave background from cosmic superstrings**|Anastasios Avgoustidis et.al.|[2503.10361v1](http://arxiv.org/abs/2503.10361v1)|null|
-|**2025-03-13**|**A Hybrid Architecture with Efficient Fine Tuning for Abstractive Patent Document Summarization**|Nevidu Jayatilleke et.al.|[2503.10354v1](http://arxiv.org/abs/2503.10354v1)|null|
