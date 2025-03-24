@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-03-24 20:56:18 Asia/Shanghai
+ Automated deployment @ 2025-03-24 21:21:22 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -79,40 +79,6 @@
 
 ## AI
 
-### LLM Agent
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2025-03-21**|**Core Components of Emotional Impulsivity: A Mouse-Cursor Tracking Study**|Anton Leontyev et.al.|[2503.17328v1](http://arxiv.org/abs/2503.17328v1)|null|
-|**2025-03-21**|**FastCuRL: Curriculum Reinforcement Learning with Progressive Context Extension for Efficient Training R1-like Reasoning Models**|Mingyang Song et.al.|[2503.17287v1](http://arxiv.org/abs/2503.17287v1)|[link](https://github.com/nick7nlp/FastCuRL)|
-|**2025-03-21**|**Slide-Level Prompt Learning with Vision Language Models for Few-Shot Multiple Instance Learning in Histopathology**|Devavrat Tomar et.al.|[2503.17238v1](http://arxiv.org/abs/2503.17238v1)|null|
-|**2025-03-21**|**LLMs Love Python: A Study of LLMs' Bias for Programming Languages and Libraries**|Lukas Twist et.al.|[2503.17181v1](http://arxiv.org/abs/2503.17181v1)|null|
-|**2025-03-21**|**Modifying Large Language Model Post-Training for Diverse Creative Writing**|John Joon Young Chung et.al.|[2503.17126v1](http://arxiv.org/abs/2503.17126v1)|null|
-|**2025-03-21**|**Multi-modal Multi-platform Person Re-Identification: Benchmark and Method**|Ruiyang Ha et.al.|[2503.17096v1](http://arxiv.org/abs/2503.17096v1)|null|
-|**2025-03-21**|**Collapse of Rotating White Dwarfs and Multimessenger Signals**|Takami Kuroda et.al.|[2503.17082v1](http://arxiv.org/abs/2503.17082v1)|null|
-|**2025-03-21**|**Summarization Metrics for Spanish and Basque: Do Automatic Scores and LLM-Judges Correlate with Humans?**|Jeremy Barnes et.al.|[2503.17039v1](http://arxiv.org/abs/2503.17039v1)|null|
-|**2025-03-21**|**Prompt Stellar and Binary Black Hole Mergers from Chemically Homogeneous Evolution in Triples**|Alejandro Vigna-Gómez et.al.|[2503.17006v1](http://arxiv.org/abs/2503.17006v1)|null|
-|**2025-03-21**|**PE-CLIP: A Parameter-Efficient Fine-Tuning of Vision Language Models for Dynamic Facial Expression Recognition**|Ibtissam Saadi et.al.|[2503.16945v1](http://arxiv.org/abs/2503.16945v1)|null|
-|**2025-03-21**|**MAPS: A Multi-Agent Framework Based on Big Seven Personality and Socratic Guidance for Multimodal Scientific Problem Solving**|Jian Zhang et.al.|[2503.16905v1](http://arxiv.org/abs/2503.16905v1)|null|
-|**2025-03-21**|**Assessing the Reliability and Validity of GPT-4 in Annotating Emotion Appraisal Ratings**|Deniss Ruder et.al.|[2503.16883v1](http://arxiv.org/abs/2503.16883v1)|null|
-|**2025-03-21**|**MARS: A Multi-Agent Framework Incorporating Socratic Guidance for Automated Prompt Optimization**|Jian Zhang et.al.|[2503.16874v1](http://arxiv.org/abs/2503.16874v1)|null|
-|**2025-03-21**|**Joint Extraction Matters: Prompt-Based Visual Question Answering for Multi-Field Document Information Extraction**|Mengsay Loem et.al.|[2503.16868v1](http://arxiv.org/abs/2503.16868v1)|null|
-|**2025-03-21**|**ETVA: Evaluation of Text-to-Video Alignment via Fine-grained Question Generation and Answering**|Kaisi Guan et.al.|[2503.16867v1](http://arxiv.org/abs/2503.16867v1)|null|
-|**2025-03-21**|**Generative Compositor for Few-Shot Visual Information Extraction**|Zhibo Yang et.al.|[2503.16854v1](http://arxiv.org/abs/2503.16854v1)|null|
-|**2025-03-21**|**Imagine to Hear: Auditory Knowledge Generation can be an Effective Assistant for Language Models**|Suho Yoo et.al.|[2503.16853v1](http://arxiv.org/abs/2503.16853v1)|null|
-|**2025-03-21**|**Safe and Reliable Diffusion Models via Subspace Projection**|Huiqiang Chen et.al.|[2503.16835v1](http://arxiv.org/abs/2503.16835v1)|null|
-|**2025-03-21**|**ST-Prompt Guided Histological Hypergraph Learning for Spatial Gene Expression Prediction**|Yi Niu et.al.|[2503.16816v1](http://arxiv.org/abs/2503.16816v1)|null|
-|**2025-03-21**|**When Debate Fails: Bias Reinforcement in Large Language Models**|Jihwan Oh et.al.|[2503.16814v1](http://arxiv.org/abs/2503.16814v1)|null|
-|**2025-03-21**|**Conversational User-AI Intervention: A Study on Prompt Rewriting for Improved LLM Response Generation**|Rupak Sarkar et.al.|[2503.16789v1](http://arxiv.org/abs/2503.16789v1)|null|
-|**2025-03-21**|**Chain-of-Tools: Utilizing Massive Unseen Tools in the CoT Reasoning of Frozen Language Models**|Mengsong Wu et.al.|[2503.16779v1](http://arxiv.org/abs/2503.16779v1)|null|
-|**2025-03-20**|**Automated Harmfulness Testing for Code Large Language Models**|Honghao Tan et.al.|[2503.16740v1](http://arxiv.org/abs/2503.16740v1)|null|
-|**2025-03-20**|**EDiT: Efficient Diffusion Transformers with Linear Compressed Attention**|Philipp Becker et.al.|[2503.16726v1](http://arxiv.org/abs/2503.16726v1)|null|
-|**2025-03-20**|**Through the LLM Looking Glass: A Socratic Self-Assessment of Donkeys, Elephants, and Markets**|Molly Kennedy et.al.|[2503.16674v1](http://arxiv.org/abs/2503.16674v1)|null|
-|**2025-03-20**|**Code Evolution Graphs: Understanding Large Language Model Driven Design of Algorithms**|Niki van Stein et.al.|[2503.16668v1](http://arxiv.org/abs/2503.16668v1)|null|
-|**2025-03-20**|**Benchmarking Visual Language Models on Standardized Visualization Literacy Tests**|Saugat Pandey et.al.|[2503.16632v1](http://arxiv.org/abs/2503.16632v1)|null|
-|**2025-03-20**|**Sparking Curiosity in Digital System Design Lectures with Take Home Labs**|Senol Gulgonul et.al.|[2503.16625v1](http://arxiv.org/abs/2503.16625v1)|null|
-|**2025-03-20**|**Stop Overthinking: A Survey on Efficient Reasoning for Large Language Models**|Yang Sui et.al.|[2503.16419v1](http://arxiv.org/abs/2503.16419v1)|[link](https://github.com/eclipsess/awesome-efficient-reasoning-llms)|
-|**2025-03-20**|**Transformer-based Wireless Symbol Detection Over Fading Channels**|Li Fan et.al.|[2503.16594v1](http://arxiv.org/abs/2503.16594v1)|null|
-
 ### LLM Theory
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -146,6 +112,40 @@
 |**2025-03-21**|**Transfer Learning for EDFA Gain Modeling: A Semi-Supervised Approach Using Internal Amplifier Features**|Agastya Raj et.al.|[2503.17094v1](http://arxiv.org/abs/2503.17094v1)|null|
 |**2025-03-21**|**Interference Identification in Multi-User Optical Spectrum as a Service using Convolutional Neural Networks**|Agastya Raj et.al.|[2503.17079v1](http://arxiv.org/abs/2503.17079v1)|null|
 |**2025-03-21**|**Multi-Span Optical Power Spectrum Evolution Modeling using ML-based Multi-Decoder Attention Framework**|Agastya Raj et.al.|[2503.17072v1](http://arxiv.org/abs/2503.17072v1)|null|
+
+### LLM Agent
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2025-03-21**|**Core Components of Emotional Impulsivity: A Mouse-Cursor Tracking Study**|Anton Leontyev et.al.|[2503.17328v1](http://arxiv.org/abs/2503.17328v1)|null|
+|**2025-03-21**|**FastCuRL: Curriculum Reinforcement Learning with Progressive Context Extension for Efficient Training R1-like Reasoning Models**|Mingyang Song et.al.|[2503.17287v1](http://arxiv.org/abs/2503.17287v1)|[link](https://github.com/nick7nlp/FastCuRL)|
+|**2025-03-21**|**Slide-Level Prompt Learning with Vision Language Models for Few-Shot Multiple Instance Learning in Histopathology**|Devavrat Tomar et.al.|[2503.17238v1](http://arxiv.org/abs/2503.17238v1)|null|
+|**2025-03-21**|**LLMs Love Python: A Study of LLMs' Bias for Programming Languages and Libraries**|Lukas Twist et.al.|[2503.17181v1](http://arxiv.org/abs/2503.17181v1)|null|
+|**2025-03-21**|**Modifying Large Language Model Post-Training for Diverse Creative Writing**|John Joon Young Chung et.al.|[2503.17126v1](http://arxiv.org/abs/2503.17126v1)|null|
+|**2025-03-21**|**Multi-modal Multi-platform Person Re-Identification: Benchmark and Method**|Ruiyang Ha et.al.|[2503.17096v1](http://arxiv.org/abs/2503.17096v1)|null|
+|**2025-03-21**|**Collapse of Rotating White Dwarfs and Multimessenger Signals**|Takami Kuroda et.al.|[2503.17082v1](http://arxiv.org/abs/2503.17082v1)|null|
+|**2025-03-21**|**Summarization Metrics for Spanish and Basque: Do Automatic Scores and LLM-Judges Correlate with Humans?**|Jeremy Barnes et.al.|[2503.17039v1](http://arxiv.org/abs/2503.17039v1)|null|
+|**2025-03-21**|**Prompt Stellar and Binary Black Hole Mergers from Chemically Homogeneous Evolution in Triples**|Alejandro Vigna-Gómez et.al.|[2503.17006v1](http://arxiv.org/abs/2503.17006v1)|null|
+|**2025-03-21**|**PE-CLIP: A Parameter-Efficient Fine-Tuning of Vision Language Models for Dynamic Facial Expression Recognition**|Ibtissam Saadi et.al.|[2503.16945v1](http://arxiv.org/abs/2503.16945v1)|null|
+|**2025-03-21**|**MAPS: A Multi-Agent Framework Based on Big Seven Personality and Socratic Guidance for Multimodal Scientific Problem Solving**|Jian Zhang et.al.|[2503.16905v1](http://arxiv.org/abs/2503.16905v1)|null|
+|**2025-03-21**|**Assessing the Reliability and Validity of GPT-4 in Annotating Emotion Appraisal Ratings**|Deniss Ruder et.al.|[2503.16883v1](http://arxiv.org/abs/2503.16883v1)|null|
+|**2025-03-21**|**MARS: A Multi-Agent Framework Incorporating Socratic Guidance for Automated Prompt Optimization**|Jian Zhang et.al.|[2503.16874v1](http://arxiv.org/abs/2503.16874v1)|null|
+|**2025-03-21**|**Joint Extraction Matters: Prompt-Based Visual Question Answering for Multi-Field Document Information Extraction**|Mengsay Loem et.al.|[2503.16868v1](http://arxiv.org/abs/2503.16868v1)|null|
+|**2025-03-21**|**ETVA: Evaluation of Text-to-Video Alignment via Fine-grained Question Generation and Answering**|Kaisi Guan et.al.|[2503.16867v1](http://arxiv.org/abs/2503.16867v1)|null|
+|**2025-03-21**|**Generative Compositor for Few-Shot Visual Information Extraction**|Zhibo Yang et.al.|[2503.16854v1](http://arxiv.org/abs/2503.16854v1)|null|
+|**2025-03-21**|**Imagine to Hear: Auditory Knowledge Generation can be an Effective Assistant for Language Models**|Suho Yoo et.al.|[2503.16853v1](http://arxiv.org/abs/2503.16853v1)|null|
+|**2025-03-21**|**Safe and Reliable Diffusion Models via Subspace Projection**|Huiqiang Chen et.al.|[2503.16835v1](http://arxiv.org/abs/2503.16835v1)|null|
+|**2025-03-21**|**ST-Prompt Guided Histological Hypergraph Learning for Spatial Gene Expression Prediction**|Yi Niu et.al.|[2503.16816v1](http://arxiv.org/abs/2503.16816v1)|null|
+|**2025-03-21**|**When Debate Fails: Bias Reinforcement in Large Language Models**|Jihwan Oh et.al.|[2503.16814v1](http://arxiv.org/abs/2503.16814v1)|null|
+|**2025-03-21**|**Conversational User-AI Intervention: A Study on Prompt Rewriting for Improved LLM Response Generation**|Rupak Sarkar et.al.|[2503.16789v1](http://arxiv.org/abs/2503.16789v1)|null|
+|**2025-03-21**|**Chain-of-Tools: Utilizing Massive Unseen Tools in the CoT Reasoning of Frozen Language Models**|Mengsong Wu et.al.|[2503.16779v1](http://arxiv.org/abs/2503.16779v1)|null|
+|**2025-03-20**|**Automated Harmfulness Testing for Code Large Language Models**|Honghao Tan et.al.|[2503.16740v1](http://arxiv.org/abs/2503.16740v1)|null|
+|**2025-03-20**|**EDiT: Efficient Diffusion Transformers with Linear Compressed Attention**|Philipp Becker et.al.|[2503.16726v1](http://arxiv.org/abs/2503.16726v1)|null|
+|**2025-03-20**|**Through the LLM Looking Glass: A Socratic Self-Assessment of Donkeys, Elephants, and Markets**|Molly Kennedy et.al.|[2503.16674v1](http://arxiv.org/abs/2503.16674v1)|null|
+|**2025-03-20**|**Code Evolution Graphs: Understanding Large Language Model Driven Design of Algorithms**|Niki van Stein et.al.|[2503.16668v1](http://arxiv.org/abs/2503.16668v1)|null|
+|**2025-03-20**|**Benchmarking Visual Language Models on Standardized Visualization Literacy Tests**|Saugat Pandey et.al.|[2503.16632v1](http://arxiv.org/abs/2503.16632v1)|null|
+|**2025-03-20**|**Sparking Curiosity in Digital System Design Lectures with Take Home Labs**|Senol Gulgonul et.al.|[2503.16625v1](http://arxiv.org/abs/2503.16625v1)|null|
+|**2025-03-20**|**Stop Overthinking: A Survey on Efficient Reasoning for Large Language Models**|Yang Sui et.al.|[2503.16419v1](http://arxiv.org/abs/2503.16419v1)|[link](https://github.com/eclipsess/awesome-efficient-reasoning-llms)|
+|**2025-03-20**|**Transformer-based Wireless Symbol Detection Over Fading Channels**|Li Fan et.al.|[2503.16594v1](http://arxiv.org/abs/2503.16594v1)|null|
 
 ## Large-Language Model
 
