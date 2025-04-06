@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-04-06 20:50:00 Asia/Shanghai
+ Automated deployment @ 2025-04-06 21:11:15 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -79,40 +79,6 @@
 
 ## AI
 
-### LLM Theory
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2025-04-03**|**GMR-Conv: An Efficient Rotation and Reflection Equivariant Convolution Kernel Using Gaussian Mixture Rings**|Yuexi Du et.al.|[2504.02819v1](http://arxiv.org/abs/2504.02819v1)|null|
-|**2025-04-03**|**Unified World Models: Coupling Video and Action Diffusion for Pretraining on Large Robotic Datasets**|Chuning Zhu et.al.|[2504.02792v1](http://arxiv.org/abs/2504.02792v1)|null|
-|**2025-04-03**|**GPT-ImgEval: A Comprehensive Benchmark for Diagnosing GPT4o in Image Generation**|Zhiyuan Yan et.al.|[2504.02782v1](http://arxiv.org/abs/2504.02782v1)|null|
-|**2025-04-03**|**From Consumption to Collaboration: Measuring Interaction Patterns to Augment Human Cognition in Open-Ended Tasks**|Joshua Holstein et.al.|[2504.02780v1](http://arxiv.org/abs/2504.02780v1)|null|
-|**2025-04-03**|**CanonNet: Canonical Ordering and Curvature Learning for Point Cloud Analysis**|Benjy Friedmann et.al.|[2504.02763v1](http://arxiv.org/abs/2504.02763v1)|null|
-|**2025-04-03**|**GEOPARD: Geometric Pretraining for Articulation Prediction in 3D Shapes**|Pradyumn Goyal et.al.|[2504.02747v1](http://arxiv.org/abs/2504.02747v1)|null|
-|**2025-04-03**|**HQViT: Hybrid Quantum Vision Transformer for Image Classification**|Hui Zhang et.al.|[2504.02730v1](http://arxiv.org/abs/2504.02730v1)|null|
-|**2025-04-03**|**ERPO: Advancing Safety Alignment via Ex-Ante Reasoning Preference Optimization**|Kehua Feng et.al.|[2504.02725v1](http://arxiv.org/abs/2504.02725v1)|null|
-|**2025-04-03**|**Autonomous Human-Robot Interaction via Operator Imitation**|Sammy Christen et.al.|[2504.02724v1](http://arxiv.org/abs/2504.02724v1)|null|
-|**2025-04-03**|**Dynamic Directional Routing of Freight in the Physical Internet**|Sahrish Jaleel Shaikh et.al.|[2504.02722v1](http://arxiv.org/abs/2504.02722v1)|null|
-|**2025-04-03**|**Web3DB: Web 3.0 RDBMS for Individual Data Ownership**|Shankha Shubhra Mukherjee et.al.|[2504.02713v1](http://arxiv.org/abs/2504.02713v1)|null|
-|**2025-04-03**|**GPTQv2: Efficient Finetuning-Free Quantization for Asymmetric Calibration**|Yuhang Li et.al.|[2504.02692v1](http://arxiv.org/abs/2504.02692v1)|null|
-|**2025-04-03**|**Handover and SINR-Aware Path Optimization in 5G-UAV mmWave Communication using DRL**|Achilles Kiwanuka Machumilane et.al.|[2504.02688v1](http://arxiv.org/abs/2504.02688v1)|null|
-|**2025-04-03**|**STOOD-X methodology: using statistical nonparametric test for OOD Detection Large-Scale datasets enhanced with explainability**|Iván Sevillano-García et.al.|[2504.02685v1](http://arxiv.org/abs/2504.02685v1)|null|
-|**2025-04-03**|**Affordable AI Assistants with Knowledge Graph of Thoughts**|Maciej Besta et.al.|[2504.02670v1](http://arxiv.org/abs/2504.02670v1)|null|
-|**2025-04-03**|**Two-Stage nnU-Net for Automatic Multi-class Bi-Atrial Segmentation from LGE-MRIs**|Y. On et.al.|[2504.02668v1](http://arxiv.org/abs/2504.02668v1)|null|
-|**2025-04-03**|**Compositionality Unlocks Deep Interpretable Models**|Thomas Dooms et.al.|[2504.02667v1](http://arxiv.org/abs/2504.02667v1)|null|
-|**2025-04-03**|**MiLo: Efficient Quantized MoE Inference with Mixture of Low-Rank Compensators**|Beichen Huang et.al.|[2504.02658v1](http://arxiv.org/abs/2504.02658v1)|null|
-|**2025-04-03**|**SymDQN: Symbolic Knowledge and Reasoning in Neural Network-based Reinforcement Learning**|Ivo Amador et.al.|[2504.02654v1](http://arxiv.org/abs/2504.02654v1)|null|
-|**2025-04-03**|**Medium Access for Push-Pull Data Transmission in 6G Wireless Systems**|Shashi Raj Pandey et.al.|[2504.02637v1](http://arxiv.org/abs/2504.02637v1)|null|
-|**2025-04-03**|**A Scalable Synthesis Algorithm for Reversible Functions**|Moein Sarvaghad-Moghaddam et.al.|[2504.02632v1](http://arxiv.org/abs/2504.02632v1)|null|
-|**2025-04-03**|**Incorporating the ChEES Criterion into Sequential Monte Carlo Samplers**|Andrew Millard et.al.|[2504.02627v1](http://arxiv.org/abs/2504.02627v1)|null|
-|**2025-04-03**|**Towards Computation- and Communication-efficient Computational Pathology**|Chu Han et.al.|[2504.02628v1](http://arxiv.org/abs/2504.02628v1)|null|
-|**2025-04-03**|**Cosmic ray ionisation of a post-impact early Earth atmosphere: Solar cosmic ray ionisation must be considered in origin-of-life scenarios**|S. R. Raeside et.al.|[2504.02596v1](http://arxiv.org/abs/2504.02596v1)|null|
-|**2025-04-03**|**State-Space Model Inspired Multiple-Input Multiple-Output Spiking Neurons**|Sanja Karilanova et.al.|[2504.02591v1](http://arxiv.org/abs/2504.02591v1)|null|
-|**2025-04-03**|**The rise and fall of radio-luminous merger shocks from a large sample of galaxy cluster simulations**|Sebastián E. Nuza et.al.|[2504.02563v1](http://arxiv.org/abs/2504.02563v1)|null|
-|**2025-04-03**|**Digital Twins for Internet of Battlespace Things (IoBT) Coalitions**|Athanasios Gkelias et.al.|[2504.02561v1](http://arxiv.org/abs/2504.02561v1)|null|
-|**2025-04-03**|**Leveraging LLM For Synchronizing Information Across Multilingual Tables**|Siddharth Khincha et.al.|[2504.02559v1](http://arxiv.org/abs/2504.02559v1)|null|
-|**2025-04-03**|**A Sensorimotor Vision Transformer**|Konrad Gadzicki et.al.|[2504.02536v1](http://arxiv.org/abs/2504.02536v1)|null|
-|**2025-04-03**|**ARCANE: Adaptive RISC-V Cache Architecture for Near-memory Extensions**|Vincenzo Petrolo et.al.|[2504.02533v1](http://arxiv.org/abs/2504.02533v1)|null|
-
 ### LLM Agent
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -146,6 +112,40 @@
 |**2025-04-02**|**Towards Interpretable Soft Prompts**|Oam Patel et.al.|[2504.02144v1](http://arxiv.org/abs/2504.02144v1)|null|
 |**2025-04-02**|**Exploring LLM Reasoning Through Controlled Prompt Variations**|Giannis Chatziveroglou et.al.|[2504.02111v1](http://arxiv.org/abs/2504.02111v1)|null|
 |**2025-04-02**|**Trapped by Expectations: Functional Fixedness in LLM-Enabled Chat Search**|Jiqun Liu et.al.|[2504.02074v1](http://arxiv.org/abs/2504.02074v1)|null|
+
+### LLM Theory
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2025-04-03**|**GMR-Conv: An Efficient Rotation and Reflection Equivariant Convolution Kernel Using Gaussian Mixture Rings**|Yuexi Du et.al.|[2504.02819v1](http://arxiv.org/abs/2504.02819v1)|null|
+|**2025-04-03**|**Unified World Models: Coupling Video and Action Diffusion for Pretraining on Large Robotic Datasets**|Chuning Zhu et.al.|[2504.02792v1](http://arxiv.org/abs/2504.02792v1)|null|
+|**2025-04-03**|**GPT-ImgEval: A Comprehensive Benchmark for Diagnosing GPT4o in Image Generation**|Zhiyuan Yan et.al.|[2504.02782v1](http://arxiv.org/abs/2504.02782v1)|null|
+|**2025-04-03**|**From Consumption to Collaboration: Measuring Interaction Patterns to Augment Human Cognition in Open-Ended Tasks**|Joshua Holstein et.al.|[2504.02780v1](http://arxiv.org/abs/2504.02780v1)|null|
+|**2025-04-03**|**CanonNet: Canonical Ordering and Curvature Learning for Point Cloud Analysis**|Benjy Friedmann et.al.|[2504.02763v1](http://arxiv.org/abs/2504.02763v1)|null|
+|**2025-04-03**|**GEOPARD: Geometric Pretraining for Articulation Prediction in 3D Shapes**|Pradyumn Goyal et.al.|[2504.02747v1](http://arxiv.org/abs/2504.02747v1)|null|
+|**2025-04-03**|**HQViT: Hybrid Quantum Vision Transformer for Image Classification**|Hui Zhang et.al.|[2504.02730v1](http://arxiv.org/abs/2504.02730v1)|null|
+|**2025-04-03**|**ERPO: Advancing Safety Alignment via Ex-Ante Reasoning Preference Optimization**|Kehua Feng et.al.|[2504.02725v1](http://arxiv.org/abs/2504.02725v1)|null|
+|**2025-04-03**|**Autonomous Human-Robot Interaction via Operator Imitation**|Sammy Christen et.al.|[2504.02724v1](http://arxiv.org/abs/2504.02724v1)|null|
+|**2025-04-03**|**Dynamic Directional Routing of Freight in the Physical Internet**|Sahrish Jaleel Shaikh et.al.|[2504.02722v1](http://arxiv.org/abs/2504.02722v1)|null|
+|**2025-04-03**|**Web3DB: Web 3.0 RDBMS for Individual Data Ownership**|Shankha Shubhra Mukherjee et.al.|[2504.02713v1](http://arxiv.org/abs/2504.02713v1)|null|
+|**2025-04-03**|**GPTQv2: Efficient Finetuning-Free Quantization for Asymmetric Calibration**|Yuhang Li et.al.|[2504.02692v1](http://arxiv.org/abs/2504.02692v1)|null|
+|**2025-04-03**|**Handover and SINR-Aware Path Optimization in 5G-UAV mmWave Communication using DRL**|Achilles Kiwanuka Machumilane et.al.|[2504.02688v1](http://arxiv.org/abs/2504.02688v1)|null|
+|**2025-04-03**|**STOOD-X methodology: using statistical nonparametric test for OOD Detection Large-Scale datasets enhanced with explainability**|Iván Sevillano-García et.al.|[2504.02685v1](http://arxiv.org/abs/2504.02685v1)|null|
+|**2025-04-03**|**Affordable AI Assistants with Knowledge Graph of Thoughts**|Maciej Besta et.al.|[2504.02670v1](http://arxiv.org/abs/2504.02670v1)|null|
+|**2025-04-03**|**Two-Stage nnU-Net for Automatic Multi-class Bi-Atrial Segmentation from LGE-MRIs**|Y. On et.al.|[2504.02668v1](http://arxiv.org/abs/2504.02668v1)|null|
+|**2025-04-03**|**Compositionality Unlocks Deep Interpretable Models**|Thomas Dooms et.al.|[2504.02667v1](http://arxiv.org/abs/2504.02667v1)|null|
+|**2025-04-03**|**MiLo: Efficient Quantized MoE Inference with Mixture of Low-Rank Compensators**|Beichen Huang et.al.|[2504.02658v1](http://arxiv.org/abs/2504.02658v1)|null|
+|**2025-04-03**|**SymDQN: Symbolic Knowledge and Reasoning in Neural Network-based Reinforcement Learning**|Ivo Amador et.al.|[2504.02654v1](http://arxiv.org/abs/2504.02654v1)|null|
+|**2025-04-03**|**Medium Access for Push-Pull Data Transmission in 6G Wireless Systems**|Shashi Raj Pandey et.al.|[2504.02637v1](http://arxiv.org/abs/2504.02637v1)|null|
+|**2025-04-03**|**A Scalable Synthesis Algorithm for Reversible Functions**|Moein Sarvaghad-Moghaddam et.al.|[2504.02632v1](http://arxiv.org/abs/2504.02632v1)|null|
+|**2025-04-03**|**Incorporating the ChEES Criterion into Sequential Monte Carlo Samplers**|Andrew Millard et.al.|[2504.02627v1](http://arxiv.org/abs/2504.02627v1)|null|
+|**2025-04-03**|**Towards Computation- and Communication-efficient Computational Pathology**|Chu Han et.al.|[2504.02628v1](http://arxiv.org/abs/2504.02628v1)|null|
+|**2025-04-03**|**Cosmic ray ionisation of a post-impact early Earth atmosphere: Solar cosmic ray ionisation must be considered in origin-of-life scenarios**|S. R. Raeside et.al.|[2504.02596v1](http://arxiv.org/abs/2504.02596v1)|null|
+|**2025-04-03**|**State-Space Model Inspired Multiple-Input Multiple-Output Spiking Neurons**|Sanja Karilanova et.al.|[2504.02591v1](http://arxiv.org/abs/2504.02591v1)|null|
+|**2025-04-03**|**The rise and fall of radio-luminous merger shocks from a large sample of galaxy cluster simulations**|Sebastián E. Nuza et.al.|[2504.02563v1](http://arxiv.org/abs/2504.02563v1)|null|
+|**2025-04-03**|**Digital Twins for Internet of Battlespace Things (IoBT) Coalitions**|Athanasios Gkelias et.al.|[2504.02561v1](http://arxiv.org/abs/2504.02561v1)|null|
+|**2025-04-03**|**Leveraging LLM For Synchronizing Information Across Multilingual Tables**|Siddharth Khincha et.al.|[2504.02559v1](http://arxiv.org/abs/2504.02559v1)|null|
+|**2025-04-03**|**A Sensorimotor Vision Transformer**|Konrad Gadzicki et.al.|[2504.02536v1](http://arxiv.org/abs/2504.02536v1)|null|
+|**2025-04-03**|**ARCANE: Adaptive RISC-V Cache Architecture for Near-memory Extensions**|Vincenzo Petrolo et.al.|[2504.02533v1](http://arxiv.org/abs/2504.02533v1)|null|
 
 ## Code Compile
 
