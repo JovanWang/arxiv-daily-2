@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-04-07 21:23:13 Asia/Shanghai
+ Automated deployment @ 2025-04-08 08:40:46 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -73,45 +73,11 @@
 |**2025-04-03**|**MonoGS++: Fast and Accurate Monocular RGB Gaussian SLAM**|Renwu Li et.al.|[2504.02437v1](http://arxiv.org/abs/2504.02437v1)|null|
 |**2025-04-03**|**All-day Depth Completion via Thermal-LiDAR Fusion**|Janghyun Kim et.al.|[2504.02356v1](http://arxiv.org/abs/2504.02356v1)|null|
 |**2025-04-03**|**Toward General and Robust LLM-enhanced Text-attributed Graph Learning**|Zihao Zhang et.al.|[2504.02343v1](http://arxiv.org/abs/2504.02343v1)|null|
-|**2025-04-03**|**Riemannian Optimization for Sparse Tensor CCA**|Yanjiao Zhu et.al.|[2504.02339v1](http://arxiv.org/abs/2504.02339v1)|null|
+|**2025-04-03**|**Riemannian Optimization for Sparse Tensor CCA**|Yanjiao Zhu et.al.|[2504.02339v2](http://arxiv.org/abs/2504.02339v2)|null|
 |**2025-04-03**|**Asymmetric graph alignment and the phase transition for asymmetric tree correlation testing**|Jakob Maier et.al.|[2504.02299v1](http://arxiv.org/abs/2504.02299v1)|null|
 |**2025-04-03**|**FEASE: Shallow AutoEncoding Recommender with Cold Start Handling via Side Features**|Edward DongBo Cui et.al.|[2504.02288v2](http://arxiv.org/abs/2504.02288v2)|null|
 
 ## AI
-
-### LLM Agent
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2025-04-04**|**Shape My Moves: Text-Driven Shape-Aware Synthesis of Human Motions**|Ting-Hsuan Liao et.al.|[2504.03639v1](http://arxiv.org/abs/2504.03639v1)|null|
-|**2025-04-04**|**VISTA-OCR: Towards generative and interactive end to end OCR models**|Laziz Hamdi et.al.|[2504.03621v1](http://arxiv.org/abs/2504.03621v1)|null|
-|**2025-04-04**|**PF3Det: A Prompted Foundation Feature Assisted Visual LiDAR 3D Detector**|Kaidong Li et.al.|[2504.03563v1](http://arxiv.org/abs/2504.03563v1)|null|
-|**2025-04-04**|**Diverse In-Context Example Selection After Decomposing Programs and Aligned Utterances Improves Semantic Parsing**|Mayank Kothyari et.al.|[2504.03541v1](http://arxiv.org/abs/2504.03541v1)|null|
-|**2025-04-04**|**State estimation for gas purity monitoring and control in water electrolysis systems**|Lucas Cammann et.al.|[2504.03522v1](http://arxiv.org/abs/2504.03522v1)|null|
-|**2025-04-04**|**ATM-Net: Anatomy-Aware Text-Guided Multi-Modal Fusion for Fine-Grained Lumbar Spine Segmentation**|Sheng Lian et.al.|[2504.03476v1](http://arxiv.org/abs/2504.03476v1)|null|
-|**2025-04-04**|**Locations of Characters in Narratives: Andersen and Persuasion Datasets**|Batuhan Ozyurt et.al.|[2504.03434v1](http://arxiv.org/abs/2504.03434v1)|null|
-|**2025-04-04**|**Mind the Prompt: Prompting Strategies in Audio Generations for Improving Sound Classification**|Francesca Ronchini et.al.|[2504.03329v1](http://arxiv.org/abs/2504.03329v1)|null|
-|**2025-04-04**|**Multi-lingual Multi-turn Automated Red Teaming for LLMs**|Abhishek Singhania et.al.|[2504.03174v1](http://arxiv.org/abs/2504.03174v1)|null|
-|**2025-04-04**|**DeepResearcher: Scaling Deep Research via Reinforcement Learning in Real-world Environments**|Yuxiang Zheng et.al.|[2504.03160v1](http://arxiv.org/abs/2504.03160v1)|null|
-|**2025-04-04**|**Beyond the Next Token: Towards Prompt-Robust Zero-Shot Classification via Efficient Multi-Token Prediction**|Junlang Qian et.al.|[2504.03159v1](http://arxiv.org/abs/2504.03159v1)|null|
-|**2025-04-04**|**LightPROF: A Lightweight Reasoning Framework for Large Language Model on Knowledge Graph**|Tu Ao et.al.|[2504.03137v1](http://arxiv.org/abs/2504.03137v1)|null|
-|**2025-04-04**|**Hierarchical Modeling for Medical Visual Question Answering with Cross-Attention Fusion**|Junkai Zhang et.al.|[2504.03135v1](http://arxiv.org/abs/2504.03135v1)|null|
-|**2025-04-03**|**Task as Context Prompting for Accurate Medical Symptom Coding Using Large Language Models**|Chengyang He et.al.|[2504.03051v1](http://arxiv.org/abs/2504.03051v1)|null|
-|**2025-04-03**|**LLM Library Learning Fails: A LEGO-Prover Case Study**|Ian Berlot-Attwell et.al.|[2504.03048v1](http://arxiv.org/abs/2504.03048v1)|null|
-|**2025-04-03**|**Ontologies in Design: How Imagining a Tree Reveals Possibilites and Assumptions in Large Language Models**|Nava Haghighi et.al.|[2504.03029v1](http://arxiv.org/abs/2504.03029v1)|null|
-|**2025-04-03**|**A Framework for Robust Cognitive Evaluation of LLMs**|Karin de Langis et.al.|[2504.02789v1](http://arxiv.org/abs/2504.02789v1)|null|
-|**2025-04-03**|**BT-ACTION: A Test-Driven Approach for Modular Understanding of User Instruction Leveraging Behaviour Trees and LLMs**|Alexander Leszczynski et.al.|[2504.02779v1](http://arxiv.org/abs/2504.02779v1)|null|
-|**2025-04-03**|**Robot-Led Vision Language Model Wellbeing Assessment of Children**|Nida Itrat Abbasi et.al.|[2504.02765v1](http://arxiv.org/abs/2504.02765v1)|null|
-|**2025-04-03**|**RBT4DNN: Requirements-based Testing of Neural Networks**|Nusrat Jahan Mozumder et.al.|[2504.02737v2](http://arxiv.org/abs/2504.02737v2)|null|
-|**2025-04-03**|**Enhancing LLM Robustness to Perturbed Instructions: An Empirical Study**|Aryan Agrawal et.al.|[2504.02733v1](http://arxiv.org/abs/2504.02733v1)|null|
-|**2025-04-03**|**Morpheus: Benchmarking Physical Reasoning of Video Generative Models with Real Physical Experiments**|Chenyu Zhang et.al.|[2504.02918v1](http://arxiv.org/abs/2504.02918v1)|null|
-|**2025-04-03**|**LLM for Complex Reasoning Task: An Exploratory Study in Fermi Problems**|Zishuo Liu et.al.|[2504.02671v1](http://arxiv.org/abs/2504.02671v1)|null|
-|**2025-04-03**|**Prompt Optimization with Logged Bandit Data**|Haruka Kiyohara et.al.|[2504.02646v1](http://arxiv.org/abs/2504.02646v1)|null|
-|**2025-04-03**|**Unified Equation for Massless Spin Particles and New Spin Coefficient Definitions**|Zhong-Heng Li et.al.|[2504.02592v1](http://arxiv.org/abs/2504.02592v1)|null|
-|**2025-04-03**|**Leveraging LLM For Synchronizing Information Across Multilingual Tables**|Siddharth Khincha et.al.|[2504.02559v1](http://arxiv.org/abs/2504.02559v1)|null|
-|**2025-04-03**|**UNDO: Understanding Distillation as Optimization**|Kushal Jain et.al.|[2504.02521v1](http://arxiv.org/abs/2504.02521v1)|null|
-|**2025-04-03**|**A Memory-Augmented LLM-Driven Method for Autonomous Merging of 3D Printing Work Orders**|Yuhao Liu et.al.|[2504.02509v1](http://arxiv.org/abs/2504.02509v1)|null|
-|**2025-04-03**|**Cognitive Memory in Large Language Models**|Lianlei Shan et.al.|[2504.02441v1](http://arxiv.org/abs/2504.02441v1)|null|
-|**2025-04-03**|**SkyReels-A2: Compose Anything in Video Diffusion Transformers**|Zhengcong Fei et.al.|[2504.02436v1](http://arxiv.org/abs/2504.02436v1)|null|
 
 ### LLM Theory
 |Publish Date|Title|Authors|PDF|Code|
@@ -146,6 +112,40 @@
 |**2025-04-04**|**Roto-Translation Invariant Metrics on Position-Orientation Space**|Gijs Bellaard et.al.|[2504.03309v1](http://arxiv.org/abs/2504.03309v1)|null|
 |**2025-04-04**|**Multi-Flow: Multi-View-Enriched Normalizing Flows for Industrial Anomaly Detection**|Mathis Kruse et.al.|[2504.03306v1](http://arxiv.org/abs/2504.03306v1)|null|
 |**2025-04-04**|**Universal Collection of Euclidean Invariants between Pairs of Position-Orientations**|Gijs Bellaard et.al.|[2504.03299v1](http://arxiv.org/abs/2504.03299v1)|null|
+
+### LLM Agent
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2025-04-04**|**Shape My Moves: Text-Driven Shape-Aware Synthesis of Human Motions**|Ting-Hsuan Liao et.al.|[2504.03639v1](http://arxiv.org/abs/2504.03639v1)|null|
+|**2025-04-04**|**VISTA-OCR: Towards generative and interactive end to end OCR models**|Laziz Hamdi et.al.|[2504.03621v1](http://arxiv.org/abs/2504.03621v1)|null|
+|**2025-04-04**|**PF3Det: A Prompted Foundation Feature Assisted Visual LiDAR 3D Detector**|Kaidong Li et.al.|[2504.03563v1](http://arxiv.org/abs/2504.03563v1)|null|
+|**2025-04-04**|**Diverse In-Context Example Selection After Decomposing Programs and Aligned Utterances Improves Semantic Parsing**|Mayank Kothyari et.al.|[2504.03541v1](http://arxiv.org/abs/2504.03541v1)|null|
+|**2025-04-04**|**State estimation for gas purity monitoring and control in water electrolysis systems**|Lucas Cammann et.al.|[2504.03522v1](http://arxiv.org/abs/2504.03522v1)|null|
+|**2025-04-04**|**ATM-Net: Anatomy-Aware Text-Guided Multi-Modal Fusion for Fine-Grained Lumbar Spine Segmentation**|Sheng Lian et.al.|[2504.03476v1](http://arxiv.org/abs/2504.03476v1)|null|
+|**2025-04-04**|**Locations of Characters in Narratives: Andersen and Persuasion Datasets**|Batuhan Ozyurt et.al.|[2504.03434v1](http://arxiv.org/abs/2504.03434v1)|null|
+|**2025-04-04**|**Mind the Prompt: Prompting Strategies in Audio Generations for Improving Sound Classification**|Francesca Ronchini et.al.|[2504.03329v1](http://arxiv.org/abs/2504.03329v1)|null|
+|**2025-04-04**|**Multi-lingual Multi-turn Automated Red Teaming for LLMs**|Abhishek Singhania et.al.|[2504.03174v1](http://arxiv.org/abs/2504.03174v1)|null|
+|**2025-04-04**|**DeepResearcher: Scaling Deep Research via Reinforcement Learning in Real-world Environments**|Yuxiang Zheng et.al.|[2504.03160v1](http://arxiv.org/abs/2504.03160v1)|null|
+|**2025-04-04**|**Beyond the Next Token: Towards Prompt-Robust Zero-Shot Classification via Efficient Multi-Token Prediction**|Junlang Qian et.al.|[2504.03159v1](http://arxiv.org/abs/2504.03159v1)|null|
+|**2025-04-04**|**LightPROF: A Lightweight Reasoning Framework for Large Language Model on Knowledge Graph**|Tu Ao et.al.|[2504.03137v1](http://arxiv.org/abs/2504.03137v1)|null|
+|**2025-04-04**|**Hierarchical Modeling for Medical Visual Question Answering with Cross-Attention Fusion**|Junkai Zhang et.al.|[2504.03135v1](http://arxiv.org/abs/2504.03135v1)|null|
+|**2025-04-03**|**Task as Context Prompting for Accurate Medical Symptom Coding Using Large Language Models**|Chengyang He et.al.|[2504.03051v1](http://arxiv.org/abs/2504.03051v1)|null|
+|**2025-04-03**|**LLM Library Learning Fails: A LEGO-Prover Case Study**|Ian Berlot-Attwell et.al.|[2504.03048v1](http://arxiv.org/abs/2504.03048v1)|null|
+|**2025-04-03**|**Ontologies in Design: How Imagining a Tree Reveals Possibilites and Assumptions in Large Language Models**|Nava Haghighi et.al.|[2504.03029v1](http://arxiv.org/abs/2504.03029v1)|null|
+|**2025-04-03**|**A Framework for Robust Cognitive Evaluation of LLMs**|Karin de Langis et.al.|[2504.02789v1](http://arxiv.org/abs/2504.02789v1)|null|
+|**2025-04-03**|**BT-ACTION: A Test-Driven Approach for Modular Understanding of User Instruction Leveraging Behaviour Trees and LLMs**|Alexander Leszczynski et.al.|[2504.02779v1](http://arxiv.org/abs/2504.02779v1)|null|
+|**2025-04-03**|**Robot-Led Vision Language Model Wellbeing Assessment of Children**|Nida Itrat Abbasi et.al.|[2504.02765v1](http://arxiv.org/abs/2504.02765v1)|null|
+|**2025-04-03**|**RBT4DNN: Requirements-based Testing of Neural Networks**|Nusrat Jahan Mozumder et.al.|[2504.02737v2](http://arxiv.org/abs/2504.02737v2)|null|
+|**2025-04-03**|**Enhancing LLM Robustness to Perturbed Instructions: An Empirical Study**|Aryan Agrawal et.al.|[2504.02733v1](http://arxiv.org/abs/2504.02733v1)|null|
+|**2025-04-03**|**Morpheus: Benchmarking Physical Reasoning of Video Generative Models with Real Physical Experiments**|Chenyu Zhang et.al.|[2504.02918v1](http://arxiv.org/abs/2504.02918v1)|null|
+|**2025-04-03**|**LLM for Complex Reasoning Task: An Exploratory Study in Fermi Problems**|Zishuo Liu et.al.|[2504.02671v1](http://arxiv.org/abs/2504.02671v1)|null|
+|**2025-04-03**|**Prompt Optimization with Logged Bandit Data**|Haruka Kiyohara et.al.|[2504.02646v1](http://arxiv.org/abs/2504.02646v1)|null|
+|**2025-04-03**|**Unified Equation for Massless Spin Particles and New Spin Coefficient Definitions**|Zhong-Heng Li et.al.|[2504.02592v1](http://arxiv.org/abs/2504.02592v1)|null|
+|**2025-04-03**|**Leveraging LLM For Synchronizing Information Across Multilingual Tables**|Siddharth Khincha et.al.|[2504.02559v2](http://arxiv.org/abs/2504.02559v2)|null|
+|**2025-04-03**|**UNDO: Understanding Distillation as Optimization**|Kushal Jain et.al.|[2504.02521v1](http://arxiv.org/abs/2504.02521v1)|null|
+|**2025-04-03**|**A Memory-Augmented LLM-Driven Method for Autonomous Merging of 3D Printing Work Orders**|Yuhao Liu et.al.|[2504.02509v1](http://arxiv.org/abs/2504.02509v1)|null|
+|**2025-04-03**|**Cognitive Memory in Large Language Models**|Lianlei Shan et.al.|[2504.02441v1](http://arxiv.org/abs/2504.02441v1)|null|
+|**2025-04-03**|**SkyReels-A2: Compose Anything in Video Diffusion Transformers**|Zhengcong Fei et.al.|[2504.02436v1](http://arxiv.org/abs/2504.02436v1)|null|
 
 ## Code Compile
 
