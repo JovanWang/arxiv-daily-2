@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-04-08 08:40:46 Asia/Shanghai
+ Automated deployment @ 2025-04-08 10:15:24 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -8,6 +8,40 @@
 ### Sparse Operator
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+
+### Sparse program Compile
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2025-04-04**|**PHOENIX: Pauli-Based High-Level Optimization Engine for Instruction Execution on NISQ Devices**|Zhaohui Yang et.al.|[2504.03529v1](http://arxiv.org/abs/2504.03529v1)|null|
+|**2025-04-04**|**Local Search for Clustering in Almost-linear Time**|Shaofeng H. -C. Jiang et.al.|[2504.03513v1](http://arxiv.org/abs/2504.03513v1)|null|
+|**2025-04-04**|**Physics-informed 4D X-ray image reconstruction from ultra-sparse spatiotemporal data**|Zisheng Yao et.al.|[2504.03469v1](http://arxiv.org/abs/2504.03469v1)|null|
+|**2025-04-04**|**ZFusion: An Effective Fuser of Camera and 4D Radar for 3D Object Perception in Autonomous Driving**|Sheng Yang et.al.|[2504.03438v2](http://arxiv.org/abs/2504.03438v2)|null|
+|**2025-04-04**|**Autonomous state-space segmentation for Deep-RL sparse reward scenarios**|Gianluca Maselli et.al.|[2504.03420v1](http://arxiv.org/abs/2504.03420v1)|null|
+|**2025-04-04**|**Scalable Fitting Methods for Multivariate Gaussian Additive Models with Covariate-dependent Covariance Matrices**|Vincenzo Gioia et.al.|[2504.03368v1](http://arxiv.org/abs/2504.03368v1)|null|
+|**2025-04-04**|**Block Toeplitz Sparse Precision Matrix Estimation for Large-Scale Interval-Valued Time Series Forecasting**|Wan Tian et.al.|[2504.03322v1](http://arxiv.org/abs/2504.03322v1)|null|
+|**2025-04-04**|**Adaptive sparse variational approximations for Gaussian process regression**|Dennis Nieman et.al.|[2504.03321v1](http://arxiv.org/abs/2504.03321v1)|null|
+|**2025-04-04**|**Simultaneous Learning of Optimal Transports for Training All-to-All Flow-Based Condition Transfer Model**|Kotaro Ikeda et.al.|[2504.03188v1](http://arxiv.org/abs/2504.03188v1)|null|
+|**2025-04-04**|**Learning Sparse Disentangled Representations for Multimodal Exclusion Retrieval**|Prachi et.al.|[2504.03184v1](http://arxiv.org/abs/2504.03184v1)|null|
+|**2025-04-04**|**Safe Screening Rules for Group OWL Models**|Runxue Bao et.al.|[2504.03152v1](http://arxiv.org/abs/2504.03152v1)|null|
+|**2025-04-04**|**GraphSeg: Segmented 3D Representations via Graph Edge Addition and Contraction**|Haozhan Tang et.al.|[2504.03129v1](http://arxiv.org/abs/2504.03129v1)|null|
+|**2025-04-03**|**Towards Optimal Distributed Delta Coloring**|Manuel Jakob et.al.|[2504.03080v1](http://arxiv.org/abs/2504.03080v1)|null|
+|**2025-04-03**|**Concept Lancet: Image Editing with Compositional Representation Transplant**|Jinqi Luo et.al.|[2504.02828v1](http://arxiv.org/abs/2504.02828v1)|null|
+|**2025-04-03**|**Sparse Autoencoders Learn Monosemantic Features in Vision-Language Models**|Mateusz Pach et.al.|[2504.02821v1](http://arxiv.org/abs/2504.02821v1)|null|
+|**2025-04-03**|**Towards Green AI-Native Networks: Evaluation of Neural Circuit Policy for Estimating Energy Consumption of Base Stations**|Selim Ickin et.al.|[2504.02781v1](http://arxiv.org/abs/2504.02781v1)|null|
+|**2025-04-03**|**Multi-Head Adaptive Graph Convolution Network for Sparse Point Cloud-Based Human Activity Recognition**|Vincent Gbouna Zakka et.al.|[2504.02778v1](http://arxiv.org/abs/2504.02778v1)|[link](https://github.com/Gbouna/MAK-GCN)|
+|**2025-04-03**|**Echoes of the hidden: Uncovering coordination beyond network structure**|Shahar Somin et.al.|[2504.02757v1](http://arxiv.org/abs/2504.02757v1)|null|
+|**2025-04-03**|**MiLo: Efficient Quantized MoE Inference with Mixture of Low-Rank Compensators**|Beichen Huang et.al.|[2504.02658v2](http://arxiv.org/abs/2504.02658v2)|null|
+|**2025-04-03**|**Efficient Model Editing with Task-Localized Sparse Fine-tuning**|Leonardo Iurada et.al.|[2504.02620v1](http://arxiv.org/abs/2504.02620v1)|null|
+|**2025-04-03**|**UAV-Assisted 5G Networks: Mobility-Aware 3D Trajectory Optimization and Resource Allocation for Dynamic Environments**|Asad Mahmood et.al.|[2504.02613v1](http://arxiv.org/abs/2504.02613v1)|null|
+|**2025-04-03**|**Leveraging Sparse Annotations for Leukemia Diagnosis on the Large Leukemia Dataset**|Abdul Rehman et.al.|[2504.02602v1](http://arxiv.org/abs/2504.02602v1)|null|
+|**2025-04-03**|**Enhancing Compton telescope imaging with maximum a posteriori estimation: a modified Richardson-Lucy algorithm for the Compton Spectrometer and Imager**|Hiroki Yoneda et.al.|[2504.02468v1](http://arxiv.org/abs/2504.02468v1)|null|
+|**2025-04-03**|**QPanda3: A High-Performance Software-Hardware Collaborative Framework for Large-Scale Quantum-Classical Computing Integration**|Tianrui Zou et.al.|[2504.02455v1](http://arxiv.org/abs/2504.02455v1)|null|
+|**2025-04-03**|**MonoGS++: Fast and Accurate Monocular RGB Gaussian SLAM**|Renwu Li et.al.|[2504.02437v1](http://arxiv.org/abs/2504.02437v1)|null|
+|**2025-04-03**|**All-day Depth Completion via Thermal-LiDAR Fusion**|Janghyun Kim et.al.|[2504.02356v1](http://arxiv.org/abs/2504.02356v1)|null|
+|**2025-04-03**|**Toward General and Robust LLM-enhanced Text-attributed Graph Learning**|Zihao Zhang et.al.|[2504.02343v1](http://arxiv.org/abs/2504.02343v1)|null|
+|**2025-04-03**|**Riemannian Optimization for Sparse Tensor CCA**|Yanjiao Zhu et.al.|[2504.02339v2](http://arxiv.org/abs/2504.02339v2)|null|
+|**2025-04-03**|**Asymmetric graph alignment and the phase transition for asymmetric tree correlation testing**|Jakob Maier et.al.|[2504.02299v1](http://arxiv.org/abs/2504.02299v1)|null|
+|**2025-04-03**|**FEASE: Shallow AutoEncoding Recommender with Cold Start Handling via Side Features**|Edward DongBo Cui et.al.|[2504.02288v2](http://arxiv.org/abs/2504.02288v2)|null|
 
 ### Sparse Data Format
 |Publish Date|Title|Authors|PDF|Code|
@@ -21,7 +55,7 @@
 |**2025-04-04**|**Physics-informed 4D X-ray image reconstruction from ultra-sparse spatiotemporal data**|Zisheng Yao et.al.|[2504.03469v1](http://arxiv.org/abs/2504.03469v1)|null|
 |**2025-04-04**|**Identifiability of VAR(1) model in a stationary setting**|Bixuan Liu et.al.|[2504.03466v1](http://arxiv.org/abs/2504.03466v1)|null|
 |**2025-04-04**|**Martingale approach for first-passage problems of time-additive observables in Markov processes**|Izaak Neri et.al.|[2504.03441v1](http://arxiv.org/abs/2504.03441v1)|null|
-|**2025-04-04**|**ZFusion: An Effective Fuser of Camera and 4D Radar for 3D Object Perception in Autonomous Driving**|Sheng Yang et.al.|[2504.03438v1](http://arxiv.org/abs/2504.03438v1)|null|
+|**2025-04-04**|**ZFusion: An Effective Fuser of Camera and 4D Radar for 3D Object Perception in Autonomous Driving**|Sheng Yang et.al.|[2504.03438v2](http://arxiv.org/abs/2504.03438v2)|null|
 |**2025-04-04**|**Autonomous state-space segmentation for Deep-RL sparse reward scenarios**|Gianluca Maselli et.al.|[2504.03420v1](http://arxiv.org/abs/2504.03420v1)|null|
 |**2025-04-04**|**Exact Wigner function for chiral spirals**|Samapan Bhadury et.al.|[2504.03413v1](http://arxiv.org/abs/2504.03413v1)|null|
 |**2025-04-04**|**An Efficient GPU-based Implementation for Noise Robust Sound Source Localization**|Zirui Lin et.al.|[2504.03373v1](http://arxiv.org/abs/2504.03373v1)|null|
@@ -42,40 +76,6 @@
 |**2025-04-04**|**Multi-Granularity Vision Fastformer with Fusion Mechanism for Skin Lesion Segmentation**|Xuanyu Liu et.al.|[2504.03108v1](http://arxiv.org/abs/2504.03108v1)|null|
 |**2025-04-04**|**A computational transition for detecting multivariate shuffled linear regression by low-degree polynomials**|Zhangsong Li et.al.|[2504.03097v1](http://arxiv.org/abs/2504.03097v1)|null|
 |**2025-04-04**|**Post-processing for Fair Regression via Explainable SVD**|Zhiqun Zuo et.al.|[2504.03093v1](http://arxiv.org/abs/2504.03093v1)|null|
-
-### Sparse program Compile
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2025-04-04**|**PHOENIX: Pauli-Based High-Level Optimization Engine for Instruction Execution on NISQ Devices**|Zhaohui Yang et.al.|[2504.03529v1](http://arxiv.org/abs/2504.03529v1)|null|
-|**2025-04-04**|**Local Search for Clustering in Almost-linear Time**|Shaofeng H. -C. Jiang et.al.|[2504.03513v1](http://arxiv.org/abs/2504.03513v1)|null|
-|**2025-04-04**|**Physics-informed 4D X-ray image reconstruction from ultra-sparse spatiotemporal data**|Zisheng Yao et.al.|[2504.03469v1](http://arxiv.org/abs/2504.03469v1)|null|
-|**2025-04-04**|**ZFusion: An Effective Fuser of Camera and 4D Radar for 3D Object Perception in Autonomous Driving**|Sheng Yang et.al.|[2504.03438v1](http://arxiv.org/abs/2504.03438v1)|null|
-|**2025-04-04**|**Autonomous state-space segmentation for Deep-RL sparse reward scenarios**|Gianluca Maselli et.al.|[2504.03420v1](http://arxiv.org/abs/2504.03420v1)|null|
-|**2025-04-04**|**Scalable Fitting Methods for Multivariate Gaussian Additive Models with Covariate-dependent Covariance Matrices**|Vincenzo Gioia et.al.|[2504.03368v1](http://arxiv.org/abs/2504.03368v1)|null|
-|**2025-04-04**|**Block Toeplitz Sparse Precision Matrix Estimation for Large-Scale Interval-Valued Time Series Forecasting**|Wan Tian et.al.|[2504.03322v1](http://arxiv.org/abs/2504.03322v1)|null|
-|**2025-04-04**|**Adaptive sparse variational approximations for Gaussian process regression**|Dennis Nieman et.al.|[2504.03321v1](http://arxiv.org/abs/2504.03321v1)|null|
-|**2025-04-04**|**Simultaneous Learning of Optimal Transports for Training All-to-All Flow-Based Condition Transfer Model**|Kotaro Ikeda et.al.|[2504.03188v1](http://arxiv.org/abs/2504.03188v1)|null|
-|**2025-04-04**|**Learning Sparse Disentangled Representations for Multimodal Exclusion Retrieval**|Prachi et.al.|[2504.03184v1](http://arxiv.org/abs/2504.03184v1)|null|
-|**2025-04-04**|**Safe Screening Rules for Group OWL Models**|Runxue Bao et.al.|[2504.03152v1](http://arxiv.org/abs/2504.03152v1)|null|
-|**2025-04-04**|**GraphSeg: Segmented 3D Representations via Graph Edge Addition and Contraction**|Haozhan Tang et.al.|[2504.03129v1](http://arxiv.org/abs/2504.03129v1)|null|
-|**2025-04-03**|**Towards Optimal Distributed Delta Coloring**|Manuel Jakob et.al.|[2504.03080v1](http://arxiv.org/abs/2504.03080v1)|null|
-|**2025-04-03**|**Concept Lancet: Image Editing with Compositional Representation Transplant**|Jinqi Luo et.al.|[2504.02828v1](http://arxiv.org/abs/2504.02828v1)|null|
-|**2025-04-03**|**Sparse Autoencoders Learn Monosemantic Features in Vision-Language Models**|Mateusz Pach et.al.|[2504.02821v1](http://arxiv.org/abs/2504.02821v1)|null|
-|**2025-04-03**|**Towards Green AI-Native Networks: Evaluation of Neural Circuit Policy for Estimating Energy Consumption of Base Stations**|Selim Ickin et.al.|[2504.02781v1](http://arxiv.org/abs/2504.02781v1)|null|
-|**2025-04-03**|**Multi-Head Adaptive Graph Convolution Network for Sparse Point Cloud-Based Human Activity Recognition**|Vincent Gbouna Zakka et.al.|[2504.02778v1](http://arxiv.org/abs/2504.02778v1)|[link](https://github.com/Gbouna/MAK-GCN)|
-|**2025-04-03**|**Echoes of the hidden: Uncovering coordination beyond network structure**|Shahar Somin et.al.|[2504.02757v1](http://arxiv.org/abs/2504.02757v1)|null|
-|**2025-04-03**|**MiLo: Efficient Quantized MoE Inference with Mixture of Low-Rank Compensators**|Beichen Huang et.al.|[2504.02658v1](http://arxiv.org/abs/2504.02658v1)|null|
-|**2025-04-03**|**Efficient Model Editing with Task-Localized Sparse Fine-tuning**|Leonardo Iurada et.al.|[2504.02620v1](http://arxiv.org/abs/2504.02620v1)|null|
-|**2025-04-03**|**UAV-Assisted 5G Networks: Mobility-Aware 3D Trajectory Optimization and Resource Allocation for Dynamic Environments**|Asad Mahmood et.al.|[2504.02613v1](http://arxiv.org/abs/2504.02613v1)|null|
-|**2025-04-03**|**Leveraging Sparse Annotations for Leukemia Diagnosis on the Large Leukemia Dataset**|Abdul Rehman et.al.|[2504.02602v1](http://arxiv.org/abs/2504.02602v1)|null|
-|**2025-04-03**|**Enhancing Compton telescope imaging with maximum a posteriori estimation: a modified Richardson-Lucy algorithm for the Compton Spectrometer and Imager**|Hiroki Yoneda et.al.|[2504.02468v1](http://arxiv.org/abs/2504.02468v1)|null|
-|**2025-04-03**|**QPanda3: A High-Performance Software-Hardware Collaborative Framework for Large-Scale Quantum-Classical Computing Integration**|Tianrui Zou et.al.|[2504.02455v1](http://arxiv.org/abs/2504.02455v1)|null|
-|**2025-04-03**|**MonoGS++: Fast and Accurate Monocular RGB Gaussian SLAM**|Renwu Li et.al.|[2504.02437v1](http://arxiv.org/abs/2504.02437v1)|null|
-|**2025-04-03**|**All-day Depth Completion via Thermal-LiDAR Fusion**|Janghyun Kim et.al.|[2504.02356v1](http://arxiv.org/abs/2504.02356v1)|null|
-|**2025-04-03**|**Toward General and Robust LLM-enhanced Text-attributed Graph Learning**|Zihao Zhang et.al.|[2504.02343v1](http://arxiv.org/abs/2504.02343v1)|null|
-|**2025-04-03**|**Riemannian Optimization for Sparse Tensor CCA**|Yanjiao Zhu et.al.|[2504.02339v2](http://arxiv.org/abs/2504.02339v2)|null|
-|**2025-04-03**|**Asymmetric graph alignment and the phase transition for asymmetric tree correlation testing**|Jakob Maier et.al.|[2504.02299v1](http://arxiv.org/abs/2504.02299v1)|null|
-|**2025-04-03**|**FEASE: Shallow AutoEncoding Recommender with Cold Start Handling via Side Features**|Edward DongBo Cui et.al.|[2504.02288v2](http://arxiv.org/abs/2504.02288v2)|null|
 
 ## AI
 
@@ -125,7 +125,7 @@
 |**2025-04-04**|**Locations of Characters in Narratives: Andersen and Persuasion Datasets**|Batuhan Ozyurt et.al.|[2504.03434v1](http://arxiv.org/abs/2504.03434v1)|null|
 |**2025-04-04**|**Mind the Prompt: Prompting Strategies in Audio Generations for Improving Sound Classification**|Francesca Ronchini et.al.|[2504.03329v1](http://arxiv.org/abs/2504.03329v1)|null|
 |**2025-04-04**|**Multi-lingual Multi-turn Automated Red Teaming for LLMs**|Abhishek Singhania et.al.|[2504.03174v1](http://arxiv.org/abs/2504.03174v1)|null|
-|**2025-04-04**|**DeepResearcher: Scaling Deep Research via Reinforcement Learning in Real-world Environments**|Yuxiang Zheng et.al.|[2504.03160v1](http://arxiv.org/abs/2504.03160v1)|null|
+|**2025-04-04**|**DeepResearcher: Scaling Deep Research via Reinforcement Learning in Real-world Environments**|Yuxiang Zheng et.al.|[2504.03160v2](http://arxiv.org/abs/2504.03160v2)|null|
 |**2025-04-04**|**Beyond the Next Token: Towards Prompt-Robust Zero-Shot Classification via Efficient Multi-Token Prediction**|Junlang Qian et.al.|[2504.03159v1](http://arxiv.org/abs/2504.03159v1)|null|
 |**2025-04-04**|**LightPROF: A Lightweight Reasoning Framework for Large Language Model on Knowledge Graph**|Tu Ao et.al.|[2504.03137v1](http://arxiv.org/abs/2504.03137v1)|null|
 |**2025-04-04**|**Hierarchical Modeling for Medical Visual Question Answering with Cross-Attention Fusion**|Junkai Zhang et.al.|[2504.03135v1](http://arxiv.org/abs/2504.03135v1)|null|
@@ -152,7 +152,7 @@
 ### C Code Generation
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2025-04-04**|**MME-Unify: A Comprehensive Benchmark for Unified Multimodal Understanding and Generation Models**|Wulin Xie et.al.|[2504.03641v1](http://arxiv.org/abs/2504.03641v1)|null|
+|**2025-04-04**|**MME-Unify: A Comprehensive Benchmark for Unified Multimodal Understanding and Generation Models**|Wulin Xie et.al.|[2504.03641v2](http://arxiv.org/abs/2504.03641v2)|null|
 |**2025-04-04**|**Bonsai: Interpretable Tree-Adaptive Grounded Reasoning**|Kate Sanders et.al.|[2504.03640v1](http://arxiv.org/abs/2504.03640v1)|null|
 |**2025-04-04**|**Shape My Moves: Text-Driven Shape-Aware Synthesis of Human Motions**|Ting-Hsuan Liao et.al.|[2504.03639v1](http://arxiv.org/abs/2504.03639v1)|null|
 |**2025-04-04**|**Maximal Entropy Formalism and the Restricted Boltzmann Machine**|Vinit Singh et.al.|[2504.03634v1](http://arxiv.org/abs/2504.03634v1)|null|
@@ -187,7 +187,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
 |**2025-04-04**|**Anisotropy in the carbon monoxide (CO) line emission across the Milky Way's disk**|J. D. Soler et.al.|[2504.03642v1](http://arxiv.org/abs/2504.03642v1)|null|
-|**2025-04-04**|**MME-Unify: A Comprehensive Benchmark for Unified Multimodal Understanding and Generation Models**|Wulin Xie et.al.|[2504.03641v1](http://arxiv.org/abs/2504.03641v1)|null|
+|**2025-04-04**|**MME-Unify: A Comprehensive Benchmark for Unified Multimodal Understanding and Generation Models**|Wulin Xie et.al.|[2504.03641v2](http://arxiv.org/abs/2504.03641v2)|null|
 |**2025-04-04**|**Bonsai: Interpretable Tree-Adaptive Grounded Reasoning**|Kate Sanders et.al.|[2504.03640v1](http://arxiv.org/abs/2504.03640v1)|null|
 |**2025-04-04**|**Shape My Moves: Text-Driven Shape-Aware Synthesis of Human Motions**|Ting-Hsuan Liao et.al.|[2504.03639v1](http://arxiv.org/abs/2504.03639v1)|null|
 |**2025-04-04**|**Noise constraints on sensitivity scaling in super-Heisenberg quantum metrology**|Noah Lordi et.al.|[2504.03638v1](http://arxiv.org/abs/2504.03638v1)|null|
@@ -222,7 +222,7 @@
 ### Large-Language Model
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2025-04-04**|**MME-Unify: A Comprehensive Benchmark for Unified Multimodal Understanding and Generation Models**|Wulin Xie et.al.|[2504.03641v1](http://arxiv.org/abs/2504.03641v1)|null|
+|**2025-04-04**|**MME-Unify: A Comprehensive Benchmark for Unified Multimodal Understanding and Generation Models**|Wulin Xie et.al.|[2504.03641v2](http://arxiv.org/abs/2504.03641v2)|null|
 |**2025-04-04**|**Bonsai: Interpretable Tree-Adaptive Grounded Reasoning**|Kate Sanders et.al.|[2504.03640v1](http://arxiv.org/abs/2504.03640v1)|null|
 |**2025-04-04**|**Shape My Moves: Text-Driven Shape-Aware Synthesis of Human Motions**|Ting-Hsuan Liao et.al.|[2504.03639v1](http://arxiv.org/abs/2504.03639v1)|null|
 |**2025-04-04**|**An Algebraic Geometry Approach to Viewing Graph Solvability**|Federica Arrigoni et.al.|[2504.03637v1](http://arxiv.org/abs/2504.03637v1)|null|
