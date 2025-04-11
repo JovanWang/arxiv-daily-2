@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-04-11 20:15:50 Asia/Shanghai
+ Automated deployment @ 2025-04-11 20:55:29 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -8,40 +8,6 @@
 ### Sparse Operator
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-
-### Sparse Data Format
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2025-04-10**|**GLUS: Global-Local Reasoning Unified into A Single Large Language Model for Video Segmentation**|Lang Lin et.al.|[2504.07962v1](http://arxiv.org/abs/2504.07962v1)|null|
-|**2025-04-10**|**BoxDreamer: Dreaming Box Corners for Generalizable Object Pose Estimation**|Yuanhong Yu et.al.|[2504.07955v1](http://arxiv.org/abs/2504.07955v1)|null|
-|**2025-04-10**|**Characteristic function-based tests for spatial randomness**|Yiran Zeng et.al.|[2504.07946v1](http://arxiv.org/abs/2504.07946v1)|null|
-|**2025-04-10**|**Directed Temporal Tree Realization for Periodic Public Transport: Easy and Hard Cases**|Julia Meusel et.al.|[2504.07920v1](http://arxiv.org/abs/2504.07920v1)|null|
-|**2025-04-10**|**Shuffling via Transpositions**|Samira Arfaee et.al.|[2504.07918v1](http://arxiv.org/abs/2504.07918v1)|null|
-|**2025-04-10**|**CatCMA with Margin: Stochastic Optimization for Continuous, Integer, and Categorical Variables**|Ryoki Hamano et.al.|[2504.07884v1](http://arxiv.org/abs/2504.07884v1)|null|
-|**2025-04-10**|**Pangu Ultra: Pushing the Limits of Dense Large Language Models on Ascend NPUs**|Yichun Yin et.al.|[2504.07866v1](http://arxiv.org/abs/2504.07866v1)|null|
-|**2025-04-10**|**Robust Hallucination Detection in LLMs via Adaptive Token Selection**|Mengjia Niu et.al.|[2504.07863v1](http://arxiv.org/abs/2504.07863v1)|null|
-|**2025-04-10**|**Empowering Global Voices: A Data-Efficient, Phoneme-Tone Adaptive Approach to High-Fidelity Speech Synthesis**|Yizhong Geng et.al.|[2504.07858v1](http://arxiv.org/abs/2504.07858v1)|null|
-|**2025-04-10**|**$B$ meson semileptonic decays from lattice QCD**|Alejandro Vaquero Aviles-Casco et.al.|[2504.07857v1](http://arxiv.org/abs/2504.07857v1)|null|
-|**2025-04-10**|**Independence Is Not an Issue in Neurosymbolic AI**|Håkan Karlsson Faronius et.al.|[2504.07851v1](http://arxiv.org/abs/2504.07851v1)|null|
-|**2025-04-10**|**A Spectral Gap Absorption Principle**|Yuval Gorfine et.al.|[2504.07845v1](http://arxiv.org/abs/2504.07845v1)|null|
-|**2025-04-10**|**Deceptive Automated Interpretability: Language Models Coordinating to Fool Oversight Systems**|Simon Lermen et.al.|[2504.07831v1](http://arxiv.org/abs/2504.07831v1)|null|
-|**2025-04-10**|**DG-STMTL: A Novel Graph Convolutional Network for Multi-Task Spatio-Temporal Traffic Forecasting**|Wanna Cui et.al.|[2504.07822v1](http://arxiv.org/abs/2504.07822v1)|null|
-|**2025-04-10**|**Performance of Rank-One Tensor Approximation on Incomplete Data**|Hugo Lebeau et.al.|[2504.07818v1](http://arxiv.org/abs/2504.07818v1)|null|
-|**2025-04-10**|**A Riemannian Gradient Descent Method for the Least Squares Inverse Eigenvalue Problem**|Alban Bloor Riley et.al.|[2504.07809v1](http://arxiv.org/abs/2504.07809v1)|null|
-|**2025-04-10**|**Cluster-Driven Expert Pruning for Mixture-of-Experts Large Language Models**|Hongcheng Guo et.al.|[2504.07807v1](http://arxiv.org/abs/2504.07807v1)|null|
-|**2025-04-10**|**The row left rank of quaternion unit gain graphs in terms of pendant vertices**|Yong Lu et.al.|[2504.07784v1](http://arxiv.org/abs/2504.07784v1)|null|
-|**2025-04-10**|**Virtual-mask Informed Prior for Sparse-view Dual-Energy CT Reconstruction**|Zini Chen et.al.|[2504.07753v1](http://arxiv.org/abs/2504.07753v1)|null|
-|**2025-04-10**|**Linear relations between face numbers of levels in arrangements**|Elizaveta Streltsova et.al.|[2504.07752v1](http://arxiv.org/abs/2504.07752v1)|null|
-|**2025-04-10**|**Adaptive Robust Unscented Kalman Filter for Dynamic State Estimation of Power System**|Duc Viet Nguyen et.al.|[2504.07731v1](http://arxiv.org/abs/2504.07731v1)|null|
-|**2025-04-10**|**The geometry of inconvenience and perverse equilibria in trade networks**|Michael Coopman et.al.|[2504.07700v1](http://arxiv.org/abs/2504.07700v1)|null|
-|**2025-04-10**|**Learning Higher-Order Interactions in Brain Networks via Topological Signal Processing**|Breno C. Bispo et.al.|[2504.07695v1](http://arxiv.org/abs/2504.07695v1)|null|
-|**2025-04-10**|**Low-Complexity Optimization of Antenna Switching Schemes for Dynamic Channel Sounding**|Juan Sanchez et.al.|[2504.07675v1](http://arxiv.org/abs/2504.07675v1)|null|
-|**2025-04-10**|**Rate Analysis and Optimization of LoS Beyond Diagonal RIS-assisted MIMO Systems**|Ignacio Santamaria et.al.|[2504.07647v1](http://arxiv.org/abs/2504.07647v1)|null|
-|**2025-04-10**|**CTSR: Cartesian tensor-based sparse regression for data-driven discovery of high-dimensional invariant governing equations**|Boqian Zhang et.al.|[2504.07618v1](http://arxiv.org/abs/2504.07618v1)|null|
-|**2025-04-10**|**Power spectrum of the CODEX clusters**|Valtteri Lindholm et.al.|[2504.07613v1](http://arxiv.org/abs/2504.07613v1)|null|
-|**2025-04-10**|**Bi-infinite Riordan matrices: a matricial approach to multiplication and composition of Laurent series**|Luis Felipe Prieto-Martínez et.al.|[2504.07593v1](http://arxiv.org/abs/2504.07593v1)|null|
-|**2025-04-10**|**A perspective on totally geodesic submanifolds of the symmetric space $G_2/SO(4)$**|Cristina Draper et.al.|[2504.07586v1](http://arxiv.org/abs/2504.07586v1)|null|
-|**2025-04-10**|**A computational study of low precision incomplete Cholesky factorization preconditioners for sparse linear least-squares problems**|Jennifer Scott et.al.|[2504.07580v1](http://arxiv.org/abs/2504.07580v1)|null|
 
 ### Sparse program Compile
 |Publish Date|Title|Authors|PDF|Code|
@@ -76,6 +42,40 @@
 |**2025-04-09**|**LVC: A Lightweight Compression Framework for Enhancing VLMs in Long Video Understanding**|Ziyi Wang et.al.|[2504.06835v1](http://arxiv.org/abs/2504.06835v1)|null|
 |**2025-04-09**|**Hubble tension and small-scale inhomogeneities on light propagation**|Lucila Kraiselburd et.al.|[2504.06831v2](http://arxiv.org/abs/2504.06831v2)|null|
 |**2025-04-09**|**Domain-Specific Pruning of Large Mixture-of-Experts Models with Few-shot Demonstrations**|Zican Dong et.al.|[2504.06792v1](http://arxiv.org/abs/2504.06792v1)|null|
+
+### Sparse Data Format
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2025-04-10**|**GLUS: Global-Local Reasoning Unified into A Single Large Language Model for Video Segmentation**|Lang Lin et.al.|[2504.07962v1](http://arxiv.org/abs/2504.07962v1)|null|
+|**2025-04-10**|**BoxDreamer: Dreaming Box Corners for Generalizable Object Pose Estimation**|Yuanhong Yu et.al.|[2504.07955v1](http://arxiv.org/abs/2504.07955v1)|null|
+|**2025-04-10**|**Characteristic function-based tests for spatial randomness**|Yiran Zeng et.al.|[2504.07946v1](http://arxiv.org/abs/2504.07946v1)|null|
+|**2025-04-10**|**Directed Temporal Tree Realization for Periodic Public Transport: Easy and Hard Cases**|Julia Meusel et.al.|[2504.07920v1](http://arxiv.org/abs/2504.07920v1)|null|
+|**2025-04-10**|**Shuffling via Transpositions**|Samira Arfaee et.al.|[2504.07918v1](http://arxiv.org/abs/2504.07918v1)|null|
+|**2025-04-10**|**CatCMA with Margin: Stochastic Optimization for Continuous, Integer, and Categorical Variables**|Ryoki Hamano et.al.|[2504.07884v1](http://arxiv.org/abs/2504.07884v1)|null|
+|**2025-04-10**|**Pangu Ultra: Pushing the Limits of Dense Large Language Models on Ascend NPUs**|Yichun Yin et.al.|[2504.07866v1](http://arxiv.org/abs/2504.07866v1)|null|
+|**2025-04-10**|**Robust Hallucination Detection in LLMs via Adaptive Token Selection**|Mengjia Niu et.al.|[2504.07863v1](http://arxiv.org/abs/2504.07863v1)|null|
+|**2025-04-10**|**Empowering Global Voices: A Data-Efficient, Phoneme-Tone Adaptive Approach to High-Fidelity Speech Synthesis**|Yizhong Geng et.al.|[2504.07858v1](http://arxiv.org/abs/2504.07858v1)|null|
+|**2025-04-10**|**$B$ meson semileptonic decays from lattice QCD**|Alejandro Vaquero Aviles-Casco et.al.|[2504.07857v1](http://arxiv.org/abs/2504.07857v1)|null|
+|**2025-04-10**|**Independence Is Not an Issue in Neurosymbolic AI**|Håkan Karlsson Faronius et.al.|[2504.07851v1](http://arxiv.org/abs/2504.07851v1)|null|
+|**2025-04-10**|**A Spectral Gap Absorption Principle**|Yuval Gorfine et.al.|[2504.07845v1](http://arxiv.org/abs/2504.07845v1)|null|
+|**2025-04-10**|**Deceptive Automated Interpretability: Language Models Coordinating to Fool Oversight Systems**|Simon Lermen et.al.|[2504.07831v1](http://arxiv.org/abs/2504.07831v1)|null|
+|**2025-04-10**|**DG-STMTL: A Novel Graph Convolutional Network for Multi-Task Spatio-Temporal Traffic Forecasting**|Wanna Cui et.al.|[2504.07822v1](http://arxiv.org/abs/2504.07822v1)|null|
+|**2025-04-10**|**Performance of Rank-One Tensor Approximation on Incomplete Data**|Hugo Lebeau et.al.|[2504.07818v1](http://arxiv.org/abs/2504.07818v1)|null|
+|**2025-04-10**|**A Riemannian Gradient Descent Method for the Least Squares Inverse Eigenvalue Problem**|Alban Bloor Riley et.al.|[2504.07809v1](http://arxiv.org/abs/2504.07809v1)|null|
+|**2025-04-10**|**Cluster-Driven Expert Pruning for Mixture-of-Experts Large Language Models**|Hongcheng Guo et.al.|[2504.07807v1](http://arxiv.org/abs/2504.07807v1)|null|
+|**2025-04-10**|**The row left rank of quaternion unit gain graphs in terms of pendant vertices**|Yong Lu et.al.|[2504.07784v1](http://arxiv.org/abs/2504.07784v1)|null|
+|**2025-04-10**|**Virtual-mask Informed Prior for Sparse-view Dual-Energy CT Reconstruction**|Zini Chen et.al.|[2504.07753v1](http://arxiv.org/abs/2504.07753v1)|null|
+|**2025-04-10**|**Linear relations between face numbers of levels in arrangements**|Elizaveta Streltsova et.al.|[2504.07752v1](http://arxiv.org/abs/2504.07752v1)|null|
+|**2025-04-10**|**Adaptive Robust Unscented Kalman Filter for Dynamic State Estimation of Power System**|Duc Viet Nguyen et.al.|[2504.07731v1](http://arxiv.org/abs/2504.07731v1)|null|
+|**2025-04-10**|**The geometry of inconvenience and perverse equilibria in trade networks**|Michael Coopman et.al.|[2504.07700v1](http://arxiv.org/abs/2504.07700v1)|null|
+|**2025-04-10**|**Learning Higher-Order Interactions in Brain Networks via Topological Signal Processing**|Breno C. Bispo et.al.|[2504.07695v1](http://arxiv.org/abs/2504.07695v1)|null|
+|**2025-04-10**|**Low-Complexity Optimization of Antenna Switching Schemes for Dynamic Channel Sounding**|Juan Sanchez et.al.|[2504.07675v1](http://arxiv.org/abs/2504.07675v1)|null|
+|**2025-04-10**|**Rate Analysis and Optimization of LoS Beyond Diagonal RIS-assisted MIMO Systems**|Ignacio Santamaria et.al.|[2504.07647v1](http://arxiv.org/abs/2504.07647v1)|null|
+|**2025-04-10**|**CTSR: Cartesian tensor-based sparse regression for data-driven discovery of high-dimensional invariant governing equations**|Boqian Zhang et.al.|[2504.07618v1](http://arxiv.org/abs/2504.07618v1)|null|
+|**2025-04-10**|**Power spectrum of the CODEX clusters**|Valtteri Lindholm et.al.|[2504.07613v1](http://arxiv.org/abs/2504.07613v1)|null|
+|**2025-04-10**|**Bi-infinite Riordan matrices: a matricial approach to multiplication and composition of Laurent series**|Luis Felipe Prieto-Martínez et.al.|[2504.07593v1](http://arxiv.org/abs/2504.07593v1)|null|
+|**2025-04-10**|**A perspective on totally geodesic submanifolds of the symmetric space $G_2/SO(4)$**|Cristina Draper et.al.|[2504.07586v1](http://arxiv.org/abs/2504.07586v1)|null|
+|**2025-04-10**|**A computational study of low precision incomplete Cholesky factorization preconditioners for sparse linear least-squares problems**|Jennifer Scott et.al.|[2504.07580v1](http://arxiv.org/abs/2504.07580v1)|null|
 
 ## AI
 
