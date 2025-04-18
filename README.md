@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-04-18 08:41:09 Asia/Shanghai
+ Automated deployment @ 2025-04-18 10:14:51 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -126,7 +126,7 @@
 |**2025-04-16**|**A Diffusion-Based Framework for Terrain-Aware Remote Sensing Image Reconstruction**|Zhenyu Yu et.al.|[2504.12112v1](http://arxiv.org/abs/2504.12112v1)|null|
 |**2025-04-16**|**Gauging Overprecision in LLMs: An Empirical Study**|Adil Bahaj et.al.|[2504.12098v1](http://arxiv.org/abs/2504.12098v1)|null|
 |**2025-04-16**|**Reasoning-Based AI for Startup Evaluation (R.A.I.S.E.): A Memory-Augmented, Multi-Step Decision Framework**|Jack Preuveneers et.al.|[2504.12090v1](http://arxiv.org/abs/2504.12090v1)|null|
-|**2025-04-16**|**DC-SAM: In-Context Segment Anything in Images and Videos via Dual Consistency**|Mengshi Qi et.al.|[2504.12080v1](http://arxiv.org/abs/2504.12080v1)|null|
+|**2025-04-16**|**DC-SAM: In-Context Segment Anything in Images and Videos via Dual Consistency**|Mengshi Qi et.al.|[2504.12080v2](http://arxiv.org/abs/2504.12080v2)|null|
 |**2025-04-16**|**A Scalable Framework for Post-Quantum Authentication in Public Key Infrastructures**|Antonia Tsili et.al.|[2504.12062v1](http://arxiv.org/abs/2504.12062v1)|null|
 |**2025-04-16**|**Modular-Cam: Modular Dynamic Camera-view Video Generation with LLM**|Zirui Pan et.al.|[2504.12048v1](http://arxiv.org/abs/2504.12048v1)|null|
 |**2025-04-16**|**Understanding Attention Mechanism in Video Diffusion Models**|Bingyan Liu et.al.|[2504.12027v2](http://arxiv.org/abs/2504.12027v2)|null|
