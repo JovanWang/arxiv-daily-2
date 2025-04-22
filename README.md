@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-04-22 20:56:32 Asia/Shanghai
+ Automated deployment @ 2025-04-22 21:22:16 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -79,40 +79,6 @@
 
 ## AI
 
-### LLM Agent
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2025-04-21**|**EvalAgent: Discovering Implicit Evaluation Criteria from the Web**|Manya Wadhwa et.al.|[2504.15219v1](http://arxiv.org/abs/2504.15219v1)|null|
-|**2025-04-21**|**LACE: Controlled Image Prompting and Iterative Refinement with GenAI for Professional Visual Art Creators**|Yenkai Huang et.al.|[2504.15189v1](http://arxiv.org/abs/2504.15189v1)|null|
-|**2025-04-21**|**The Synthetic Imputation Approach: Generating Optimal Synthetic Texts For Underrepresented Categories In Supervised Classification Tasks**|Joan C. Timoneda et.al.|[2504.15160v1](http://arxiv.org/abs/2504.15160v1)|null|
-|**2025-04-21**|**Contemplative Wisdom for Superalignment**|Ruben Laukkonen et.al.|[2504.15125v1](http://arxiv.org/abs/2504.15125v1)|null|
-|**2025-04-21**|**Testing LLMs' Capabilities in Annotating Translations Based on an Error Typology Designed for LSP Translation: First Experiments with ChatGPT**|Joachim Minder et.al.|[2504.15052v1](http://arxiv.org/abs/2504.15052v1)|null|
-|**2025-04-21**|**RainbowPlus: Enhancing Adversarial Prompt Generation via Evolutionary Quality-Diversity Search**|Quy-Anh Dang et.al.|[2504.15047v1](http://arxiv.org/abs/2504.15047v1)|[link](https://github.com/knoveleng/rainbowplus)|
-|**2025-04-21**|**Distribution-aware Forgetting Compensation for Exemplar-Free Lifelong Person Re-identification**|Shiben Liu et.al.|[2504.15041v1](http://arxiv.org/abs/2504.15041v1)|[link](https://github.com/LiuShiBen/DAFC)|
-|**2025-04-21**|**DyST-XL: Dynamic Layout Planning and Content Control for Compositional Text-to-Video Generation**|Weijie He et.al.|[2504.15032v1](http://arxiv.org/abs/2504.15032v1)|null|
-|**2025-04-21**|**LLMs as Data Annotators: How Close Are We to Human Performance**|Muhammad Uzair Ul Haq et.al.|[2504.15022v1](http://arxiv.org/abs/2504.15022v1)|null|
-|**2025-04-21**|**Quasi-thermal Photosphere Emission from Structured Jets of Gamma-Ray Bursts**|Ding-Fang Hu et.al.|[2504.15011v1](http://arxiv.org/abs/2504.15011v1)|null|
-|**2025-04-21**|**Insert Anything: Image Insertion via In-Context Editing in DiT**|Wensong Song et.al.|[2504.15009v1](http://arxiv.org/abs/2504.15009v1)|null|
-|**2025-04-21**|**Learning Compositional Transferability of Time Series for Source-Free Domain Adaptation**|Hankang Sun et.al.|[2504.14994v1](http://arxiv.org/abs/2504.14994v1)|null|
-|**2025-04-21**|**Cyc3D: Fine-grained Controllable 3D Generation via Cycle Consistency Regularization**|Hongbin Xu et.al.|[2504.14975v1](http://arxiv.org/abs/2504.14975v1)|null|
-|**2025-04-21**|**Vector Embedding, Retrieval-Augmented Generation, CPU-NPU Collaboration, Heterogeneous Computing**|Jinqi Huang et.al.|[2504.14941v1](http://arxiv.org/abs/2504.14941v1)|null|
-|**2025-04-21**|**TWIG: Two-Step Image Generation using Segmentation Masks in Diffusion Models**|Mazharul Islam Rakib et.al.|[2504.14933v1](http://arxiv.org/abs/2504.14933v1)|null|
-|**2025-04-21**|**Quantum Curves in the Context of Symplectic Duality**|Alexander Hock et.al.|[2504.14924v1](http://arxiv.org/abs/2504.14924v1)|null|
-|**2025-04-21**|**GenCLIP: Generalizing CLIP Prompts for Zero-shot Anomaly Detection**|Donghyeong Kim et.al.|[2504.14919v1](http://arxiv.org/abs/2504.14919v1)|null|
-|**2025-04-21**|**Twin Co-Adaptive Dialogue for Progressive Image Generation**|Jianhui Wang et.al.|[2504.14868v1](http://arxiv.org/abs/2504.14868v1)|null|
-|**2025-04-21**|**Enhancing the Patent Matching Capability of Large Language Models via the Memory Graph**|Qiushi Xiong et.al.|[2504.14845v1](http://arxiv.org/abs/2504.14845v1)|[link](https://github.com/neuir/memgraph)|
-|**2025-04-21**|**LACE: Exploring Turn-Taking and Parallel Interaction Modes in Human-AI Co-Creation for Iterative Image Generation**|YenKai Huang et.al.|[2504.14827v1](http://arxiv.org/abs/2504.14827v1)|null|
-|**2025-04-21**|**What Lurks Within? Concept Auditing for Shared Diffusion Models at Scale**|Xiaoyong Yuan et.al.|[2504.14815v1](http://arxiv.org/abs/2504.14815v1)|null|
-|**2025-04-21**|**ADL: A Declarative Language for Agent-Based Chatbots**|Sirui Zeng et.al.|[2504.14787v1](http://arxiv.org/abs/2504.14787v1)|null|
-|**2025-04-21**|**When Cloud Removal Meets Diffusion Model in Remote Sensing**|Zhenyu Yu et.al.|[2504.14785v1](http://arxiv.org/abs/2504.14785v1)|null|
-|**2025-04-20**|**Steering Semantic Data Processing With DocWrangler**|Shreya Shankar et.al.|[2504.14764v1](http://arxiv.org/abs/2504.14764v1)|null|
-|**2025-04-20**|**PROMPTEVALS: A Dataset of Assertions and Guardrails for Custom Production Large Language Model Pipelines**|Reya Vir et.al.|[2504.14738v1](http://arxiv.org/abs/2504.14738v1)|null|
-|**2025-04-20**|**EmoSEM: Segment and Explain Emotion Stimuli in Visual Art**|Jing Zhang et.al.|[2504.14658v1](http://arxiv.org/abs/2504.14658v1)|null|
-|**2025-04-20**|**HLSTester: Efficient Testing of Behavioral Discrepancies with LLMs for High-Level Synthesis**|Kangwei Xu et.al.|[2504.14641v1](http://arxiv.org/abs/2504.14641v1)|null|
-|**2025-04-20**|**NVSMask3D: Hard Visual Prompting with Camera Pose Interpolation for 3D Open Vocabulary Instance Segmentation**|Junyuan Fang et.al.|[2504.14638v1](http://arxiv.org/abs/2504.14638v1)|null|
-|**2025-04-20**|**Talk is Not Always Cheap: Promoting Wireless Sensing Models with Text Prompts**|Zhenkui Yang et.al.|[2504.14621v1](http://arxiv.org/abs/2504.14621v1)|[link](https://github.com/yangzhenkui/witalk)|
-|**2025-04-20**|**A Hierarchical Framework for Measuring Scientific Paper Innovation via Large Language Models**|Hongming Tan et.al.|[2504.14620v1](http://arxiv.org/abs/2504.14620v1)|null|
-
 ### LLM Theory
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -146,6 +112,40 @@
 |**2025-04-21**|**Symmetry-Preserving Architecture for Multi-NUMA Environments (SPANE): A Deep Reinforcement Learning Approach for Dynamic VM Scheduling**|Tin Ping Chan et.al.|[2504.14946v1](http://arxiv.org/abs/2504.14946v1)|null|
 |**2025-04-21**|**Vector Embedding, Retrieval-Augmented Generation, CPU-NPU Collaboration, Heterogeneous Computing**|Jinqi Huang et.al.|[2504.14941v1](http://arxiv.org/abs/2504.14941v1)|null|
 |**2025-04-21**|**Metamorphic quantum dot arrays in twisted trilayer hexagonal boron nitride**|Kunihiro Yananose et.al.|[2504.14925v1](http://arxiv.org/abs/2504.14925v1)|null|
+
+### LLM Agent
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2025-04-21**|**EvalAgent: Discovering Implicit Evaluation Criteria from the Web**|Manya Wadhwa et.al.|[2504.15219v1](http://arxiv.org/abs/2504.15219v1)|null|
+|**2025-04-21**|**LACE: Controlled Image Prompting and Iterative Refinement with GenAI for Professional Visual Art Creators**|Yenkai Huang et.al.|[2504.15189v1](http://arxiv.org/abs/2504.15189v1)|null|
+|**2025-04-21**|**The Synthetic Imputation Approach: Generating Optimal Synthetic Texts For Underrepresented Categories In Supervised Classification Tasks**|Joan C. Timoneda et.al.|[2504.15160v1](http://arxiv.org/abs/2504.15160v1)|null|
+|**2025-04-21**|**Contemplative Wisdom for Superalignment**|Ruben Laukkonen et.al.|[2504.15125v1](http://arxiv.org/abs/2504.15125v1)|null|
+|**2025-04-21**|**Testing LLMs' Capabilities in Annotating Translations Based on an Error Typology Designed for LSP Translation: First Experiments with ChatGPT**|Joachim Minder et.al.|[2504.15052v1](http://arxiv.org/abs/2504.15052v1)|null|
+|**2025-04-21**|**RainbowPlus: Enhancing Adversarial Prompt Generation via Evolutionary Quality-Diversity Search**|Quy-Anh Dang et.al.|[2504.15047v1](http://arxiv.org/abs/2504.15047v1)|[link](https://github.com/knoveleng/rainbowplus)|
+|**2025-04-21**|**Distribution-aware Forgetting Compensation for Exemplar-Free Lifelong Person Re-identification**|Shiben Liu et.al.|[2504.15041v1](http://arxiv.org/abs/2504.15041v1)|[link](https://github.com/LiuShiBen/DAFC)|
+|**2025-04-21**|**DyST-XL: Dynamic Layout Planning and Content Control for Compositional Text-to-Video Generation**|Weijie He et.al.|[2504.15032v1](http://arxiv.org/abs/2504.15032v1)|null|
+|**2025-04-21**|**LLMs as Data Annotators: How Close Are We to Human Performance**|Muhammad Uzair Ul Haq et.al.|[2504.15022v1](http://arxiv.org/abs/2504.15022v1)|null|
+|**2025-04-21**|**Quasi-thermal Photosphere Emission from Structured Jets of Gamma-Ray Bursts**|Ding-Fang Hu et.al.|[2504.15011v1](http://arxiv.org/abs/2504.15011v1)|null|
+|**2025-04-21**|**Insert Anything: Image Insertion via In-Context Editing in DiT**|Wensong Song et.al.|[2504.15009v1](http://arxiv.org/abs/2504.15009v1)|null|
+|**2025-04-21**|**Learning Compositional Transferability of Time Series for Source-Free Domain Adaptation**|Hankang Sun et.al.|[2504.14994v1](http://arxiv.org/abs/2504.14994v1)|null|
+|**2025-04-21**|**Cyc3D: Fine-grained Controllable 3D Generation via Cycle Consistency Regularization**|Hongbin Xu et.al.|[2504.14975v1](http://arxiv.org/abs/2504.14975v1)|null|
+|**2025-04-21**|**Vector Embedding, Retrieval-Augmented Generation, CPU-NPU Collaboration, Heterogeneous Computing**|Jinqi Huang et.al.|[2504.14941v1](http://arxiv.org/abs/2504.14941v1)|null|
+|**2025-04-21**|**TWIG: Two-Step Image Generation using Segmentation Masks in Diffusion Models**|Mazharul Islam Rakib et.al.|[2504.14933v1](http://arxiv.org/abs/2504.14933v1)|null|
+|**2025-04-21**|**Quantum Curves in the Context of Symplectic Duality**|Alexander Hock et.al.|[2504.14924v1](http://arxiv.org/abs/2504.14924v1)|null|
+|**2025-04-21**|**GenCLIP: Generalizing CLIP Prompts for Zero-shot Anomaly Detection**|Donghyeong Kim et.al.|[2504.14919v1](http://arxiv.org/abs/2504.14919v1)|null|
+|**2025-04-21**|**Twin Co-Adaptive Dialogue for Progressive Image Generation**|Jianhui Wang et.al.|[2504.14868v1](http://arxiv.org/abs/2504.14868v1)|null|
+|**2025-04-21**|**Enhancing the Patent Matching Capability of Large Language Models via the Memory Graph**|Qiushi Xiong et.al.|[2504.14845v1](http://arxiv.org/abs/2504.14845v1)|[link](https://github.com/neuir/memgraph)|
+|**2025-04-21**|**LACE: Exploring Turn-Taking and Parallel Interaction Modes in Human-AI Co-Creation for Iterative Image Generation**|YenKai Huang et.al.|[2504.14827v1](http://arxiv.org/abs/2504.14827v1)|null|
+|**2025-04-21**|**What Lurks Within? Concept Auditing for Shared Diffusion Models at Scale**|Xiaoyong Yuan et.al.|[2504.14815v1](http://arxiv.org/abs/2504.14815v1)|null|
+|**2025-04-21**|**ADL: A Declarative Language for Agent-Based Chatbots**|Sirui Zeng et.al.|[2504.14787v1](http://arxiv.org/abs/2504.14787v1)|null|
+|**2025-04-21**|**When Cloud Removal Meets Diffusion Model in Remote Sensing**|Zhenyu Yu et.al.|[2504.14785v1](http://arxiv.org/abs/2504.14785v1)|null|
+|**2025-04-20**|**Steering Semantic Data Processing With DocWrangler**|Shreya Shankar et.al.|[2504.14764v1](http://arxiv.org/abs/2504.14764v1)|null|
+|**2025-04-20**|**PROMPTEVALS: A Dataset of Assertions and Guardrails for Custom Production Large Language Model Pipelines**|Reya Vir et.al.|[2504.14738v1](http://arxiv.org/abs/2504.14738v1)|null|
+|**2025-04-20**|**EmoSEM: Segment and Explain Emotion Stimuli in Visual Art**|Jing Zhang et.al.|[2504.14658v1](http://arxiv.org/abs/2504.14658v1)|null|
+|**2025-04-20**|**HLSTester: Efficient Testing of Behavioral Discrepancies with LLMs for High-Level Synthesis**|Kangwei Xu et.al.|[2504.14641v1](http://arxiv.org/abs/2504.14641v1)|null|
+|**2025-04-20**|**NVSMask3D: Hard Visual Prompting with Camera Pose Interpolation for 3D Open Vocabulary Instance Segmentation**|Junyuan Fang et.al.|[2504.14638v1](http://arxiv.org/abs/2504.14638v1)|null|
+|**2025-04-20**|**Talk is Not Always Cheap: Promoting Wireless Sensing Models with Text Prompts**|Zhenkui Yang et.al.|[2504.14621v1](http://arxiv.org/abs/2504.14621v1)|[link](https://github.com/yangzhenkui/witalk)|
+|**2025-04-20**|**A Hierarchical Framework for Measuring Scientific Paper Innovation via Large Language Models**|Hongming Tan et.al.|[2504.14620v1](http://arxiv.org/abs/2504.14620v1)|null|
 
 ## Code Compile
 
