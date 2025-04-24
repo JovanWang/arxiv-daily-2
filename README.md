@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-04-24 20:16:11 Asia/Shanghai
+ Automated deployment @ 2025-04-24 20:58:09 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -8,40 +8,6 @@
 ### Sparse Operator
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-
-### Sparse program Compile
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2025-04-23**|**Generalized Neighborhood Attention: Multi-dimensional Sparse Attention at the Speed of Light**|Ali Hassani et.al.|[2504.16922v1](http://arxiv.org/abs/2504.16922v1)|null|
-|**2025-04-23**|**Quantum circuits for simulating linear interferometers**|Hudson Leone et.al.|[2504.16880v1](http://arxiv.org/abs/2504.16880v1)|null|
-|**2025-04-23**|**On graphs with a simple structure of maximal cliques**|J. Pascal Gollin et.al.|[2504.16863v1](http://arxiv.org/abs/2504.16863v1)|null|
-|**2025-04-23**|**Random Long-Context Access for Mamba via Hardware-aligned Hierarchical Sparse Attention**|Xiang Hu et.al.|[2504.16795v1](http://arxiv.org/abs/2504.16795v1)|null|
-|**2025-04-23**|**Online model learning with data-assimilated reservoir computers**|Andrea Nóvoa et.al.|[2504.16767v1](http://arxiv.org/abs/2504.16767v1)|null|
-|**2025-04-23**|**PMG: Progressive Motion Generation via Sparse Anchor Postures Curriculum Learning**|Yingjie Xi et.al.|[2504.16722v1](http://arxiv.org/abs/2504.16722v1)|null|
-|**2025-04-23**|**A Novel Sparse Sum and Difference Co-Array With Low Redundancy and Enhanced DOF for Non-Circular Signals**|Si Wang et.al.|[2504.16675v1](http://arxiv.org/abs/2504.16675v1)|null|
-|**2025-04-23**|**Security Science (SecSci), Basic Concepts and Mathematical Foundations**|Dusko Pavlovic et.al.|[2504.16617v1](http://arxiv.org/abs/2504.16617v1)|null|
-|**2025-04-23**|**MMHCL: Multi-Modal Hypergraph Contrastive Learning for Recommendation**|Xu Guo et.al.|[2504.16576v1](http://arxiv.org/abs/2504.16576v1)|null|
-|**2025-04-23**|**DTVM: Revolutionizing Smart Contract Execution with Determinism and Compatibility**|Wei Zhou et.al.|[2504.16552v1](http://arxiv.org/abs/2504.16552v1)|null|
-|**2025-04-23**|**ToF-Splatting: Dense SLAM using Sparse Time-of-Flight Depth and Multi-Frame Integration**|Andrea Conti et.al.|[2504.16545v1](http://arxiv.org/abs/2504.16545v1)|null|
-|**2025-04-23**|**Self-organized fractal architectures driven by motility-dependent chemotactic feedback**|Subhashree Subhrasmita Khuntia et.al.|[2504.16539v1](http://arxiv.org/abs/2504.16539v1)|null|
-|**2025-04-23**|**Cross Paradigm Representation and Alignment Transformer for Image Deraining**|Shun Zou et.al.|[2504.16455v1](http://arxiv.org/abs/2504.16455v1)|null|
-|**2025-04-23**|**Mumott -- a Python package for the analysis of multi-modal tensor tomography data**|Leonard C. Nielsen et.al.|[2504.16446v1](http://arxiv.org/abs/2504.16446v1)|null|
-|**2025-04-23**|**Toward a Principled Workflow for Prevalence Mapping Using Household Survey Data**|Qianyu Dong et.al.|[2504.16435v1](http://arxiv.org/abs/2504.16435v1)|null|
-|**2025-04-23**|**Scalable Data-Driven Basis Selection for Linear Machine Learning Interatomic Potentials**|Tina Torabi et.al.|[2504.16418v1](http://arxiv.org/abs/2504.16418v1)|null|
-|**2025-04-22**|**Schelling segregation dynamics in densely-connected social network graphs**|Sage Anastasi et.al.|[2504.16307v1](http://arxiv.org/abs/2504.16307v1)|null|
-|**2025-04-22**|**Flexion: Adaptive In-Situ Encoding for On-Demand QEC in Ion Trap Systems**|Keyi Yin et.al.|[2504.16303v1](http://arxiv.org/abs/2504.16303v1)|null|
-|**2025-04-22**|**Learning Explainable Dense Reward Shapes via Bayesian Optimization**|Ryan Koo et.al.|[2504.16272v1](http://arxiv.org/abs/2504.16272v1)|null|
-|**2025-04-22**|**Boosting Classifier Performance with Opposition-Based Data Transformation**|Abdesslem Layeb et.al.|[2504.16268v1](http://arxiv.org/abs/2504.16268v1)|null|
-|**2025-04-22**|**CLIRudit: Cross-Lingual Information Retrieval of Scientific Documents**|Francisco Valentini et.al.|[2504.16264v1](http://arxiv.org/abs/2504.16264v1)|null|
-|**2025-04-22**|**A sparse periodic family in the cohomology of the $\mathbb{C}$-motivic Steenrod algebra**|Daniel C. Isaksen et.al.|[2504.16220v1](http://arxiv.org/abs/2504.16220v1)|null|
-|**2025-04-22**|**ReGraph: A Tool for Binary Similarity Identification**|Li Zhou et.al.|[2504.16219v1](http://arxiv.org/abs/2504.16219v1)|null|
-|**2025-04-22**|**Hexcute: A Tile-based Programming Language with Automatic Layout and Task-Mapping Synthesis**|Xiao Zhang et.al.|[2504.16214v1](http://arxiv.org/abs/2504.16214v1)|null|
-|**2025-04-22**|**A detection-task-specific deep-learning method to improve the quality of sparse-view myocardial perfusion SPECT images**|Zezhang Yang et.al.|[2504.16171v1](http://arxiv.org/abs/2504.16171v1)|null|
-|**2025-04-22**|**Exploring the Neptunian Desert: Insights from a Homogeneous Planetary Sample**|Lauren Doyle et.al.|[2504.16164v1](http://arxiv.org/abs/2504.16164v1)|null|
-|**2025-04-22**|**MMInference: Accelerating Pre-filling for Long-Context VLMs via Modality-Aware Permutation Sparse Attention**|Yucheng Li et.al.|[2504.16083v1](http://arxiv.org/abs/2504.16083v1)|null|
-|**2025-04-22**|**Intent-aware Diffusion with Contrastive Learning for Sequential Recommendation**|Yuanpeng Qu et.al.|[2504.16077v1](http://arxiv.org/abs/2504.16077v1)|null|
-|**2025-04-22**|**High-performance training and inference for deep equivariant interatomic potentials**|Chuin Wei Tan et.al.|[2504.16068v1](http://arxiv.org/abs/2504.16068v1)|null|
-|**2025-04-22**|**ViSMaP: Unsupervised Hour-long Video Summarisation by Meta-Prompting**|Jian Hu et.al.|[2504.15921v1](http://arxiv.org/abs/2504.15921v1)|null|
 
 ### Sparse Data Format
 |Publish Date|Title|Authors|PDF|Code|
@@ -76,6 +42,40 @@
 |**2025-04-23**|**Toward a Principled Workflow for Prevalence Mapping Using Household Survey Data**|Qianyu Dong et.al.|[2504.16435v1](http://arxiv.org/abs/2504.16435v1)|null|
 |**2025-04-23**|**Complex tridiagonal quantum Hamiltonians and matrix continued fractions**|Miloslav Znojil et.al.|[2504.16424v1](http://arxiv.org/abs/2504.16424v1)|null|
 |**2025-04-23**|**Scalable Data-Driven Basis Selection for Linear Machine Learning Interatomic Potentials**|Tina Torabi et.al.|[2504.16418v1](http://arxiv.org/abs/2504.16418v1)|null|
+
+### Sparse program Compile
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2025-04-23**|**Generalized Neighborhood Attention: Multi-dimensional Sparse Attention at the Speed of Light**|Ali Hassani et.al.|[2504.16922v1](http://arxiv.org/abs/2504.16922v1)|null|
+|**2025-04-23**|**Quantum circuits for simulating linear interferometers**|Hudson Leone et.al.|[2504.16880v1](http://arxiv.org/abs/2504.16880v1)|null|
+|**2025-04-23**|**On graphs with a simple structure of maximal cliques**|J. Pascal Gollin et.al.|[2504.16863v1](http://arxiv.org/abs/2504.16863v1)|null|
+|**2025-04-23**|**Random Long-Context Access for Mamba via Hardware-aligned Hierarchical Sparse Attention**|Xiang Hu et.al.|[2504.16795v1](http://arxiv.org/abs/2504.16795v1)|null|
+|**2025-04-23**|**Online model learning with data-assimilated reservoir computers**|Andrea Nóvoa et.al.|[2504.16767v1](http://arxiv.org/abs/2504.16767v1)|null|
+|**2025-04-23**|**PMG: Progressive Motion Generation via Sparse Anchor Postures Curriculum Learning**|Yingjie Xi et.al.|[2504.16722v1](http://arxiv.org/abs/2504.16722v1)|null|
+|**2025-04-23**|**A Novel Sparse Sum and Difference Co-Array With Low Redundancy and Enhanced DOF for Non-Circular Signals**|Si Wang et.al.|[2504.16675v1](http://arxiv.org/abs/2504.16675v1)|null|
+|**2025-04-23**|**Security Science (SecSci), Basic Concepts and Mathematical Foundations**|Dusko Pavlovic et.al.|[2504.16617v1](http://arxiv.org/abs/2504.16617v1)|null|
+|**2025-04-23**|**MMHCL: Multi-Modal Hypergraph Contrastive Learning for Recommendation**|Xu Guo et.al.|[2504.16576v1](http://arxiv.org/abs/2504.16576v1)|null|
+|**2025-04-23**|**DTVM: Revolutionizing Smart Contract Execution with Determinism and Compatibility**|Wei Zhou et.al.|[2504.16552v1](http://arxiv.org/abs/2504.16552v1)|null|
+|**2025-04-23**|**ToF-Splatting: Dense SLAM using Sparse Time-of-Flight Depth and Multi-Frame Integration**|Andrea Conti et.al.|[2504.16545v1](http://arxiv.org/abs/2504.16545v1)|null|
+|**2025-04-23**|**Self-organized fractal architectures driven by motility-dependent chemotactic feedback**|Subhashree Subhrasmita Khuntia et.al.|[2504.16539v1](http://arxiv.org/abs/2504.16539v1)|null|
+|**2025-04-23**|**Cross Paradigm Representation and Alignment Transformer for Image Deraining**|Shun Zou et.al.|[2504.16455v1](http://arxiv.org/abs/2504.16455v1)|null|
+|**2025-04-23**|**Mumott -- a Python package for the analysis of multi-modal tensor tomography data**|Leonard C. Nielsen et.al.|[2504.16446v1](http://arxiv.org/abs/2504.16446v1)|null|
+|**2025-04-23**|**Toward a Principled Workflow for Prevalence Mapping Using Household Survey Data**|Qianyu Dong et.al.|[2504.16435v1](http://arxiv.org/abs/2504.16435v1)|null|
+|**2025-04-23**|**Scalable Data-Driven Basis Selection for Linear Machine Learning Interatomic Potentials**|Tina Torabi et.al.|[2504.16418v1](http://arxiv.org/abs/2504.16418v1)|null|
+|**2025-04-22**|**Schelling segregation dynamics in densely-connected social network graphs**|Sage Anastasi et.al.|[2504.16307v1](http://arxiv.org/abs/2504.16307v1)|null|
+|**2025-04-22**|**Flexion: Adaptive In-Situ Encoding for On-Demand QEC in Ion Trap Systems**|Keyi Yin et.al.|[2504.16303v1](http://arxiv.org/abs/2504.16303v1)|null|
+|**2025-04-22**|**Learning Explainable Dense Reward Shapes via Bayesian Optimization**|Ryan Koo et.al.|[2504.16272v1](http://arxiv.org/abs/2504.16272v1)|null|
+|**2025-04-22**|**Boosting Classifier Performance with Opposition-Based Data Transformation**|Abdesslem Layeb et.al.|[2504.16268v1](http://arxiv.org/abs/2504.16268v1)|null|
+|**2025-04-22**|**CLIRudit: Cross-Lingual Information Retrieval of Scientific Documents**|Francisco Valentini et.al.|[2504.16264v1](http://arxiv.org/abs/2504.16264v1)|null|
+|**2025-04-22**|**A sparse periodic family in the cohomology of the $\mathbb{C}$-motivic Steenrod algebra**|Daniel C. Isaksen et.al.|[2504.16220v1](http://arxiv.org/abs/2504.16220v1)|null|
+|**2025-04-22**|**ReGraph: A Tool for Binary Similarity Identification**|Li Zhou et.al.|[2504.16219v1](http://arxiv.org/abs/2504.16219v1)|null|
+|**2025-04-22**|**Hexcute: A Tile-based Programming Language with Automatic Layout and Task-Mapping Synthesis**|Xiao Zhang et.al.|[2504.16214v1](http://arxiv.org/abs/2504.16214v1)|null|
+|**2025-04-22**|**A detection-task-specific deep-learning method to improve the quality of sparse-view myocardial perfusion SPECT images**|Zezhang Yang et.al.|[2504.16171v1](http://arxiv.org/abs/2504.16171v1)|null|
+|**2025-04-22**|**Exploring the Neptunian Desert: Insights from a Homogeneous Planetary Sample**|Lauren Doyle et.al.|[2504.16164v1](http://arxiv.org/abs/2504.16164v1)|null|
+|**2025-04-22**|**MMInference: Accelerating Pre-filling for Long-Context VLMs via Modality-Aware Permutation Sparse Attention**|Yucheng Li et.al.|[2504.16083v1](http://arxiv.org/abs/2504.16083v1)|null|
+|**2025-04-22**|**Intent-aware Diffusion with Contrastive Learning for Sequential Recommendation**|Yuanpeng Qu et.al.|[2504.16077v1](http://arxiv.org/abs/2504.16077v1)|null|
+|**2025-04-22**|**High-performance training and inference for deep equivariant interatomic potentials**|Chuin Wei Tan et.al.|[2504.16068v1](http://arxiv.org/abs/2504.16068v1)|null|
+|**2025-04-22**|**ViSMaP: Unsupervised Hour-long Video Summarisation by Meta-Prompting**|Jian Hu et.al.|[2504.15921v1](http://arxiv.org/abs/2504.15921v1)|null|
 
 ## AI
 
