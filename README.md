@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-05-05 20:58:30 Asia/Shanghai
+ Automated deployment @ 2025-05-05 21:26:17 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -8,40 +8,6 @@
 ### Sparse Operator
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-
-### Sparse Data Format
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2025-05-02**|**QCMaquis 4.0: Multi-Purpose Electronic, Vibrational, and Vibronic Structure and Dynamics Calculations with the Density Matrix Renormalization Group**|Kalman Szenes et.al.|[2505.01405v1](http://arxiv.org/abs/2505.01405v1)|null|
-|**2025-05-02**|**Phase-field modeling of elastic microphase separation**|Hamza Oudich et.al.|[2505.01389v1](http://arxiv.org/abs/2505.01389v1)|null|
-|**2025-05-02**|**Design-Based Inference under Random Potential Outcomes via Riesz Representation**|Yukai Yang et.al.|[2505.01324v1](http://arxiv.org/abs/2505.01324v1)|[link](https://github.com/yukai-yang/RieszRE_Experiments)|
-|**2025-05-02**|**Modeling Large Nonstationary Spatial Data with the Full-Scale Basis Graphical Lasso**|Matthew LeDuc et.al.|[2505.01318v1](http://arxiv.org/abs/2505.01318v1)|null|
-|**2025-05-02**|**Model-free identification in ill-posed regression**|Gianluca Finocchio et.al.|[2505.01297v1](http://arxiv.org/abs/2505.01297v1)|null|
-|**2025-05-02**|**Deblurring fission fragment mass distributions**|Pierre Nzabahimana et.al.|[2505.01294v1](http://arxiv.org/abs/2505.01294v1)|null|
-|**2025-05-02**|**Modelling Financial Market Imperfection Using Open Quantum Systems**|Will Hicks et.al.|[2505.01284v1](http://arxiv.org/abs/2505.01284v1)|null|
-|**2025-05-02**|**A CFL-type Condition and Theoretical Insights for Discrete-Time Sparse Full-Order Model Inference**|Leonidas Gkimisis et.al.|[2505.01244v1](http://arxiv.org/abs/2505.01244v1)|null|
-|**2025-05-02**|**Constructive solution of the common invariant cone problem**|Thomas Mejstrik et.al.|[2505.01229v1](http://arxiv.org/abs/2505.01229v1)|null|
-|**2025-05-02**|**One Target, Many Views: Multi-User Fusion for Collaborative Uplink ISAC**|Sajad Daei et.al.|[2505.01223v1](http://arxiv.org/abs/2505.01223v1)|null|
-|**2025-05-02**|**T-Graph: Enhancing Sparse-view Camera Pose Estimation by Pairwise Translation Graph**|Qingyu Xian et.al.|[2505.01207v1](http://arxiv.org/abs/2505.01207v1)|null|
-|**2025-05-02**|**Principal Non-singularity of Fourier Matrices on $\mathbb Z_p \times \mathbb Z_q$ and $\mathbb Z_2^k \times \mathbb Z_q$**|Weiqi Zhou et.al.|[2505.01189v1](http://arxiv.org/abs/2505.01189v1)|null|
-|**2025-05-02**|**Screening Cut Generation for Sparse Ridge Regression**|Haozhe Tan et.al.|[2505.01082v1](http://arxiv.org/abs/2505.01082v1)|null|
-|**2025-05-02**|**GeloVec: Higher Dimensional Geometric Smoothing for Coherent Visual Feature Extraction in Image Segmentation**|Boris Kriuk et.al.|[2505.01057v1](http://arxiv.org/abs/2505.01057v1)|null|
-|**2025-05-02**|**Quantum Simulations Based on Parameterized Circuit of an Antisymmetric Matrix**|Ammar Daskin et.al.|[2505.01023v1](http://arxiv.org/abs/2505.01023v1)|null|
-|**2025-05-02**|**Enhancing Realism in Holographic Augmented Reality Displays through Occlusion Handling**|Woongseob Han et.al.|[2505.00942v1](http://arxiv.org/abs/2505.00942v1)|null|
-|**2025-05-01**|**Neural Networks Enabled Discovery On the Higher-Order Nonlinear Partial Differential Equation of Traffic Dynamics**|Zihang Wei et.al.|[2505.00904v1](http://arxiv.org/abs/2505.00904v1)|null|
-|**2025-05-01**|**Experimental Proposal on Non-Abelian Aharonov-Bohm Caging Effect with a Single Trapped Ion**|Zhiyuan Liu et.al.|[2505.00899v1](http://arxiv.org/abs/2505.00899v1)|null|
-|**2025-05-01**|**HD 35843: A Sun-like star hosting a long period sub-Neptune and inner super-Earth**|Katharine Hesse et.al.|[2505.00898v1](http://arxiv.org/abs/2505.00898v1)|null|
-|**2025-05-01**|**Physics-Informed Neural Network-Driven Sparse Field Discretization Method for Near-Field Acoustic Holography**|Xinmeng Luan et.al.|[2505.00897v1](http://arxiv.org/abs/2505.00897v1)|null|
-|**2025-05-01**|**Drilling into Erasmus learning mobility flows between countries 2014-2024**|Vladimir Batagelj et.al.|[2505.00889v1](http://arxiv.org/abs/2505.00889v1)|null|
-|**2025-05-01**|**Exact closed-form expression for unitary spin-adapted fermionic singlet double excitation operators**|Erik Rosendahl Kjellgren et.al.|[2505.00883v1](http://arxiv.org/abs/2505.00883v1)|null|
-|**2025-05-01**|**IK Seed Generator for Dual-Arm Human-like Physicality Robot with Mobile Base**|Jun Takamatsu et.al.|[2505.00871v1](http://arxiv.org/abs/2505.00871v1)|null|
-|**2025-05-01**|**On the emergence of numerical instabilities in Next Generation Reservoir Computing**|Edmilson Roque dos Santos et.al.|[2505.00846v1](http://arxiv.org/abs/2505.00846v1)|null|
-|**2025-05-01**|**Fault-Tolerant Multi-Modal Localization of Multi-Robots on Matrix Lie Groups**|Mahboubeh Zarei et.al.|[2505.00842v1](http://arxiv.org/abs/2505.00842v1)|null|
-|**2025-05-01**|**Improving Routing in Sparse Mixture of Experts with Graph of Tokens**|Tam Nguyen et.al.|[2505.00792v1](http://arxiv.org/abs/2505.00792v1)|null|
-|**2025-05-01**|**Risk-minimizing states for the quantum-phase-estimation algorithm**|Joseph G. Smith et.al.|[2505.00764v1](http://arxiv.org/abs/2505.00764v1)|null|
-|**2025-05-01**|**Polynomial and rational matrices with the invariant rational functions and the four sequences of minimal indices prescribed**|Itziar Baragaña et.al.|[2505.00699v1](http://arxiv.org/abs/2505.00699v1)|null|
-|**2025-05-01**|**Key exchange protocol based on circulant matrix action over congruence-simple semiring**|Alvaro Otero Sanchez et.al.|[2505.00664v1](http://arxiv.org/abs/2505.00664v1)|null|
-|**2025-05-01**|**Forward kinematics of a general Stewart-Gough platform by elimination templates**|Evgeniy Martyushev et.al.|[2505.00634v1](http://arxiv.org/abs/2505.00634v1)|[link](https://github.com/martyushev/fkSGP)|
 
 ### Sparse program Compile
 |Publish Date|Title|Authors|PDF|Code|
@@ -77,41 +43,41 @@
 |**2025-05-01**|**Beyond Quadratic Costs: A Bregman Divergence Approach to H$_\infty$ Control**|Joudi Hajar et.al.|[2505.00319v1](http://arxiv.org/abs/2505.00319v1)|null|
 |**2025-05-01**|**Beyond Quadratic Costs in LQR: Bregman Divergence Control**|Babak Hassibi et.al.|[2505.00317v1](http://arxiv.org/abs/2505.00317v1)|null|
 
-## AI
-
-### LLM Agent
+### Sparse Data Format
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2025-05-02**|**Helping Big Language Models Protect Themselves: An Enhanced Filtering and Summarization System**|Sheikh Samit Muhaimin et.al.|[2505.01315v1](http://arxiv.org/abs/2505.01315v1)|null|
+|**2025-05-02**|**QCMaquis 4.0: Multi-Purpose Electronic, Vibrational, and Vibronic Structure and Dynamics Calculations with the Density Matrix Renormalization Group**|Kalman Szenes et.al.|[2505.01405v1](http://arxiv.org/abs/2505.01405v1)|null|
+|**2025-05-02**|**Phase-field modeling of elastic microphase separation**|Hamza Oudich et.al.|[2505.01389v1](http://arxiv.org/abs/2505.01389v1)|null|
+|**2025-05-02**|**Design-Based Inference under Random Potential Outcomes via Riesz Representation**|Yukai Yang et.al.|[2505.01324v1](http://arxiv.org/abs/2505.01324v1)|[link](https://github.com/yukai-yang/RieszRE_Experiments)|
+|**2025-05-02**|**Modeling Large Nonstationary Spatial Data with the Full-Scale Basis Graphical Lasso**|Matthew LeDuc et.al.|[2505.01318v1](http://arxiv.org/abs/2505.01318v1)|null|
+|**2025-05-02**|**Model-free identification in ill-posed regression**|Gianluca Finocchio et.al.|[2505.01297v1](http://arxiv.org/abs/2505.01297v1)|null|
 |**2025-05-02**|**Deblurring fission fragment mass distributions**|Pierre Nzabahimana et.al.|[2505.01294v1](http://arxiv.org/abs/2505.01294v1)|null|
-|**2025-05-02**|**TSTMotion: Training-free Scene-awarenText-to-motion Generation**|Ziyan Guo et.al.|[2505.01182v1](http://arxiv.org/abs/2505.01182v1)|null|
-|**2025-05-02**|**On the Limitations of Steering in Language Model Alignment**|Chebrolu Niranjan et.al.|[2505.01162v1](http://arxiv.org/abs/2505.01162v1)|null|
-|**2025-05-02**|**Methodological Foundations for AI-Driven Survey Question Generation**|Ted K. Mburu et.al.|[2505.01150v1](http://arxiv.org/abs/2505.01150v1)|null|
-|**2025-05-02**|**VSC: Visual Search Compositional Text-to-Image Diffusion Model**|Do Huu Dat et.al.|[2505.01104v1](http://arxiv.org/abs/2505.01104v1)|null|
-|**2025-05-02**|**Improving Editability in Image Generation with Layer-wise Memory**|Daneul Kim et.al.|[2505.01079v1](http://arxiv.org/abs/2505.01079v1)|null|
-|**2025-05-02**|**Zero-Shot Document-Level Biomedical Relation Extraction via Scenario-based Prompt Design in Two-Stage with LLM**|Lei Zhao et.al.|[2505.01077v1](http://arxiv.org/abs/2505.01077v1)|null|
-|**2025-05-02**|**Good News for Script Kiddies? Evaluating Large Language Models for Automated Exploit Generation**|David Jin et.al.|[2505.01065v1](http://arxiv.org/abs/2505.01065v1)|null|
-|**2025-05-02**|**Attack and defense techniques in large language models: A survey and new perspectives**|Zhiyu Liao et.al.|[2505.00976v1](http://arxiv.org/abs/2505.00976v1)|null|
-|**2025-05-01**|**OET: Optimization-based prompt injection Evaluation Toolkit**|Jinsheng Pan et.al.|[2505.00843v1](http://arxiv.org/abs/2505.00843v1)|null|
-|**2025-05-01**|**MIMIC-\RNum{4}-Ext-22MCTS: A 22 Millions-Event Temporal Clinical Time-Series Dataset with Relative Timestamp for Risk Prediction**|Jing Wang et.al.|[2505.00827v1](http://arxiv.org/abs/2505.00827v1)|null|
-|**2025-05-01**|**Reasoning Capabilities and Invariability of Large Language Models**|Alessandro Raganato et.al.|[2505.00776v1](http://arxiv.org/abs/2505.00776v1)|null|
-|**2025-05-01**|**T2I-R1: Reinforcing Image Generation with Collaborative Semantic-level and Token-level CoT**|Dongzhi Jiang et.al.|[2505.00703v1](http://arxiv.org/abs/2505.00703v1)|null|
-|**2025-05-01**|**Multi-Modal Language Models as Text-to-Image Model Evaluators**|Jiahui Chen et.al.|[2505.00759v1](http://arxiv.org/abs/2505.00759v1)|null|
-|**2025-05-01**|**Steering Large Language Models with Register Analysis for Arbitrary Style Transfer**|Xinchen Yang et.al.|[2505.00679v1](http://arxiv.org/abs/2505.00679v1)|null|
-|**2025-05-01**|**Open-Source LLM-Driven Federated Transformer for Predictive IoV Management**|Yazan Otoum et.al.|[2505.00651v1](http://arxiv.org/abs/2505.00651v1)|null|
-|**2025-05-01**|**The Illusion of Role Separation: Hidden Shortcuts in LLM Role Learning (and How to Fix Them)**|Zihao Wang et.al.|[2505.00626v1](http://arxiv.org/abs/2505.00626v1)|null|
-|**2025-05-01**|**Triggering Hallucinations in LLMs: A Quantitative Study of Prompt-Induced Hallucination in Large Language Models**|Makoto Sato et.al.|[2505.00557v1](http://arxiv.org/abs/2505.00557v1)|null|
-|**2025-05-01**|**Red Teaming Large Language Models for Healthcare**|Vahid Balazadeh et.al.|[2505.00467v1](http://arxiv.org/abs/2505.00467v1)|null|
-|**2025-05-01**|**Data Therapist: Eliciting Domain Knowledge from Subject Matter Experts Using Large Language Models**|Sungbok Shin et.al.|[2505.00455v1](http://arxiv.org/abs/2505.00455v1)|null|
-|**2025-05-01**|**T2VPhysBench: A First-Principles Benchmark for Physical Consistency in Text-to-Video Generation**|Xuyang Guo et.al.|[2505.00337v1](http://arxiv.org/abs/2505.00337v1)|null|
-|**2025-05-01**|**Self-Generated In-Context Examples Improve LLM Agents for Sequential Decision-Making Tasks**|Vishnu Sarukkai et.al.|[2505.00234v2](http://arxiv.org/abs/2505.00234v2)|null|
-|**2025-04-30**|**Detecting and Mitigating Hateful Content in Multimodal Memes with Vision-Language Models**|Minh-Hao Van et.al.|[2505.00150v1](http://arxiv.org/abs/2505.00150v1)|null|
-|**2025-04-30**|**AdaptMI: Adaptive Skill-based In-context Math Instruction for Small Language Models**|Yinghui He et.al.|[2505.00147v1](http://arxiv.org/abs/2505.00147v1)|null|
-|**2025-04-30**|**Investigating Zero-Shot Diagnostic Pathology in Vision-Language Models with Efficient Prompt Design**|Vasudev Sharma et.al.|[2505.00134v1](http://arxiv.org/abs/2505.00134v1)|null|
-|**2025-04-30**|**Fine-Tuning LLMs for Low-Resource Dialect Translation: The Case of Lebanese**|Silvana Yakhni et.al.|[2505.00114v1](http://arxiv.org/abs/2505.00114v1)|null|
-|**2025-04-30**|**Early Exit and Multi Stage Knowledge Distillation in VLMs for Video Summarization**|Anas Anwarul Haq Khan et.al.|[2504.21831v1](http://arxiv.org/abs/2504.21831v1)|null|
-|**2025-04-30**|**Why Compress What You Can Generate? When GPT-4o Generation Ushers in Image Compression Fields**|Yixin Gao et.al.|[2504.21814v1](http://arxiv.org/abs/2504.21814v1)|null|
-|**2025-04-30**|**DeepSeek-Prover-V2: Advancing Formal Mathematical Reasoning via Reinforcement Learning for Subgoal Decomposition**|Z. Z. Ren et.al.|[2504.21801v1](http://arxiv.org/abs/2504.21801v1)|null|
+|**2025-05-02**|**Modelling Financial Market Imperfection Using Open Quantum Systems**|Will Hicks et.al.|[2505.01284v1](http://arxiv.org/abs/2505.01284v1)|null|
+|**2025-05-02**|**A CFL-type Condition and Theoretical Insights for Discrete-Time Sparse Full-Order Model Inference**|Leonidas Gkimisis et.al.|[2505.01244v1](http://arxiv.org/abs/2505.01244v1)|null|
+|**2025-05-02**|**Constructive solution of the common invariant cone problem**|Thomas Mejstrik et.al.|[2505.01229v1](http://arxiv.org/abs/2505.01229v1)|null|
+|**2025-05-02**|**One Target, Many Views: Multi-User Fusion for Collaborative Uplink ISAC**|Sajad Daei et.al.|[2505.01223v1](http://arxiv.org/abs/2505.01223v1)|null|
+|**2025-05-02**|**T-Graph: Enhancing Sparse-view Camera Pose Estimation by Pairwise Translation Graph**|Qingyu Xian et.al.|[2505.01207v1](http://arxiv.org/abs/2505.01207v1)|null|
+|**2025-05-02**|**Principal Non-singularity of Fourier Matrices on $\mathbb Z_p \times \mathbb Z_q$ and $\mathbb Z_2^k \times \mathbb Z_q$**|Weiqi Zhou et.al.|[2505.01189v1](http://arxiv.org/abs/2505.01189v1)|null|
+|**2025-05-02**|**Screening Cut Generation for Sparse Ridge Regression**|Haozhe Tan et.al.|[2505.01082v1](http://arxiv.org/abs/2505.01082v1)|null|
+|**2025-05-02**|**GeloVec: Higher Dimensional Geometric Smoothing for Coherent Visual Feature Extraction in Image Segmentation**|Boris Kriuk et.al.|[2505.01057v1](http://arxiv.org/abs/2505.01057v1)|null|
+|**2025-05-02**|**Quantum Simulations Based on Parameterized Circuit of an Antisymmetric Matrix**|Ammar Daskin et.al.|[2505.01023v1](http://arxiv.org/abs/2505.01023v1)|null|
+|**2025-05-02**|**Enhancing Realism in Holographic Augmented Reality Displays through Occlusion Handling**|Woongseob Han et.al.|[2505.00942v1](http://arxiv.org/abs/2505.00942v1)|null|
+|**2025-05-01**|**Neural Networks Enabled Discovery On the Higher-Order Nonlinear Partial Differential Equation of Traffic Dynamics**|Zihang Wei et.al.|[2505.00904v1](http://arxiv.org/abs/2505.00904v1)|null|
+|**2025-05-01**|**Experimental Proposal on Non-Abelian Aharonov-Bohm Caging Effect with a Single Trapped Ion**|Zhiyuan Liu et.al.|[2505.00899v1](http://arxiv.org/abs/2505.00899v1)|null|
+|**2025-05-01**|**HD 35843: A Sun-like star hosting a long period sub-Neptune and inner super-Earth**|Katharine Hesse et.al.|[2505.00898v1](http://arxiv.org/abs/2505.00898v1)|null|
+|**2025-05-01**|**Physics-Informed Neural Network-Driven Sparse Field Discretization Method for Near-Field Acoustic Holography**|Xinmeng Luan et.al.|[2505.00897v1](http://arxiv.org/abs/2505.00897v1)|null|
+|**2025-05-01**|**Drilling into Erasmus learning mobility flows between countries 2014-2024**|Vladimir Batagelj et.al.|[2505.00889v1](http://arxiv.org/abs/2505.00889v1)|null|
+|**2025-05-01**|**Exact closed-form expression for unitary spin-adapted fermionic singlet double excitation operators**|Erik Rosendahl Kjellgren et.al.|[2505.00883v1](http://arxiv.org/abs/2505.00883v1)|null|
+|**2025-05-01**|**IK Seed Generator for Dual-Arm Human-like Physicality Robot with Mobile Base**|Jun Takamatsu et.al.|[2505.00871v1](http://arxiv.org/abs/2505.00871v1)|null|
+|**2025-05-01**|**On the emergence of numerical instabilities in Next Generation Reservoir Computing**|Edmilson Roque dos Santos et.al.|[2505.00846v1](http://arxiv.org/abs/2505.00846v1)|null|
+|**2025-05-01**|**Fault-Tolerant Multi-Modal Localization of Multi-Robots on Matrix Lie Groups**|Mahboubeh Zarei et.al.|[2505.00842v1](http://arxiv.org/abs/2505.00842v1)|null|
+|**2025-05-01**|**Improving Routing in Sparse Mixture of Experts with Graph of Tokens**|Tam Nguyen et.al.|[2505.00792v1](http://arxiv.org/abs/2505.00792v1)|null|
+|**2025-05-01**|**Risk-minimizing states for the quantum-phase-estimation algorithm**|Joseph G. Smith et.al.|[2505.00764v1](http://arxiv.org/abs/2505.00764v1)|null|
+|**2025-05-01**|**Polynomial and rational matrices with the invariant rational functions and the four sequences of minimal indices prescribed**|Itziar Baragaña et.al.|[2505.00699v1](http://arxiv.org/abs/2505.00699v1)|null|
+|**2025-05-01**|**Key exchange protocol based on circulant matrix action over congruence-simple semiring**|Alvaro Otero Sanchez et.al.|[2505.00664v1](http://arxiv.org/abs/2505.00664v1)|null|
+|**2025-05-01**|**Forward kinematics of a general Stewart-Gough platform by elimination templates**|Evgeniy Martyushev et.al.|[2505.00634v1](http://arxiv.org/abs/2505.00634v1)|[link](https://github.com/martyushev/fkSGP)|
+
+## AI
 
 ### LLM Theory
 |Publish Date|Title|Authors|PDF|Code|
@@ -146,6 +112,40 @@
 |**2025-05-02**|**Evaluating Vision Language Model Adaptations for Radiology Report Generation in Low-Resource Languages**|Marco Salmè et.al.|[2505.01096v1](http://arxiv.org/abs/2505.01096v1)|null|
 |**2025-05-02**|**Quasi-Static IRS: 3D Shaped Beamforming for Area Coverage Enhancement**|Zhenyu Jiang et.al.|[2505.01076v1](http://arxiv.org/abs/2505.01076v1)|null|
 |**2025-05-02**|**WirelessAgent: Large Language Model Agents for Intelligent Wireless Networks**|Jingwen Tong et.al.|[2505.01074v1](http://arxiv.org/abs/2505.01074v1)|null|
+
+### LLM Agent
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2025-05-02**|**Helping Big Language Models Protect Themselves: An Enhanced Filtering and Summarization System**|Sheikh Samit Muhaimin et.al.|[2505.01315v1](http://arxiv.org/abs/2505.01315v1)|null|
+|**2025-05-02**|**Deblurring fission fragment mass distributions**|Pierre Nzabahimana et.al.|[2505.01294v1](http://arxiv.org/abs/2505.01294v1)|null|
+|**2025-05-02**|**TSTMotion: Training-free Scene-awarenText-to-motion Generation**|Ziyan Guo et.al.|[2505.01182v1](http://arxiv.org/abs/2505.01182v1)|null|
+|**2025-05-02**|**On the Limitations of Steering in Language Model Alignment**|Chebrolu Niranjan et.al.|[2505.01162v1](http://arxiv.org/abs/2505.01162v1)|null|
+|**2025-05-02**|**Methodological Foundations for AI-Driven Survey Question Generation**|Ted K. Mburu et.al.|[2505.01150v1](http://arxiv.org/abs/2505.01150v1)|null|
+|**2025-05-02**|**VSC: Visual Search Compositional Text-to-Image Diffusion Model**|Do Huu Dat et.al.|[2505.01104v1](http://arxiv.org/abs/2505.01104v1)|null|
+|**2025-05-02**|**Improving Editability in Image Generation with Layer-wise Memory**|Daneul Kim et.al.|[2505.01079v1](http://arxiv.org/abs/2505.01079v1)|null|
+|**2025-05-02**|**Zero-Shot Document-Level Biomedical Relation Extraction via Scenario-based Prompt Design in Two-Stage with LLM**|Lei Zhao et.al.|[2505.01077v1](http://arxiv.org/abs/2505.01077v1)|null|
+|**2025-05-02**|**Good News for Script Kiddies? Evaluating Large Language Models for Automated Exploit Generation**|David Jin et.al.|[2505.01065v1](http://arxiv.org/abs/2505.01065v1)|null|
+|**2025-05-02**|**Attack and defense techniques in large language models: A survey and new perspectives**|Zhiyu Liao et.al.|[2505.00976v1](http://arxiv.org/abs/2505.00976v1)|null|
+|**2025-05-01**|**OET: Optimization-based prompt injection Evaluation Toolkit**|Jinsheng Pan et.al.|[2505.00843v1](http://arxiv.org/abs/2505.00843v1)|null|
+|**2025-05-01**|**MIMIC-\RNum{4}-Ext-22MCTS: A 22 Millions-Event Temporal Clinical Time-Series Dataset with Relative Timestamp for Risk Prediction**|Jing Wang et.al.|[2505.00827v1](http://arxiv.org/abs/2505.00827v1)|null|
+|**2025-05-01**|**Reasoning Capabilities and Invariability of Large Language Models**|Alessandro Raganato et.al.|[2505.00776v1](http://arxiv.org/abs/2505.00776v1)|null|
+|**2025-05-01**|**T2I-R1: Reinforcing Image Generation with Collaborative Semantic-level and Token-level CoT**|Dongzhi Jiang et.al.|[2505.00703v1](http://arxiv.org/abs/2505.00703v1)|null|
+|**2025-05-01**|**Multi-Modal Language Models as Text-to-Image Model Evaluators**|Jiahui Chen et.al.|[2505.00759v1](http://arxiv.org/abs/2505.00759v1)|null|
+|**2025-05-01**|**Steering Large Language Models with Register Analysis for Arbitrary Style Transfer**|Xinchen Yang et.al.|[2505.00679v1](http://arxiv.org/abs/2505.00679v1)|null|
+|**2025-05-01**|**Open-Source LLM-Driven Federated Transformer for Predictive IoV Management**|Yazan Otoum et.al.|[2505.00651v1](http://arxiv.org/abs/2505.00651v1)|null|
+|**2025-05-01**|**The Illusion of Role Separation: Hidden Shortcuts in LLM Role Learning (and How to Fix Them)**|Zihao Wang et.al.|[2505.00626v1](http://arxiv.org/abs/2505.00626v1)|null|
+|**2025-05-01**|**Triggering Hallucinations in LLMs: A Quantitative Study of Prompt-Induced Hallucination in Large Language Models**|Makoto Sato et.al.|[2505.00557v1](http://arxiv.org/abs/2505.00557v1)|null|
+|**2025-05-01**|**Red Teaming Large Language Models for Healthcare**|Vahid Balazadeh et.al.|[2505.00467v1](http://arxiv.org/abs/2505.00467v1)|null|
+|**2025-05-01**|**Data Therapist: Eliciting Domain Knowledge from Subject Matter Experts Using Large Language Models**|Sungbok Shin et.al.|[2505.00455v1](http://arxiv.org/abs/2505.00455v1)|null|
+|**2025-05-01**|**T2VPhysBench: A First-Principles Benchmark for Physical Consistency in Text-to-Video Generation**|Xuyang Guo et.al.|[2505.00337v1](http://arxiv.org/abs/2505.00337v1)|null|
+|**2025-05-01**|**Self-Generated In-Context Examples Improve LLM Agents for Sequential Decision-Making Tasks**|Vishnu Sarukkai et.al.|[2505.00234v2](http://arxiv.org/abs/2505.00234v2)|null|
+|**2025-04-30**|**Detecting and Mitigating Hateful Content in Multimodal Memes with Vision-Language Models**|Minh-Hao Van et.al.|[2505.00150v1](http://arxiv.org/abs/2505.00150v1)|null|
+|**2025-04-30**|**AdaptMI: Adaptive Skill-based In-context Math Instruction for Small Language Models**|Yinghui He et.al.|[2505.00147v1](http://arxiv.org/abs/2505.00147v1)|null|
+|**2025-04-30**|**Investigating Zero-Shot Diagnostic Pathology in Vision-Language Models with Efficient Prompt Design**|Vasudev Sharma et.al.|[2505.00134v1](http://arxiv.org/abs/2505.00134v1)|null|
+|**2025-04-30**|**Fine-Tuning LLMs for Low-Resource Dialect Translation: The Case of Lebanese**|Silvana Yakhni et.al.|[2505.00114v1](http://arxiv.org/abs/2505.00114v1)|null|
+|**2025-04-30**|**Early Exit and Multi Stage Knowledge Distillation in VLMs for Video Summarization**|Anas Anwarul Haq Khan et.al.|[2504.21831v1](http://arxiv.org/abs/2504.21831v1)|null|
+|**2025-04-30**|**Why Compress What You Can Generate? When GPT-4o Generation Ushers in Image Compression Fields**|Yixin Gao et.al.|[2504.21814v1](http://arxiv.org/abs/2504.21814v1)|null|
+|**2025-04-30**|**DeepSeek-Prover-V2: Advancing Formal Mathematical Reasoning via Reinforcement Learning for Subgoal Decomposition**|Z. Z. Ren et.al.|[2504.21801v1](http://arxiv.org/abs/2504.21801v1)|null|
 
 ## Code Compile
 
