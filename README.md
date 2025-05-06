@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-05-06 20:18:06 Asia/Shanghai
+ Automated deployment @ 2025-05-06 21:00:32 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -79,40 +79,6 @@
 
 ## AI
 
-### LLM Agent
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2025-05-05**|**Scenethesis: A Language and Vision Agentic Framework for 3D Scene Generation**|Lu Ling et.al.|[2505.02836v1](http://arxiv.org/abs/2505.02836v1)|null|
-|**2025-05-05**|**Towards Dataset Copyright Evasion Attack against Personalized Text-to-Image Diffusion Models**|Kuofeng Gao et.al.|[2505.02824v1](http://arxiv.org/abs/2505.02824v1)|null|
-|**2025-05-05**|**AutoLibra: Agent Metric Induction from Open-Ended Feedback**|Hao Zhu et.al.|[2505.02820v1](http://arxiv.org/abs/2505.02820v1)|null|
-|**2025-05-05**|**Generating HomeAssistant Automations Using an LLM-based Chatbot**|Mathyas Giudici et.al.|[2505.02802v1](http://arxiv.org/abs/2505.02802v1)|null|
-|**2025-05-05**|**Giving Simulated Cells a Voice: Evolving Prompt-to-Intervention Models for Cellular Control**|Nam H. Le et.al.|[2505.02766v1](http://arxiv.org/abs/2505.02766v1)|null|
-|**2025-05-05**|**Advancing Generalizable Tumor Segmentation with Anomaly-Aware Open-Vocabulary Attention Maps and Frozen Foundation Diffusion Models**|Yankai Jiang et.al.|[2505.02753v1](http://arxiv.org/abs/2505.02753v1)|null|
-|**2025-05-05**|**Knowledge Graphs for Enhancing Large Language Models in Entity Disambiguation**|Pons Gerard et.al.|[2505.02737v1](http://arxiv.org/abs/2505.02737v1)|null|
-|**2025-05-05**|**Technical Report: Evaluating Goal Drift in Language Model Agents**|Rauno Arike et.al.|[2505.02709v1](http://arxiv.org/abs/2505.02709v1)|null|
-|**2025-05-05**|**Structure Causal Models and LLMs Integration in Medical Visual Question Answering**|Zibo Xu et.al.|[2505.02703v1](http://arxiv.org/abs/2505.02703v1)|null|
-|**2025-05-05**|**Exceptional, but Separate: Precursors to Spontaneous Symmetry Breaking**|Lewis Hill et.al.|[2505.02691v1](http://arxiv.org/abs/2505.02691v1)|null|
-|**2025-05-05**|**A Note on Statistically Accurate Tabular Data Generation Using Large Language Models**|Andrey Sidorenko et.al.|[2505.02659v1](http://arxiv.org/abs/2505.02659v1)|null|
-|**2025-05-05**|**MCCD: Multi-Agent Collaboration-based Compositional Diffusion for Complex Text-to-Image Generation**|Mingcheng Li et.al.|[2505.02648v1](http://arxiv.org/abs/2505.02648v1)|null|
-|**2025-05-05**|**Recursive Decomposition with Dependencies for Generic Divide-and-Conquer Reasoning**|Sergio Hernández-Gutiérrez et.al.|[2505.02576v1](http://arxiv.org/abs/2505.02576v1)|null|
-|**2025-05-05**|**Evaluating Contrastive Feedback for Effective User Simulations**|Andreas Konstantin Kruff et.al.|[2505.02560v1](http://arxiv.org/abs/2505.02560v1)|null|
-|**2025-05-05**|**The Turing Test Is More Relevant Than Ever**|Avraham Rahimov et.al.|[2505.02558v1](http://arxiv.org/abs/2505.02558v1)|null|
-|**2025-05-05**|**El Agente: An Autonomous Agent for Quantum Chemistry**|Yunheng Zou et.al.|[2505.02484v1](http://arxiv.org/abs/2505.02484v1)|null|
-|**2025-05-05**|**Automated Hybrid Reward Scheduling via Large Language Models for Robotic Skill Learning**|Changxin Huang et.al.|[2505.02483v1](http://arxiv.org/abs/2505.02483v1)|null|
-|**2025-05-05**|**Colombian Waitresses y Jueces canadienses: Gender and Country Biases in Occupation Recommendations from LLMs**|Elisa Forcada Rodríguez et.al.|[2505.02456v1](http://arxiv.org/abs/2505.02456v1)|null|
-|**2025-05-05**|**Investigating the Impact of Personalized AI Tutors on Language Learning Performance**|Simon Suh et.al.|[2505.02443v1](http://arxiv.org/abs/2505.02443v1)|null|
-|**2025-05-05**|**Token Coordinated Prompt Attention is Needed for Visual Prompting**|Zichen Liu et.al.|[2505.02406v1](http://arxiv.org/abs/2505.02406v1)|null|
-|**2025-05-05**|**Optimizing Chain-of-Thought Reasoners via Gradient Variance Minimization in Rejection Sampling and RL**|Jiarui Yao et.al.|[2505.02391v1](http://arxiv.org/abs/2505.02391v1)|null|
-|**2025-05-05**|**An End-to-End Model For Logits Based Large Language Models Watermarking**|Kahim Wong et.al.|[2505.02344v1](http://arxiv.org/abs/2505.02344v1)|null|
-|**2025-05-05**|**Metasurfaces in Adaptive Optics: A New Opportunity in Optical Wavefront Sensing**|Rundong Fan et.al.|[2505.02333v1](http://arxiv.org/abs/2505.02333v1)|null|
-|**2025-05-05**|**VAEmo: Efficient Representation Learning for Visual-Audio Emotion with Knowledge Injection**|Hao Cheng et.al.|[2505.02331v1](http://arxiv.org/abs/2505.02331v1)|[link](https://github.com/MSA-LMC/VAEmo)|
-|**2025-05-05**|**From Course to Skill: Evaluating LLM Performance in Curricular Analytics**|Zhen Xu et.al.|[2505.02324v1](http://arxiv.org/abs/2505.02324v1)|null|
-|**2025-05-05**|**Generative Sign-description Prompts with Multi-positive Contrastive Learning for Sign Language Recognition**|Siyu Liang et.al.|[2505.02304v1](http://arxiv.org/abs/2505.02304v1)|null|
-|**2025-05-04**|**Demystifying optimized prompts in language models**|Rimon Melamed et.al.|[2505.02273v1](http://arxiv.org/abs/2505.02273v1)|null|
-|**2025-05-04**|**Personalisation or Prejudice? Addressing Geographic Bias in Hate Speech Detection using Debias Tuning in Large Language Models**|Paloma Piot et.al.|[2505.02252v1](http://arxiv.org/abs/2505.02252v1)|null|
-|**2025-05-04**|**Improving Physical Object State Representation in Text-to-Image Generative Systems**|Tianle Chen et.al.|[2505.02236v1](http://arxiv.org/abs/2505.02236v1)|null|
-|**2025-05-04**|**Prompt-responsive Object Retrieval with Memory-augmented Student-Teacher Learning**|Malte Mosbach et.al.|[2505.02232v1](http://arxiv.org/abs/2505.02232v1)|null|
-
 ### LLM Theory
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -146,6 +112,40 @@
 |**2025-05-05**|**Advancing Constrained Monotonic Neural Networks: Achieving Universal Approximation Beyond Bounded Activations**|Davide Sartor et.al.|[2505.02537v1](http://arxiv.org/abs/2505.02537v1)|null|
 |**2025-05-05**|**Large Language Model Partitioning for Low-Latency Inference at the Edge**|Dimitrios Kafetzis et.al.|[2505.02533v1](http://arxiv.org/abs/2505.02533v1)|null|
 |**2025-05-05**|**Energy Efficiency Maximization for CR-NOMA based Smart Grid Communication Network**|Mubashar Sarfraz et.al.|[2505.02530v1](http://arxiv.org/abs/2505.02530v1)|null|
+
+### LLM Agent
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2025-05-05**|**Scenethesis: A Language and Vision Agentic Framework for 3D Scene Generation**|Lu Ling et.al.|[2505.02836v1](http://arxiv.org/abs/2505.02836v1)|null|
+|**2025-05-05**|**Towards Dataset Copyright Evasion Attack against Personalized Text-to-Image Diffusion Models**|Kuofeng Gao et.al.|[2505.02824v1](http://arxiv.org/abs/2505.02824v1)|null|
+|**2025-05-05**|**AutoLibra: Agent Metric Induction from Open-Ended Feedback**|Hao Zhu et.al.|[2505.02820v1](http://arxiv.org/abs/2505.02820v1)|null|
+|**2025-05-05**|**Generating HomeAssistant Automations Using an LLM-based Chatbot**|Mathyas Giudici et.al.|[2505.02802v1](http://arxiv.org/abs/2505.02802v1)|null|
+|**2025-05-05**|**Giving Simulated Cells a Voice: Evolving Prompt-to-Intervention Models for Cellular Control**|Nam H. Le et.al.|[2505.02766v1](http://arxiv.org/abs/2505.02766v1)|null|
+|**2025-05-05**|**Advancing Generalizable Tumor Segmentation with Anomaly-Aware Open-Vocabulary Attention Maps and Frozen Foundation Diffusion Models**|Yankai Jiang et.al.|[2505.02753v1](http://arxiv.org/abs/2505.02753v1)|null|
+|**2025-05-05**|**Knowledge Graphs for Enhancing Large Language Models in Entity Disambiguation**|Pons Gerard et.al.|[2505.02737v1](http://arxiv.org/abs/2505.02737v1)|null|
+|**2025-05-05**|**Technical Report: Evaluating Goal Drift in Language Model Agents**|Rauno Arike et.al.|[2505.02709v1](http://arxiv.org/abs/2505.02709v1)|null|
+|**2025-05-05**|**Structure Causal Models and LLMs Integration in Medical Visual Question Answering**|Zibo Xu et.al.|[2505.02703v1](http://arxiv.org/abs/2505.02703v1)|null|
+|**2025-05-05**|**Exceptional, but Separate: Precursors to Spontaneous Symmetry Breaking**|Lewis Hill et.al.|[2505.02691v1](http://arxiv.org/abs/2505.02691v1)|null|
+|**2025-05-05**|**A Note on Statistically Accurate Tabular Data Generation Using Large Language Models**|Andrey Sidorenko et.al.|[2505.02659v1](http://arxiv.org/abs/2505.02659v1)|null|
+|**2025-05-05**|**MCCD: Multi-Agent Collaboration-based Compositional Diffusion for Complex Text-to-Image Generation**|Mingcheng Li et.al.|[2505.02648v1](http://arxiv.org/abs/2505.02648v1)|null|
+|**2025-05-05**|**Recursive Decomposition with Dependencies for Generic Divide-and-Conquer Reasoning**|Sergio Hernández-Gutiérrez et.al.|[2505.02576v1](http://arxiv.org/abs/2505.02576v1)|null|
+|**2025-05-05**|**Evaluating Contrastive Feedback for Effective User Simulations**|Andreas Konstantin Kruff et.al.|[2505.02560v1](http://arxiv.org/abs/2505.02560v1)|null|
+|**2025-05-05**|**The Turing Test Is More Relevant Than Ever**|Avraham Rahimov et.al.|[2505.02558v1](http://arxiv.org/abs/2505.02558v1)|null|
+|**2025-05-05**|**El Agente: An Autonomous Agent for Quantum Chemistry**|Yunheng Zou et.al.|[2505.02484v1](http://arxiv.org/abs/2505.02484v1)|null|
+|**2025-05-05**|**Automated Hybrid Reward Scheduling via Large Language Models for Robotic Skill Learning**|Changxin Huang et.al.|[2505.02483v1](http://arxiv.org/abs/2505.02483v1)|null|
+|**2025-05-05**|**Colombian Waitresses y Jueces canadienses: Gender and Country Biases in Occupation Recommendations from LLMs**|Elisa Forcada Rodríguez et.al.|[2505.02456v1](http://arxiv.org/abs/2505.02456v1)|null|
+|**2025-05-05**|**Investigating the Impact of Personalized AI Tutors on Language Learning Performance**|Simon Suh et.al.|[2505.02443v1](http://arxiv.org/abs/2505.02443v1)|null|
+|**2025-05-05**|**Token Coordinated Prompt Attention is Needed for Visual Prompting**|Zichen Liu et.al.|[2505.02406v1](http://arxiv.org/abs/2505.02406v1)|null|
+|**2025-05-05**|**Optimizing Chain-of-Thought Reasoners via Gradient Variance Minimization in Rejection Sampling and RL**|Jiarui Yao et.al.|[2505.02391v1](http://arxiv.org/abs/2505.02391v1)|null|
+|**2025-05-05**|**An End-to-End Model For Logits Based Large Language Models Watermarking**|Kahim Wong et.al.|[2505.02344v1](http://arxiv.org/abs/2505.02344v1)|null|
+|**2025-05-05**|**Metasurfaces in Adaptive Optics: A New Opportunity in Optical Wavefront Sensing**|Rundong Fan et.al.|[2505.02333v1](http://arxiv.org/abs/2505.02333v1)|null|
+|**2025-05-05**|**VAEmo: Efficient Representation Learning for Visual-Audio Emotion with Knowledge Injection**|Hao Cheng et.al.|[2505.02331v1](http://arxiv.org/abs/2505.02331v1)|[link](https://github.com/MSA-LMC/VAEmo)|
+|**2025-05-05**|**From Course to Skill: Evaluating LLM Performance in Curricular Analytics**|Zhen Xu et.al.|[2505.02324v1](http://arxiv.org/abs/2505.02324v1)|null|
+|**2025-05-05**|**Generative Sign-description Prompts with Multi-positive Contrastive Learning for Sign Language Recognition**|Siyu Liang et.al.|[2505.02304v1](http://arxiv.org/abs/2505.02304v1)|null|
+|**2025-05-04**|**Demystifying optimized prompts in language models**|Rimon Melamed et.al.|[2505.02273v1](http://arxiv.org/abs/2505.02273v1)|null|
+|**2025-05-04**|**Personalisation or Prejudice? Addressing Geographic Bias in Hate Speech Detection using Debias Tuning in Large Language Models**|Paloma Piot et.al.|[2505.02252v1](http://arxiv.org/abs/2505.02252v1)|null|
+|**2025-05-04**|**Improving Physical Object State Representation in Text-to-Image Generative Systems**|Tianle Chen et.al.|[2505.02236v1](http://arxiv.org/abs/2505.02236v1)|null|
+|**2025-05-04**|**Prompt-responsive Object Retrieval with Memory-augmented Student-Teacher Learning**|Malte Mosbach et.al.|[2505.02232v1](http://arxiv.org/abs/2505.02232v1)|null|
 
 ## Code Compile
 
