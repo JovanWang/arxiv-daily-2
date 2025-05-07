@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-05-07 20:17:13 Asia/Shanghai
+ Automated deployment @ 2025-05-07 21:01:26 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -185,40 +185,6 @@
 
 ## Code Compile
 
-### C Code Generation
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2025-05-06**|**VITA-Audio: Fast Interleaved Cross-Modal Token Generation for Efficient Large Speech-Language Model**|Zuwei Long et.al.|[2505.03739v1](http://arxiv.org/abs/2505.03739v1)|null|
-|**2025-05-06**|**Multi-Agent System for Comprehensive Soccer Understanding**|Jiayuan Rao et.al.|[2505.03735v1](http://arxiv.org/abs/2505.03735v1)|null|
-|**2025-05-06**|**Highly squeezed nanophotonic quantum microcombs with broadband frequency tunability**|Yichen Shen et.al.|[2505.03734v1](http://arxiv.org/abs/2505.03734v1)|null|
-|**2025-05-06**|**WebGen-Bench: Evaluating LLMs on Generating Interactive and Functional Websites from Scratch**|Zimu Lu et.al.|[2505.03733v1](http://arxiv.org/abs/2505.03733v1)|null|
-|**2025-05-06**|**FlexiAct: Towards Flexible Action Control in Heterogeneous Scenarios**|Shiyi Zhang et.al.|[2505.03730v1](http://arxiv.org/abs/2505.03730v1)|null|
-|**2025-05-06**|**PyRoki: A Modular Toolkit for Robot Kinematic Optimization**|Chung Min Kim et.al.|[2505.03728v1](http://arxiv.org/abs/2505.03728v1)|null|
-|**2025-05-06**|**Meta-Optimization and Program Search using Language Models for Task and Motion Planning**|Denis Shcherba et.al.|[2505.03725v1](http://arxiv.org/abs/2505.03725v1)|null|
-|**2025-05-06**|**Effects of transient stellar emissions on planetary climates of tidally-locked exo-earths**|Howard Chen et.al.|[2505.03723v1](http://arxiv.org/abs/2505.03723v1)|null|
-|**2025-05-06**|**Smooth concordance of cables of the figure-eight knot**|Sungkyung Kang et.al.|[2505.03720v1](http://arxiv.org/abs/2505.03720v1)|null|
-|**2025-05-06**|**DISARM++: Beyond scanner-free harmonization**|Luca Caldera et.al.|[2505.03715v1](http://arxiv.org/abs/2505.03715v1)|null|
-|**2025-05-06**|**NBF at SemEval-2025 Task 5: Light-Burst Attention Enhanced System for Multilingual Subject Recommendation**|Baharul Islam et.al.|[2505.03711v1](http://arxiv.org/abs/2505.03711v1)|null|
-|**2025-05-06**|**Actor-Critics Can Achieve Optimal Sample Efficiency**|Kevin Tan et.al.|[2505.03710v1](http://arxiv.org/abs/2505.03710v1)|null|
-|**2025-05-06**|**Fill the Gap: Quantifying and Reducing the Modality Gap in Image-Text Representation Learning**|François Role et.al.|[2505.03703v1](http://arxiv.org/abs/2505.03703v1)|null|
-|**2025-05-06**|**Self-Supervised Learning for Robotic Leaf Manipulation: A Hybrid Geometric-Neural Approach**|Srecharan Selvam et.al.|[2505.03702v1](http://arxiv.org/abs/2505.03702v1)|null|
-|**2025-05-06**|**Average entanglement entropy of a small subsystem in a constrained pure Gaussian state ensemble**|Erik Aurell et.al.|[2505.03696v1](http://arxiv.org/abs/2505.03696v1)|null|
-|**2025-05-06**|**Frenet Corridor Planner: An Optimal Local Path Planning Framework for Autonomous Driving**|Faizan M. Tariq et.al.|[2505.03695v1](http://arxiv.org/abs/2505.03695v1)|null|
-|**2025-05-06**|**Matching Distance and Geometric Distribution Aided Learning Multiview Point Cloud Registration**|Shiqi Li et.al.|[2505.03692v1](http://arxiv.org/abs/2505.03692v1)|null|
-|**2025-05-06**|**Sequential decoding of the XYZ$^2$ hexagonal stabilizer code**|Basudha Srivastava et.al.|[2505.03691v1](http://arxiv.org/abs/2505.03691v1)|null|
-|**2025-05-06**|**Variable Frequency Pulse Generation from Breathers in Josephson Transmission Lines**|Gregory Cunningham et.al.|[2505.03689v1](http://arxiv.org/abs/2505.03689v1)|null|
-|**2025-05-06**|**The response of a quantum system to a collision: an autonomous derivation of Kubo's formula**|Samuel L. Jacob et.al.|[2505.03686v1](http://arxiv.org/abs/2505.03686v1)|null|
-|**2025-05-06**|**CaRaFFusion: Improving 2D Semantic Segmentation with Camera-Radar Point Cloud Fusion and Zero-Shot Image Inpainting**|Huawei Sun et.al.|[2505.03679v1](http://arxiv.org/abs/2505.03679v1)|null|
-|**2025-05-06**|**Neural Integral Operators for Inverse problems in Spectroscopy**|Emanuele Zappala et.al.|[2505.03677v1](http://arxiv.org/abs/2505.03677v1)|null|
-|**2025-05-06**|**Towards conversational assistants for health applications: using ChatGPT to generate conversations about heart failure**|Anuja Tayal et.al.|[2505.03675v1](http://arxiv.org/abs/2505.03675v1)|null|
-|**2025-05-06**|**RoboOS: A Hierarchical Embodied Framework for Cross-Embodiment and Multi-Agent Collaboration**|Huajie Tan et.al.|[2505.03673v1](http://arxiv.org/abs/2505.03673v1)|null|
-|**2025-05-06**|**The Erdős-Rado Sunflower Problem for Vector Spaces**|Fedinand Ihringer et.al.|[2505.03671v1](http://arxiv.org/abs/2505.03671v1)|null|
-|**2025-05-06**|**Learning Symbolic Persistent Macro-Actions for POMDP Solving Over Time**|Celeste Veronese et.al.|[2505.03668v1](http://arxiv.org/abs/2505.03668v1)|null|
-|**2025-05-06**|**Distribution-Conditional Generation: From Class Distribution to Creative Generation**|Fu Feng et.al.|[2505.03667v1](http://arxiv.org/abs/2505.03667v1)|null|
-|**2025-05-06**|**Three-Family Supersymmetric Pati-Salam models from Intersecting D6-Branes on Rigid Cycles**|Adeel Mansha et.al.|[2505.03664v1](http://arxiv.org/abs/2505.03664v1)|null|
-|**2025-05-06**|**Revolutionizing Brain Tumor Imaging: Generating Synthetic 3D FA Maps from T1-Weighted MRI using CycleGAN Models**|Xin Du et.al.|[2505.03662v1](http://arxiv.org/abs/2505.03662v1)|null|
-|**2025-05-06**|**Supermassive black hole in NGC 4649 (M60) with a dark matter halo: Impact on shadow measurements and thermodynamic properties**|Francisco S. N. Lobo et.al.|[2505.03661v1](http://arxiv.org/abs/2505.03661v1)|null|
-
 ### C Code Migration
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -252,3 +218,37 @@
 |**2025-05-06**|**Learning Survival Distributions with the Asymmetric Laplace Distribution**|Deming Sheng et.al.|[2505.03712v1](http://arxiv.org/abs/2505.03712v1)|null|
 |**2025-05-06**|**NBF at SemEval-2025 Task 5: Light-Burst Attention Enhanced System for Multilingual Subject Recommendation**|Baharul Islam et.al.|[2505.03711v1](http://arxiv.org/abs/2505.03711v1)|null|
 |**2025-05-06**|**Actor-Critics Can Achieve Optimal Sample Efficiency**|Kevin Tan et.al.|[2505.03710v1](http://arxiv.org/abs/2505.03710v1)|null|
+
+### C Code Generation
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2025-05-06**|**VITA-Audio: Fast Interleaved Cross-Modal Token Generation for Efficient Large Speech-Language Model**|Zuwei Long et.al.|[2505.03739v1](http://arxiv.org/abs/2505.03739v1)|null|
+|**2025-05-06**|**Multi-Agent System for Comprehensive Soccer Understanding**|Jiayuan Rao et.al.|[2505.03735v1](http://arxiv.org/abs/2505.03735v1)|null|
+|**2025-05-06**|**Highly squeezed nanophotonic quantum microcombs with broadband frequency tunability**|Yichen Shen et.al.|[2505.03734v1](http://arxiv.org/abs/2505.03734v1)|null|
+|**2025-05-06**|**WebGen-Bench: Evaluating LLMs on Generating Interactive and Functional Websites from Scratch**|Zimu Lu et.al.|[2505.03733v1](http://arxiv.org/abs/2505.03733v1)|null|
+|**2025-05-06**|**FlexiAct: Towards Flexible Action Control in Heterogeneous Scenarios**|Shiyi Zhang et.al.|[2505.03730v1](http://arxiv.org/abs/2505.03730v1)|null|
+|**2025-05-06**|**PyRoki: A Modular Toolkit for Robot Kinematic Optimization**|Chung Min Kim et.al.|[2505.03728v1](http://arxiv.org/abs/2505.03728v1)|null|
+|**2025-05-06**|**Meta-Optimization and Program Search using Language Models for Task and Motion Planning**|Denis Shcherba et.al.|[2505.03725v1](http://arxiv.org/abs/2505.03725v1)|null|
+|**2025-05-06**|**Effects of transient stellar emissions on planetary climates of tidally-locked exo-earths**|Howard Chen et.al.|[2505.03723v1](http://arxiv.org/abs/2505.03723v1)|null|
+|**2025-05-06**|**Smooth concordance of cables of the figure-eight knot**|Sungkyung Kang et.al.|[2505.03720v1](http://arxiv.org/abs/2505.03720v1)|null|
+|**2025-05-06**|**DISARM++: Beyond scanner-free harmonization**|Luca Caldera et.al.|[2505.03715v1](http://arxiv.org/abs/2505.03715v1)|null|
+|**2025-05-06**|**NBF at SemEval-2025 Task 5: Light-Burst Attention Enhanced System for Multilingual Subject Recommendation**|Baharul Islam et.al.|[2505.03711v1](http://arxiv.org/abs/2505.03711v1)|null|
+|**2025-05-06**|**Actor-Critics Can Achieve Optimal Sample Efficiency**|Kevin Tan et.al.|[2505.03710v1](http://arxiv.org/abs/2505.03710v1)|null|
+|**2025-05-06**|**Fill the Gap: Quantifying and Reducing the Modality Gap in Image-Text Representation Learning**|François Role et.al.|[2505.03703v1](http://arxiv.org/abs/2505.03703v1)|null|
+|**2025-05-06**|**Self-Supervised Learning for Robotic Leaf Manipulation: A Hybrid Geometric-Neural Approach**|Srecharan Selvam et.al.|[2505.03702v1](http://arxiv.org/abs/2505.03702v1)|null|
+|**2025-05-06**|**Average entanglement entropy of a small subsystem in a constrained pure Gaussian state ensemble**|Erik Aurell et.al.|[2505.03696v1](http://arxiv.org/abs/2505.03696v1)|null|
+|**2025-05-06**|**Frenet Corridor Planner: An Optimal Local Path Planning Framework for Autonomous Driving**|Faizan M. Tariq et.al.|[2505.03695v1](http://arxiv.org/abs/2505.03695v1)|null|
+|**2025-05-06**|**Matching Distance and Geometric Distribution Aided Learning Multiview Point Cloud Registration**|Shiqi Li et.al.|[2505.03692v1](http://arxiv.org/abs/2505.03692v1)|null|
+|**2025-05-06**|**Sequential decoding of the XYZ$^2$ hexagonal stabilizer code**|Basudha Srivastava et.al.|[2505.03691v1](http://arxiv.org/abs/2505.03691v1)|null|
+|**2025-05-06**|**Variable Frequency Pulse Generation from Breathers in Josephson Transmission Lines**|Gregory Cunningham et.al.|[2505.03689v1](http://arxiv.org/abs/2505.03689v1)|null|
+|**2025-05-06**|**The response of a quantum system to a collision: an autonomous derivation of Kubo's formula**|Samuel L. Jacob et.al.|[2505.03686v1](http://arxiv.org/abs/2505.03686v1)|null|
+|**2025-05-06**|**CaRaFFusion: Improving 2D Semantic Segmentation with Camera-Radar Point Cloud Fusion and Zero-Shot Image Inpainting**|Huawei Sun et.al.|[2505.03679v1](http://arxiv.org/abs/2505.03679v1)|null|
+|**2025-05-06**|**Neural Integral Operators for Inverse problems in Spectroscopy**|Emanuele Zappala et.al.|[2505.03677v1](http://arxiv.org/abs/2505.03677v1)|null|
+|**2025-05-06**|**Towards conversational assistants for health applications: using ChatGPT to generate conversations about heart failure**|Anuja Tayal et.al.|[2505.03675v1](http://arxiv.org/abs/2505.03675v1)|null|
+|**2025-05-06**|**RoboOS: A Hierarchical Embodied Framework for Cross-Embodiment and Multi-Agent Collaboration**|Huajie Tan et.al.|[2505.03673v1](http://arxiv.org/abs/2505.03673v1)|null|
+|**2025-05-06**|**The Erdős-Rado Sunflower Problem for Vector Spaces**|Fedinand Ihringer et.al.|[2505.03671v1](http://arxiv.org/abs/2505.03671v1)|null|
+|**2025-05-06**|**Learning Symbolic Persistent Macro-Actions for POMDP Solving Over Time**|Celeste Veronese et.al.|[2505.03668v1](http://arxiv.org/abs/2505.03668v1)|null|
+|**2025-05-06**|**Distribution-Conditional Generation: From Class Distribution to Creative Generation**|Fu Feng et.al.|[2505.03667v1](http://arxiv.org/abs/2505.03667v1)|null|
+|**2025-05-06**|**Three-Family Supersymmetric Pati-Salam models from Intersecting D6-Branes on Rigid Cycles**|Adeel Mansha et.al.|[2505.03664v1](http://arxiv.org/abs/2505.03664v1)|null|
+|**2025-05-06**|**Revolutionizing Brain Tumor Imaging: Generating Synthetic 3D FA Maps from T1-Weighted MRI using CycleGAN Models**|Xin Du et.al.|[2505.03662v1](http://arxiv.org/abs/2505.03662v1)|null|
+|**2025-05-06**|**Supermassive black hole in NGC 4649 (M60) with a dark matter halo: Impact on shadow measurements and thermodynamic properties**|Francisco S. N. Lobo et.al.|[2505.03661v1](http://arxiv.org/abs/2505.03661v1)|null|
