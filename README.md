@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-05-10 20:52:03 Asia/Shanghai
+ Automated deployment @ 2025-05-10 21:14:46 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -8,40 +8,6 @@
 ### Sparse Operator
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-
-### Sparse program Compile
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2025-05-08**|**Universality for transversal Hamilton cycles in random graphs**|Micha Christoph et.al.|[2505.05385v1](http://arxiv.org/abs/2505.05385v1)|null|
-|**2025-05-08**|**Joint Super-Resolution and Segmentation for 1-m Impervious Surface Area Mapping in China's Yangtze River Economic Belt**|Jie Deng et.al.|[2505.05367v1](http://arxiv.org/abs/2505.05367v1)|null|
-|**2025-05-08**|**Progressive Inertial Poser: Progressive Real-Time Kinematic Chain Estimation for 3D Full-Body Pose from Three IMU Sensors**|Zunjie Zhu et.al.|[2505.05336v1](http://arxiv.org/abs/2505.05336v1)|null|
-|**2025-05-08**|**Sparse Training from Random Initialization: Aligning Lottery Ticket Masks using Weight Symmetry**|Mohammed Adnan et.al.|[2505.05143v1](http://arxiv.org/abs/2505.05143v1)|null|
-|**2025-05-08**|**Unveiling Language-Specific Features in Large Language Models via Sparse Autoencoders**|Boyi Deng et.al.|[2505.05111v1](http://arxiv.org/abs/2505.05111v1)|null|
-|**2025-05-08**|**Mean pairwise distances in Rouse polymer subject to fast loop extrusion**|Ilya Nikitin et.al.|[2505.05097v1](http://arxiv.org/abs/2505.05097v1)|null|
-|**2025-05-08**|**Improving Global Motion Estimation in Sparse IMU-based Motion Capture with Physics**|Xinyu Yi et.al.|[2505.05010v1](http://arxiv.org/abs/2505.05010v1)|null|
-|**2025-05-08**|**CPP-DIP: Multi-objective Coverage Path Planning for MAVs in Dispersed and Irregular Plantations**|Weijie Kuang et.al.|[2505.04989v1](http://arxiv.org/abs/2505.04989v1)|null|
-|**2025-05-08**|**DenseGrounding: Improving Dense Language-Vision Semantics for Ego-Centric 3D Visual Grounding**|Henry Zheng et.al.|[2505.04965v1](http://arxiv.org/abs/2505.04965v1)|null|
-|**2025-05-08**|**PSSketch: Finding Persistent and Sparse Flow with High Accuracy and Efficiency**|Jiayao Wang et.al.|[2505.04892v1](http://arxiv.org/abs/2505.04892v1)|null|
-|**2025-05-08**|**Clustering with Communication: A Variational Framework for Single Cell Representation Learning**|Cong Qi et.al.|[2505.04891v1](http://arxiv.org/abs/2505.04891v1)|null|
-|**2025-05-08**|**An Unsupervised Learning Method for Radio Interferometry Deconvolution**|Lei Yu et.al.|[2505.04887v1](http://arxiv.org/abs/2505.04887v1)|null|
-|**2025-05-08**|**Physics-informed solution reconstruction in elasticity and heat transfer using the explicit constraint force method**|Conor Rowan et.al.|[2505.04875v1](http://arxiv.org/abs/2505.04875v1)|null|
-|**2025-05-08**|**Auto-regressive transformation for image alignment**|Kanggeon Lee et.al.|[2505.04864v1](http://arxiv.org/abs/2505.04864v1)|null|
-|**2025-05-07**|**PR2: Peephole Raw Pointer Rewriting with LLMs for Translating C to Safer Rust**|Yifei Gao et.al.|[2505.04852v1](http://arxiv.org/abs/2505.04852v1)|null|
-|**2025-05-07**|**WIR3D: Visually-Informed and Geometry-Aware 3D Shape Abstraction**|Richard Liu et.al.|[2505.04813v1](http://arxiv.org/abs/2505.04813v1)|null|
-|**2025-05-07**|**ORBIT-2: Scaling Exascale Vision Foundation Models for Weather and Climate Downscaling**|Xiao Wang et.al.|[2505.04802v1](http://arxiv.org/abs/2505.04802v1)|null|
-|**2025-05-07**|**Primal-dual algorithm for contextual stochastic combinatorial optimization**|Louis Bouvier et.al.|[2505.04757v1](http://arxiv.org/abs/2505.04757v1)|null|
-|**2025-05-07**|**Sparse Regularized Optimal Transport without Curse of Dimensionality**|Alberto González-Sanz et.al.|[2505.04721v1](http://arxiv.org/abs/2505.04721v1)|null|
-|**2025-05-07**|**Pangu Ultra MoE: How to Train Your Big MoE on Ascend NPUs**|Yehui Tang et.al.|[2505.04519v1](http://arxiv.org/abs/2505.04519v1)|null|
-|**2025-05-07**|**M2Rec: Multi-scale Mamba for Efficient Sequential Recommendation**|Qianru Zhang et.al.|[2505.04445v1](http://arxiv.org/abs/2505.04445v1)|null|
-|**2025-05-07**|**LONGER: Scaling Up Long Sequence Modeling in Industrial Recommenders**|Zheng Chai et.al.|[2505.04421v1](http://arxiv.org/abs/2505.04421v1)|null|
-|**2025-05-07**|**Localized Diffusion Models for High Dimensional Distributions Generation**|Georg A. Gottwald et.al.|[2505.04417v1](http://arxiv.org/abs/2505.04417v1)|null|
-|**2025-05-07**|**Label-efficient Single Photon Images Classification via Active Learning**|Zili Zhang et.al.|[2505.04376v1](http://arxiv.org/abs/2505.04376v1)|null|
-|**2025-05-07**|**PAC-Bayesian risk bounds for fully connected deep neural network with Gaussian priors**|The Tien Mai et.al.|[2505.04341v1](http://arxiv.org/abs/2505.04341v1)|null|
-|**2025-05-07**|**Dynamic Location Search for Identifying Maximum Weighted Independent Sets in Complex Networks**|Enqiang Zhu et.al.|[2505.04674v1](http://arxiv.org/abs/2505.04674v1)|null|
-|**2025-05-07**|**Progress in the development of quantum algorithms and software**|Anastasiia S. Nikolaeva et.al.|[2505.04285v1](http://arxiv.org/abs/2505.04285v1)|null|
-|**2025-05-07**|**CompileAgent: Automated Real-World Repo-Level Compilation with Tool-Integrated LLM-based Agent System**|Li Hu et.al.|[2505.04254v1](http://arxiv.org/abs/2505.04254v1)|null|
-|**2025-05-07**|**Ordering Matters: Structure, Accuracy and Gate Cost in Second-Order Suzuki Product Formulas**|Matthew A Lane et.al.|[2505.04240v1](http://arxiv.org/abs/2505.04240v1)|null|
-|**2025-05-07**|**The stability of generalized phase retrieval problem over compact groups**|Tal Amir et.al.|[2505.04190v1](http://arxiv.org/abs/2505.04190v1)|null|
 
 ### Sparse Data Format
 |Publish Date|Title|Authors|PDF|Code|
@@ -76,6 +42,40 @@
 |**2025-05-08**|**Lyapunov exponents for products of truncated orthogonal matrices**|Dong Qichao et.al.|[2505.04928v1](http://arxiv.org/abs/2505.04928v1)|null|
 |**2025-05-08**|**PSSketch: Finding Persistent and Sparse Flow with High Accuracy and Efficiency**|Jiayao Wang et.al.|[2505.04892v1](http://arxiv.org/abs/2505.04892v1)|null|
 |**2025-05-08**|**Clustering with Communication: A Variational Framework for Single Cell Representation Learning**|Cong Qi et.al.|[2505.04891v1](http://arxiv.org/abs/2505.04891v1)|null|
+
+### Sparse program Compile
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2025-05-08**|**Universality for transversal Hamilton cycles in random graphs**|Micha Christoph et.al.|[2505.05385v1](http://arxiv.org/abs/2505.05385v1)|null|
+|**2025-05-08**|**Joint Super-Resolution and Segmentation for 1-m Impervious Surface Area Mapping in China's Yangtze River Economic Belt**|Jie Deng et.al.|[2505.05367v1](http://arxiv.org/abs/2505.05367v1)|null|
+|**2025-05-08**|**Progressive Inertial Poser: Progressive Real-Time Kinematic Chain Estimation for 3D Full-Body Pose from Three IMU Sensors**|Zunjie Zhu et.al.|[2505.05336v1](http://arxiv.org/abs/2505.05336v1)|null|
+|**2025-05-08**|**Sparse Training from Random Initialization: Aligning Lottery Ticket Masks using Weight Symmetry**|Mohammed Adnan et.al.|[2505.05143v1](http://arxiv.org/abs/2505.05143v1)|null|
+|**2025-05-08**|**Unveiling Language-Specific Features in Large Language Models via Sparse Autoencoders**|Boyi Deng et.al.|[2505.05111v1](http://arxiv.org/abs/2505.05111v1)|null|
+|**2025-05-08**|**Mean pairwise distances in Rouse polymer subject to fast loop extrusion**|Ilya Nikitin et.al.|[2505.05097v1](http://arxiv.org/abs/2505.05097v1)|null|
+|**2025-05-08**|**Improving Global Motion Estimation in Sparse IMU-based Motion Capture with Physics**|Xinyu Yi et.al.|[2505.05010v1](http://arxiv.org/abs/2505.05010v1)|null|
+|**2025-05-08**|**CPP-DIP: Multi-objective Coverage Path Planning for MAVs in Dispersed and Irregular Plantations**|Weijie Kuang et.al.|[2505.04989v1](http://arxiv.org/abs/2505.04989v1)|null|
+|**2025-05-08**|**DenseGrounding: Improving Dense Language-Vision Semantics for Ego-Centric 3D Visual Grounding**|Henry Zheng et.al.|[2505.04965v1](http://arxiv.org/abs/2505.04965v1)|null|
+|**2025-05-08**|**PSSketch: Finding Persistent and Sparse Flow with High Accuracy and Efficiency**|Jiayao Wang et.al.|[2505.04892v1](http://arxiv.org/abs/2505.04892v1)|null|
+|**2025-05-08**|**Clustering with Communication: A Variational Framework for Single Cell Representation Learning**|Cong Qi et.al.|[2505.04891v1](http://arxiv.org/abs/2505.04891v1)|null|
+|**2025-05-08**|**An Unsupervised Learning Method for Radio Interferometry Deconvolution**|Lei Yu et.al.|[2505.04887v1](http://arxiv.org/abs/2505.04887v1)|null|
+|**2025-05-08**|**Physics-informed solution reconstruction in elasticity and heat transfer using the explicit constraint force method**|Conor Rowan et.al.|[2505.04875v1](http://arxiv.org/abs/2505.04875v1)|null|
+|**2025-05-08**|**Auto-regressive transformation for image alignment**|Kanggeon Lee et.al.|[2505.04864v1](http://arxiv.org/abs/2505.04864v1)|null|
+|**2025-05-07**|**PR2: Peephole Raw Pointer Rewriting with LLMs for Translating C to Safer Rust**|Yifei Gao et.al.|[2505.04852v1](http://arxiv.org/abs/2505.04852v1)|null|
+|**2025-05-07**|**WIR3D: Visually-Informed and Geometry-Aware 3D Shape Abstraction**|Richard Liu et.al.|[2505.04813v1](http://arxiv.org/abs/2505.04813v1)|null|
+|**2025-05-07**|**ORBIT-2: Scaling Exascale Vision Foundation Models for Weather and Climate Downscaling**|Xiao Wang et.al.|[2505.04802v1](http://arxiv.org/abs/2505.04802v1)|null|
+|**2025-05-07**|**Primal-dual algorithm for contextual stochastic combinatorial optimization**|Louis Bouvier et.al.|[2505.04757v1](http://arxiv.org/abs/2505.04757v1)|null|
+|**2025-05-07**|**Sparse Regularized Optimal Transport without Curse of Dimensionality**|Alberto González-Sanz et.al.|[2505.04721v1](http://arxiv.org/abs/2505.04721v1)|null|
+|**2025-05-07**|**Pangu Ultra MoE: How to Train Your Big MoE on Ascend NPUs**|Yehui Tang et.al.|[2505.04519v1](http://arxiv.org/abs/2505.04519v1)|null|
+|**2025-05-07**|**M2Rec: Multi-scale Mamba for Efficient Sequential Recommendation**|Qianru Zhang et.al.|[2505.04445v1](http://arxiv.org/abs/2505.04445v1)|null|
+|**2025-05-07**|**LONGER: Scaling Up Long Sequence Modeling in Industrial Recommenders**|Zheng Chai et.al.|[2505.04421v1](http://arxiv.org/abs/2505.04421v1)|null|
+|**2025-05-07**|**Localized Diffusion Models for High Dimensional Distributions Generation**|Georg A. Gottwald et.al.|[2505.04417v1](http://arxiv.org/abs/2505.04417v1)|null|
+|**2025-05-07**|**Label-efficient Single Photon Images Classification via Active Learning**|Zili Zhang et.al.|[2505.04376v1](http://arxiv.org/abs/2505.04376v1)|null|
+|**2025-05-07**|**PAC-Bayesian risk bounds for fully connected deep neural network with Gaussian priors**|The Tien Mai et.al.|[2505.04341v1](http://arxiv.org/abs/2505.04341v1)|null|
+|**2025-05-07**|**Dynamic Location Search for Identifying Maximum Weighted Independent Sets in Complex Networks**|Enqiang Zhu et.al.|[2505.04674v1](http://arxiv.org/abs/2505.04674v1)|null|
+|**2025-05-07**|**Progress in the development of quantum algorithms and software**|Anastasiia S. Nikolaeva et.al.|[2505.04285v1](http://arxiv.org/abs/2505.04285v1)|null|
+|**2025-05-07**|**CompileAgent: Automated Real-World Repo-Level Compilation with Tool-Integrated LLM-based Agent System**|Li Hu et.al.|[2505.04254v1](http://arxiv.org/abs/2505.04254v1)|null|
+|**2025-05-07**|**Ordering Matters: Structure, Accuracy and Gate Cost in Second-Order Suzuki Product Formulas**|Matthew A Lane et.al.|[2505.04240v1](http://arxiv.org/abs/2505.04240v1)|null|
+|**2025-05-07**|**The stability of generalized phase retrieval problem over compact groups**|Tal Amir et.al.|[2505.04190v1](http://arxiv.org/abs/2505.04190v1)|null|
 
 ## Code Compile
 
