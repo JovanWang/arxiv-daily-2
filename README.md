@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-05-11 20:52:31 Asia/Shanghai
+ Automated deployment @ 2025-05-11 21:14:57 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -8,40 +8,6 @@
 ### Sparse Operator
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-
-### Sparse Data Format
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2025-05-08**|**Asymmetric decay of quantum many-body scars in XYZ quantum spin chains**|Dhiman Bhowmick et.al.|[2505.05435v1](http://arxiv.org/abs/2505.05435v1)|null|
-|**2025-05-08**|**Universality for transversal Hamilton cycles in random graphs**|Micha Christoph et.al.|[2505.05385v1](http://arxiv.org/abs/2505.05385v1)|null|
-|**2025-05-08**|**Joint Super-Resolution and Segmentation for 1-m Impervious Surface Area Mapping in China's Yangtze River Economic Belt**|Jie Deng et.al.|[2505.05367v1](http://arxiv.org/abs/2505.05367v1)|null|
-|**2025-05-08**|**An elastodynamic Willis meta-slab with strong directional-dependent absorption**|Philip A Cotterill et.al.|[2505.05344v1](http://arxiv.org/abs/2505.05344v1)|null|
-|**2025-05-08**|**Progressive Inertial Poser: Progressive Real-Time Kinematic Chain Estimation for 3D Full-Body Pose from Three IMU Sensors**|Zunjie Zhu et.al.|[2505.05336v1](http://arxiv.org/abs/2505.05336v1)|null|
-|**2025-05-08**|**Regularity estimates of fractional heat semigroups related with uniformly elliptic operators**|Honglei Shi et.al.|[2505.05333v1](http://arxiv.org/abs/2505.05333v1)|[link](https://github.com/Shi-honglei/elliptic-operators-2025)|
-|**2025-05-08**|**Operator-Level Quantum Acceleration of Non-Logconcave Sampling**|Jiaqi Leng et.al.|[2505.05301v1](http://arxiv.org/abs/2505.05301v1)|null|
-|**2025-05-08**|**Performance Estimation in Binary Classification Using Calibrated Confidence**|Juhani Kivimäki et.al.|[2505.05295v1](http://arxiv.org/abs/2505.05295v1)|null|
-|**2025-05-08**|**Weighting operators for sparsity regularization**|Ole Løseth Elvetun et.al.|[2505.05234v1](http://arxiv.org/abs/2505.05234v1)|null|
-|**2025-05-08**|**Theoretical characterisation of the Barium II and Radium II ions**|Robin B. Cserveny et.al.|[2505.05230v1](http://arxiv.org/abs/2505.05230v1)|null|
-|**2025-05-08**|**Two-dimensional $J_1$-$J_2$ clock model: A cornucopia of emergence**|Vishnu Pulloor Kuttanikkad et.al.|[2505.05194v1](http://arxiv.org/abs/2505.05194v1)|null|
-|**2025-05-08**|**Smoothed analysis in compressed sensing**|Elad Aigner-Horev et.al.|[2505.05188v1](http://arxiv.org/abs/2505.05188v1)|null|
-|**2025-05-08**|**Efficient Parallel Ising Samplers via Localization Schemes**|Xiaoyu Chen et.al.|[2505.05185v1](http://arxiv.org/abs/2505.05185v1)|null|
-|**2025-05-08**|**Sparse Training from Random Initialization: Aligning Lottery Ticket Masks using Weight Symmetry**|Mohammed Adnan et.al.|[2505.05143v1](http://arxiv.org/abs/2505.05143v1)|null|
-|**2025-05-08**|**Non-invertible symmetry as an axion-less solution to the strong CP problem**|Qiuyue Liang et.al.|[2505.05142v1](http://arxiv.org/abs/2505.05142v1)|null|
-|**2025-05-08**|**Recent results of (semi)leptonic decays of charm hadrons at BESIII**|Xiang Pan et.al.|[2505.05123v1](http://arxiv.org/abs/2505.05123v1)|null|
-|**2025-05-08**|**Unveiling Language-Specific Features in Large Language Models via Sparse Autoencoders**|Boyi Deng et.al.|[2505.05111v1](http://arxiv.org/abs/2505.05111v1)|null|
-|**2025-05-08**|**Mean pairwise distances in Rouse polymer subject to fast loop extrusion**|Ilya Nikitin et.al.|[2505.05097v1](http://arxiv.org/abs/2505.05097v1)|null|
-|**2025-05-08**|**Peak Broadening in Photoelectron Spectroscopy of Amorphous Polymers: the Leading Role of the Electrostatic Landscape**|Laura Galleni et.al.|[2505.05072v1](http://arxiv.org/abs/2505.05072v1)|null|
-|**2025-05-08**|**Statistical CSI Acquisition for Multi-frequency Massive MIMO Systems**|Jinke Tang et.al.|[2505.05045v1](http://arxiv.org/abs/2505.05045v1)|null|
-|**2025-05-08**|**Sample Complexity of Identifying the Nonredundancy of Nontransitive Games in Dueling Bandits**|Shang Lu et.al.|[2505.05014v1](http://arxiv.org/abs/2505.05014v1)|null|
-|**2025-05-08**|**Improving Global Motion Estimation in Sparse IMU-based Motion Capture with Physics**|Xinyu Yi et.al.|[2505.05010v1](http://arxiv.org/abs/2505.05010v1)|null|
-|**2025-05-08**|**CPP-DIP: Multi-objective Coverage Path Planning for MAVs in Dispersed and Irregular Plantations**|Weijie Kuang et.al.|[2505.04989v1](http://arxiv.org/abs/2505.04989v1)|null|
-|**2025-05-08**|**Dynamic Precoding for Near-Field Secure Communications: Implementation and Performance Analysis**|Zihao Teng et.al.|[2505.04968v1](http://arxiv.org/abs/2505.04968v1)|null|
-|**2025-05-08**|**DenseGrounding: Improving Dense Language-Vision Semantics for Ego-Centric 3D Visual Grounding**|Henry Zheng et.al.|[2505.04965v1](http://arxiv.org/abs/2505.04965v1)|null|
-|**2025-05-08**|**In memoriam: aspects of Santosh Kumar's work on exact results in RMT**|Peter J. Forrester et.al.|[2505.04943v1](http://arxiv.org/abs/2505.04943v1)|null|
-|**2025-05-08**|**Fluid Antenna-Assisted MU-MIMO Systems with Decentralized Baseband Processing**|Tianyi Liao et.al.|[2505.04936v1](http://arxiv.org/abs/2505.04936v1)|null|
-|**2025-05-08**|**Lyapunov exponents for products of truncated orthogonal matrices**|Dong Qichao et.al.|[2505.04928v1](http://arxiv.org/abs/2505.04928v1)|null|
-|**2025-05-08**|**PSSketch: Finding Persistent and Sparse Flow with High Accuracy and Efficiency**|Jiayao Wang et.al.|[2505.04892v1](http://arxiv.org/abs/2505.04892v1)|null|
-|**2025-05-08**|**Clustering with Communication: A Variational Framework for Single Cell Representation Learning**|Cong Qi et.al.|[2505.04891v1](http://arxiv.org/abs/2505.04891v1)|null|
 
 ### Sparse program Compile
 |Publish Date|Title|Authors|PDF|Code|
@@ -76,6 +42,40 @@
 |**2025-05-07**|**CompileAgent: Automated Real-World Repo-Level Compilation with Tool-Integrated LLM-based Agent System**|Li Hu et.al.|[2505.04254v1](http://arxiv.org/abs/2505.04254v1)|null|
 |**2025-05-07**|**Ordering Matters: Structure, Accuracy and Gate Cost in Second-Order Suzuki Product Formulas**|Matthew A Lane et.al.|[2505.04240v1](http://arxiv.org/abs/2505.04240v1)|null|
 |**2025-05-07**|**The stability of generalized phase retrieval problem over compact groups**|Tal Amir et.al.|[2505.04190v1](http://arxiv.org/abs/2505.04190v1)|null|
+
+### Sparse Data Format
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2025-05-08**|**Asymmetric decay of quantum many-body scars in XYZ quantum spin chains**|Dhiman Bhowmick et.al.|[2505.05435v1](http://arxiv.org/abs/2505.05435v1)|null|
+|**2025-05-08**|**Universality for transversal Hamilton cycles in random graphs**|Micha Christoph et.al.|[2505.05385v1](http://arxiv.org/abs/2505.05385v1)|null|
+|**2025-05-08**|**Joint Super-Resolution and Segmentation for 1-m Impervious Surface Area Mapping in China's Yangtze River Economic Belt**|Jie Deng et.al.|[2505.05367v1](http://arxiv.org/abs/2505.05367v1)|null|
+|**2025-05-08**|**An elastodynamic Willis meta-slab with strong directional-dependent absorption**|Philip A Cotterill et.al.|[2505.05344v1](http://arxiv.org/abs/2505.05344v1)|null|
+|**2025-05-08**|**Progressive Inertial Poser: Progressive Real-Time Kinematic Chain Estimation for 3D Full-Body Pose from Three IMU Sensors**|Zunjie Zhu et.al.|[2505.05336v1](http://arxiv.org/abs/2505.05336v1)|null|
+|**2025-05-08**|**Regularity estimates of fractional heat semigroups related with uniformly elliptic operators**|Honglei Shi et.al.|[2505.05333v1](http://arxiv.org/abs/2505.05333v1)|[link](https://github.com/Shi-honglei/elliptic-operators-2025)|
+|**2025-05-08**|**Operator-Level Quantum Acceleration of Non-Logconcave Sampling**|Jiaqi Leng et.al.|[2505.05301v1](http://arxiv.org/abs/2505.05301v1)|null|
+|**2025-05-08**|**Performance Estimation in Binary Classification Using Calibrated Confidence**|Juhani Kivimäki et.al.|[2505.05295v1](http://arxiv.org/abs/2505.05295v1)|null|
+|**2025-05-08**|**Weighting operators for sparsity regularization**|Ole Løseth Elvetun et.al.|[2505.05234v1](http://arxiv.org/abs/2505.05234v1)|null|
+|**2025-05-08**|**Theoretical characterisation of the Barium II and Radium II ions**|Robin B. Cserveny et.al.|[2505.05230v1](http://arxiv.org/abs/2505.05230v1)|null|
+|**2025-05-08**|**Two-dimensional $J_1$-$J_2$ clock model: A cornucopia of emergence**|Vishnu Pulloor Kuttanikkad et.al.|[2505.05194v1](http://arxiv.org/abs/2505.05194v1)|null|
+|**2025-05-08**|**Smoothed analysis in compressed sensing**|Elad Aigner-Horev et.al.|[2505.05188v1](http://arxiv.org/abs/2505.05188v1)|null|
+|**2025-05-08**|**Efficient Parallel Ising Samplers via Localization Schemes**|Xiaoyu Chen et.al.|[2505.05185v1](http://arxiv.org/abs/2505.05185v1)|null|
+|**2025-05-08**|**Sparse Training from Random Initialization: Aligning Lottery Ticket Masks using Weight Symmetry**|Mohammed Adnan et.al.|[2505.05143v1](http://arxiv.org/abs/2505.05143v1)|null|
+|**2025-05-08**|**Non-invertible symmetry as an axion-less solution to the strong CP problem**|Qiuyue Liang et.al.|[2505.05142v1](http://arxiv.org/abs/2505.05142v1)|null|
+|**2025-05-08**|**Recent results of (semi)leptonic decays of charm hadrons at BESIII**|Xiang Pan et.al.|[2505.05123v1](http://arxiv.org/abs/2505.05123v1)|null|
+|**2025-05-08**|**Unveiling Language-Specific Features in Large Language Models via Sparse Autoencoders**|Boyi Deng et.al.|[2505.05111v1](http://arxiv.org/abs/2505.05111v1)|null|
+|**2025-05-08**|**Mean pairwise distances in Rouse polymer subject to fast loop extrusion**|Ilya Nikitin et.al.|[2505.05097v1](http://arxiv.org/abs/2505.05097v1)|null|
+|**2025-05-08**|**Peak Broadening in Photoelectron Spectroscopy of Amorphous Polymers: the Leading Role of the Electrostatic Landscape**|Laura Galleni et.al.|[2505.05072v1](http://arxiv.org/abs/2505.05072v1)|null|
+|**2025-05-08**|**Statistical CSI Acquisition for Multi-frequency Massive MIMO Systems**|Jinke Tang et.al.|[2505.05045v1](http://arxiv.org/abs/2505.05045v1)|null|
+|**2025-05-08**|**Sample Complexity of Identifying the Nonredundancy of Nontransitive Games in Dueling Bandits**|Shang Lu et.al.|[2505.05014v1](http://arxiv.org/abs/2505.05014v1)|null|
+|**2025-05-08**|**Improving Global Motion Estimation in Sparse IMU-based Motion Capture with Physics**|Xinyu Yi et.al.|[2505.05010v1](http://arxiv.org/abs/2505.05010v1)|null|
+|**2025-05-08**|**CPP-DIP: Multi-objective Coverage Path Planning for MAVs in Dispersed and Irregular Plantations**|Weijie Kuang et.al.|[2505.04989v1](http://arxiv.org/abs/2505.04989v1)|null|
+|**2025-05-08**|**Dynamic Precoding for Near-Field Secure Communications: Implementation and Performance Analysis**|Zihao Teng et.al.|[2505.04968v1](http://arxiv.org/abs/2505.04968v1)|null|
+|**2025-05-08**|**DenseGrounding: Improving Dense Language-Vision Semantics for Ego-Centric 3D Visual Grounding**|Henry Zheng et.al.|[2505.04965v1](http://arxiv.org/abs/2505.04965v1)|null|
+|**2025-05-08**|**In memoriam: aspects of Santosh Kumar's work on exact results in RMT**|Peter J. Forrester et.al.|[2505.04943v1](http://arxiv.org/abs/2505.04943v1)|null|
+|**2025-05-08**|**Fluid Antenna-Assisted MU-MIMO Systems with Decentralized Baseband Processing**|Tianyi Liao et.al.|[2505.04936v1](http://arxiv.org/abs/2505.04936v1)|null|
+|**2025-05-08**|**Lyapunov exponents for products of truncated orthogonal matrices**|Dong Qichao et.al.|[2505.04928v1](http://arxiv.org/abs/2505.04928v1)|null|
+|**2025-05-08**|**PSSketch: Finding Persistent and Sparse Flow with High Accuracy and Efficiency**|Jiayao Wang et.al.|[2505.04892v1](http://arxiv.org/abs/2505.04892v1)|null|
+|**2025-05-08**|**Clustering with Communication: A Variational Framework for Single Cell Representation Learning**|Cong Qi et.al.|[2505.04891v1](http://arxiv.org/abs/2505.04891v1)|null|
 
 ## AI
 
