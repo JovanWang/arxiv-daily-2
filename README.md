@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-05-12 21:00:42 Asia/Shanghai
+ Automated deployment @ 2025-05-13 08:43:47 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -8,40 +8,6 @@
 ### Sparse Operator
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-
-### Sparse Data Format
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2025-05-09**|**From Fermions to Qubits: A ZX-Calculus Perspective**|Haytham McDowall-Rose et.al.|[2505.06212v1](http://arxiv.org/abs/2505.06212v1)|null|
-|**2025-05-09**|**Auto Tensor Singular Value Thresholding: A Non-Iterative and Rank-Free Framework for Tensor Denoising**|Hiroki Hasegawa et.al.|[2505.06203v1](http://arxiv.org/abs/2505.06203v1)|null|
-|**2025-05-09**|**A categorification of combinatorial Auslander-Reiten quivers**|Ricardo Canesin et.al.|[2505.06147v1](http://arxiv.org/abs/2505.06147v1)|null|
-|**2025-05-09**|**Inverse problems for finite Jacobi matrices and Krein--Stieltjes strings**|Alexander Mikhaylov et.al.|[2505.06143v1](http://arxiv.org/abs/2505.06143v1)|null|
-|**2025-05-09**|**Inverse Problem for the Schrödinger Equation with Non-self-adjoint Matrix Potential**|Sergei Avdonin et.al.|[2505.06142v1](http://arxiv.org/abs/2505.06142v1)|null|
-|**2025-05-09**|**Fast recovery of parametric eigenvalues depending on several parameters and location of high order exceptional points**|Benoit Nennig et.al.|[2505.06141v1](http://arxiv.org/abs/2505.06141v1)|null|
-|**2025-05-09**|**Mechanical form factors and densities of non-relativistic fermions**|Adam Freese et.al.|[2505.06135v1](http://arxiv.org/abs/2505.06135v1)|null|
-|**2025-05-09**|**Assessing Tenstorrent's RISC-V MatMul Acceleration Capabilities**|Hiari Pizzini Cavagna et.al.|[2505.06085v1](http://arxiv.org/abs/2505.06085v1)|null|
-|**2025-05-09**|**Instantons and Vermas: the Abelian Case**|Boan Zhao et.al.|[2505.06075v1](http://arxiv.org/abs/2505.06075v1)|null|
-|**2025-05-09**|**Scheduled Jacobian Chaining**|Simon Märtens et.al.|[2505.06056v1](http://arxiv.org/abs/2505.06056v1)|[link](https://github.com/STCE-at-RWTH/Jacobian-Chaining)|
-|**2025-05-09**|**Triangular preconditioners for double saddle point linear systems arising in the mixed form of poroelasticity equations**|Luca Bergamaschi et.al.|[2505.06043v1](http://arxiv.org/abs/2505.06043v1)|null|
-|**2025-05-09**|**Mass spectrum of heavy tetraquarks in variational approach**|A. V. Eskin et.al.|[2505.05993v1](http://arxiv.org/abs/2505.05993v1)|null|
-|**2025-05-09**|**Free positive multiplicative Brownian motion and the free additive convolution of semicircle and uniform distribution**|Martin Auer et.al.|[2505.05984v1](http://arxiv.org/abs/2505.05984v1)|null|
-|**2025-05-09**|**Architectural Exploration of Hybrid Neural Decoders for Neuromorphic Implantable BMI**|Vivek Mohan et.al.|[2505.05983v1](http://arxiv.org/abs/2505.05983v1)|null|
-|**2025-05-09**|**Hyperbolic and Elliptic Points Tracking Algorithm (HEPTA) in two-dimensional non-stationary velocity fields defined on a discrete grid**|A. A. Udalov et.al.|[2505.05975v1](http://arxiv.org/abs/2505.05975v1)|null|
-|**2025-05-09**|**Beyond Diagonal RIS Design for Parameter Estimation With and Without Eavesdropping**|Özlem Tuğfe Demir et.al.|[2505.05971v1](http://arxiv.org/abs/2505.05971v1)|null|
-|**2025-05-09**|**Forecasting the evolution of three-dimensional turbulent recirculating flows from sparse sensor data**|George Papadakis et.al.|[2505.05955v1](http://arxiv.org/abs/2505.05955v1)|null|
-|**2025-05-09**|**FloE: On-the-Fly MoE Inference**|Yuxin Zhou et.al.|[2505.05950v1](http://arxiv.org/abs/2505.05950v1)|null|
-|**2025-05-09**|**Indirect Influence on Network Diffusion**|Lluís Torres-Hugas et.al.|[2505.05931v1](http://arxiv.org/abs/2505.05931v1)|null|
-|**2025-05-09**|**TTNOpt: Tree tensor network package for high-rank tensor compression**|Ryo Watanabe et.al.|[2505.05908v1](http://arxiv.org/abs/2505.05908v1)|null|
-|**2025-05-09**|**Consequences of the Moosbauer-Poole Algorithms**|Manuel Kauers et.al.|[2505.05896v1](http://arxiv.org/abs/2505.05896v1)|null|
-|**2025-05-09**|**LightNobel: Improving Sequence Length Limitation in Protein Structure Prediction Model via Adaptive Activation Quantization**|Seunghee Han et.al.|[2505.05893v1](http://arxiv.org/abs/2505.05893v1)|null|
-|**2025-05-09**|**Directed light emission from monolayers on 2D materials via optical interferences**|Pavel Trofimov et.al.|[2505.05865v1](http://arxiv.org/abs/2505.05865v1)|null|
-|**2025-05-09**|**Resonances and continued-fraction Green's functions in non-Hermitian Bose-Hubbard-like quantum models**|Miloslav Znojil et.al.|[2505.05850v1](http://arxiv.org/abs/2505.05850v1)|null|
-|**2025-05-09**|**Dynamical multipartite entanglement in a generalized Tavis-Cummings model with XY spin interaction**|Yuguo Su et.al.|[2505.05841v1](http://arxiv.org/abs/2505.05841v1)|null|
-|**2025-05-09**|**Automatic Basis Function Selection in Iterative Learning Control: A Sparsity-Promoting Approach Applied to an Industrial Printer**|Tjeerd Ickenroth et.al.|[2505.05835v1](http://arxiv.org/abs/2505.05835v1)|null|
-|**2025-05-09**|**Formation Maneuver Control Based on the Augmented Laplacian Method**|Xinzhe Zhou et.al.|[2505.05795v1](http://arxiv.org/abs/2505.05795v1)|null|
-|**2025-05-09**|**What Is Next for LLMs? Next-Generation AI Computing Hardware Using Photonic Chips**|Renjie Li et.al.|[2505.05794v1](http://arxiv.org/abs/2505.05794v1)|null|
-|**2025-05-09**|**Demystifying Diffusion Policies: Action Memorization and Simple Lookup Table Alternatives**|Chengyang He et.al.|[2505.05787v1](http://arxiv.org/abs/2505.05787v1)|null|
-|**2025-05-09**|**Rethinking Graph Out-Of-Distribution Generalization: A Learnable Random Walk Perspective**|Henan Sun et.al.|[2505.05785v1](http://arxiv.org/abs/2505.05785v1)|null|
 
 ### Sparse program Compile
 |Publish Date|Title|Authors|PDF|Code|
@@ -77,6 +43,40 @@
 |**2025-05-08**|**An Unsupervised Learning Method for Radio Interferometry Deconvolution**|Lei Yu et.al.|[2505.04887v1](http://arxiv.org/abs/2505.04887v1)|null|
 |**2025-05-08**|**Physics-informed solution reconstruction in elasticity and heat transfer using the explicit constraint force method**|Conor Rowan et.al.|[2505.04875v1](http://arxiv.org/abs/2505.04875v1)|null|
 
+### Sparse Data Format
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2025-05-09**|**From Fermions to Qubits: A ZX-Calculus Perspective**|Haytham McDowall-Rose et.al.|[2505.06212v1](http://arxiv.org/abs/2505.06212v1)|null|
+|**2025-05-09**|**Auto Tensor Singular Value Thresholding: A Non-Iterative and Rank-Free Framework for Tensor Denoising**|Hiroki Hasegawa et.al.|[2505.06203v1](http://arxiv.org/abs/2505.06203v1)|null|
+|**2025-05-09**|**A categorification of combinatorial Auslander-Reiten quivers**|Ricardo Canesin et.al.|[2505.06147v1](http://arxiv.org/abs/2505.06147v1)|null|
+|**2025-05-09**|**Inverse problems for finite Jacobi matrices and Krein--Stieltjes strings**|Alexander Mikhaylov et.al.|[2505.06143v1](http://arxiv.org/abs/2505.06143v1)|null|
+|**2025-05-09**|**Inverse Problem for the Schrödinger Equation with Non-self-adjoint Matrix Potential**|Sergei Avdonin et.al.|[2505.06142v1](http://arxiv.org/abs/2505.06142v1)|null|
+|**2025-05-09**|**Fast recovery of parametric eigenvalues depending on several parameters and location of high order exceptional points**|Benoit Nennig et.al.|[2505.06141v1](http://arxiv.org/abs/2505.06141v1)|null|
+|**2025-05-09**|**Mechanical form factors and densities of non-relativistic fermions**|Adam Freese et.al.|[2505.06135v1](http://arxiv.org/abs/2505.06135v1)|null|
+|**2025-05-09**|**Assessing Tenstorrent's RISC-V MatMul Acceleration Capabilities**|Hiari Pizzini Cavagna et.al.|[2505.06085v1](http://arxiv.org/abs/2505.06085v1)|null|
+|**2025-05-09**|**Instantons and Vermas: the Abelian Case**|Boan Zhao et.al.|[2505.06075v1](http://arxiv.org/abs/2505.06075v1)|null|
+|**2025-05-09**|**Scheduled Jacobian Chaining**|Simon Märtens et.al.|[2505.06056v1](http://arxiv.org/abs/2505.06056v1)|[link](https://github.com/STCE-at-RWTH/Jacobian-Chaining)|
+|**2025-05-09**|**Triangular preconditioners for double saddle point linear systems arising in the mixed form of poroelasticity equations**|Luca Bergamaschi et.al.|[2505.06043v1](http://arxiv.org/abs/2505.06043v1)|null|
+|**2025-05-09**|**Mass spectrum of heavy tetraquarks in variational approach**|A. V. Eskin et.al.|[2505.05993v1](http://arxiv.org/abs/2505.05993v1)|null|
+|**2025-05-09**|**Free positive multiplicative Brownian motion and the free additive convolution of semicircle and uniform distribution**|Martin Auer et.al.|[2505.05984v1](http://arxiv.org/abs/2505.05984v1)|null|
+|**2025-05-09**|**Architectural Exploration of Hybrid Neural Decoders for Neuromorphic Implantable BMI**|Vivek Mohan et.al.|[2505.05983v1](http://arxiv.org/abs/2505.05983v1)|null|
+|**2025-05-09**|**Hyperbolic and Elliptic Points Tracking Algorithm (HEPTA) in two-dimensional non-stationary velocity fields defined on a discrete grid**|A. A. Udalov et.al.|[2505.05975v1](http://arxiv.org/abs/2505.05975v1)|null|
+|**2025-05-09**|**Beyond Diagonal RIS Design for Parameter Estimation With and Without Eavesdropping**|Özlem Tuğfe Demir et.al.|[2505.05971v1](http://arxiv.org/abs/2505.05971v1)|null|
+|**2025-05-09**|**Forecasting the evolution of three-dimensional turbulent recirculating flows from sparse sensor data**|George Papadakis et.al.|[2505.05955v1](http://arxiv.org/abs/2505.05955v1)|null|
+|**2025-05-09**|**FloE: On-the-Fly MoE Inference**|Yuxin Zhou et.al.|[2505.05950v1](http://arxiv.org/abs/2505.05950v1)|null|
+|**2025-05-09**|**Indirect Influence on Network Diffusion**|Lluís Torres-Hugas et.al.|[2505.05931v1](http://arxiv.org/abs/2505.05931v1)|null|
+|**2025-05-09**|**TTNOpt: Tree tensor network package for high-rank tensor compression**|Ryo Watanabe et.al.|[2505.05908v1](http://arxiv.org/abs/2505.05908v1)|null|
+|**2025-05-09**|**Consequences of the Moosbauer-Poole Algorithms**|Manuel Kauers et.al.|[2505.05896v1](http://arxiv.org/abs/2505.05896v1)|null|
+|**2025-05-09**|**LightNobel: Improving Sequence Length Limitation in Protein Structure Prediction Model via Adaptive Activation Quantization**|Seunghee Han et.al.|[2505.05893v1](http://arxiv.org/abs/2505.05893v1)|null|
+|**2025-05-09**|**Directed light emission from monolayers on 2D materials via optical interferences**|Pavel Trofimov et.al.|[2505.05865v1](http://arxiv.org/abs/2505.05865v1)|null|
+|**2025-05-09**|**Resonances and continued-fraction Green's functions in non-Hermitian Bose-Hubbard-like quantum models**|Miloslav Znojil et.al.|[2505.05850v1](http://arxiv.org/abs/2505.05850v1)|null|
+|**2025-05-09**|**Dynamical multipartite entanglement in a generalized Tavis-Cummings model with XY spin interaction**|Yuguo Su et.al.|[2505.05841v1](http://arxiv.org/abs/2505.05841v1)|null|
+|**2025-05-09**|**Automatic Basis Function Selection in Iterative Learning Control: A Sparsity-Promoting Approach Applied to an Industrial Printer**|Tjeerd Ickenroth et.al.|[2505.05835v1](http://arxiv.org/abs/2505.05835v1)|null|
+|**2025-05-09**|**Formation Maneuver Control Based on the Augmented Laplacian Method**|Xinzhe Zhou et.al.|[2505.05795v1](http://arxiv.org/abs/2505.05795v1)|null|
+|**2025-05-09**|**What Is Next for LLMs? Next-Generation AI Computing Hardware Using Photonic Chips**|Renjie Li et.al.|[2505.05794v1](http://arxiv.org/abs/2505.05794v1)|null|
+|**2025-05-09**|**Demystifying Diffusion Policies: Action Memorization and Simple Lookup Table Alternatives**|Chengyang He et.al.|[2505.05787v1](http://arxiv.org/abs/2505.05787v1)|null|
+|**2025-05-09**|**Rethinking Graph Out-Of-Distribution Generalization: A Learnable Random Walk Perspective**|Henan Sun et.al.|[2505.05785v1](http://arxiv.org/abs/2505.05785v1)|null|
+
 ## AI
 
 ### LLM Agent
@@ -109,7 +109,7 @@
 |**2025-05-08**|**GesPrompt: Leveraging Co-Speech Gestures to Augment LLM-Based Interaction in Virtual Reality**|Xiyun Hu et.al.|[2505.05441v1](http://arxiv.org/abs/2505.05441v1)|null|
 |**2025-05-08**|**Reasoning Models Don't Always Say What They Think**|Yanda Chen et.al.|[2505.05410v1](http://arxiv.org/abs/2505.05410v1)|null|
 |**2025-05-08**|**Benchmarking Vision, Language, & Action Models in Procedurally Generated, Open Ended Action Environments**|Pranav Guruprasad et.al.|[2505.05540v1](http://arxiv.org/abs/2505.05540v1)|null|
-|**2025-05-08**|**GeomHair: Reconstruction of Hair Strands from Colorless 3D Scans**|Rachmadio Noval Lazuardi et.al.|[2505.05376v1](http://arxiv.org/abs/2505.05376v1)|null|
+|**2025-05-08**|**GeomHair: Reconstruction of Hair Strands from Colorless 3D Scans**|Rachmadio Noval Lazuardi et.al.|[2505.05376v2](http://arxiv.org/abs/2505.05376v2)|null|
 |**2025-05-08**|**PlaceIt3D: Language-Guided Object Placement in Real 3D Scenes**|Ahmed Abdelreheem et.al.|[2505.05288v1](http://arxiv.org/abs/2505.05288v1)|null|
 |**2025-05-08**|**Polaritonic Quantum Matter**|D. N. Basov et.al.|[2505.05285v1](http://arxiv.org/abs/2505.05285v1)|null|
 
