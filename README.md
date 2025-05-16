@@ -1,43 +1,9 @@
 # arxiv-daily
- Automated deployment @ 2025-05-16 20:59:14 Asia/Shanghai
+ Automated deployment @ 2025-05-16 21:28:31 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
 ## Sparse Computing
-
-### Sparse Data Format
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2025-05-15**|**Spectra of contractions of the Gaussian Orthogonal Tensor Ensemble**|Soumendu Sundar Mukherjee et.al.|[2505.10555v1](http://arxiv.org/abs/2505.10555v1)|null|
-|**2025-05-15**|**Can On Body Sensing Be Spatial Adaptive?**|Shubham Rohal et.al.|[2505.10546v1](http://arxiv.org/abs/2505.10546v1)|null|
-|**2025-05-15**|**On the uniqueness of the Kerr-(A)dS metric as a type II(D) solution in six dimensions**|David Kokoška et.al.|[2505.10532v1](http://arxiv.org/abs/2505.10532v1)|null|
-|**2025-05-15**|**Variational Seasonal-Trend Decomposition with Sparse Continuous-Domain Regularization**|Julien Fageot et.al.|[2505.10486v1](http://arxiv.org/abs/2505.10486v1)|null|
-|**2025-05-15**|**Some algebraic properties of ASM varieties**|Ilani Axelrod-Freed et.al.|[2505.10480v1](http://arxiv.org/abs/2505.10480v1)|null|
-|**2025-05-15**|**A possible periodic RM evolution in the repeating FRB 20220529**|Yi-Fang Liang et.al.|[2505.10463v1](http://arxiv.org/abs/2505.10463v1)|null|
-|**2025-05-15**|**Compressed sensing quantum state tomography for qudits: A comparison of Gell-Mann and Heisenberg-Weyl observable bases**|Yoshiyuki Kakihara et.al.|[2505.10462v1](http://arxiv.org/abs/2505.10462v1)|null|
-|**2025-05-15**|**IN-RIL: Interleaved Reinforcement and Imitation Learning for Policy Fine-Tuning**|Dechen Gao et.al.|[2505.10442v1](http://arxiv.org/abs/2505.10442v1)|null|
-|**2025-05-15**|**First Results on the Search for Lepton Number Violating Neutrinoless Double Beta Decay with the LEGEND-200 Experiment**|H. Acharya et.al.|[2505.10440v1](http://arxiv.org/abs/2505.10440v1)|null|
-|**2025-05-15**|**Identification and Optimal Nonlinear Control of Turbojet Engine Using Koopman Eigenfunction Model**|David Grasev et.al.|[2505.10438v1](http://arxiv.org/abs/2505.10438v1)|null|
-|**2025-05-15**|**Double $φ$-meson production via $\bar{p}p$ scattering**|Dayoung Lee et.al.|[2505.10437v1](http://arxiv.org/abs/2505.10437v1)|null|
-|**2025-05-15**|**Learning to Think: Information-Theoretic Reinforcement Fine-Tuning for LLMs**|Jingyao Wang et.al.|[2505.10425v1](http://arxiv.org/abs/2505.10425v1)|null|
-|**2025-05-15**|**Are Sparse Autoencoders Useful for Java Function Bug Detection?**|Rui Melo et.al.|[2505.10375v1](http://arxiv.org/abs/2505.10375v1)|null|
-|**2025-05-15**|**LDIR: Low-Dimensional Dense and Interpretable Text Embeddings with Relative Representations**|Yile Wang et.al.|[2505.10354v1](http://arxiv.org/abs/2505.10354v1)|[link](https://github.com/szu-tera/ldir)|
-|**2025-05-15**|**Comparative Study of Indicators of Chaos in the Closed and Open Dicke Model**|Prasad Pawar et.al.|[2505.10327v1](http://arxiv.org/abs/2505.10327v1)|null|
-|**2025-05-15**|**Global locations of Schmidt number witnesses**|Kyung Hoon Han et.al.|[2505.10288v1](http://arxiv.org/abs/2505.10288v1)|null|
-|**2025-05-15**|**Comparative Analysis of Richardson-Lucy Deconvolution and Data Unfolding with Mean Integrated Square Error Optimization**|Nikolay D. Gagunashvili et.al.|[2505.10283v1](http://arxiv.org/abs/2505.10283v1)|null|
-|**2025-05-15**|**Electric Bus Charging Schedules Relying on Real Data-Driven Targets Based on Hierarchical Deep Reinforcement Learning**|Jiaju Qi et.al.|[2505.10262v1](http://arxiv.org/abs/2505.10262v1)|null|
-|**2025-05-15**|**VQ-Logits: Compressing the Output Bottleneck of Large Language Models via Vector Quantized Logits**|Jintian Shao et.al.|[2505.10202v1](http://arxiv.org/abs/2505.10202v1)|null|
-|**2025-05-15**|**Passive Channel Charting: Locating Passive Targets using a UWB Mesh**|Raffael Poeggel et.al.|[2505.10194v1](http://arxiv.org/abs/2505.10194v1)|null|
-|**2025-05-15**|**The Tangent Space Attack**|Axel Lemoine et.al.|[2505.10184v1](http://arxiv.org/abs/2505.10184v1)|null|
-|**2025-05-15**|**The finiteness conjecture for $3 \times 3$ binary matrices**|Thomas Mejstrik et.al.|[2505.10178v1](http://arxiv.org/abs/2505.10178v1)|null|
-|**2025-05-15**|**All You Need Is Synthetic Task Augmentation**|Guillaume Godin et.al.|[2505.10120v1](http://arxiv.org/abs/2505.10120v1)|null|
-|**2025-05-15**|**Data-driven discovery of the equations of turbulent convection**|Christopher J. Wareing et.al.|[2505.10109v1](http://arxiv.org/abs/2505.10109v1)|null|
-|**2025-05-15**|**A Scalable Gradient-Based Optimization Framework for Sparse Minimum-Variance Portfolio Selection**|Sarat Moka et.al.|[2505.10099v1](http://arxiv.org/abs/2505.10099v1)|[link](https://github.com/saratmoka/grid-fw)|
-|**2025-05-15**|**Exploring Large Quantities of Secondary Data from High-Resolution Synchrotron X-ray Computed Tomography Scans Using AccuStripes**|Anja Heim et.al.|[2505.10098v1](http://arxiv.org/abs/2505.10098v1)|null|
-|**2025-05-15**|**On the quasi-similarity of operators with flag structure**|Xie yufang et.al.|[2505.10086v1](http://arxiv.org/abs/2505.10086v1)|null|
-|**2025-05-15**|**Multi-Robot Task Allocation for Homogeneous Tasks with Collision Avoidance via Spatial Clustering**|Rathin Chandra Shit et.al.|[2505.10073v1](http://arxiv.org/abs/2505.10073v1)|null|
-|**2025-05-15**|**Improving Power Systems Controllability via Edge Centrality Measures**|MirSaleh Bahavarnia et.al.|[2505.10059v1](http://arxiv.org/abs/2505.10059v1)|null|
-|**2025-05-15**|**QR$^2$-code: An open-source program for double resonance Raman spectra**|Jianqi Huang et.al.|[2505.10041v1](http://arxiv.org/abs/2505.10041v1)|null|
 
 ### Sparse Operator
 |Publish Date|Title|Authors|PDF|Code|
@@ -76,6 +42,40 @@
 |**2025-05-14**|**Multilevel Circuit Optimization in Quantum Compilers: A Case Study**|Tamiya Onodera et.al.|[2505.09320v1](http://arxiv.org/abs/2505.09320v1)|null|
 |**2025-05-14**|**Generating Full-field Evolution of Physical Dynamics from Irregular Sparse Observations**|Panqi Chen et.al.|[2505.09284v1](http://arxiv.org/abs/2505.09284v1)|null|
 |**2025-05-14**|**Cut Groups: The Progress And The Problems**|Seema Chahal et.al.|[2505.09281v1](http://arxiv.org/abs/2505.09281v1)|null|
+
+### Sparse Data Format
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2025-05-15**|**Spectra of contractions of the Gaussian Orthogonal Tensor Ensemble**|Soumendu Sundar Mukherjee et.al.|[2505.10555v1](http://arxiv.org/abs/2505.10555v1)|null|
+|**2025-05-15**|**Can On Body Sensing Be Spatial Adaptive?**|Shubham Rohal et.al.|[2505.10546v1](http://arxiv.org/abs/2505.10546v1)|null|
+|**2025-05-15**|**On the uniqueness of the Kerr-(A)dS metric as a type II(D) solution in six dimensions**|David Kokoška et.al.|[2505.10532v1](http://arxiv.org/abs/2505.10532v1)|null|
+|**2025-05-15**|**Variational Seasonal-Trend Decomposition with Sparse Continuous-Domain Regularization**|Julien Fageot et.al.|[2505.10486v1](http://arxiv.org/abs/2505.10486v1)|null|
+|**2025-05-15**|**Some algebraic properties of ASM varieties**|Ilani Axelrod-Freed et.al.|[2505.10480v1](http://arxiv.org/abs/2505.10480v1)|null|
+|**2025-05-15**|**A possible periodic RM evolution in the repeating FRB 20220529**|Yi-Fang Liang et.al.|[2505.10463v1](http://arxiv.org/abs/2505.10463v1)|null|
+|**2025-05-15**|**Compressed sensing quantum state tomography for qudits: A comparison of Gell-Mann and Heisenberg-Weyl observable bases**|Yoshiyuki Kakihara et.al.|[2505.10462v1](http://arxiv.org/abs/2505.10462v1)|null|
+|**2025-05-15**|**IN-RIL: Interleaved Reinforcement and Imitation Learning for Policy Fine-Tuning**|Dechen Gao et.al.|[2505.10442v1](http://arxiv.org/abs/2505.10442v1)|null|
+|**2025-05-15**|**First Results on the Search for Lepton Number Violating Neutrinoless Double Beta Decay with the LEGEND-200 Experiment**|H. Acharya et.al.|[2505.10440v1](http://arxiv.org/abs/2505.10440v1)|null|
+|**2025-05-15**|**Identification and Optimal Nonlinear Control of Turbojet Engine Using Koopman Eigenfunction Model**|David Grasev et.al.|[2505.10438v1](http://arxiv.org/abs/2505.10438v1)|null|
+|**2025-05-15**|**Double $φ$-meson production via $\bar{p}p$ scattering**|Dayoung Lee et.al.|[2505.10437v1](http://arxiv.org/abs/2505.10437v1)|null|
+|**2025-05-15**|**Learning to Think: Information-Theoretic Reinforcement Fine-Tuning for LLMs**|Jingyao Wang et.al.|[2505.10425v1](http://arxiv.org/abs/2505.10425v1)|null|
+|**2025-05-15**|**Are Sparse Autoencoders Useful for Java Function Bug Detection?**|Rui Melo et.al.|[2505.10375v1](http://arxiv.org/abs/2505.10375v1)|null|
+|**2025-05-15**|**LDIR: Low-Dimensional Dense and Interpretable Text Embeddings with Relative Representations**|Yile Wang et.al.|[2505.10354v1](http://arxiv.org/abs/2505.10354v1)|[link](https://github.com/szu-tera/ldir)|
+|**2025-05-15**|**Comparative Study of Indicators of Chaos in the Closed and Open Dicke Model**|Prasad Pawar et.al.|[2505.10327v1](http://arxiv.org/abs/2505.10327v1)|null|
+|**2025-05-15**|**Global locations of Schmidt number witnesses**|Kyung Hoon Han et.al.|[2505.10288v1](http://arxiv.org/abs/2505.10288v1)|null|
+|**2025-05-15**|**Comparative Analysis of Richardson-Lucy Deconvolution and Data Unfolding with Mean Integrated Square Error Optimization**|Nikolay D. Gagunashvili et.al.|[2505.10283v1](http://arxiv.org/abs/2505.10283v1)|null|
+|**2025-05-15**|**Electric Bus Charging Schedules Relying on Real Data-Driven Targets Based on Hierarchical Deep Reinforcement Learning**|Jiaju Qi et.al.|[2505.10262v1](http://arxiv.org/abs/2505.10262v1)|null|
+|**2025-05-15**|**VQ-Logits: Compressing the Output Bottleneck of Large Language Models via Vector Quantized Logits**|Jintian Shao et.al.|[2505.10202v1](http://arxiv.org/abs/2505.10202v1)|null|
+|**2025-05-15**|**Passive Channel Charting: Locating Passive Targets using a UWB Mesh**|Raffael Poeggel et.al.|[2505.10194v1](http://arxiv.org/abs/2505.10194v1)|null|
+|**2025-05-15**|**The Tangent Space Attack**|Axel Lemoine et.al.|[2505.10184v1](http://arxiv.org/abs/2505.10184v1)|null|
+|**2025-05-15**|**The finiteness conjecture for $3 \times 3$ binary matrices**|Thomas Mejstrik et.al.|[2505.10178v1](http://arxiv.org/abs/2505.10178v1)|null|
+|**2025-05-15**|**All You Need Is Synthetic Task Augmentation**|Guillaume Godin et.al.|[2505.10120v1](http://arxiv.org/abs/2505.10120v1)|null|
+|**2025-05-15**|**Data-driven discovery of the equations of turbulent convection**|Christopher J. Wareing et.al.|[2505.10109v1](http://arxiv.org/abs/2505.10109v1)|null|
+|**2025-05-15**|**A Scalable Gradient-Based Optimization Framework for Sparse Minimum-Variance Portfolio Selection**|Sarat Moka et.al.|[2505.10099v1](http://arxiv.org/abs/2505.10099v1)|[link](https://github.com/saratmoka/grid-fw)|
+|**2025-05-15**|**Exploring Large Quantities of Secondary Data from High-Resolution Synchrotron X-ray Computed Tomography Scans Using AccuStripes**|Anja Heim et.al.|[2505.10098v1](http://arxiv.org/abs/2505.10098v1)|null|
+|**2025-05-15**|**On the quasi-similarity of operators with flag structure**|Xie yufang et.al.|[2505.10086v1](http://arxiv.org/abs/2505.10086v1)|null|
+|**2025-05-15**|**Multi-Robot Task Allocation for Homogeneous Tasks with Collision Avoidance via Spatial Clustering**|Rathin Chandra Shit et.al.|[2505.10073v1](http://arxiv.org/abs/2505.10073v1)|null|
+|**2025-05-15**|**Improving Power Systems Controllability via Edge Centrality Measures**|MirSaleh Bahavarnia et.al.|[2505.10059v1](http://arxiv.org/abs/2505.10059v1)|null|
+|**2025-05-15**|**QR$^2$-code: An open-source program for double resonance Raman spectra**|Jianqi Huang et.al.|[2505.10041v1](http://arxiv.org/abs/2505.10041v1)|null|
 
 ## AI
 
