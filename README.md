@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-05-22 20:17:47 Asia/Shanghai
+ Automated deployment @ 2025-05-22 21:00:41 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -8,40 +8,6 @@
 ### Sparse Operator
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-
-### Sparse Data Format
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2025-05-21**|**STAR-R1: Spacial TrAnsformation Reasoning by Reinforcing Multimodal LLMs**|Zongzhao Li et.al.|[2505.15804v1](http://arxiv.org/abs/2505.15804v1)|null|
-|**2025-05-21**|**VARD: Efficient and Dense Fine-Tuning for Diffusion Models with Value-based RL**|Fengyuan Dai et.al.|[2505.15791v1](http://arxiv.org/abs/2505.15791v1)|null|
-|**2025-05-21**|**Flavour hierarchies, extended groups and composites**|Javier M. Lizana et.al.|[2505.15787v1](http://arxiv.org/abs/2505.15787v1)|null|
-|**2025-05-21**|**RUSplatting: Robust 3D Gaussian Splatting for Sparse-View Underwater Scene Reconstruction**|Zhuodong Jiang et.al.|[2505.15737v1](http://arxiv.org/abs/2505.15737v1)|null|
-|**2025-05-21**|**Fluctuations of Young diagrams for symplectic groups and semiclassical orthogonal polynomials**|Anton Nazarov et.al.|[2505.15726v1](http://arxiv.org/abs/2505.15726v1)|null|
-|**2025-05-21**|**SENSE -- Sensor-Enhanced Neural Shear Stress Estimation for Quantitative Oilfilm Visualizations**|Lennart Rohlfs et.al.|[2505.15697v1](http://arxiv.org/abs/2505.15697v1)|null|
-|**2025-05-21**|**Deep greedy unfolding: Sorting out argsorting in greedy sparse recovery algorithms**|Sina Mohammad-Taheri et.al.|[2505.15661v1](http://arxiv.org/abs/2505.15661v1)|null|
-|**2025-05-21**|**First-order transducibility among classes of sparse graphs**|Jakub Gajarský et.al.|[2505.15655v1](http://arxiv.org/abs/2505.15655v1)|null|
-|**2025-05-21**|**Quantifying structural uncertainty in chemical reaction network inference**|Yong See Foo et.al.|[2505.15653v1](http://arxiv.org/abs/2505.15653v1)|null|
-|**2025-05-21**|**Feature Extraction and Steering for Enhanced Chain-of-Thought Reasoning in Language Models**|Zihao Li et.al.|[2505.15634v1](http://arxiv.org/abs/2505.15634v1)|null|
-|**2025-05-21**|**Permutons from Demazure Products**|Colin Defant et.al.|[2505.15630v1](http://arxiv.org/abs/2505.15630v1)|null|
-|**2025-05-21**|**Mechanistic Insights into Grokking from the Embedding Layer**|H. V. AlquBoj et.al.|[2505.15624v1](http://arxiv.org/abs/2505.15624v1)|null|
-|**2025-05-21**|**Improved power methods for computing eigenvalues of dual quaternion Hermitian matrices**|Yongjun Chen et.al.|[2505.15584v1](http://arxiv.org/abs/2505.15584v1)|null|
-|**2025-05-21**|**Temporal Spectrum Cartography in Low-Altitude Economy Networks: A Generative AI Framework with Multi-Agent Learning**|Changyuan Zhao et.al.|[2505.15571v1](http://arxiv.org/abs/2505.15571v1)|null|
-|**2025-05-21**|**Heavy-tailed and Horseshoe priors for regression and sparse Besov rates**|Sergios Agapiou et.al.|[2505.15543v1](http://arxiv.org/abs/2505.15543v1)|null|
-|**2025-05-21**|**Matrix-Free Methods for Finite-Strain Elasticity: Automatic Code Generation with No Performance Overhead**|Michał Wichrowski et.al.|[2505.15535v1](http://arxiv.org/abs/2505.15535v1)|null|
-|**2025-05-21**|**Evaluate Bias without Manual Test Sets: A Concept Representation Perspective for LLMs**|Lang Gao et.al.|[2505.15524v1](http://arxiv.org/abs/2505.15524v1)|null|
-|**2025-05-21**|**First-principles calculations of transport coefficients in Weyl semimetal TaAs**|Guillaume E. Allemand et.al.|[2505.15522v1](http://arxiv.org/abs/2505.15522v1)|null|
-|**2025-05-21**|**Beyond Linearity: Squeeze-and-Recalibrate Blocks for Few-Shot Whole Slide Image Classification**|Conghao Xiong et.al.|[2505.15504v1](http://arxiv.org/abs/2505.15504v1)|null|
-|**2025-05-21**|**SINR Maximizing Distributionally Robust Adaptive Beamforming**|Kiarash Hassas Irani et.al.|[2505.15493v1](http://arxiv.org/abs/2505.15493v1)|null|
-|**2025-05-21**|**Machine Learning Derived Blood Input for Dynamic PET Images of Rat Heart**|Shubhrangshu Debsarkar et.al.|[2505.15488v1](http://arxiv.org/abs/2505.15488v1)|null|
-|**2025-05-21**|**Uncertainty Quantification in SVM prediction**|Pritam Anand et.al.|[2505.15429v1](http://arxiv.org/abs/2505.15429v1)|null|
-|**2025-05-21**|**Efficient Data Driven Mixture-of-Expert Extraction from Trained Networks**|Uranik Berisha et.al.|[2505.15414v1](http://arxiv.org/abs/2505.15414v1)|null|
-|**2025-05-21**|**Quadrupole Strength in Isobaric Triplets**|B. C. Backes et.al.|[2505.15375v1](http://arxiv.org/abs/2505.15375v1)|null|
-|**2025-05-21**|**SoftHGNN: Soft Hypergraph Neural Networks for General Visual Recognition**|Mengqi Lei et.al.|[2505.15325v1](http://arxiv.org/abs/2505.15325v1)|[link](https://github.com/Mengqi-Lei/SoftHGNN)|
-|**2025-05-21**|**GS2E: Gaussian Splatting is an Effective Data Generator for Event Stream Generation**|Yuchen Li et.al.|[2505.15287v1](http://arxiv.org/abs/2505.15287v1)|null|
-|**2025-05-21**|**Kernel PCA for Out-of-Distribution Detection: Non-Linear Kernel Selections and Approximations**|Kun Fang et.al.|[2505.15284v1](http://arxiv.org/abs/2505.15284v1)|null|
-|**2025-05-21**|**Exponential moments for Hawkes processes under minimal assumptions**|Théo Leblanc et.al.|[2505.15253v1](http://arxiv.org/abs/2505.15253v1)|null|
-|**2025-05-21**|**Direct reconstruction of the quantum density matrix elements with classical shadow tomography**|Yu Wang et.al.|[2505.15243v1](http://arxiv.org/abs/2505.15243v1)|null|
-|**2025-05-21**|**X-GRM: Large Gaussian Reconstruction Model for Sparse-view X-rays to Computed Tomography**|Yifan Liu et.al.|[2505.15235v1](http://arxiv.org/abs/2505.15235v1)|[link](https://github.com/cuhk-aim-group/x-grm)|
 
 ### Sparse program Compile
 |Publish Date|Title|Authors|PDF|Code|
@@ -76,6 +42,40 @@
 |**2025-05-21**|**Analyzing Stellar and Interstellar Contributions to Polarization: Modeling Approaches for Hot Stars**|R Ignace et.al.|[2505.15028v1](http://arxiv.org/abs/2505.15028v1)|null|
 |**2025-05-21**|**CRAFT: Training-Free Cascaded Retrieval for Tabular QA**|Adarsh Singh et.al.|[2505.14984v1](http://arxiv.org/abs/2505.14984v1)|null|
 |**2025-05-20**|**JARVIS: A Multi-Agent Code Assistant for High-Quality EDA Script Generation**|Ghasem Pasandi et.al.|[2505.14978v1](http://arxiv.org/abs/2505.14978v1)|null|
+
+### Sparse Data Format
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2025-05-21**|**STAR-R1: Spacial TrAnsformation Reasoning by Reinforcing Multimodal LLMs**|Zongzhao Li et.al.|[2505.15804v1](http://arxiv.org/abs/2505.15804v1)|null|
+|**2025-05-21**|**VARD: Efficient and Dense Fine-Tuning for Diffusion Models with Value-based RL**|Fengyuan Dai et.al.|[2505.15791v1](http://arxiv.org/abs/2505.15791v1)|null|
+|**2025-05-21**|**Flavour hierarchies, extended groups and composites**|Javier M. Lizana et.al.|[2505.15787v1](http://arxiv.org/abs/2505.15787v1)|null|
+|**2025-05-21**|**RUSplatting: Robust 3D Gaussian Splatting for Sparse-View Underwater Scene Reconstruction**|Zhuodong Jiang et.al.|[2505.15737v1](http://arxiv.org/abs/2505.15737v1)|null|
+|**2025-05-21**|**Fluctuations of Young diagrams for symplectic groups and semiclassical orthogonal polynomials**|Anton Nazarov et.al.|[2505.15726v1](http://arxiv.org/abs/2505.15726v1)|null|
+|**2025-05-21**|**SENSE -- Sensor-Enhanced Neural Shear Stress Estimation for Quantitative Oilfilm Visualizations**|Lennart Rohlfs et.al.|[2505.15697v1](http://arxiv.org/abs/2505.15697v1)|null|
+|**2025-05-21**|**Deep greedy unfolding: Sorting out argsorting in greedy sparse recovery algorithms**|Sina Mohammad-Taheri et.al.|[2505.15661v1](http://arxiv.org/abs/2505.15661v1)|null|
+|**2025-05-21**|**First-order transducibility among classes of sparse graphs**|Jakub Gajarský et.al.|[2505.15655v1](http://arxiv.org/abs/2505.15655v1)|null|
+|**2025-05-21**|**Quantifying structural uncertainty in chemical reaction network inference**|Yong See Foo et.al.|[2505.15653v1](http://arxiv.org/abs/2505.15653v1)|null|
+|**2025-05-21**|**Feature Extraction and Steering for Enhanced Chain-of-Thought Reasoning in Language Models**|Zihao Li et.al.|[2505.15634v1](http://arxiv.org/abs/2505.15634v1)|null|
+|**2025-05-21**|**Permutons from Demazure Products**|Colin Defant et.al.|[2505.15630v1](http://arxiv.org/abs/2505.15630v1)|null|
+|**2025-05-21**|**Mechanistic Insights into Grokking from the Embedding Layer**|H. V. AlquBoj et.al.|[2505.15624v1](http://arxiv.org/abs/2505.15624v1)|null|
+|**2025-05-21**|**Improved power methods for computing eigenvalues of dual quaternion Hermitian matrices**|Yongjun Chen et.al.|[2505.15584v1](http://arxiv.org/abs/2505.15584v1)|null|
+|**2025-05-21**|**Temporal Spectrum Cartography in Low-Altitude Economy Networks: A Generative AI Framework with Multi-Agent Learning**|Changyuan Zhao et.al.|[2505.15571v1](http://arxiv.org/abs/2505.15571v1)|null|
+|**2025-05-21**|**Heavy-tailed and Horseshoe priors for regression and sparse Besov rates**|Sergios Agapiou et.al.|[2505.15543v1](http://arxiv.org/abs/2505.15543v1)|null|
+|**2025-05-21**|**Matrix-Free Methods for Finite-Strain Elasticity: Automatic Code Generation with No Performance Overhead**|Michał Wichrowski et.al.|[2505.15535v1](http://arxiv.org/abs/2505.15535v1)|null|
+|**2025-05-21**|**Evaluate Bias without Manual Test Sets: A Concept Representation Perspective for LLMs**|Lang Gao et.al.|[2505.15524v1](http://arxiv.org/abs/2505.15524v1)|null|
+|**2025-05-21**|**First-principles calculations of transport coefficients in Weyl semimetal TaAs**|Guillaume E. Allemand et.al.|[2505.15522v1](http://arxiv.org/abs/2505.15522v1)|null|
+|**2025-05-21**|**Beyond Linearity: Squeeze-and-Recalibrate Blocks for Few-Shot Whole Slide Image Classification**|Conghao Xiong et.al.|[2505.15504v1](http://arxiv.org/abs/2505.15504v1)|null|
+|**2025-05-21**|**SINR Maximizing Distributionally Robust Adaptive Beamforming**|Kiarash Hassas Irani et.al.|[2505.15493v1](http://arxiv.org/abs/2505.15493v1)|null|
+|**2025-05-21**|**Machine Learning Derived Blood Input for Dynamic PET Images of Rat Heart**|Shubhrangshu Debsarkar et.al.|[2505.15488v1](http://arxiv.org/abs/2505.15488v1)|null|
+|**2025-05-21**|**Uncertainty Quantification in SVM prediction**|Pritam Anand et.al.|[2505.15429v1](http://arxiv.org/abs/2505.15429v1)|null|
+|**2025-05-21**|**Efficient Data Driven Mixture-of-Expert Extraction from Trained Networks**|Uranik Berisha et.al.|[2505.15414v1](http://arxiv.org/abs/2505.15414v1)|null|
+|**2025-05-21**|**Quadrupole Strength in Isobaric Triplets**|B. C. Backes et.al.|[2505.15375v1](http://arxiv.org/abs/2505.15375v1)|null|
+|**2025-05-21**|**SoftHGNN: Soft Hypergraph Neural Networks for General Visual Recognition**|Mengqi Lei et.al.|[2505.15325v1](http://arxiv.org/abs/2505.15325v1)|[link](https://github.com/Mengqi-Lei/SoftHGNN)|
+|**2025-05-21**|**GS2E: Gaussian Splatting is an Effective Data Generator for Event Stream Generation**|Yuchen Li et.al.|[2505.15287v1](http://arxiv.org/abs/2505.15287v1)|null|
+|**2025-05-21**|**Kernel PCA for Out-of-Distribution Detection: Non-Linear Kernel Selections and Approximations**|Kun Fang et.al.|[2505.15284v1](http://arxiv.org/abs/2505.15284v1)|null|
+|**2025-05-21**|**Exponential moments for Hawkes processes under minimal assumptions**|Théo Leblanc et.al.|[2505.15253v1](http://arxiv.org/abs/2505.15253v1)|null|
+|**2025-05-21**|**Direct reconstruction of the quantum density matrix elements with classical shadow tomography**|Yu Wang et.al.|[2505.15243v1](http://arxiv.org/abs/2505.15243v1)|null|
+|**2025-05-21**|**X-GRM: Large Gaussian Reconstruction Model for Sparse-view X-rays to Computed Tomography**|Yifan Liu et.al.|[2505.15235v1](http://arxiv.org/abs/2505.15235v1)|[link](https://github.com/cuhk-aim-group/x-grm)|
 
 ## AI
 
