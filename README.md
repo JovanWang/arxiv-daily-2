@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-05-23 20:58:39 Asia/Shanghai
+ Automated deployment @ 2025-05-23 21:26:10 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -79,40 +79,6 @@
 
 ## AI
 
-### LLM Theory
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2025-05-22**|**GoT-R1: Unleashing Reasoning Capability of MLLM for Visual Generation with Reinforcement Learning**|Chengqi Duan et.al.|[2505.17022v1](http://arxiv.org/abs/2505.17022v1)|null|
-|**2025-05-22**|**Delving into RL for Image Generation with CoT: A Study on DPO vs. GRPO**|Chengzhuo Tong et.al.|[2505.17017v1](http://arxiv.org/abs/2505.17017v1)|null|
-|**2025-05-22**|**Deep mineralogical segmentation of thin section images based on QEMSCAN maps**|Jean Pablo Vieira de Mello et.al.|[2505.17008v1](http://arxiv.org/abs/2505.17008v1)|null|
-|**2025-05-22**|**CoMo: Learning Continuous Latent Motion from Internet Videos for Scalable Robot Learning**|Jiange Yang et.al.|[2505.17006v1](http://arxiv.org/abs/2505.17006v1)|null|
-|**2025-05-22**|**Guided Diffusion Sampling on Function Spaces with Applications to PDEs**|Jiachen Yao et.al.|[2505.17004v1](http://arxiv.org/abs/2505.17004v1)|null|
-|**2025-05-22**|**$\text{R}^2\text{ec}$: Towards Large Recommender Models with Reasoning**|Runyang You et.al.|[2505.16994v1](http://arxiv.org/abs/2505.16994v1)|null|
-|**2025-05-22**|**Native Segmentation Vision Transformers**|Guillem Brasó et.al.|[2505.16993v1](http://arxiv.org/abs/2505.16993v1)|null|
-|**2025-05-22**|**Dimple: Discrete Diffusion Multimodal Large Language Model with Parallel Decoding**|Runpeng Yu et.al.|[2505.16990v1](http://arxiv.org/abs/2505.16990v1)|null|
-|**2025-05-22**|**LLM as Effective Streaming Processor: Bridging Streaming-Batch Mismatches with Group Position Encoding**|Junlong Tong et.al.|[2505.16983v1](http://arxiv.org/abs/2505.16983v1)|null|
-|**2025-05-22**|**DarkNESS: A skipper-CCD NanoSatellite for Dark Matter Searches**|Phoenix Alpine et.al.|[2505.16981v1](http://arxiv.org/abs/2505.16981v1)|null|
-|**2025-05-22**|**Know the Ropes: A Heuristic Strategy for LLM-based Multi-Agent System Design**|Zhenkun Li et.al.|[2505.16979v1](http://arxiv.org/abs/2505.16979v1)|null|
-|**2025-05-22**|**Incorporating Visual Correspondence into Diffusion Model for Virtual Try-On**|Siqi Wan et.al.|[2505.16977v1](http://arxiv.org/abs/2505.16977v1)|null|
-|**2025-05-22**|**CASS: Nvidia to AMD Transpilation with Data, Models, and Benchmark**|Ahmed Heakl et.al.|[2505.16968v1](http://arxiv.org/abs/2505.16968v1)|null|
-|**2025-05-22**|**Bottlenecked Transformers: Periodic KV Cache Abstraction for Generalised Reasoning**|Adnan Oomerjee et.al.|[2505.16950v1](http://arxiv.org/abs/2505.16950v1)|null|
-|**2025-05-22**|**Quantum Routing and Entanglement Dynamics Through Bottlenecks**|Dhruv Devulapalli et.al.|[2505.16948v1](http://arxiv.org/abs/2505.16948v1)|null|
-|**2025-05-22**|**LLaDA-V: Large Language Diffusion Models with Visual Instruction Tuning**|Zebin You et.al.|[2505.16933v1](http://arxiv.org/abs/2505.16933v1)|null|
-|**2025-05-22**|**Beyond Needle(s) in the Embodied Haystack: Environment, Architecture, and Training Considerations for Long Context Reasoning**|Bosung Kim et.al.|[2505.16928v1](http://arxiv.org/abs/2505.16928v1)|null|
-|**2025-05-22**|**DetailMaster: Can Your Text-to-Image Model Handle Long Prompts?**|Qirui Jiao et.al.|[2505.16915v1](http://arxiv.org/abs/2505.16915v1)|null|
-|**2025-05-22**|**Active Speech Enhancement: Active Speech Denoising Decliping and Deveraberation**|Ofir Yaish et.al.|[2505.16911v1](http://arxiv.org/abs/2505.16911v1)|null|
-|**2025-05-22**|**Is Circuit Depth Accurate for Comparing Quantum Circuit Runtimes?**|Matthew Tremba et.al.|[2505.16908v1](http://arxiv.org/abs/2505.16908v1)|null|
-|**2025-05-22**|**Identifying, Evaluating, and Mitigating Risks of AI Thought Partnerships**|Kerem Oktar et.al.|[2505.16899v1](http://arxiv.org/abs/2505.16899v1)|null|
-|**2025-05-22**|**Quantum Compiler Design for Qubit Mapping and Routing: A Cross-Architectural Survey of Superconducting, Trapped-Ion, and Neutral Atom Systems**|Chenghong Zhu et.al.|[2505.16891v1](http://arxiv.org/abs/2505.16891v1)|null|
-|**2025-05-22**|**Inkspot: A stress-resilient, anthocyanin rich, dwarf tomato variant for off-world cultivation**|Sarah Lang et.al.|[2505.16890v1](http://arxiv.org/abs/2505.16890v1)|null|
-|**2025-05-22**|**A Multi-Step Comparative Framework for Anomaly Detection in IoT Data Streams**|Mohammed Al-Qudah et.al.|[2505.16872v1](http://arxiv.org/abs/2505.16872v1)|null|
-|**2025-05-22**|**LARES: Latent Reasoning for Sequential Recommendation**|Enze Liu et.al.|[2505.16865v1](http://arxiv.org/abs/2505.16865v1)|null|
-|**2025-05-22**|**Conditional Panoramic Image Generation via Masked Autoregressive Modeling**|Chaoyang Wang et.al.|[2505.16862v1](http://arxiv.org/abs/2505.16862v1)|null|
-|**2025-05-22**|**Think or Not? Selective Reasoning via Reinforcement Learning for Vision-Language Models**|Jiaqi Wang et.al.|[2505.16854v1](http://arxiv.org/abs/2505.16854v1)|null|
-|**2025-05-22**|**R1-Compress: Long Chain-of-Thought Compression via Chunk Compression and Search**|Yibo Wang et.al.|[2505.16838v1](http://arxiv.org/abs/2505.16838v1)|null|
-|**2025-05-22**|**Fact-R1: Towards Explainable Video Misinformation Detection with Deep Reasoning**|Fanrui Zhang et.al.|[2505.16836v1](http://arxiv.org/abs/2505.16836v1)|null|
-|**2025-05-22**|**Rotatable Antenna Enabled Wireless Communication and Sensing: Opportunities and Challenges**|Beixiong Zheng et.al.|[2505.16828v1](http://arxiv.org/abs/2505.16828v1)|null|
-
 ### LLM Agent
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -146,6 +112,40 @@
 |**2025-05-22**|**One-Step Diffusion-Based Image Compression with Semantic Distillation**|Naifu Xue et.al.|[2505.16687v1](http://arxiv.org/abs/2505.16687v1)|null|
 |**2025-05-22**|**Zero-Shot Anomaly Detection in Battery Thermal Images Using Visual Question Answering with Prior Knowledge**|Marcella Astrid et.al.|[2505.16674v1](http://arxiv.org/abs/2505.16674v1)|null|
 |**2025-05-22**|**BitHydra: Towards Bit-flip Inference Cost Attack against Large Language Models**|Xiaobei Yan et.al.|[2505.16670v1](http://arxiv.org/abs/2505.16670v1)|null|
+
+### LLM Theory
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2025-05-22**|**GoT-R1: Unleashing Reasoning Capability of MLLM for Visual Generation with Reinforcement Learning**|Chengqi Duan et.al.|[2505.17022v1](http://arxiv.org/abs/2505.17022v1)|null|
+|**2025-05-22**|**Delving into RL for Image Generation with CoT: A Study on DPO vs. GRPO**|Chengzhuo Tong et.al.|[2505.17017v1](http://arxiv.org/abs/2505.17017v1)|null|
+|**2025-05-22**|**Deep mineralogical segmentation of thin section images based on QEMSCAN maps**|Jean Pablo Vieira de Mello et.al.|[2505.17008v1](http://arxiv.org/abs/2505.17008v1)|null|
+|**2025-05-22**|**CoMo: Learning Continuous Latent Motion from Internet Videos for Scalable Robot Learning**|Jiange Yang et.al.|[2505.17006v1](http://arxiv.org/abs/2505.17006v1)|null|
+|**2025-05-22**|**Guided Diffusion Sampling on Function Spaces with Applications to PDEs**|Jiachen Yao et.al.|[2505.17004v1](http://arxiv.org/abs/2505.17004v1)|null|
+|**2025-05-22**|**$\text{R}^2\text{ec}$: Towards Large Recommender Models with Reasoning**|Runyang You et.al.|[2505.16994v1](http://arxiv.org/abs/2505.16994v1)|null|
+|**2025-05-22**|**Native Segmentation Vision Transformers**|Guillem Brasó et.al.|[2505.16993v1](http://arxiv.org/abs/2505.16993v1)|null|
+|**2025-05-22**|**Dimple: Discrete Diffusion Multimodal Large Language Model with Parallel Decoding**|Runpeng Yu et.al.|[2505.16990v1](http://arxiv.org/abs/2505.16990v1)|null|
+|**2025-05-22**|**LLM as Effective Streaming Processor: Bridging Streaming-Batch Mismatches with Group Position Encoding**|Junlong Tong et.al.|[2505.16983v1](http://arxiv.org/abs/2505.16983v1)|null|
+|**2025-05-22**|**DarkNESS: A skipper-CCD NanoSatellite for Dark Matter Searches**|Phoenix Alpine et.al.|[2505.16981v1](http://arxiv.org/abs/2505.16981v1)|null|
+|**2025-05-22**|**Know the Ropes: A Heuristic Strategy for LLM-based Multi-Agent System Design**|Zhenkun Li et.al.|[2505.16979v1](http://arxiv.org/abs/2505.16979v1)|null|
+|**2025-05-22**|**Incorporating Visual Correspondence into Diffusion Model for Virtual Try-On**|Siqi Wan et.al.|[2505.16977v1](http://arxiv.org/abs/2505.16977v1)|null|
+|**2025-05-22**|**CASS: Nvidia to AMD Transpilation with Data, Models, and Benchmark**|Ahmed Heakl et.al.|[2505.16968v1](http://arxiv.org/abs/2505.16968v1)|null|
+|**2025-05-22**|**Bottlenecked Transformers: Periodic KV Cache Abstraction for Generalised Reasoning**|Adnan Oomerjee et.al.|[2505.16950v1](http://arxiv.org/abs/2505.16950v1)|null|
+|**2025-05-22**|**Quantum Routing and Entanglement Dynamics Through Bottlenecks**|Dhruv Devulapalli et.al.|[2505.16948v1](http://arxiv.org/abs/2505.16948v1)|null|
+|**2025-05-22**|**LLaDA-V: Large Language Diffusion Models with Visual Instruction Tuning**|Zebin You et.al.|[2505.16933v1](http://arxiv.org/abs/2505.16933v1)|null|
+|**2025-05-22**|**Beyond Needle(s) in the Embodied Haystack: Environment, Architecture, and Training Considerations for Long Context Reasoning**|Bosung Kim et.al.|[2505.16928v1](http://arxiv.org/abs/2505.16928v1)|null|
+|**2025-05-22**|**DetailMaster: Can Your Text-to-Image Model Handle Long Prompts?**|Qirui Jiao et.al.|[2505.16915v1](http://arxiv.org/abs/2505.16915v1)|null|
+|**2025-05-22**|**Active Speech Enhancement: Active Speech Denoising Decliping and Deveraberation**|Ofir Yaish et.al.|[2505.16911v1](http://arxiv.org/abs/2505.16911v1)|null|
+|**2025-05-22**|**Is Circuit Depth Accurate for Comparing Quantum Circuit Runtimes?**|Matthew Tremba et.al.|[2505.16908v1](http://arxiv.org/abs/2505.16908v1)|null|
+|**2025-05-22**|**Identifying, Evaluating, and Mitigating Risks of AI Thought Partnerships**|Kerem Oktar et.al.|[2505.16899v1](http://arxiv.org/abs/2505.16899v1)|null|
+|**2025-05-22**|**Quantum Compiler Design for Qubit Mapping and Routing: A Cross-Architectural Survey of Superconducting, Trapped-Ion, and Neutral Atom Systems**|Chenghong Zhu et.al.|[2505.16891v1](http://arxiv.org/abs/2505.16891v1)|null|
+|**2025-05-22**|**Inkspot: A stress-resilient, anthocyanin rich, dwarf tomato variant for off-world cultivation**|Sarah Lang et.al.|[2505.16890v1](http://arxiv.org/abs/2505.16890v1)|null|
+|**2025-05-22**|**A Multi-Step Comparative Framework for Anomaly Detection in IoT Data Streams**|Mohammed Al-Qudah et.al.|[2505.16872v1](http://arxiv.org/abs/2505.16872v1)|null|
+|**2025-05-22**|**LARES: Latent Reasoning for Sequential Recommendation**|Enze Liu et.al.|[2505.16865v1](http://arxiv.org/abs/2505.16865v1)|null|
+|**2025-05-22**|**Conditional Panoramic Image Generation via Masked Autoregressive Modeling**|Chaoyang Wang et.al.|[2505.16862v1](http://arxiv.org/abs/2505.16862v1)|null|
+|**2025-05-22**|**Think or Not? Selective Reasoning via Reinforcement Learning for Vision-Language Models**|Jiaqi Wang et.al.|[2505.16854v1](http://arxiv.org/abs/2505.16854v1)|null|
+|**2025-05-22**|**R1-Compress: Long Chain-of-Thought Compression via Chunk Compression and Search**|Yibo Wang et.al.|[2505.16838v1](http://arxiv.org/abs/2505.16838v1)|null|
+|**2025-05-22**|**Fact-R1: Towards Explainable Video Misinformation Detection with Deep Reasoning**|Fanrui Zhang et.al.|[2505.16836v1](http://arxiv.org/abs/2505.16836v1)|null|
+|**2025-05-22**|**Rotatable Antenna Enabled Wireless Communication and Sensing: Opportunities and Challenges**|Beixiong Zheng et.al.|[2505.16828v1](http://arxiv.org/abs/2505.16828v1)|null|
 
 ## Large-Language Model
 
