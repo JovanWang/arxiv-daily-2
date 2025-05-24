@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-05-24 10:18:42 Asia/Shanghai
+ Automated deployment @ 2025-05-24 20:14:39 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -79,40 +79,6 @@
 
 ## AI
 
-### LLM Agent
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2025-05-22**|**GoT-R1: Unleashing Reasoning Capability of MLLM for Visual Generation with Reinforcement Learning**|Chengqi Duan et.al.|[2505.17022v1](http://arxiv.org/abs/2505.17022v1)|null|
-|**2025-05-22**|**When Are Concepts Erased From Diffusion Models?**|Kevin Lu et.al.|[2505.17013v1](http://arxiv.org/abs/2505.17013v1)|null|
-|**2025-05-22**|**Understanding Prompt Tuning and In-Context Learning via Meta-Learning**|Tim Genewein et.al.|[2505.17010v1](http://arxiv.org/abs/2505.17010v1)|null|
-|**2025-05-22**|**Dimple: Discrete Diffusion Multimodal Large Language Model with Parallel Decoding**|Runpeng Yu et.al.|[2505.16990v1](http://arxiv.org/abs/2505.16990v1)|null|
-|**2025-05-22**|**Know the Ropes: A Heuristic Strategy for LLM-based Multi-Agent System Design**|Zhenkun Li et.al.|[2505.16979v1](http://arxiv.org/abs/2505.16979v1)|null|
-|**2025-05-22**|**Creatively Upscaling Images with Global-Regional Priors**|Yurui Qian et.al.|[2505.16976v1](http://arxiv.org/abs/2505.16976v1)|null|
-|**2025-05-22**|**OpenSeg-R: Improving Open-Vocabulary Segmentation via Step-by-Step Visual Reasoning**|Zongyan Han et.al.|[2505.16974v1](http://arxiv.org/abs/2505.16974v1)|null|
-|**2025-05-22**|**VeriFastScore: Speeding up long-form factuality evaluation**|Rishanth Rajendhran et.al.|[2505.16973v1](http://arxiv.org/abs/2505.16973v1)|null|
-|**2025-05-22**|**Fixing Data That Hurts Performance: Cascading LLMs to Relabel Hard Negatives for Robust Information Retrieval**|Nandan Thakur et.al.|[2505.16967v1](http://arxiv.org/abs/2505.16967v1)|null|
-|**2025-05-22**|**Invisible Prompts, Visible Threats: Malicious Font Injection in External Resources for Large Language Models**|Junjie Xiong et.al.|[2505.16957v1](http://arxiv.org/abs/2505.16957v1)|null|
-|**2025-05-22**|**MixAT: Combining Continuous and Discrete Adversarial Training for LLMs**|Csaba Dékány et.al.|[2505.16947v1](http://arxiv.org/abs/2505.16947v1)|null|
-|**2025-05-22**|**AGENTIF: Benchmarking Instruction Following of Large Language Models in Agentic Scenarios**|Yunjia Qi et.al.|[2505.16944v1](http://arxiv.org/abs/2505.16944v1)|null|
-|**2025-05-22**|**In-Context Watermarks for Large Language Models**|Yepeng Liu et.al.|[2505.16934v1](http://arxiv.org/abs/2505.16934v1)|null|
-|**2025-05-22**|**UNCLE: Uncertainty Expressions in Long-Form Generation**|Ruihan Yang et.al.|[2505.16922v1](http://arxiv.org/abs/2505.16922v1)|null|
-|**2025-05-22**|**DetailMaster: Can Your Text-to-Image Model Handle Long Prompts?**|Qirui Jiao et.al.|[2505.16915v1](http://arxiv.org/abs/2505.16915v1)|null|
-|**2025-05-22**|**Unsupervised Prompting for Graph Neural Networks**|Peyman Baghershahi et.al.|[2505.16903v1](http://arxiv.org/abs/2505.16903v1)|null|
-|**2025-05-22**|**CAIN: Hijacking LLM-Humans Conversations via a Two-Stage Malicious System Prompt Generation and Refining Framework**|Viet Pham et.al.|[2505.16888v1](http://arxiv.org/abs/2505.16888v1)|null|
-|**2025-05-22**|**CASTILLO: Characterizing Response Length Distributions of Large Language Models**|Daniel F. Perez-Ramirez et.al.|[2505.16881v1](http://arxiv.org/abs/2505.16881v1)|null|
-|**2025-05-22**|**From EduVisBench to EduVisAgent: A Benchmark and Multi-Agent Framework for Pedagogical Visualization**|Haonian Ji et.al.|[2505.16832v1](http://arxiv.org/abs/2505.16832v1)|null|
-|**2025-05-22**|**Action2Dialogue: Generating Character-Centric Narratives from Scene-Level Prompts**|Taewon Kang et.al.|[2505.16819v1](http://arxiv.org/abs/2505.16819v1)|null|
-|**2025-05-22**|**Four Eyes Are Better Than Two: Harnessing the Collaborative Potential of Large Models via Differentiated Thinking and Complementary Ensembles**|Jun Xie et.al.|[2505.16784v1](http://arxiv.org/abs/2505.16784v1)|null|
-|**2025-05-22**|**Reasoning Beyond Language: A Comprehensive Survey on Latent Chain-of-Thought Reasoning**|Xinghao Chen et.al.|[2505.16782v1](http://arxiv.org/abs/2505.16782v1)|null|
-|**2025-05-22**|**When Safety Detectors Aren't Enough: A Stealthy and Effective Jailbreak Attack on LLMs via Steganographic Techniques**|Jianing Geng et.al.|[2505.16765v1](http://arxiv.org/abs/2505.16765v1)|null|
-|**2025-05-22**|**Self-Rewarding Large Vision-Language Models for Optimizing Prompts in Text-to-Image Generation**|Hongji Yang et.al.|[2505.16763v1](http://arxiv.org/abs/2505.16763v1)|null|
-|**2025-05-22**|**Backward Oversmoothing: why is it hard to train deep Graph Neural Networks?**|Nicolas Keriven et.al.|[2505.16736v1](http://arxiv.org/abs/2505.16736v1)|null|
-|**2025-05-22**|**From precursor to afterglow: The complex evolution of GRB 210312B**|M. Jelínek et.al.|[2505.16712v1](http://arxiv.org/abs/2505.16712v1)|null|
-|**2025-05-22**|**Software Architecture Meets LLMs: A Systematic Literature Review**|Larissa Schmid et.al.|[2505.16697v1](http://arxiv.org/abs/2505.16697v1)|null|
-|**2025-05-22**|**One-Step Diffusion-Based Image Compression with Semantic Distillation**|Naifu Xue et.al.|[2505.16687v1](http://arxiv.org/abs/2505.16687v1)|null|
-|**2025-05-22**|**Zero-Shot Anomaly Detection in Battery Thermal Images Using Visual Question Answering with Prior Knowledge**|Marcella Astrid et.al.|[2505.16674v1](http://arxiv.org/abs/2505.16674v1)|null|
-|**2025-05-22**|**BitHydra: Towards Bit-flip Inference Cost Attack against Large Language Models**|Xiaobei Yan et.al.|[2505.16670v1](http://arxiv.org/abs/2505.16670v1)|null|
-
 ### LLM Theory
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -146,6 +112,40 @@
 |**2025-05-22**|**R1-Compress: Long Chain-of-Thought Compression via Chunk Compression and Search**|Yibo Wang et.al.|[2505.16838v1](http://arxiv.org/abs/2505.16838v1)|null|
 |**2025-05-22**|**Fact-R1: Towards Explainable Video Misinformation Detection with Deep Reasoning**|Fanrui Zhang et.al.|[2505.16836v1](http://arxiv.org/abs/2505.16836v1)|null|
 |**2025-05-22**|**Rotatable Antenna Enabled Wireless Communication and Sensing: Opportunities and Challenges**|Beixiong Zheng et.al.|[2505.16828v1](http://arxiv.org/abs/2505.16828v1)|null|
+
+### LLM Agent
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2025-05-22**|**GoT-R1: Unleashing Reasoning Capability of MLLM for Visual Generation with Reinforcement Learning**|Chengqi Duan et.al.|[2505.17022v1](http://arxiv.org/abs/2505.17022v1)|null|
+|**2025-05-22**|**When Are Concepts Erased From Diffusion Models?**|Kevin Lu et.al.|[2505.17013v1](http://arxiv.org/abs/2505.17013v1)|null|
+|**2025-05-22**|**Understanding Prompt Tuning and In-Context Learning via Meta-Learning**|Tim Genewein et.al.|[2505.17010v1](http://arxiv.org/abs/2505.17010v1)|null|
+|**2025-05-22**|**Dimple: Discrete Diffusion Multimodal Large Language Model with Parallel Decoding**|Runpeng Yu et.al.|[2505.16990v1](http://arxiv.org/abs/2505.16990v1)|null|
+|**2025-05-22**|**Know the Ropes: A Heuristic Strategy for LLM-based Multi-Agent System Design**|Zhenkun Li et.al.|[2505.16979v1](http://arxiv.org/abs/2505.16979v1)|null|
+|**2025-05-22**|**Creatively Upscaling Images with Global-Regional Priors**|Yurui Qian et.al.|[2505.16976v1](http://arxiv.org/abs/2505.16976v1)|null|
+|**2025-05-22**|**OpenSeg-R: Improving Open-Vocabulary Segmentation via Step-by-Step Visual Reasoning**|Zongyan Han et.al.|[2505.16974v1](http://arxiv.org/abs/2505.16974v1)|null|
+|**2025-05-22**|**VeriFastScore: Speeding up long-form factuality evaluation**|Rishanth Rajendhran et.al.|[2505.16973v1](http://arxiv.org/abs/2505.16973v1)|null|
+|**2025-05-22**|**Fixing Data That Hurts Performance: Cascading LLMs to Relabel Hard Negatives for Robust Information Retrieval**|Nandan Thakur et.al.|[2505.16967v1](http://arxiv.org/abs/2505.16967v1)|null|
+|**2025-05-22**|**Invisible Prompts, Visible Threats: Malicious Font Injection in External Resources for Large Language Models**|Junjie Xiong et.al.|[2505.16957v1](http://arxiv.org/abs/2505.16957v1)|null|
+|**2025-05-22**|**MixAT: Combining Continuous and Discrete Adversarial Training for LLMs**|Csaba Dékány et.al.|[2505.16947v1](http://arxiv.org/abs/2505.16947v1)|null|
+|**2025-05-22**|**AGENTIF: Benchmarking Instruction Following of Large Language Models in Agentic Scenarios**|Yunjia Qi et.al.|[2505.16944v1](http://arxiv.org/abs/2505.16944v1)|null|
+|**2025-05-22**|**In-Context Watermarks for Large Language Models**|Yepeng Liu et.al.|[2505.16934v1](http://arxiv.org/abs/2505.16934v1)|null|
+|**2025-05-22**|**UNCLE: Uncertainty Expressions in Long-Form Generation**|Ruihan Yang et.al.|[2505.16922v1](http://arxiv.org/abs/2505.16922v1)|null|
+|**2025-05-22**|**DetailMaster: Can Your Text-to-Image Model Handle Long Prompts?**|Qirui Jiao et.al.|[2505.16915v1](http://arxiv.org/abs/2505.16915v1)|null|
+|**2025-05-22**|**Unsupervised Prompting for Graph Neural Networks**|Peyman Baghershahi et.al.|[2505.16903v1](http://arxiv.org/abs/2505.16903v1)|null|
+|**2025-05-22**|**CAIN: Hijacking LLM-Humans Conversations via a Two-Stage Malicious System Prompt Generation and Refining Framework**|Viet Pham et.al.|[2505.16888v1](http://arxiv.org/abs/2505.16888v1)|null|
+|**2025-05-22**|**CASTILLO: Characterizing Response Length Distributions of Large Language Models**|Daniel F. Perez-Ramirez et.al.|[2505.16881v1](http://arxiv.org/abs/2505.16881v1)|null|
+|**2025-05-22**|**From EduVisBench to EduVisAgent: A Benchmark and Multi-Agent Framework for Pedagogical Visualization**|Haonian Ji et.al.|[2505.16832v1](http://arxiv.org/abs/2505.16832v1)|null|
+|**2025-05-22**|**Action2Dialogue: Generating Character-Centric Narratives from Scene-Level Prompts**|Taewon Kang et.al.|[2505.16819v1](http://arxiv.org/abs/2505.16819v1)|null|
+|**2025-05-22**|**Four Eyes Are Better Than Two: Harnessing the Collaborative Potential of Large Models via Differentiated Thinking and Complementary Ensembles**|Jun Xie et.al.|[2505.16784v1](http://arxiv.org/abs/2505.16784v1)|null|
+|**2025-05-22**|**Reasoning Beyond Language: A Comprehensive Survey on Latent Chain-of-Thought Reasoning**|Xinghao Chen et.al.|[2505.16782v1](http://arxiv.org/abs/2505.16782v1)|null|
+|**2025-05-22**|**When Safety Detectors Aren't Enough: A Stealthy and Effective Jailbreak Attack on LLMs via Steganographic Techniques**|Jianing Geng et.al.|[2505.16765v1](http://arxiv.org/abs/2505.16765v1)|null|
+|**2025-05-22**|**Self-Rewarding Large Vision-Language Models for Optimizing Prompts in Text-to-Image Generation**|Hongji Yang et.al.|[2505.16763v1](http://arxiv.org/abs/2505.16763v1)|null|
+|**2025-05-22**|**Backward Oversmoothing: why is it hard to train deep Graph Neural Networks?**|Nicolas Keriven et.al.|[2505.16736v1](http://arxiv.org/abs/2505.16736v1)|null|
+|**2025-05-22**|**From precursor to afterglow: The complex evolution of GRB 210312B**|M. Jelínek et.al.|[2505.16712v1](http://arxiv.org/abs/2505.16712v1)|null|
+|**2025-05-22**|**Software Architecture Meets LLMs: A Systematic Literature Review**|Larissa Schmid et.al.|[2505.16697v1](http://arxiv.org/abs/2505.16697v1)|null|
+|**2025-05-22**|**One-Step Diffusion-Based Image Compression with Semantic Distillation**|Naifu Xue et.al.|[2505.16687v1](http://arxiv.org/abs/2505.16687v1)|null|
+|**2025-05-22**|**Zero-Shot Anomaly Detection in Battery Thermal Images Using Visual Question Answering with Prior Knowledge**|Marcella Astrid et.al.|[2505.16674v1](http://arxiv.org/abs/2505.16674v1)|null|
+|**2025-05-22**|**BitHydra: Towards Bit-flip Inference Cost Attack against Large Language Models**|Xiaobei Yan et.al.|[2505.16670v1](http://arxiv.org/abs/2505.16670v1)|null|
 
 ## Code Compile
 
