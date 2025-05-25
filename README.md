@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-05-25 10:41:16 Asia/Shanghai
+ Automated deployment @ 2025-05-25 20:14:45 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -8,6 +8,40 @@
 ### Sparse Operator
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+
+### Sparse program Compile
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2025-05-22**|**Interactive Post-Training for Vision-Language-Action Models**|Shuhan Tan et.al.|[2505.17016v1](http://arxiv.org/abs/2505.17016v1)|null|
+|**2025-05-22**|**Guided Diffusion Sampling on Function Spaces with Applications to PDEs**|Jiachen Yao et.al.|[2505.17004v1](http://arxiv.org/abs/2505.17004v1)|null|
+|**2025-05-22**|**Seeing through Satellite Images at Street Views**|Ming Qian et.al.|[2505.17001v1](http://arxiv.org/abs/2505.17001v1)|null|
+|**2025-05-22**|**CASS: Nvidia to AMD Transpilation with Data, Models, and Benchmark**|Ahmed Heakl et.al.|[2505.16968v1](http://arxiv.org/abs/2505.16968v1)|null|
+|**2025-05-22**|**Is Circuit Depth Accurate for Comparing Quantum Circuit Runtimes?**|Matthew Tremba et.al.|[2505.16908v1](http://arxiv.org/abs/2505.16908v1)|null|
+|**2025-05-22**|**Quantum Compiler Design for Qubit Mapping and Routing: A Cross-Architectural Survey of Superconducting, Trapped-Ion, and Neutral Atom Systems**|Chenghong Zhu et.al.|[2505.16891v1](http://arxiv.org/abs/2505.16891v1)|null|
+|**2025-05-22**|**Fast Low Energy Reconstruction using Convolutional Neural Networks**|IceCube Collaboration et.al.|[2505.16777v1](http://arxiv.org/abs/2505.16777v1)|null|
+|**2025-05-22**|**Maximum Total Correlation Reinforcement Learning**|Bang You et.al.|[2505.16734v1](http://arxiv.org/abs/2505.16734v1)|null|
+|**2025-05-22**|**Masked Conditioning for Deep Generative Models**|Phillip Mueller et.al.|[2505.16725v1](http://arxiv.org/abs/2505.16725v1)|null|
+|**2025-05-22**|**R1-ShareVL: Incentivizing Reasoning Capability of Multimodal Large Language Models via Share-GRPO**|Huanjin Yao et.al.|[2505.16673v1](http://arxiv.org/abs/2505.16673v1)|null|
+|**2025-05-22**|**MDVT: Enhancing Multimodal Recommendation with Model-Agnostic Multimodal-Driven Virtual Triplets**|Jinfeng Xu et.al.|[2505.16665v1](http://arxiv.org/abs/2505.16665v1)|null|
+|**2025-05-22**|**Steering Large Language Models for Machine Translation Personalization**|Daniel Scalena et.al.|[2505.16612v1](http://arxiv.org/abs/2505.16612v1)|null|
+|**2025-05-22**|**SHaDe: Compact and Consistent Dynamic 3D Reconstruction via Tri-Plane Deformation and Latent Diffusion**|Asrar Alruwayqi et.al.|[2505.16535v1](http://arxiv.org/abs/2505.16535v1)|null|
+|**2025-05-22**|**Motion Matters: Compact Gaussian Streaming for Free-Viewpoint Video Reconstruction**|Jiacong Chen et.al.|[2505.16533v1](http://arxiv.org/abs/2505.16533v1)|null|
+|**2025-05-22**|**Detailed Evaluation of Modern Machine Learning Approaches for Optic Plastics Sorting**|Vaishali Maheshkar et.al.|[2505.16513v1](http://arxiv.org/abs/2505.16513v1)|null|
+|**2025-05-22**|**Sparse Activation Editing for Reliable Instruction Following in Narratives**|Runcong Zhao et.al.|[2505.16505v1](http://arxiv.org/abs/2505.16505v1)|null|
+|**2025-05-22**|**Sharp Asymptotic Minimaxity for One-Group Priors in Sparse Normal Means Problem**|Sayantan Paul et.al.|[2505.16428v1](http://arxiv.org/abs/2505.16428v1)|null|
+|**2025-05-22**|**ARPO:End-to-End Policy Optimization for GUI Agents with Experience Replay**|Fanbin Lu et.al.|[2505.16282v1](http://arxiv.org/abs/2505.16282v1)|null|
+|**2025-05-22**|**Continuum limit of the Kuramoto model with random natural frequencies on uniform graphs**|Kazuyuki Yagasaki et.al.|[2505.16213v1](http://arxiv.org/abs/2505.16213v1)|null|
+|**2025-05-22**|**VLM-R$^3$: Region Recognition, Reasoning, and Refinement for Enhanced Multimodal Chain-of-Thought**|Chaoya Jiang et.al.|[2505.16192v1](http://arxiv.org/abs/2505.16192v1)|null|
+|**2025-05-22**|**SAE-SSV: Supervised Steering in Sparse Representation Spaces for Reliable Control of Language Models**|Zirui He et.al.|[2505.16188v1](http://arxiv.org/abs/2505.16188v1)|null|
+|**2025-05-22**|**On Forest and Bipartite Cuts in Sparse Graphs**|Ilya Bogdanov et.al.|[2505.16179v1](http://arxiv.org/abs/2505.16179v1)|null|
+|**2025-05-22**|**Breaking Complexity Barriers: High-Resolution Image Restoration with Rank Enhanced Linear Attention**|Yuang Ai et.al.|[2505.16157v1](http://arxiv.org/abs/2505.16157v1)|null|
+|**2025-05-22**|**Steering LVLMs via Sparse Autoencoder for Hallucination Mitigation**|Zhenglin Hua et.al.|[2505.16146v1](http://arxiv.org/abs/2505.16146v1)|null|
+|**2025-05-22**|**GMatch: Geometry-Constrained Feature Matching for RGB-D Object Pose Estimation**|Ming Yang et.al.|[2505.16144v1](http://arxiv.org/abs/2505.16144v1)|null|
+|**2025-05-22**|**Sharp Brezis--Seeger--Van Schaftingen--Yung Formulae for Higher-Order Gradients in Ball Banach Function Spaces**|Pingxu Hu et.al.|[2505.16110v1](http://arxiv.org/abs/2505.16110v1)|null|
+|**2025-05-21**|**Ensembling Sparse Autoencoders**|Soham Gadgil et.al.|[2505.16077v1](http://arxiv.org/abs/2505.16077v1)|null|
+|**2025-05-21**|**Mesh-free sparse identification of nonlinear dynamics**|Mars Liyao Gao et.al.|[2505.16058v1](http://arxiv.org/abs/2505.16058v1)|null|
+|**2025-05-21**|**Not All Models Suit Expert Offloading: On Local Routing Consistency of Mixture-of-Expert Models**|Jingcong Liang et.al.|[2505.16056v1](http://arxiv.org/abs/2505.16056v1)|null|
+|**2025-05-21**|**Decision DNNFs with imbalanced conjunction cannot efficiently represent CNFs of bounded width**|Igor Razgon et.al.|[2505.16012v1](http://arxiv.org/abs/2505.16012v1)|null|
 
 ### Sparse Data Format
 |Publish Date|Title|Authors|PDF|Code|
@@ -43,39 +77,41 @@
 |**2025-05-22**|**Constrained Non-negative Matrix Factorization for Guided Topic Modeling of Minority Topics**|Seyedeh Fatemeh Ebrahimi et.al.|[2505.16493v1](http://arxiv.org/abs/2505.16493v1)|null|
 |**2025-05-22**|**Minimizing the energy depletion in wireless rechargeable sensor networks using bi-level metaheuristic charging schemes**|Huynh Thi Thanh Binh et.al.|[2505.16482v1](http://arxiv.org/abs/2505.16482v1)|null|
 
-### Sparse program Compile
+## Large-Language Model
+
+### Large-Language Model
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
+|**2025-05-22**|**ARB: A Comprehensive Arabic Multimodal Reasoning Benchmark**|Sara Ghaboura et.al.|[2505.17021v1](http://arxiv.org/abs/2505.17021v1)|null|
+|**2025-05-22**|**GoT-R1: Unleashing Reasoning Capability of MLLM for Visual Generation with Reinforcement Learning**|Chengqi Duan et.al.|[2505.17022v1](http://arxiv.org/abs/2505.17022v1)|null|
+|**2025-05-22**|**SophiaVL-R1: Reinforcing MLLMs Reasoning with Thinking Reward**|Kaixuan Fan et.al.|[2505.17018v1](http://arxiv.org/abs/2505.17018v1)|null|
+|**2025-05-22**|**Let Androids Dream of Electric Sheep: A Human-like Image Implication Understanding and Reasoning Framework**|Chenhao Zhang et.al.|[2505.17019v1](http://arxiv.org/abs/2505.17019v1)|null|
+|**2025-05-22**|**CrossLMM: Decoupling Long Video Sequences from LMMs via Dual Cross-Attention Mechanisms**|Shilin Yan et.al.|[2505.17020v1](http://arxiv.org/abs/2505.17020v1)|null|
+|**2025-05-22**|**Delving into RL for Image Generation with CoT: A Study on DPO vs. GRPO**|Chengzhuo Tong et.al.|[2505.17017v1](http://arxiv.org/abs/2505.17017v1)|null|
 |**2025-05-22**|**Interactive Post-Training for Vision-Language-Action Models**|Shuhan Tan et.al.|[2505.17016v1](http://arxiv.org/abs/2505.17016v1)|null|
+|**2025-05-22**|**Multi-SpatialMLLM: Multi-Frame Spatial Understanding with Multi-Modal Large Language Models**|Runsen Xu et.al.|[2505.17015v1](http://arxiv.org/abs/2505.17015v1)|null|
+|**2025-05-22**|**When Are Concepts Erased From Diffusion Models?**|Kevin Lu et.al.|[2505.17013v1](http://arxiv.org/abs/2505.17013v1)|null|
+|**2025-05-22**|**SpatialScore: Towards Unified Evaluation for Multimodal Spatial Understanding**|Haoning Wu et.al.|[2505.17012v1](http://arxiv.org/abs/2505.17012v1)|[link](https://github.com/haoningwu3639/SpatialScore)|
+|**2025-05-22**|**Learning Adaptive and Temporally Causal Video Tokenization in a 1D Latent Space**|Yan Li et.al.|[2505.17011v1](http://arxiv.org/abs/2505.17011v1)|null|
+|**2025-05-22**|**Understanding Prompt Tuning and In-Context Learning via Meta-Learning**|Tim Genewein et.al.|[2505.17010v1](http://arxiv.org/abs/2505.17010v1)|null|
+|**2025-05-22**|**Deep mineralogical segmentation of thin section images based on QEMSCAN maps**|Jean Pablo Vieira de Mello et.al.|[2505.17008v1](http://arxiv.org/abs/2505.17008v1)|null|
+|**2025-05-22**|**Broadband Search for Axion Dark Matter via Shift Current**|Dan Kondo et.al.|[2505.17007v1](http://arxiv.org/abs/2505.17007v1)|null|
+|**2025-05-22**|**CoMo: Learning Continuous Latent Motion from Internet Videos for Scalable Robot Learning**|Jiange Yang et.al.|[2505.17006v1](http://arxiv.org/abs/2505.17006v1)|null|
+|**2025-05-22**|**R1-Searcher++: Incentivizing the Dynamic Knowledge Acquisition of LLMs via Reinforcement Learning**|Huatong Song et.al.|[2505.17005v1](http://arxiv.org/abs/2505.17005v1)|null|
 |**2025-05-22**|**Guided Diffusion Sampling on Function Spaces with Applications to PDEs**|Jiachen Yao et.al.|[2505.17004v1](http://arxiv.org/abs/2505.17004v1)|null|
+|**2025-05-22**|**Sufficient conditions for offline reactivation in recurrent neural networks**|Nanda H. Krishna et.al.|[2505.17003v1](http://arxiv.org/abs/2505.17003v1)|[link](https://github.com/nandahkrishna/RNNReactivation)|
 |**2025-05-22**|**Seeing through Satellite Images at Street Views**|Ming Qian et.al.|[2505.17001v1](http://arxiv.org/abs/2505.17001v1)|null|
-|**2025-05-22**|**CASS: Nvidia to AMD Transpilation with Data, Models, and Benchmark**|Ahmed Heakl et.al.|[2505.16968v1](http://arxiv.org/abs/2505.16968v1)|null|
-|**2025-05-22**|**Is Circuit Depth Accurate for Comparing Quantum Circuit Runtimes?**|Matthew Tremba et.al.|[2505.16908v1](http://arxiv.org/abs/2505.16908v1)|null|
-|**2025-05-22**|**Quantum Compiler Design for Qubit Mapping and Routing: A Cross-Architectural Survey of Superconducting, Trapped-Ion, and Neutral Atom Systems**|Chenghong Zhu et.al.|[2505.16891v1](http://arxiv.org/abs/2505.16891v1)|null|
-|**2025-05-22**|**Fast Low Energy Reconstruction using Convolutional Neural Networks**|IceCube Collaboration et.al.|[2505.16777v1](http://arxiv.org/abs/2505.16777v1)|null|
-|**2025-05-22**|**Maximum Total Correlation Reinforcement Learning**|Bang You et.al.|[2505.16734v1](http://arxiv.org/abs/2505.16734v1)|null|
-|**2025-05-22**|**Masked Conditioning for Deep Generative Models**|Phillip Mueller et.al.|[2505.16725v1](http://arxiv.org/abs/2505.16725v1)|null|
-|**2025-05-22**|**R1-ShareVL: Incentivizing Reasoning Capability of Multimodal Large Language Models via Share-GRPO**|Huanjin Yao et.al.|[2505.16673v1](http://arxiv.org/abs/2505.16673v1)|null|
-|**2025-05-22**|**MDVT: Enhancing Multimodal Recommendation with Model-Agnostic Multimodal-Driven Virtual Triplets**|Jinfeng Xu et.al.|[2505.16665v1](http://arxiv.org/abs/2505.16665v1)|null|
-|**2025-05-22**|**Steering Large Language Models for Machine Translation Personalization**|Daniel Scalena et.al.|[2505.16612v1](http://arxiv.org/abs/2505.16612v1)|null|
-|**2025-05-22**|**SHaDe: Compact and Consistent Dynamic 3D Reconstruction via Tri-Plane Deformation and Latent Diffusion**|Asrar Alruwayqi et.al.|[2505.16535v1](http://arxiv.org/abs/2505.16535v1)|null|
-|**2025-05-22**|**Motion Matters: Compact Gaussian Streaming for Free-Viewpoint Video Reconstruction**|Jiacong Chen et.al.|[2505.16533v1](http://arxiv.org/abs/2505.16533v1)|null|
-|**2025-05-22**|**Detailed Evaluation of Modern Machine Learning Approaches for Optic Plastics Sorting**|Vaishali Maheshkar et.al.|[2505.16513v1](http://arxiv.org/abs/2505.16513v1)|null|
-|**2025-05-22**|**Sparse Activation Editing for Reliable Instruction Following in Narratives**|Runcong Zhao et.al.|[2505.16505v1](http://arxiv.org/abs/2505.16505v1)|null|
-|**2025-05-22**|**Sharp Asymptotic Minimaxity for One-Group Priors in Sparse Normal Means Problem**|Sayantan Paul et.al.|[2505.16428v1](http://arxiv.org/abs/2505.16428v1)|null|
-|**2025-05-22**|**ARPO:End-to-End Policy Optimization for GUI Agents with Experience Replay**|Fanbin Lu et.al.|[2505.16282v1](http://arxiv.org/abs/2505.16282v1)|null|
-|**2025-05-22**|**Continuum limit of the Kuramoto model with random natural frequencies on uniform graphs**|Kazuyuki Yagasaki et.al.|[2505.16213v1](http://arxiv.org/abs/2505.16213v1)|null|
-|**2025-05-22**|**VLM-R$^3$: Region Recognition, Reasoning, and Refinement for Enhanced Multimodal Chain-of-Thought**|Chaoya Jiang et.al.|[2505.16192v1](http://arxiv.org/abs/2505.16192v1)|null|
-|**2025-05-22**|**SAE-SSV: Supervised Steering in Sparse Representation Spaces for Reliable Control of Language Models**|Zirui He et.al.|[2505.16188v1](http://arxiv.org/abs/2505.16188v1)|null|
-|**2025-05-22**|**On Forest and Bipartite Cuts in Sparse Graphs**|Ilya Bogdanov et.al.|[2505.16179v1](http://arxiv.org/abs/2505.16179v1)|null|
-|**2025-05-22**|**Breaking Complexity Barriers: High-Resolution Image Restoration with Rank Enhanced Linear Attention**|Yuang Ai et.al.|[2505.16157v1](http://arxiv.org/abs/2505.16157v1)|null|
-|**2025-05-22**|**Steering LVLMs via Sparse Autoencoder for Hallucination Mitigation**|Zhenglin Hua et.al.|[2505.16146v1](http://arxiv.org/abs/2505.16146v1)|null|
-|**2025-05-22**|**GMatch: Geometry-Constrained Feature Matching for RGB-D Object Pose Estimation**|Ming Yang et.al.|[2505.16144v1](http://arxiv.org/abs/2505.16144v1)|null|
-|**2025-05-22**|**Sharp Brezis--Seeger--Van Schaftingen--Yung Formulae for Higher-Order Gradients in Ball Banach Function Spaces**|Pingxu Hu et.al.|[2505.16110v1](http://arxiv.org/abs/2505.16110v1)|null|
-|**2025-05-21**|**Ensembling Sparse Autoencoders**|Soham Gadgil et.al.|[2505.16077v1](http://arxiv.org/abs/2505.16077v1)|null|
-|**2025-05-21**|**Mesh-free sparse identification of nonlinear dynamics**|Mars Liyao Gao et.al.|[2505.16058v1](http://arxiv.org/abs/2505.16058v1)|null|
-|**2025-05-21**|**Not All Models Suit Expert Offloading: On Local Routing Consistency of Mixture-of-Expert Models**|Jingcong Liang et.al.|[2505.16056v1](http://arxiv.org/abs/2505.16056v1)|null|
-|**2025-05-21**|**Decision DNNFs with imbalanced conjunction cannot efficiently represent CNFs of bounded width**|Igor Razgon et.al.|[2505.16012v1](http://arxiv.org/abs/2505.16012v1)|null|
+|**2025-05-22**|**Do Large Language Models Excel in Complex Logical Reasoning with Formal Language?**|Jin Jiang et.al.|[2505.16998v1](http://arxiv.org/abs/2505.16998v1)|null|
+|**2025-05-22**|**X-MAS: Towards Building Multi-Agent Systems with Heterogeneous LLMs**|Rui Ye et.al.|[2505.16997v1](http://arxiv.org/abs/2505.16997v1)|null|
+|**2025-05-22**|**A Unified Framework for Simultaneous Parameter and Function Discovery in Differential Equations**|Shalev Manor et.al.|[2505.16996v1](http://arxiv.org/abs/2505.16996v1)|null|
+|**2025-05-22**|**DecoupledESC: Enhancing Emotional Support Generation via Strategy-Response Decoupled Preference Optimization**|Chao Zhang et.al.|[2505.16995v1](http://arxiv.org/abs/2505.16995v1)|null|
+|**2025-05-22**|**$\text{R}^2\text{ec}$: Towards Large Recommender Models with Reasoning**|Runyang You et.al.|[2505.16994v1](http://arxiv.org/abs/2505.16994v1)|null|
+|**2025-05-22**|**Native Segmentation Vision Transformers**|Guillem Brasó et.al.|[2505.16993v1](http://arxiv.org/abs/2505.16993v1)|null|
+|**2025-05-22**|**PICT -- A Differentiable, GPU-Accelerated Multi-Block PISO Solver for Simulation-Coupled Learning Tasks in Fluid Dynamics**|Aleksandra Franz et.al.|[2505.16992v1](http://arxiv.org/abs/2505.16992v1)|null|
+|**2025-05-22**|**An Effective Training Framework for Light-Weight Automatic Speech Recognition Models**|Abdul Hannan et.al.|[2505.16991v1](http://arxiv.org/abs/2505.16991v1)|null|
+|**2025-05-22**|**Dimple: Discrete Diffusion Multimodal Large Language Model with Parallel Decoding**|Runpeng Yu et.al.|[2505.16990v1](http://arxiv.org/abs/2505.16990v1)|null|
+|**2025-05-22**|**Spin adaptation of the cumulant expansions of reduced density matrices**|Julia Liebert et.al.|[2505.16989v1](http://arxiv.org/abs/2505.16989v1)|null|
+|**2025-05-22**|**MASLab: A Unified and Comprehensive Codebase for LLM-based Multi-Agent Systems**|Rui Ye et.al.|[2505.16988v1](http://arxiv.org/abs/2505.16988v1)|null|
 
 ## AI
 
@@ -216,39 +252,3 @@
 |**2025-05-22**|**DecoupledESC: Enhancing Emotional Support Generation via Strategy-Response Decoupled Preference Optimization**|Chao Zhang et.al.|[2505.16995v1](http://arxiv.org/abs/2505.16995v1)|null|
 |**2025-05-22**|**$\text{R}^2\text{ec}$: Towards Large Recommender Models with Reasoning**|Runyang You et.al.|[2505.16994v1](http://arxiv.org/abs/2505.16994v1)|null|
 |**2025-05-22**|**Native Segmentation Vision Transformers**|Guillem Brasó et.al.|[2505.16993v1](http://arxiv.org/abs/2505.16993v1)|null|
-
-## Large-Language Model
-
-### Large-Language Model
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2025-05-22**|**ARB: A Comprehensive Arabic Multimodal Reasoning Benchmark**|Sara Ghaboura et.al.|[2505.17021v1](http://arxiv.org/abs/2505.17021v1)|null|
-|**2025-05-22**|**GoT-R1: Unleashing Reasoning Capability of MLLM for Visual Generation with Reinforcement Learning**|Chengqi Duan et.al.|[2505.17022v1](http://arxiv.org/abs/2505.17022v1)|null|
-|**2025-05-22**|**SophiaVL-R1: Reinforcing MLLMs Reasoning with Thinking Reward**|Kaixuan Fan et.al.|[2505.17018v1](http://arxiv.org/abs/2505.17018v1)|null|
-|**2025-05-22**|**Let Androids Dream of Electric Sheep: A Human-like Image Implication Understanding and Reasoning Framework**|Chenhao Zhang et.al.|[2505.17019v1](http://arxiv.org/abs/2505.17019v1)|null|
-|**2025-05-22**|**CrossLMM: Decoupling Long Video Sequences from LMMs via Dual Cross-Attention Mechanisms**|Shilin Yan et.al.|[2505.17020v1](http://arxiv.org/abs/2505.17020v1)|null|
-|**2025-05-22**|**Delving into RL for Image Generation with CoT: A Study on DPO vs. GRPO**|Chengzhuo Tong et.al.|[2505.17017v1](http://arxiv.org/abs/2505.17017v1)|null|
-|**2025-05-22**|**Interactive Post-Training for Vision-Language-Action Models**|Shuhan Tan et.al.|[2505.17016v1](http://arxiv.org/abs/2505.17016v1)|null|
-|**2025-05-22**|**Multi-SpatialMLLM: Multi-Frame Spatial Understanding with Multi-Modal Large Language Models**|Runsen Xu et.al.|[2505.17015v1](http://arxiv.org/abs/2505.17015v1)|null|
-|**2025-05-22**|**When Are Concepts Erased From Diffusion Models?**|Kevin Lu et.al.|[2505.17013v1](http://arxiv.org/abs/2505.17013v1)|null|
-|**2025-05-22**|**SpatialScore: Towards Unified Evaluation for Multimodal Spatial Understanding**|Haoning Wu et.al.|[2505.17012v1](http://arxiv.org/abs/2505.17012v1)|[link](https://github.com/haoningwu3639/SpatialScore)|
-|**2025-05-22**|**Learning Adaptive and Temporally Causal Video Tokenization in a 1D Latent Space**|Yan Li et.al.|[2505.17011v1](http://arxiv.org/abs/2505.17011v1)|null|
-|**2025-05-22**|**Understanding Prompt Tuning and In-Context Learning via Meta-Learning**|Tim Genewein et.al.|[2505.17010v1](http://arxiv.org/abs/2505.17010v1)|null|
-|**2025-05-22**|**Deep mineralogical segmentation of thin section images based on QEMSCAN maps**|Jean Pablo Vieira de Mello et.al.|[2505.17008v1](http://arxiv.org/abs/2505.17008v1)|null|
-|**2025-05-22**|**Broadband Search for Axion Dark Matter via Shift Current**|Dan Kondo et.al.|[2505.17007v1](http://arxiv.org/abs/2505.17007v1)|null|
-|**2025-05-22**|**CoMo: Learning Continuous Latent Motion from Internet Videos for Scalable Robot Learning**|Jiange Yang et.al.|[2505.17006v1](http://arxiv.org/abs/2505.17006v1)|null|
-|**2025-05-22**|**R1-Searcher++: Incentivizing the Dynamic Knowledge Acquisition of LLMs via Reinforcement Learning**|Huatong Song et.al.|[2505.17005v1](http://arxiv.org/abs/2505.17005v1)|null|
-|**2025-05-22**|**Guided Diffusion Sampling on Function Spaces with Applications to PDEs**|Jiachen Yao et.al.|[2505.17004v1](http://arxiv.org/abs/2505.17004v1)|null|
-|**2025-05-22**|**Sufficient conditions for offline reactivation in recurrent neural networks**|Nanda H. Krishna et.al.|[2505.17003v1](http://arxiv.org/abs/2505.17003v1)|[link](https://github.com/nandahkrishna/RNNReactivation)|
-|**2025-05-22**|**Seeing through Satellite Images at Street Views**|Ming Qian et.al.|[2505.17001v1](http://arxiv.org/abs/2505.17001v1)|null|
-|**2025-05-22**|**Do Large Language Models Excel in Complex Logical Reasoning with Formal Language?**|Jin Jiang et.al.|[2505.16998v1](http://arxiv.org/abs/2505.16998v1)|null|
-|**2025-05-22**|**X-MAS: Towards Building Multi-Agent Systems with Heterogeneous LLMs**|Rui Ye et.al.|[2505.16997v1](http://arxiv.org/abs/2505.16997v1)|null|
-|**2025-05-22**|**A Unified Framework for Simultaneous Parameter and Function Discovery in Differential Equations**|Shalev Manor et.al.|[2505.16996v1](http://arxiv.org/abs/2505.16996v1)|null|
-|**2025-05-22**|**DecoupledESC: Enhancing Emotional Support Generation via Strategy-Response Decoupled Preference Optimization**|Chao Zhang et.al.|[2505.16995v1](http://arxiv.org/abs/2505.16995v1)|null|
-|**2025-05-22**|**$\text{R}^2\text{ec}$: Towards Large Recommender Models with Reasoning**|Runyang You et.al.|[2505.16994v1](http://arxiv.org/abs/2505.16994v1)|null|
-|**2025-05-22**|**Native Segmentation Vision Transformers**|Guillem Brasó et.al.|[2505.16993v1](http://arxiv.org/abs/2505.16993v1)|null|
-|**2025-05-22**|**PICT -- A Differentiable, GPU-Accelerated Multi-Block PISO Solver for Simulation-Coupled Learning Tasks in Fluid Dynamics**|Aleksandra Franz et.al.|[2505.16992v1](http://arxiv.org/abs/2505.16992v1)|null|
-|**2025-05-22**|**An Effective Training Framework for Light-Weight Automatic Speech Recognition Models**|Abdul Hannan et.al.|[2505.16991v1](http://arxiv.org/abs/2505.16991v1)|null|
-|**2025-05-22**|**Dimple: Discrete Diffusion Multimodal Large Language Model with Parallel Decoding**|Runpeng Yu et.al.|[2505.16990v1](http://arxiv.org/abs/2505.16990v1)|null|
-|**2025-05-22**|**Spin adaptation of the cumulant expansions of reduced density matrices**|Julia Liebert et.al.|[2505.16989v1](http://arxiv.org/abs/2505.16989v1)|null|
-|**2025-05-22**|**MASLab: A Unified and Comprehensive Codebase for LLM-based Multi-Agent Systems**|Rui Ye et.al.|[2505.16988v1](http://arxiv.org/abs/2505.16988v1)|null|
