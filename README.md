@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-05-26 20:16:11 Asia/Shanghai
+ Automated deployment @ 2025-05-26 20:57:46 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -8,40 +8,6 @@
 ### Sparse Operator
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-
-### Sparse program Compile
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2025-05-23**|**QwenLong-CPRS: Towards $\infty$-LLMs with Dynamic Context Optimization**|Weizhou Shen et.al.|[2505.18092v1](http://arxiv.org/abs/2505.18092v1)|null|
-|**2025-05-23**|**LookWhere? Efficient Visual Recognition by Learning Where to Look and What to See from Self-Supervision**|Anthony Fuller et.al.|[2505.18051v1](http://arxiv.org/abs/2505.18051v1)|null|
-|**2025-05-23**|**SpikeGen: Generative Framework for Visual Spike Stream Processing**|Gaole Dai et.al.|[2505.18049v1](http://arxiv.org/abs/2505.18049v1)|null|
-|**2025-05-23**|**A variational quantum eigensolver tailored to multi-band tight-binding simulations of electronic structures**|Dongkeun Lee et.al.|[2505.18027v1](http://arxiv.org/abs/2505.18027v1)|null|
-|**2025-05-23**|**Towards Analyzing and Understanding the Limitations of VAPO: A Theoretical Perspective**|Jintian Shao et.al.|[2505.17997v1](http://arxiv.org/abs/2505.17997v1)|null|
-|**2025-05-23**|**KITINet: Kinetics Theory Inspired Network Architectures with PDE Simulation Approaches**|Mingquan Feng et.al.|[2505.17919v1](http://arxiv.org/abs/2505.17919v1)|null|
-|**2025-05-23**|**NeuroTrails: Training with Dynamic Sparse Heads as the Key to Effective Ensembling**|Bram Grooten et.al.|[2505.17909v1](http://arxiv.org/abs/2505.17909v1)|null|
-|**2025-05-23**|**Semi-Supervised Multi-Label Feature Selection with Consistent Sparse Graph Learning**|Yan Zhong et.al.|[2505.17875v1](http://arxiv.org/abs/2505.17875v1)|null|
-|**2025-05-23**|**The emergence of sparse attention: impact of data distribution and benefits of repetition**|Nicolas Zucchet et.al.|[2505.17863v1](http://arxiv.org/abs/2505.17863v1)|null|
-|**2025-05-23**|**A sparse $hp$-finite element method for piecewise-smooth differential equations with periodic boundary conditions**|Daniel VandenHeuvel et.al.|[2505.17849v1](http://arxiv.org/abs/2505.17849v1)|null|
-|**2025-05-23**|**Imagine Beyond! Distributionally Robust Auto-Encoding for State Space Coverage in Online Reinforcement Learning**|Nicolas Castanet et.al.|[2505.17830v1](http://arxiv.org/abs/2505.17830v1)|null|
-|**2025-05-23**|**Latent Mode Decomposition**|Manuel Morante et.al.|[2505.17797v1](http://arxiv.org/abs/2505.17797v1)|null|
-|**2025-05-23**|**RECIPE-TKG: From Sparse History to Structured Reasoning for LLM-based Temporal Knowledge Graph Completion**|Ömer Faruk Akgül et.al.|[2505.17794v1](http://arxiv.org/abs/2505.17794v1)|null|
-|**2025-05-23**|**Inference-Time Decomposition of Activations (ITDA): A Scalable Approach to Interpreting Large Language Models**|Patrick Leask et.al.|[2505.17769v1](http://arxiv.org/abs/2505.17769v1)|null|
-|**2025-05-23**|**Structured Linear CDEs: Maximally Expressive and Parallel-in-Time Sequence Models**|Benjamin Walker et.al.|[2505.17761v1](http://arxiv.org/abs/2505.17761v1)|null|
-|**2025-05-23**|**Computational Math with Neural Networks is Hard**|Michael Feischl et.al.|[2505.17751v1](http://arxiv.org/abs/2505.17751v1)|null|
-|**2025-05-23**|**RQR3D: Reparametrizing the regression targets for BEV-based 3D object detection**|Ozsel Kilinc et.al.|[2505.17732v1](http://arxiv.org/abs/2505.17732v1)|null|
-|**2025-05-23**|**PPO-BR: Dual-Signal Entropy-Reward Adaptation for Trust Region Policy Optimization**|Ben Rahman et.al.|[2505.17714v1](http://arxiv.org/abs/2505.17714v1)|null|
-|**2025-05-23**|**Gradient-Based Program Repair: Fixing Bugs in Continuous Program Spaces**|André Silva et.al.|[2505.17703v1](http://arxiv.org/abs/2505.17703v1)|null|
-|**2025-05-23**|**COUNTDOWN: Contextually Sparse Activation Filtering Out Unnecessary Weights in Down Projection**|Jaewon Cheon et.al.|[2505.17701v1](http://arxiv.org/abs/2505.17701v1)|null|
-|**2025-05-23**|**Dual Attention Residual U-Net for Accurate Brain Ultrasound Segmentation in IVH Detection**|Dan Yuan et.al.|[2505.17683v1](http://arxiv.org/abs/2505.17683v1)|null|
-|**2025-05-23**|**Boosting quantum efficiency by reducing complexity**|Giovanni Sisorio et.al.|[2505.17679v1](http://arxiv.org/abs/2505.17679v1)|null|
-|**2025-05-23**|**Navigate the Unknown: Enhancing LLM Reasoning with Intrinsic Motivation Guided Exploration**|Jingtong Gao et.al.|[2505.17621v1](http://arxiv.org/abs/2505.17621v1)|null|
-|**2025-05-23**|**CoMoE: Contrastive Representation for Mixture-of-Experts in Parameter-Efficient Fine-tuning**|Jinyuan Feng et.al.|[2505.17553v1](http://arxiv.org/abs/2505.17553v1)|null|
-|**2025-05-23**|**The GMRES method for solving the large indefinite least squares problem via an accelerated preconditioner**|Jun Li et.al.|[2505.17504v1](http://arxiv.org/abs/2505.17504v1)|null|
-|**2025-05-23**|**ProxySPEX: Inference-Efficient Interpretability via Sparse Feature Interactions in LLMs**|Landon Butler et.al.|[2505.17495v1](http://arxiv.org/abs/2505.17495v1)|null|
-|**2025-05-23**|**Learning to Focus: Context Extraction for Efficient Code Vulnerability Detection with Language Models**|Xinran Zheng et.al.|[2505.17460v1](http://arxiv.org/abs/2505.17460v1)|null|
-|**2025-05-23**|**Sparse Diffusion Autoencoder for Test-time Adapting Prediction of Complex Systems**|Jingwen Cheng et.al.|[2505.17459v1](http://arxiv.org/abs/2505.17459v1)|null|
-|**2025-05-23**|**HEPP: Hyper-efficient Perception and Planning for High-speed Obstacle Avoidance of UAVs**|Minghao Lu et.al.|[2505.17438v1](http://arxiv.org/abs/2505.17438v1)|null|
-|**2025-05-23**|**Direct3D-S2: Gigascale 3D Generation Made Easy with Spatial Sparse Attention**|Shuang Wu et.al.|[2505.17412v1](http://arxiv.org/abs/2505.17412v1)|null|
 
 ### Sparse Data Format
 |Publish Date|Title|Authors|PDF|Code|
@@ -77,41 +43,41 @@
 |**2025-05-23**|**Neutrinoless double beta decay rates and the $3 + 2$ scenario**|Vaisakh Plakkot et.al.|[2505.17750v1](http://arxiv.org/abs/2505.17750v1)|null|
 |**2025-05-23**|**Discrete Neural Flow Samplers with Locally Equivariant Transformer**|Zijing Ou et.al.|[2505.17741v1](http://arxiv.org/abs/2505.17741v1)|null|
 
-## AI
-
-### LLM Agent
+### Sparse program Compile
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-|**2025-05-23**|**REN: Fast and Efficient Region Encodings from Patch-Based Image Encoders**|Savya Khosla et.al.|[2505.18153v1](http://arxiv.org/abs/2505.18153v1)|null|
-|**2025-05-23**|**Frankentext: Stitching random text fragments into long-form narratives**|Chau Minh Pham et.al.|[2505.18128v1](http://arxiv.org/abs/2505.18128v1)|null|
-|**2025-05-23**|**Instructify: Demystifying Metadata to Visual Instruction Tuning Data Conversion**|Jacob Hansen et.al.|[2505.18115v1](http://arxiv.org/abs/2505.18115v1)|null|
-|**2025-05-23**|**Planning without Search: Refining Frontier LLMs with Offline Goal-Conditioned RL**|Joey Hong et.al.|[2505.18098v1](http://arxiv.org/abs/2505.18098v1)|null|
-|**2025-05-23**|**Towards more transferable adversarial attack in black-box manner**|Chun Tong Lei et.al.|[2505.18097v1](http://arxiv.org/abs/2505.18097v1)|null|
-|**2025-05-23**|**Assessing the performance of 8 AI chatbots in bibliographic reference retrieval: Grok and DeepSeek outperform ChatGPT, but none are fully accurate**|Álvaro Cabezas-Clavijo et.al.|[2505.18059v1](http://arxiv.org/abs/2505.18059v1)|null|
-|**2025-05-23**|**FDBPL: Faster Distillation-Based Prompt Learning for Region-Aware Vision-Language Models Adaptation**|Zherui Zhang et.al.|[2505.18053v1](http://arxiv.org/abs/2505.18053v1)|null|
-|**2025-05-23**|**Structured Thinking Matters: Improving LLMs Generalization in Causal Inference Tasks**|Wentao Sun et.al.|[2505.18034v1](http://arxiv.org/abs/2505.18034v1)|null|
-|**2025-05-23**|**LLM assisted web application functional requirements generation: A case study of four popular LLMs over a Mess Management System**|Rashmi Gupta et.al.|[2505.18019v1](http://arxiv.org/abs/2505.18019v1)|null|
-|**2025-05-23**|**Segment Anyword: Mask Prompt Inversion for Open-Set Grounded Segmentation**|Zhihua Liu et.al.|[2505.17994v1](http://arxiv.org/abs/2505.17994v1)|null|
-|**2025-05-23**|**Are Large Language Models Reliable AI Scientists? Assessing Reverse-Engineering of Black-Box Systems**|Jiayi Geng et.al.|[2505.17968v1](http://arxiv.org/abs/2505.17968v1)|null|
-|**2025-05-23**|**Counting Cycles with Deepseek**|Jiashun Jin et.al.|[2505.17964v1](http://arxiv.org/abs/2505.17964v1)|null|
-|**2025-05-23**|**Survival Games: Human-LLM Strategic Showdowns under Severe Resource Scarcity**|Zhihong Chen et.al.|[2505.17937v1](http://arxiv.org/abs/2505.17937v1)|null|
-|**2025-05-23**|**Spontaneous Symmetry Breaking in Graviweak Theory**|Stephon Alexander et.al.|[2505.17935v1](http://arxiv.org/abs/2505.17935v1)|null|
-|**2025-05-23**|**AutoMiSeg: Automatic Medical Image Segmentation via Test-Time Adaptation of Foundation Models**|Xingjian Li et.al.|[2505.17931v1](http://arxiv.org/abs/2505.17931v1)|null|
-|**2025-05-23**|**Towards Practical Defect-Focused Automated Code Review**|Junyi Lu et.al.|[2505.17928v1](http://arxiv.org/abs/2505.17928v1)|null|
-|**2025-05-23**|**Promptable cancer segmentation using minimal expert-curated data**|Lynn Karam et.al.|[2505.17915v1](http://arxiv.org/abs/2505.17915v1)|null|
-|**2025-05-23**|**Object-level Cross-view Geo-localization with Location Enhancement and Multi-Head Cross Attention**|Zheyang Huang et.al.|[2505.17911v1](http://arxiv.org/abs/2505.17911v1)|null|
-|**2025-05-23**|**Explaining Sources of Uncertainty in Automated Fact-Checking**|Jingyi Sun et.al.|[2505.17855v1](http://arxiv.org/abs/2505.17855v1)|null|
-|**2025-05-23**|**ICPL-ReID: Identity-Conditional Prompt Learning for Multi-Spectral Object Re-Identification**|Shihao Li et.al.|[2505.17821v1](http://arxiv.org/abs/2505.17821v1)|null|
+|**2025-05-23**|**QwenLong-CPRS: Towards $\infty$-LLMs with Dynamic Context Optimization**|Weizhou Shen et.al.|[2505.18092v1](http://arxiv.org/abs/2505.18092v1)|null|
+|**2025-05-23**|**LookWhere? Efficient Visual Recognition by Learning Where to Look and What to See from Self-Supervision**|Anthony Fuller et.al.|[2505.18051v1](http://arxiv.org/abs/2505.18051v1)|null|
+|**2025-05-23**|**SpikeGen: Generative Framework for Visual Spike Stream Processing**|Gaole Dai et.al.|[2505.18049v1](http://arxiv.org/abs/2505.18049v1)|null|
+|**2025-05-23**|**A variational quantum eigensolver tailored to multi-band tight-binding simulations of electronic structures**|Dongkeun Lee et.al.|[2505.18027v1](http://arxiv.org/abs/2505.18027v1)|null|
+|**2025-05-23**|**Towards Analyzing and Understanding the Limitations of VAPO: A Theoretical Perspective**|Jintian Shao et.al.|[2505.17997v1](http://arxiv.org/abs/2505.17997v1)|null|
+|**2025-05-23**|**KITINet: Kinetics Theory Inspired Network Architectures with PDE Simulation Approaches**|Mingquan Feng et.al.|[2505.17919v1](http://arxiv.org/abs/2505.17919v1)|null|
+|**2025-05-23**|**NeuroTrails: Training with Dynamic Sparse Heads as the Key to Effective Ensembling**|Bram Grooten et.al.|[2505.17909v1](http://arxiv.org/abs/2505.17909v1)|null|
+|**2025-05-23**|**Semi-Supervised Multi-Label Feature Selection with Consistent Sparse Graph Learning**|Yan Zhong et.al.|[2505.17875v1](http://arxiv.org/abs/2505.17875v1)|null|
+|**2025-05-23**|**The emergence of sparse attention: impact of data distribution and benefits of repetition**|Nicolas Zucchet et.al.|[2505.17863v1](http://arxiv.org/abs/2505.17863v1)|null|
+|**2025-05-23**|**A sparse $hp$-finite element method for piecewise-smooth differential equations with periodic boundary conditions**|Daniel VandenHeuvel et.al.|[2505.17849v1](http://arxiv.org/abs/2505.17849v1)|null|
+|**2025-05-23**|**Imagine Beyond! Distributionally Robust Auto-Encoding for State Space Coverage in Online Reinforcement Learning**|Nicolas Castanet et.al.|[2505.17830v1](http://arxiv.org/abs/2505.17830v1)|null|
+|**2025-05-23**|**Latent Mode Decomposition**|Manuel Morante et.al.|[2505.17797v1](http://arxiv.org/abs/2505.17797v1)|null|
+|**2025-05-23**|**RECIPE-TKG: From Sparse History to Structured Reasoning for LLM-based Temporal Knowledge Graph Completion**|Ömer Faruk Akgül et.al.|[2505.17794v1](http://arxiv.org/abs/2505.17794v1)|null|
 |**2025-05-23**|**Inference-Time Decomposition of Activations (ITDA): A Scalable Approach to Interpreting Large Language Models**|Patrick Leask et.al.|[2505.17769v1](http://arxiv.org/abs/2505.17769v1)|null|
-|**2025-05-23**|**The Real Barrier to LLM Agent Usability is Agentic ROI**|Weiwen Liu et.al.|[2505.17767v1](http://arxiv.org/abs/2505.17767v1)|null|
-|**2025-05-23**|**But what is your honest answer? Aiding LLM-judges with honest alternatives using steering vectors**|Leon Eshuijs et.al.|[2505.17760v1](http://arxiv.org/abs/2505.17760v1)|null|
-|**2025-05-23**|**LLM Contribution Summarization in Software Projects**|Rafael Corsi Ferrao et.al.|[2505.17710v1](http://arxiv.org/abs/2505.17710v1)|null|
-|**2025-05-23**|**FlashForge: Ultra-Efficient Prefix-Aware Attention for LLM Decoding**|Zhibin Wang et.al.|[2505.17694v1](http://arxiv.org/abs/2505.17694v1)|null|
-|**2025-05-23**|**ViP$^2$-CLIP: Visual-Perception Prompting with Unified Alignment for Zero-Shot Anomaly Detection**|Ziteng Yang et.al.|[2505.17692v1](http://arxiv.org/abs/2505.17692v1)|null|
-|**2025-05-23**|**Rethinking Agent Design: From Top-Down Workflows to Bottom-Up Skill Evolution**|Jiawei Du et.al.|[2505.17673v1](http://arxiv.org/abs/2505.17673v1)|null|
-|**2025-05-23**|**EVADE: Multimodal Benchmark for Evasive Content Detection in E-Commerce Applications**|Ancheng Xu et.al.|[2505.17654v1](http://arxiv.org/abs/2505.17654v1)|null|
-|**2025-05-23**|**Instruct2See: Learning to Remove Any Obstructions Across Distributions**|Junhang Li et.al.|[2505.17649v1](http://arxiv.org/abs/2505.17649v1)|null|
-|**2025-05-23**|**Surfacing Semantic Orthogonality Across Model Safety Benchmarks: A Multi-Dimensional Analysis**|Jonathan Bennion et.al.|[2505.17636v1](http://arxiv.org/abs/2505.17636v1)|null|
+|**2025-05-23**|**Structured Linear CDEs: Maximally Expressive and Parallel-in-Time Sequence Models**|Benjamin Walker et.al.|[2505.17761v1](http://arxiv.org/abs/2505.17761v1)|null|
+|**2025-05-23**|**Computational Math with Neural Networks is Hard**|Michael Feischl et.al.|[2505.17751v1](http://arxiv.org/abs/2505.17751v1)|null|
+|**2025-05-23**|**RQR3D: Reparametrizing the regression targets for BEV-based 3D object detection**|Ozsel Kilinc et.al.|[2505.17732v1](http://arxiv.org/abs/2505.17732v1)|null|
+|**2025-05-23**|**PPO-BR: Dual-Signal Entropy-Reward Adaptation for Trust Region Policy Optimization**|Ben Rahman et.al.|[2505.17714v1](http://arxiv.org/abs/2505.17714v1)|null|
+|**2025-05-23**|**Gradient-Based Program Repair: Fixing Bugs in Continuous Program Spaces**|André Silva et.al.|[2505.17703v1](http://arxiv.org/abs/2505.17703v1)|null|
+|**2025-05-23**|**COUNTDOWN: Contextually Sparse Activation Filtering Out Unnecessary Weights in Down Projection**|Jaewon Cheon et.al.|[2505.17701v1](http://arxiv.org/abs/2505.17701v1)|null|
+|**2025-05-23**|**Dual Attention Residual U-Net for Accurate Brain Ultrasound Segmentation in IVH Detection**|Dan Yuan et.al.|[2505.17683v1](http://arxiv.org/abs/2505.17683v1)|null|
+|**2025-05-23**|**Boosting quantum efficiency by reducing complexity**|Giovanni Sisorio et.al.|[2505.17679v1](http://arxiv.org/abs/2505.17679v1)|null|
+|**2025-05-23**|**Navigate the Unknown: Enhancing LLM Reasoning with Intrinsic Motivation Guided Exploration**|Jingtong Gao et.al.|[2505.17621v1](http://arxiv.org/abs/2505.17621v1)|null|
+|**2025-05-23**|**CoMoE: Contrastive Representation for Mixture-of-Experts in Parameter-Efficient Fine-tuning**|Jinyuan Feng et.al.|[2505.17553v1](http://arxiv.org/abs/2505.17553v1)|null|
+|**2025-05-23**|**The GMRES method for solving the large indefinite least squares problem via an accelerated preconditioner**|Jun Li et.al.|[2505.17504v1](http://arxiv.org/abs/2505.17504v1)|null|
+|**2025-05-23**|**ProxySPEX: Inference-Efficient Interpretability via Sparse Feature Interactions in LLMs**|Landon Butler et.al.|[2505.17495v1](http://arxiv.org/abs/2505.17495v1)|null|
+|**2025-05-23**|**Learning to Focus: Context Extraction for Efficient Code Vulnerability Detection with Language Models**|Xinran Zheng et.al.|[2505.17460v1](http://arxiv.org/abs/2505.17460v1)|null|
+|**2025-05-23**|**Sparse Diffusion Autoencoder for Test-time Adapting Prediction of Complex Systems**|Jingwen Cheng et.al.|[2505.17459v1](http://arxiv.org/abs/2505.17459v1)|null|
+|**2025-05-23**|**HEPP: Hyper-efficient Perception and Planning for High-speed Obstacle Avoidance of UAVs**|Minghao Lu et.al.|[2505.17438v1](http://arxiv.org/abs/2505.17438v1)|null|
+|**2025-05-23**|**Direct3D-S2: Gigascale 3D Generation Made Easy with Spatial Sparse Attention**|Shuang Wu et.al.|[2505.17412v1](http://arxiv.org/abs/2505.17412v1)|null|
+
+## AI
 
 ### LLM Theory
 |Publish Date|Title|Authors|PDF|Code|
@@ -146,6 +112,40 @@
 |**2025-05-23**|**Towards Analyzing and Understanding the Limitations of VAPO: A Theoretical Perspective**|Jintian Shao et.al.|[2505.17997v1](http://arxiv.org/abs/2505.17997v1)|null|
 |**2025-05-23**|**Beyond Distillation: Pushing the Limits of Medical LLM Reasoning with Minimalist Rule-Based RL**|Che Liu et.al.|[2505.17952v1](http://arxiv.org/abs/2505.17952v1)|null|
 |**2025-05-23**|**User-UAV Association for Dynamic User in mmWave Communication for eMBB and URLLC**|Siddhanta Parial et.al.|[2505.17948v1](http://arxiv.org/abs/2505.17948v1)|null|
+
+### LLM Agent
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2025-05-23**|**REN: Fast and Efficient Region Encodings from Patch-Based Image Encoders**|Savya Khosla et.al.|[2505.18153v1](http://arxiv.org/abs/2505.18153v1)|null|
+|**2025-05-23**|**Frankentext: Stitching random text fragments into long-form narratives**|Chau Minh Pham et.al.|[2505.18128v1](http://arxiv.org/abs/2505.18128v1)|null|
+|**2025-05-23**|**Instructify: Demystifying Metadata to Visual Instruction Tuning Data Conversion**|Jacob Hansen et.al.|[2505.18115v1](http://arxiv.org/abs/2505.18115v1)|null|
+|**2025-05-23**|**Planning without Search: Refining Frontier LLMs with Offline Goal-Conditioned RL**|Joey Hong et.al.|[2505.18098v1](http://arxiv.org/abs/2505.18098v1)|null|
+|**2025-05-23**|**Towards more transferable adversarial attack in black-box manner**|Chun Tong Lei et.al.|[2505.18097v1](http://arxiv.org/abs/2505.18097v1)|null|
+|**2025-05-23**|**Assessing the performance of 8 AI chatbots in bibliographic reference retrieval: Grok and DeepSeek outperform ChatGPT, but none are fully accurate**|Álvaro Cabezas-Clavijo et.al.|[2505.18059v1](http://arxiv.org/abs/2505.18059v1)|null|
+|**2025-05-23**|**FDBPL: Faster Distillation-Based Prompt Learning for Region-Aware Vision-Language Models Adaptation**|Zherui Zhang et.al.|[2505.18053v1](http://arxiv.org/abs/2505.18053v1)|null|
+|**2025-05-23**|**Structured Thinking Matters: Improving LLMs Generalization in Causal Inference Tasks**|Wentao Sun et.al.|[2505.18034v1](http://arxiv.org/abs/2505.18034v1)|null|
+|**2025-05-23**|**LLM assisted web application functional requirements generation: A case study of four popular LLMs over a Mess Management System**|Rashmi Gupta et.al.|[2505.18019v1](http://arxiv.org/abs/2505.18019v1)|null|
+|**2025-05-23**|**Segment Anyword: Mask Prompt Inversion for Open-Set Grounded Segmentation**|Zhihua Liu et.al.|[2505.17994v1](http://arxiv.org/abs/2505.17994v1)|null|
+|**2025-05-23**|**Are Large Language Models Reliable AI Scientists? Assessing Reverse-Engineering of Black-Box Systems**|Jiayi Geng et.al.|[2505.17968v1](http://arxiv.org/abs/2505.17968v1)|null|
+|**2025-05-23**|**Counting Cycles with Deepseek**|Jiashun Jin et.al.|[2505.17964v1](http://arxiv.org/abs/2505.17964v1)|null|
+|**2025-05-23**|**Survival Games: Human-LLM Strategic Showdowns under Severe Resource Scarcity**|Zhihong Chen et.al.|[2505.17937v1](http://arxiv.org/abs/2505.17937v1)|null|
+|**2025-05-23**|**Spontaneous Symmetry Breaking in Graviweak Theory**|Stephon Alexander et.al.|[2505.17935v1](http://arxiv.org/abs/2505.17935v1)|null|
+|**2025-05-23**|**AutoMiSeg: Automatic Medical Image Segmentation via Test-Time Adaptation of Foundation Models**|Xingjian Li et.al.|[2505.17931v1](http://arxiv.org/abs/2505.17931v1)|null|
+|**2025-05-23**|**Towards Practical Defect-Focused Automated Code Review**|Junyi Lu et.al.|[2505.17928v1](http://arxiv.org/abs/2505.17928v1)|null|
+|**2025-05-23**|**Promptable cancer segmentation using minimal expert-curated data**|Lynn Karam et.al.|[2505.17915v1](http://arxiv.org/abs/2505.17915v1)|null|
+|**2025-05-23**|**Object-level Cross-view Geo-localization with Location Enhancement and Multi-Head Cross Attention**|Zheyang Huang et.al.|[2505.17911v1](http://arxiv.org/abs/2505.17911v1)|null|
+|**2025-05-23**|**Explaining Sources of Uncertainty in Automated Fact-Checking**|Jingyi Sun et.al.|[2505.17855v1](http://arxiv.org/abs/2505.17855v1)|null|
+|**2025-05-23**|**ICPL-ReID: Identity-Conditional Prompt Learning for Multi-Spectral Object Re-Identification**|Shihao Li et.al.|[2505.17821v1](http://arxiv.org/abs/2505.17821v1)|null|
+|**2025-05-23**|**Inference-Time Decomposition of Activations (ITDA): A Scalable Approach to Interpreting Large Language Models**|Patrick Leask et.al.|[2505.17769v1](http://arxiv.org/abs/2505.17769v1)|null|
+|**2025-05-23**|**The Real Barrier to LLM Agent Usability is Agentic ROI**|Weiwen Liu et.al.|[2505.17767v1](http://arxiv.org/abs/2505.17767v1)|null|
+|**2025-05-23**|**But what is your honest answer? Aiding LLM-judges with honest alternatives using steering vectors**|Leon Eshuijs et.al.|[2505.17760v1](http://arxiv.org/abs/2505.17760v1)|null|
+|**2025-05-23**|**LLM Contribution Summarization in Software Projects**|Rafael Corsi Ferrao et.al.|[2505.17710v1](http://arxiv.org/abs/2505.17710v1)|null|
+|**2025-05-23**|**FlashForge: Ultra-Efficient Prefix-Aware Attention for LLM Decoding**|Zhibin Wang et.al.|[2505.17694v1](http://arxiv.org/abs/2505.17694v1)|null|
+|**2025-05-23**|**ViP$^2$-CLIP: Visual-Perception Prompting with Unified Alignment for Zero-Shot Anomaly Detection**|Ziteng Yang et.al.|[2505.17692v1](http://arxiv.org/abs/2505.17692v1)|null|
+|**2025-05-23**|**Rethinking Agent Design: From Top-Down Workflows to Bottom-Up Skill Evolution**|Jiawei Du et.al.|[2505.17673v1](http://arxiv.org/abs/2505.17673v1)|null|
+|**2025-05-23**|**EVADE: Multimodal Benchmark for Evasive Content Detection in E-Commerce Applications**|Ancheng Xu et.al.|[2505.17654v1](http://arxiv.org/abs/2505.17654v1)|null|
+|**2025-05-23**|**Instruct2See: Learning to Remove Any Obstructions Across Distributions**|Junhang Li et.al.|[2505.17649v1](http://arxiv.org/abs/2505.17649v1)|null|
+|**2025-05-23**|**Surfacing Semantic Orthogonality Across Model Safety Benchmarks: A Multi-Dimensional Analysis**|Jonathan Bennion et.al.|[2505.17636v1](http://arxiv.org/abs/2505.17636v1)|null|
 
 ## Code Compile
 
