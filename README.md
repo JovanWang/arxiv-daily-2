@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-05-28 21:00:59 Asia/Shanghai
+ Automated deployment @ 2025-05-29 08:44:10 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -36,7 +36,7 @@
 |**2025-05-27**|**Latent label distribution grid representation for modeling uncertainty**|ShuNing Sun et.al.|[2505.21180v1](http://arxiv.org/abs/2505.21180v1)|null|
 |**2025-05-27**|**Topological Deep Learning for Speech Data**|Zhiwang Yu et.al.|[2505.21173v1](http://arxiv.org/abs/2505.21173v1)|null|
 |**2025-05-27**|**GGBond: Growing Graph-Based AI-Agent Society for Socially-Aware Recommender Simulation**|Hailin Zhong et.al.|[2505.21154v1](http://arxiv.org/abs/2505.21154v1)|null|
-|**2025-05-27**|**SageAttention2++: A More Efficient Implementation of SageAttention2**|Jintao Zhang et.al.|[2505.21136v1](http://arxiv.org/abs/2505.21136v1)|null|
+|**2025-05-27**|**SageAttention2++: A More Efficient Implementation of SageAttention2**|Jintao Zhang et.al.|[2505.21136v2](http://arxiv.org/abs/2505.21136v2)|null|
 |**2025-05-27**|**Robust and Computation-Aware Gaussian Processes**|Marshal Arijona Sinaga et.al.|[2505.21133v1](http://arxiv.org/abs/2505.21133v1)|null|
 |**2025-05-27**|**Teleportation with non-maximally entangled states and underlying unitary algebras of certain bipartite systems**|Prabal Dasgupta et.al.|[2505.21084v1](http://arxiv.org/abs/2505.21084v1)|null|
 |**2025-05-27**|**Uni3D-MoE: Scalable Multimodal 3D Scene Understanding via Mixture of Experts**|Yue Zhang et.al.|[2505.21079v1](http://arxiv.org/abs/2505.21079v1)|null|
@@ -73,79 +73,9 @@
 |**2025-05-27**|**TumorHoPe2: An updated database for Tumor Homing Peptides**|Diksha Kashyap et.al.|[2505.20913v1](http://arxiv.org/abs/2505.20913v1)|null|
 |**2025-05-27**|**Fully Spiking Neural Networks for Unified Frame-Event Object Tracking**|Jingjun Yang et.al.|[2505.20834v1](http://arxiv.org/abs/2505.20834v1)|null|
 |**2025-05-27**|**A note on the improved sparse Hanson-Wright inequalities**|Guozheng Dai et.al.|[2505.20799v1](http://arxiv.org/abs/2505.20799v1)|null|
-|**2025-05-27**|**Integrating Intermediate Layer Optimization and Projected Gradient Descent for Solving Inverse Problems with Diffusion Models**|Yang Zheng et.al.|[2505.20789v1](http://arxiv.org/abs/2505.20789v1)|null|
+|**2025-05-27**|**Integrating Intermediate Layer Optimization and Projected Gradient Descent for Solving Inverse Problems with Diffusion Models**|Yang Zheng et.al.|[2505.20789v2](http://arxiv.org/abs/2505.20789v2)|null|
 |**2025-05-27**|**Cold-Start Recommendation with Knowledge-Guided Retrieval-Augmented Generation**|Wooseong Yang et.al.|[2505.20773v1](http://arxiv.org/abs/2505.20773v1)|null|
 |**2025-05-27**|**Intern-GS: Vision Model Guided Sparse-View 3D Gaussian Splatting**|Xiangyu Sun et.al.|[2505.20729v1](http://arxiv.org/abs/2505.20729v1)|null|
-
-## Code Compile
-
-### C Code Generation
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2025-05-27**|**Tunable intertwining via collective excitations**|Andras Szabo et.al.|[2505.21504v1](http://arxiv.org/abs/2505.21504v1)|null|
-|**2025-05-27**|**Generalizable and Relightable Gaussian Splatting for Human Novel View Synthesis**|Yipengjing Sun et.al.|[2505.21502v1](http://arxiv.org/abs/2505.21502v1)|null|
-|**2025-05-27**|**Vision Transformers with Self-Distilled Registers**|Yinjie Chen et.al.|[2505.21501v1](http://arxiv.org/abs/2505.21501v1)|null|
-|**2025-05-27**|**ViewSpatial-Bench: Evaluating Multi-perspective Spatial Localization in Vision-Language Models**|Dingming Li et.al.|[2505.21500v1](http://arxiv.org/abs/2505.21500v1)|null|
-|**2025-05-27**|**AdInject: Real-World Black-Box Attacks on Web Agents via Advertising Delivery**|Haowei Wang et.al.|[2505.21499v1](http://arxiv.org/abs/2505.21499v1)|null|
-|**2025-05-27**|**Paper2Poster: Towards Multimodal Poster Automation from Scientific Papers**|Wei Pang et.al.|[2505.21497v1](http://arxiv.org/abs/2505.21497v1)|null|
-|**2025-05-27**|**UI-Genie: A Self-Improving Approach for Iteratively Boosting MLLM-based Mobile GUI Agents**|Han Xiao et.al.|[2505.21496v1](http://arxiv.org/abs/2505.21496v1)|null|
-|**2025-05-27**|**CLAMP: Crowdsourcing a LArge-scale in-the-wild haptic dataset with an open-source device for Multimodal robot Perception**|Pranav N. Thakkar et.al.|[2505.21495v1](http://arxiv.org/abs/2505.21495v1)|null|
-|**2025-05-27**|**Adversarial Attacks against Closed-Source MLLMs via Feature Optimal Alignment**|Xiaojun Jia et.al.|[2505.21494v1](http://arxiv.org/abs/2505.21494v1)|null|
-|**2025-05-27**|**Reinforcing General Reasoning without Verifiers**|Xiangxin Zhou et.al.|[2505.21493v1](http://arxiv.org/abs/2505.21493v1)|null|
-|**2025-05-27**|**Frame In-N-Out: Unbounded Controllable Image-to-Video Generation**|Boyang Wang et.al.|[2505.21491v1](http://arxiv.org/abs/2505.21491v1)|null|
-|**2025-05-27**|**5-Dimensional Gravitational Raman Scattering: Scalar Wave Perturbations in Schwarzschild-Tangherlini Spacetime**|Samim Akhtar et.al.|[2505.21489v1](http://arxiv.org/abs/2505.21489v1)|null|
-|**2025-05-27**|**Be Decisive: Noise-Induced Layouts for Multi-Subject Generation**|Omer Dahary et.al.|[2505.21488v1](http://arxiv.org/abs/2505.21488v1)|null|
-|**2025-05-27**|**Robust Hypothesis Generation: LLM-Automated Language Bias for Inductive Logic Programming**|Yang Yang et.al.|[2505.21486v1](http://arxiv.org/abs/2505.21486v1)|null|
-|**2025-05-27**|**Representations of the fractional d'Alembertian and initial conditions in fractional dynamics**|Gianluca Calcagni et.al.|[2505.21485v1](http://arxiv.org/abs/2505.21485v1)|null|
-|**2025-05-27**|**MV-CoLight: Efficient Object Compositing with Consistent Lighting and Shadow Generation**|Kerui Ren et.al.|[2505.21483v1](http://arxiv.org/abs/2505.21483v1)|null|
-|**2025-05-27**|**Are Language Models Consequentialist or Deontological Moral Reasoners?**|Keenan Samway et.al.|[2505.21479v1](http://arxiv.org/abs/2505.21479v1)|null|
-|**2025-05-27**|**Policy Optimized Text-to-Image Pipeline Design**|Uri Gadot et.al.|[2505.21478v1](http://arxiv.org/abs/2505.21478v1)|null|
-|**2025-05-27**|**Algorithms and SQ Lower Bounds for Robustly Learning Real-valued Multi-index Models**|Ilias Diakonikolas et.al.|[2505.21475v1](http://arxiv.org/abs/2505.21475v1)|null|
-|**2025-05-27**|**Mitigating Hallucination in Large Vision-Language Models via Adaptive Attention Calibration**|Mehrdad Fazli et.al.|[2505.21472v1](http://arxiv.org/abs/2505.21472v1)|null|
-|**2025-05-27**|**DetailFlow: 1D Coarse-to-Fine Autoregressive Image Generation via Next-Detail Prediction**|Yiheng Liu et.al.|[2505.21473v1](http://arxiv.org/abs/2505.21473v1)|null|
-|**2025-05-27**|**Scaling External Knowledge Input Beyond Context Windows of LLMs via Multi-Agent Collaboration**|Zijun Liu et.al.|[2505.21471v1](http://arxiv.org/abs/2505.21471v1)|null|
-|**2025-05-27**|**PropMolFlow: Property-guided Molecule Generation with Geometry-Complete Flow Matching**|Cheng Zeng et.al.|[2505.21469v1](http://arxiv.org/abs/2505.21469v1)|null|
-|**2025-05-27**|**Accelerating Diffusion Language Model Inference via Efficient KV Caching and Guided Diffusion**|Zhanqiu Hu et.al.|[2505.21467v1](http://arxiv.org/abs/2505.21467v1)|null|
-|**2025-05-27**|**On the Modulation of Wave Trains in the Ostrovsky Equation**|Mathew A. Johnson et.al.|[2505.21466v1](http://arxiv.org/abs/2505.21466v1)|null|
-|**2025-05-27**|**ID-Align: RoPE-Conscious Position Remapping for Dynamic High-Resolution Adaptation in Vision-Language Models**|Bozhou Li et.al.|[2505.21465v1](http://arxiv.org/abs/2505.21465v1)|null|
-|**2025-05-27**|**Spectral Evolution of Rotating Population III Stars**|Jake Hassan et.al.|[2505.21463v1](http://arxiv.org/abs/2505.21463v1)|null|
-|**2025-05-27**|**M3S-UPD: Efficient Multi-Stage Self-Supervised Learning for Fine-Grained Encrypted Traffic Classification with Unknown Pattern Discovery**|Yali Yuan et.al.|[2505.21462v1](http://arxiv.org/abs/2505.21462v1)|null|
-|**2025-05-27**|**Active-O3: Empowering Multimodal Large Language Models with Active Perception via GRPO**|Muzhi Zhu et.al.|[2505.21457v1](http://arxiv.org/abs/2505.21457v1)|null|
-|**2025-05-27**|**Designing Cyclic Peptides via Harmonic SDE with Atom-Bond Modeling**|Xiangxin Zhou et.al.|[2505.21452v1](http://arxiv.org/abs/2505.21452v1)|null|
-
-### C Code Migration
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2025-05-27**|**Tunable intertwining via collective excitations**|Andras Szabo et.al.|[2505.21504v1](http://arxiv.org/abs/2505.21504v1)|null|
-|**2025-05-27**|**How does Alignment Enhance LLMs' Multilingual Capabilities? A Language Neurons Perspective**|Shimao Zhang et.al.|[2505.21505v1](http://arxiv.org/abs/2505.21505v1)|null|
-|**2025-05-27**|**Silence is Not Consensus: Disrupting Agreement Bias in Multi-Agent LLMs via Catfish Agent for Clinical Decision Making**|Yihan Wang et.al.|[2505.21503v1](http://arxiv.org/abs/2505.21503v1)|null|
-|**2025-05-27**|**Generalizable and Relightable Gaussian Splatting for Human Novel View Synthesis**|Yipengjing Sun et.al.|[2505.21502v1](http://arxiv.org/abs/2505.21502v1)|null|
-|**2025-05-27**|**Vision Transformers with Self-Distilled Registers**|Yinjie Chen et.al.|[2505.21501v1](http://arxiv.org/abs/2505.21501v1)|null|
-|**2025-05-27**|**ViewSpatial-Bench: Evaluating Multi-perspective Spatial Localization in Vision-Language Models**|Dingming Li et.al.|[2505.21500v1](http://arxiv.org/abs/2505.21500v1)|null|
-|**2025-05-27**|**AdInject: Real-World Black-Box Attacks on Web Agents via Advertising Delivery**|Haowei Wang et.al.|[2505.21499v1](http://arxiv.org/abs/2505.21499v1)|null|
-|**2025-05-27**|**Chiral Anomaly Induced Transverse Planar Transport Phenomena in Three Dimensional Spin-Orbit Coupled Metals**|Rishi G. Gopalakrishnan et.al.|[2505.21498v1](http://arxiv.org/abs/2505.21498v1)|null|
-|**2025-05-27**|**Paper2Poster: Towards Multimodal Poster Automation from Scientific Papers**|Wei Pang et.al.|[2505.21497v1](http://arxiv.org/abs/2505.21497v1)|null|
-|**2025-05-27**|**UI-Genie: A Self-Improving Approach for Iteratively Boosting MLLM-based Mobile GUI Agents**|Han Xiao et.al.|[2505.21496v1](http://arxiv.org/abs/2505.21496v1)|null|
-|**2025-05-27**|**CLAMP: Crowdsourcing a LArge-scale in-the-wild haptic dataset with an open-source device for Multimodal robot Perception**|Pranav N. Thakkar et.al.|[2505.21495v1](http://arxiv.org/abs/2505.21495v1)|null|
-|**2025-05-27**|**Adversarial Attacks against Closed-Source MLLMs via Feature Optimal Alignment**|Xiaojun Jia et.al.|[2505.21494v1](http://arxiv.org/abs/2505.21494v1)|null|
-|**2025-05-27**|**Reinforcing General Reasoning without Verifiers**|Xiangxin Zhou et.al.|[2505.21493v1](http://arxiv.org/abs/2505.21493v1)|null|
-|**2025-05-27**|**Dust removal timescale in galaxies across cosmic time**|Aleksandra Leśniewska et.al.|[2505.21492v1](http://arxiv.org/abs/2505.21492v1)|null|
-|**2025-05-27**|**Frame In-N-Out: Unbounded Controllable Image-to-Video Generation**|Boyang Wang et.al.|[2505.21491v1](http://arxiv.org/abs/2505.21491v1)|null|
-|**2025-05-27**|**Bayesian Dynamic Clustering Factor Models**|Tsering Dolkar et.al.|[2505.21490v1](http://arxiv.org/abs/2505.21490v1)|null|
-|**2025-05-27**|**5-Dimensional Gravitational Raman Scattering: Scalar Wave Perturbations in Schwarzschild-Tangherlini Spacetime**|Samim Akhtar et.al.|[2505.21489v1](http://arxiv.org/abs/2505.21489v1)|null|
-|**2025-05-27**|**Be Decisive: Noise-Induced Layouts for Multi-Subject Generation**|Omer Dahary et.al.|[2505.21488v1](http://arxiv.org/abs/2505.21488v1)|null|
-|**2025-05-27**|**Hardware-Efficient Attention for Fast Decoding**|Ted Zadouri et.al.|[2505.21487v1](http://arxiv.org/abs/2505.21487v1)|null|
-|**2025-05-27**|**Robust Hypothesis Generation: LLM-Automated Language Bias for Inductive Logic Programming**|Yang Yang et.al.|[2505.21486v1](http://arxiv.org/abs/2505.21486v1)|null|
-|**2025-05-27**|**Representations of the fractional d'Alembertian and initial conditions in fractional dynamics**|Gianluca Calcagni et.al.|[2505.21485v1](http://arxiv.org/abs/2505.21485v1)|null|
-|**2025-05-27**|**A fixed-point theorem for face maps, or deleting entries in random finite sets**|Tom Hutchcroft et.al.|[2505.21484v1](http://arxiv.org/abs/2505.21484v1)|null|
-|**2025-05-27**|**MV-CoLight: Efficient Object Compositing with Consistent Lighting and Shadow Generation**|Kerui Ren et.al.|[2505.21483v1](http://arxiv.org/abs/2505.21483v1)|null|
-|**2025-05-27**|**Tissue-specific predictive performance: A unified estimation and inference framework for multi-category screening tests**|A. Gregory DiRienzo et.al.|[2505.21482v1](http://arxiv.org/abs/2505.21482v1)|null|
-|**2025-05-27**|**Probing the quantum motion of a macroscopic mechanical oscillator with a radio-frequency superconducting qubit**|Kyrylo Gerashchenko et.al.|[2505.21481v1](http://arxiv.org/abs/2505.21481v1)|null|
-|**2025-05-27**|**Geopolitical Tensions and Financial Networks: Strategic Shifts Toward Alternatives**|Antonis Ballis et.al.|[2505.21480v1](http://arxiv.org/abs/2505.21480v1)|null|
-|**2025-05-27**|**Are Language Models Consequentialist or Deontological Moral Reasoners?**|Keenan Samway et.al.|[2505.21479v1](http://arxiv.org/abs/2505.21479v1)|null|
-|**2025-05-27**|**Policy Optimized Text-to-Image Pipeline Design**|Uri Gadot et.al.|[2505.21478v1](http://arxiv.org/abs/2505.21478v1)|null|
-|**2025-05-27**|**Variétés réelles connexes non stablement rationnelles**|Jean-Louis Colliot-Thélène et.al.|[2505.21477v1](http://arxiv.org/abs/2505.21477v1)|null|
-|**2025-05-27**|**The anomalous magnetic moment of the muon in the Standard Model: an update**|R. Aliberti et.al.|[2505.21476v1](http://arxiv.org/abs/2505.21476v1)|null|
 
 ## AI
 
@@ -169,7 +99,7 @@
 |**2025-05-27**|**PHISH in MESH: Korean Adversarial Phonetic Substitution and Phonetic-Semantic Feature Integration Defense**|Byungjun Kim et.al.|[2505.21380v1](http://arxiv.org/abs/2505.21380v1)|null|
 |**2025-05-27**|**YOLO-SPCI: Enhancing Remote Sensing Object Detection via Selective-Perspective-Class Integration**|Xinyuan Wang et.al.|[2505.21370v1](http://arxiv.org/abs/2505.21370v1)|null|
 |**2025-05-27**|**CRISP-NAM: Competing Risks Interpretable Survival Prediction with Neural Additive Models**|Dhanesh Ramachandram et.al.|[2505.21360v1](http://arxiv.org/abs/2505.21360v1)|null|
-|**2025-05-27**|**AgriFM: A Multi-source Temporal Remote Sensing Foundation Model for Crop Mapping**|Wenyuan Li et.al.|[2505.21357v1](http://arxiv.org/abs/2505.21357v1)|null|
+|**2025-05-27**|**AgriFM: A Multi-source Temporal Remote Sensing Foundation Model for Crop Mapping**|Wenyuan Li et.al.|[2505.21357v2](http://arxiv.org/abs/2505.21357v2)|null|
 |**2025-05-27**|**Leveraging Large Language Models for Bengali Math Word Problem Solving with Chain of Thought Reasoning**|Bidyarthi Paul et.al.|[2505.21354v1](http://arxiv.org/abs/2505.21354v1)|null|
 |**2025-05-27**|**EquAct: An SE(3)-Equivariant Multi-Task Transformer for Open-Loop Robotic Manipulation**|Xupeng Zhu et.al.|[2505.21351v1](http://arxiv.org/abs/2505.21351v1)|null|
 |**2025-05-27**|**A Thermally Modulated SINIS Trasconductance Amplifier**|Giacomo Trupiano et.al.|[2505.21341v1](http://arxiv.org/abs/2505.21341v1)|null|
@@ -197,7 +127,7 @@
 |**2025-05-27**|**Video-Holmes: Can MLLM Think Like Holmes for Complex Video Reasoning?**|Junhao Cheng et.al.|[2505.21374v1](http://arxiv.org/abs/2505.21374v1)|null|
 |**2025-05-27**|**Evaluating LLM Adaptation to Sociodemographic Factors: User Profile vs. Dialogue History**|Qishuai Zhong et.al.|[2505.21362v1](http://arxiv.org/abs/2505.21362v1)|null|
 |**2025-05-27**|**Leveraging Large Language Models for Bengali Math Word Problem Solving with Chain of Thought Reasoning**|Bidyarthi Paul et.al.|[2505.21354v1](http://arxiv.org/abs/2505.21354v1)|null|
-|**2025-05-27**|**OVERT: A Benchmark for Over-Refusal Evaluation on Text-to-Image Models**|Ziheng Cheng et.al.|[2505.21347v1](http://arxiv.org/abs/2505.21347v1)|[link](https://github.com/yixiao-huang/OVERT)|
+|**2025-05-27**|**OVERT: A Benchmark for Over-Refusal Evaluation on Text-to-Image Models**|Ziheng Cheng et.al.|[2505.21347v2](http://arxiv.org/abs/2505.21347v2)|[link](https://github.com/yixiao-huang/OVERT)|
 |**2025-05-27**|**On Distinguishing Graphs and Cost Number using Automorphism Representations**|Alexa Gopaulsingh et.al.|[2505.21299v1](http://arxiv.org/abs/2505.21299v1)|null|
 |**2025-05-27**|**Complex System Diagnostics Using a Knowledge Graph-Informed and Large Language Model-Enhanced Framework**|Saman Marandi et.al.|[2505.21291v1](http://arxiv.org/abs/2505.21291v1)|null|
 |**2025-05-27**|**Breaking the Ceiling: Exploring the Potential of Jailbreak Attacks through Expanding Strategy Space**|Yao Huang et.al.|[2505.21277v1](http://arxiv.org/abs/2505.21277v1)|null|
@@ -246,9 +176,79 @@
 |**2025-05-27**|**INTEGRAL/ISGRI post 2024-periastron view of PSR B1259-63**|A. Kuzin et.al.|[2505.21474v1](http://arxiv.org/abs/2505.21474v1)|null|
 |**2025-05-27**|**Mitigating Hallucination in Large Vision-Language Models via Adaptive Attention Calibration**|Mehrdad Fazli et.al.|[2505.21472v1](http://arxiv.org/abs/2505.21472v1)|null|
 |**2025-05-27**|**DetailFlow: 1D Coarse-to-Fine Autoregressive Image Generation via Next-Detail Prediction**|Yiheng Liu et.al.|[2505.21473v1](http://arxiv.org/abs/2505.21473v1)|null|
-|**2025-05-27**|**Scaling External Knowledge Input Beyond Context Windows of LLMs via Multi-Agent Collaboration**|Zijun Liu et.al.|[2505.21471v1](http://arxiv.org/abs/2505.21471v1)|null|
+|**2025-05-27**|**Scaling External Knowledge Input Beyond Context Windows of LLMs via Multi-Agent Collaboration**|Zijun Liu et.al.|[2505.21471v1](http://arxiv.org/abs/2505.21471v1)|[link](https://github.com/thunlp-mt/extagents)|
 |**2025-05-27**|**Changing disc compositions via internal photoevaporation II: M dwarf systems**|Julia Lena Lienert et.al.|[2505.21470v1](http://arxiv.org/abs/2505.21470v1)|null|
 |**2025-05-27**|**PropMolFlow: Property-guided Molecule Generation with Geometry-Complete Flow Matching**|Cheng Zeng et.al.|[2505.21469v1](http://arxiv.org/abs/2505.21469v1)|null|
 |**2025-05-27**|**Causal Posterior Estimation**|Simon Dirmeier et.al.|[2505.21468v1](http://arxiv.org/abs/2505.21468v1)|null|
 |**2025-05-27**|**Accelerating Diffusion Language Model Inference via Efficient KV Caching and Guided Diffusion**|Zhanqiu Hu et.al.|[2505.21467v1](http://arxiv.org/abs/2505.21467v1)|null|
 |**2025-05-27**|**On the Modulation of Wave Trains in the Ostrovsky Equation**|Mathew A. Johnson et.al.|[2505.21466v1](http://arxiv.org/abs/2505.21466v1)|null|
+
+## Code Compile
+
+### C Code Generation
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2025-05-27**|**Tunable intertwining via collective excitations**|Andras Szabo et.al.|[2505.21504v1](http://arxiv.org/abs/2505.21504v1)|null|
+|**2025-05-27**|**Generalizable and Relightable Gaussian Splatting for Human Novel View Synthesis**|Yipengjing Sun et.al.|[2505.21502v1](http://arxiv.org/abs/2505.21502v1)|null|
+|**2025-05-27**|**Vision Transformers with Self-Distilled Registers**|Yinjie Chen et.al.|[2505.21501v1](http://arxiv.org/abs/2505.21501v1)|null|
+|**2025-05-27**|**ViewSpatial-Bench: Evaluating Multi-perspective Spatial Localization in Vision-Language Models**|Dingming Li et.al.|[2505.21500v1](http://arxiv.org/abs/2505.21500v1)|null|
+|**2025-05-27**|**AdInject: Real-World Black-Box Attacks on Web Agents via Advertising Delivery**|Haowei Wang et.al.|[2505.21499v1](http://arxiv.org/abs/2505.21499v1)|null|
+|**2025-05-27**|**Paper2Poster: Towards Multimodal Poster Automation from Scientific Papers**|Wei Pang et.al.|[2505.21497v1](http://arxiv.org/abs/2505.21497v1)|null|
+|**2025-05-27**|**UI-Genie: A Self-Improving Approach for Iteratively Boosting MLLM-based Mobile GUI Agents**|Han Xiao et.al.|[2505.21496v1](http://arxiv.org/abs/2505.21496v1)|null|
+|**2025-05-27**|**CLAMP: Crowdsourcing a LArge-scale in-the-wild haptic dataset with an open-source device for Multimodal robot Perception**|Pranav N. Thakkar et.al.|[2505.21495v1](http://arxiv.org/abs/2505.21495v1)|null|
+|**2025-05-27**|**Adversarial Attacks against Closed-Source MLLMs via Feature Optimal Alignment**|Xiaojun Jia et.al.|[2505.21494v1](http://arxiv.org/abs/2505.21494v1)|null|
+|**2025-05-27**|**Reinforcing General Reasoning without Verifiers**|Xiangxin Zhou et.al.|[2505.21493v1](http://arxiv.org/abs/2505.21493v1)|null|
+|**2025-05-27**|**Frame In-N-Out: Unbounded Controllable Image-to-Video Generation**|Boyang Wang et.al.|[2505.21491v1](http://arxiv.org/abs/2505.21491v1)|null|
+|**2025-05-27**|**5-Dimensional Gravitational Raman Scattering: Scalar Wave Perturbations in Schwarzschild-Tangherlini Spacetime**|Samim Akhtar et.al.|[2505.21489v1](http://arxiv.org/abs/2505.21489v1)|null|
+|**2025-05-27**|**Be Decisive: Noise-Induced Layouts for Multi-Subject Generation**|Omer Dahary et.al.|[2505.21488v1](http://arxiv.org/abs/2505.21488v1)|null|
+|**2025-05-27**|**Robust Hypothesis Generation: LLM-Automated Language Bias for Inductive Logic Programming**|Yang Yang et.al.|[2505.21486v1](http://arxiv.org/abs/2505.21486v1)|null|
+|**2025-05-27**|**Representations of the fractional d'Alembertian and initial conditions in fractional dynamics**|Gianluca Calcagni et.al.|[2505.21485v1](http://arxiv.org/abs/2505.21485v1)|null|
+|**2025-05-27**|**MV-CoLight: Efficient Object Compositing with Consistent Lighting and Shadow Generation**|Kerui Ren et.al.|[2505.21483v1](http://arxiv.org/abs/2505.21483v1)|null|
+|**2025-05-27**|**Are Language Models Consequentialist or Deontological Moral Reasoners?**|Keenan Samway et.al.|[2505.21479v1](http://arxiv.org/abs/2505.21479v1)|null|
+|**2025-05-27**|**Policy Optimized Text-to-Image Pipeline Design**|Uri Gadot et.al.|[2505.21478v1](http://arxiv.org/abs/2505.21478v1)|null|
+|**2025-05-27**|**Algorithms and SQ Lower Bounds for Robustly Learning Real-valued Multi-index Models**|Ilias Diakonikolas et.al.|[2505.21475v1](http://arxiv.org/abs/2505.21475v1)|null|
+|**2025-05-27**|**Mitigating Hallucination in Large Vision-Language Models via Adaptive Attention Calibration**|Mehrdad Fazli et.al.|[2505.21472v1](http://arxiv.org/abs/2505.21472v1)|null|
+|**2025-05-27**|**DetailFlow: 1D Coarse-to-Fine Autoregressive Image Generation via Next-Detail Prediction**|Yiheng Liu et.al.|[2505.21473v1](http://arxiv.org/abs/2505.21473v1)|null|
+|**2025-05-27**|**Scaling External Knowledge Input Beyond Context Windows of LLMs via Multi-Agent Collaboration**|Zijun Liu et.al.|[2505.21471v1](http://arxiv.org/abs/2505.21471v1)|[link](https://github.com/thunlp-mt/extagents)|
+|**2025-05-27**|**PropMolFlow: Property-guided Molecule Generation with Geometry-Complete Flow Matching**|Cheng Zeng et.al.|[2505.21469v1](http://arxiv.org/abs/2505.21469v1)|null|
+|**2025-05-27**|**Accelerating Diffusion Language Model Inference via Efficient KV Caching and Guided Diffusion**|Zhanqiu Hu et.al.|[2505.21467v1](http://arxiv.org/abs/2505.21467v1)|null|
+|**2025-05-27**|**On the Modulation of Wave Trains in the Ostrovsky Equation**|Mathew A. Johnson et.al.|[2505.21466v1](http://arxiv.org/abs/2505.21466v1)|null|
+|**2025-05-27**|**ID-Align: RoPE-Conscious Position Remapping for Dynamic High-Resolution Adaptation in Vision-Language Models**|Bozhou Li et.al.|[2505.21465v1](http://arxiv.org/abs/2505.21465v1)|null|
+|**2025-05-27**|**Spectral Evolution of Rotating Population III Stars**|Jake Hassan et.al.|[2505.21463v1](http://arxiv.org/abs/2505.21463v1)|null|
+|**2025-05-27**|**M3S-UPD: Efficient Multi-Stage Self-Supervised Learning for Fine-Grained Encrypted Traffic Classification with Unknown Pattern Discovery**|Yali Yuan et.al.|[2505.21462v1](http://arxiv.org/abs/2505.21462v1)|null|
+|**2025-05-27**|**Active-O3: Empowering Multimodal Large Language Models with Active Perception via GRPO**|Muzhi Zhu et.al.|[2505.21457v1](http://arxiv.org/abs/2505.21457v1)|null|
+|**2025-05-27**|**Designing Cyclic Peptides via Harmonic SDE with Atom-Bond Modeling**|Xiangxin Zhou et.al.|[2505.21452v1](http://arxiv.org/abs/2505.21452v1)|null|
+
+### C Code Migration
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2025-05-27**|**Tunable intertwining via collective excitations**|Andras Szabo et.al.|[2505.21504v1](http://arxiv.org/abs/2505.21504v1)|null|
+|**2025-05-27**|**How does Alignment Enhance LLMs' Multilingual Capabilities? A Language Neurons Perspective**|Shimao Zhang et.al.|[2505.21505v1](http://arxiv.org/abs/2505.21505v1)|null|
+|**2025-05-27**|**Silence is Not Consensus: Disrupting Agreement Bias in Multi-Agent LLMs via Catfish Agent for Clinical Decision Making**|Yihan Wang et.al.|[2505.21503v1](http://arxiv.org/abs/2505.21503v1)|null|
+|**2025-05-27**|**Generalizable and Relightable Gaussian Splatting for Human Novel View Synthesis**|Yipengjing Sun et.al.|[2505.21502v1](http://arxiv.org/abs/2505.21502v1)|null|
+|**2025-05-27**|**Vision Transformers with Self-Distilled Registers**|Yinjie Chen et.al.|[2505.21501v1](http://arxiv.org/abs/2505.21501v1)|null|
+|**2025-05-27**|**ViewSpatial-Bench: Evaluating Multi-perspective Spatial Localization in Vision-Language Models**|Dingming Li et.al.|[2505.21500v1](http://arxiv.org/abs/2505.21500v1)|null|
+|**2025-05-27**|**AdInject: Real-World Black-Box Attacks on Web Agents via Advertising Delivery**|Haowei Wang et.al.|[2505.21499v1](http://arxiv.org/abs/2505.21499v1)|null|
+|**2025-05-27**|**Chiral Anomaly Induced Transverse Planar Transport Phenomena in Three Dimensional Spin-Orbit Coupled Metals**|Rishi G. Gopalakrishnan et.al.|[2505.21498v1](http://arxiv.org/abs/2505.21498v1)|null|
+|**2025-05-27**|**Paper2Poster: Towards Multimodal Poster Automation from Scientific Papers**|Wei Pang et.al.|[2505.21497v1](http://arxiv.org/abs/2505.21497v1)|null|
+|**2025-05-27**|**UI-Genie: A Self-Improving Approach for Iteratively Boosting MLLM-based Mobile GUI Agents**|Han Xiao et.al.|[2505.21496v1](http://arxiv.org/abs/2505.21496v1)|null|
+|**2025-05-27**|**CLAMP: Crowdsourcing a LArge-scale in-the-wild haptic dataset with an open-source device for Multimodal robot Perception**|Pranav N. Thakkar et.al.|[2505.21495v1](http://arxiv.org/abs/2505.21495v1)|null|
+|**2025-05-27**|**Adversarial Attacks against Closed-Source MLLMs via Feature Optimal Alignment**|Xiaojun Jia et.al.|[2505.21494v1](http://arxiv.org/abs/2505.21494v1)|null|
+|**2025-05-27**|**Reinforcing General Reasoning without Verifiers**|Xiangxin Zhou et.al.|[2505.21493v1](http://arxiv.org/abs/2505.21493v1)|null|
+|**2025-05-27**|**Dust removal timescale in galaxies across cosmic time**|Aleksandra Leśniewska et.al.|[2505.21492v1](http://arxiv.org/abs/2505.21492v1)|null|
+|**2025-05-27**|**Frame In-N-Out: Unbounded Controllable Image-to-Video Generation**|Boyang Wang et.al.|[2505.21491v1](http://arxiv.org/abs/2505.21491v1)|null|
+|**2025-05-27**|**Bayesian Dynamic Clustering Factor Models**|Tsering Dolkar et.al.|[2505.21490v1](http://arxiv.org/abs/2505.21490v1)|null|
+|**2025-05-27**|**5-Dimensional Gravitational Raman Scattering: Scalar Wave Perturbations in Schwarzschild-Tangherlini Spacetime**|Samim Akhtar et.al.|[2505.21489v1](http://arxiv.org/abs/2505.21489v1)|null|
+|**2025-05-27**|**Be Decisive: Noise-Induced Layouts for Multi-Subject Generation**|Omer Dahary et.al.|[2505.21488v1](http://arxiv.org/abs/2505.21488v1)|null|
+|**2025-05-27**|**Hardware-Efficient Attention for Fast Decoding**|Ted Zadouri et.al.|[2505.21487v1](http://arxiv.org/abs/2505.21487v1)|null|
+|**2025-05-27**|**Robust Hypothesis Generation: LLM-Automated Language Bias for Inductive Logic Programming**|Yang Yang et.al.|[2505.21486v1](http://arxiv.org/abs/2505.21486v1)|null|
+|**2025-05-27**|**Representations of the fractional d'Alembertian and initial conditions in fractional dynamics**|Gianluca Calcagni et.al.|[2505.21485v1](http://arxiv.org/abs/2505.21485v1)|null|
+|**2025-05-27**|**A fixed-point theorem for face maps, or deleting entries in random finite sets**|Tom Hutchcroft et.al.|[2505.21484v1](http://arxiv.org/abs/2505.21484v1)|null|
+|**2025-05-27**|**MV-CoLight: Efficient Object Compositing with Consistent Lighting and Shadow Generation**|Kerui Ren et.al.|[2505.21483v1](http://arxiv.org/abs/2505.21483v1)|null|
+|**2025-05-27**|**Tissue-specific predictive performance: A unified estimation and inference framework for multi-category screening tests**|A. Gregory DiRienzo et.al.|[2505.21482v1](http://arxiv.org/abs/2505.21482v1)|null|
+|**2025-05-27**|**Probing the quantum motion of a macroscopic mechanical oscillator with a radio-frequency superconducting qubit**|Kyrylo Gerashchenko et.al.|[2505.21481v1](http://arxiv.org/abs/2505.21481v1)|null|
+|**2025-05-27**|**Geopolitical Tensions and Financial Networks: Strategic Shifts Toward Alternatives**|Antonis Ballis et.al.|[2505.21480v1](http://arxiv.org/abs/2505.21480v1)|null|
+|**2025-05-27**|**Are Language Models Consequentialist or Deontological Moral Reasoners?**|Keenan Samway et.al.|[2505.21479v1](http://arxiv.org/abs/2505.21479v1)|null|
+|**2025-05-27**|**Policy Optimized Text-to-Image Pipeline Design**|Uri Gadot et.al.|[2505.21478v1](http://arxiv.org/abs/2505.21478v1)|null|
+|**2025-05-27**|**Variétés réelles connexes non stablement rationnelles**|Jean-Louis Colliot-Thélène et.al.|[2505.21477v1](http://arxiv.org/abs/2505.21477v1)|null|
+|**2025-05-27**|**The anomalous magnetic moment of the muon in the Standard Model: an update**|R. Aliberti et.al.|[2505.21476v1](http://arxiv.org/abs/2505.21476v1)|null|
