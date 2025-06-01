@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-05-31 21:18:32 Asia/Shanghai
+ Automated deployment @ 2025-06-01 08:55:52 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -69,7 +69,7 @@
 |**2025-05-29**|**Ghidorah: Fast LLM Inference on Edge with Speculative Decoding and Hetero-Core Parallelism**|Jinhui Wei et.al.|[2505.23219v1](http://arxiv.org/abs/2505.23219v1)|null|
 |**2025-05-29**|**Bigger, Regularized, Categorical: High-Capacity Value Functions are Efficient Multi-Task Learners**|Michal Nauman et.al.|[2505.23150v1](http://arxiv.org/abs/2505.23150v1)|null|
 |**2025-05-29**|**Offline Map Matching Based on Localization Error Distribution Modeling**|Ruilin Xu et.al.|[2505.23123v1](http://arxiv.org/abs/2505.23123v1)|null|
-|**2025-05-29**|**DX100: A Programmable Data Access Accelerator for Indirection**|Alireza Khadem et.al.|[2505.23073v1](http://arxiv.org/abs/2505.23073v1)|null|
+|**2025-05-29**|**DX100: A Programmable Data Access Accelerator for Indirection**|Alireza Khadem et.al.|[2505.23073v1](http://arxiv.org/abs/2505.23073v1)|[link](https://github.com/arkhadem/dx100)|
 |**2025-05-29**|**Zero-P-to-3: Zero-Shot Partial-View Images to 3D Object**|Yuxuan Lin et.al.|[2505.23054v1](http://arxiv.org/abs/2505.23054v1)|null|
 |**2025-05-29**|**ProDiff: Prototype-Guided Diffusion for Minimal Information Trajectory Imputation**|Tianci Bu et.al.|[2505.23048v1](http://arxiv.org/abs/2505.23048v1)|null|
 |**2025-05-29**|**SpatialSplat: Efficient Semantic 3D from Sparse Unposed Images**|Yu Sheng et.al.|[2505.23044v1](http://arxiv.org/abs/2505.23044v1)|null|
@@ -78,40 +78,6 @@
 |**2025-05-28**|**Re-ttention: Ultra Sparse Visual Generation via Attention Statistical Reshape**|Ruichen Chen et.al.|[2505.22918v1](http://arxiv.org/abs/2505.22918v1)|null|
 
 ## AI
-
-### LLM Theory
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2025-05-29**|**Argus: Vision-Centric Reasoning with Grounded Chain-of-Thought**|Yunze Man et.al.|[2505.23766v1](http://arxiv.org/abs/2505.23766v1)|null|
-|**2025-05-29**|**REOrdering Patches Improves Vision Models**|Declan Kutscher et.al.|[2505.23751v1](http://arxiv.org/abs/2505.23751v1)|null|
-|**2025-05-29**|**Comparative of Genetic Fuzzy regression techniques for aeroacoustic phenomenons**|Hugo Henry et.al.|[2505.23746v1](http://arxiv.org/abs/2505.23746v1)|null|
-|**2025-05-29**|**Spatial-MLLM: Boosting MLLM Capabilities in Visual-based Spatial Intelligence**|Diankun Wu et.al.|[2505.23747v1](http://arxiv.org/abs/2505.23747v1)|null|
-|**2025-05-29**|**To Trust Or Not To Trust Your Vision-Language Model's Prediction**|Hao Dong et.al.|[2505.23745v1](http://arxiv.org/abs/2505.23745v1)|null|
-|**2025-05-29**|**MAGREF: Masked Guidance for Any-Reference Video Generation**|Yufan Deng et.al.|[2505.23742v1](http://arxiv.org/abs/2505.23742v1)|null|
-|**2025-05-29**|**Hydrodynamic simulations of black hole evolution in AGN discs I: orbital alignment of highly inclined satellites**|Connar Rowan et.al.|[2505.23739v1](http://arxiv.org/abs/2505.23739v1)|null|
-|**2025-05-29**|**ATLAS: Learning to Optimally Memorize the Context at Test Time**|Ali Behrouz et.al.|[2505.23735v1](http://arxiv.org/abs/2505.23735v1)|null|
-|**2025-05-29**|**ZPressor: Bottleneck-Aware Compression for Scalable Feed-Forward 3DGS**|Weijie Wang et.al.|[2505.23734v1](http://arxiv.org/abs/2505.23734v1)|[link](https://github.com/ziplab/ZPressor)|
-|**2025-05-29**|**TiRex: Zero-Shot Forecasting Across Long and Short Horizons with Enhanced In-Context Learning**|Andreas Auer et.al.|[2505.23719v1](http://arxiv.org/abs/2505.23719v1)|null|
-|**2025-05-29**|**SocialMaze: A Benchmark for Evaluating Social Reasoning in Large Language Models**|Zixiang Xu et.al.|[2505.23713v1](http://arxiv.org/abs/2505.23713v1)|null|
-|**2025-05-29**|**Distributed Federated Learning for Vehicular Network Security: Anomaly Detection Benefits and Multi-Domain Attack Threats**|Utku Demir et.al.|[2505.23706v1](http://arxiv.org/abs/2505.23706v1)|null|
-|**2025-05-29**|**CLDTracker: A Comprehensive Language Description for Visual Tracking**|Mohamad Alansari et.al.|[2505.23704v1](http://arxiv.org/abs/2505.23704v1)|null|
-|**2025-05-29**|**(U)NFV: Supervised and Unsupervised Neural Finite Volume Methods for Solving Hyperbolic PDEs**|Nathan Lichtlé et.al.|[2505.23702v1](http://arxiv.org/abs/2505.23702v1)|null|
-|**2025-05-29**|**Grounded Reinforcement Learning for Visual Reasoning**|Gabriel Sarch et.al.|[2505.23678v1](http://arxiv.org/abs/2505.23678v1)|null|
-|**2025-05-29**|**OpenUni: A Simple Baseline for Unified Multimodal Understanding and Generation**|Size Wu et.al.|[2505.23661v1](http://arxiv.org/abs/2505.23661v1)|null|
-|**2025-05-29**|**D-AR: Diffusion via Autoregressive Models**|Ziteng Gao et.al.|[2505.23660v1](http://arxiv.org/abs/2505.23660v1)|null|
-|**2025-05-29**|**Continuous Chain of Thought Enables Parallel Exploration and Reasoning**|Halil Alperen Gozeten et.al.|[2505.23648v1](http://arxiv.org/abs/2505.23648v1)|null|
-|**2025-05-29**|**Are Reasoning Models More Prone to Hallucination?**|Zijun Yao et.al.|[2505.23646v1](http://arxiv.org/abs/2505.23646v1)|null|
-|**2025-05-29**|**Global optimization of graph acquisition functions for neural architecture search**|Yilin Xie et.al.|[2505.23640v1](http://arxiv.org/abs/2505.23640v1)|null|
-|**2025-05-29**|**MCP Safety Training: Learning to Refuse Falsely Benign MCP Exploits using Improved Preference Alignment**|John Halloran et.al.|[2505.23634v1](http://arxiv.org/abs/2505.23634v1)|null|
-|**2025-05-29**|**Human Empathy as Encoder: AI-Assisted Depression Assessment in Special Education**|Boning Zhao et.al.|[2505.23631v1](http://arxiv.org/abs/2505.23631v1)|null|
-|**2025-05-29**|**Prompting Whisper for Improved Verbatim Transcription and End-to-end Miscue Detection**|Griffin Dietz Smith et.al.|[2505.23627v1](http://arxiv.org/abs/2505.23627v1)|null|
-|**2025-05-29**|**Table-R1: Inference-Time Scaling for Table Reasoning**|Zheyuan Yang et.al.|[2505.23621v1](http://arxiv.org/abs/2505.23621v1)|null|
-|**2025-05-29**|**Muddit: Liberating Generation Beyond Text-to-Image with a Unified Discrete Diffusion Model**|Qingyu Shi et.al.|[2505.23606v1](http://arxiv.org/abs/2505.23606v1)|null|
-|**2025-05-29**|**Towards A Global Quantum Internet: A Review of Challenges Facing Aerial Quantum Networks**|Nitin Jha et.al.|[2505.23603v1](http://arxiv.org/abs/2505.23603v1)|null|
-|**2025-05-29**|**On Transferring Transferability: Towards a Theory for Size Generalization**|Eitan Levin et.al.|[2505.23599v1](http://arxiv.org/abs/2505.23599v1)|null|
-|**2025-05-29**|**MAPLE: A Mobile Assistant with Persistent Finite State Machines for Recovery Reasoning**|Linqiang Guo et.al.|[2505.23596v1](http://arxiv.org/abs/2505.23596v1)|null|
-|**2025-05-29**|**DeepChest: Dynamic Gradient-Free Task Weighting for Effective Multi-Task Learning in Chest X-ray Classification**|Youssef Mohamed et.al.|[2505.23595v1](http://arxiv.org/abs/2505.23595v1)|null|
-|**2025-05-29**|**Position: Federated Foundation Language Model Post-Training Should Focus on Open-Source Models**|Nikita Agrawal et.al.|[2505.23593v1](http://arxiv.org/abs/2505.23593v1)|null|
 
 ### LLM Agent
 |Publish Date|Title|Authors|PDF|Code|
@@ -146,6 +112,40 @@
 |**2025-05-29**|**Does Machine Unlearning Truly Remove Model Knowledge? A Framework for Auditing Unlearning in LLMs**|Haokun Chen et.al.|[2505.23270v1](http://arxiv.org/abs/2505.23270v1)|null|
 |**2025-05-29**|**MCTSr-Zero: Self-Reflective Psychological Counseling Dialogues Generation via Principles and Adaptive Exploration**|Hao Lu et.al.|[2505.23229v1](http://arxiv.org/abs/2505.23229v1)|null|
 |**2025-05-29**|**Fooling the Watchers: Breaking AIGC Detectors via Semantic Prompt Attacks**|Run Hao et.al.|[2505.23192v1](http://arxiv.org/abs/2505.23192v1)|null|
+
+### LLM Theory
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2025-05-29**|**Argus: Vision-Centric Reasoning with Grounded Chain-of-Thought**|Yunze Man et.al.|[2505.23766v1](http://arxiv.org/abs/2505.23766v1)|null|
+|**2025-05-29**|**REOrdering Patches Improves Vision Models**|Declan Kutscher et.al.|[2505.23751v1](http://arxiv.org/abs/2505.23751v1)|null|
+|**2025-05-29**|**Comparative of Genetic Fuzzy regression techniques for aeroacoustic phenomenons**|Hugo Henry et.al.|[2505.23746v1](http://arxiv.org/abs/2505.23746v1)|null|
+|**2025-05-29**|**Spatial-MLLM: Boosting MLLM Capabilities in Visual-based Spatial Intelligence**|Diankun Wu et.al.|[2505.23747v1](http://arxiv.org/abs/2505.23747v1)|null|
+|**2025-05-29**|**To Trust Or Not To Trust Your Vision-Language Model's Prediction**|Hao Dong et.al.|[2505.23745v1](http://arxiv.org/abs/2505.23745v1)|null|
+|**2025-05-29**|**MAGREF: Masked Guidance for Any-Reference Video Generation**|Yufan Deng et.al.|[2505.23742v1](http://arxiv.org/abs/2505.23742v1)|null|
+|**2025-05-29**|**Hydrodynamic simulations of black hole evolution in AGN discs I: orbital alignment of highly inclined satellites**|Connar Rowan et.al.|[2505.23739v1](http://arxiv.org/abs/2505.23739v1)|null|
+|**2025-05-29**|**ATLAS: Learning to Optimally Memorize the Context at Test Time**|Ali Behrouz et.al.|[2505.23735v1](http://arxiv.org/abs/2505.23735v1)|null|
+|**2025-05-29**|**ZPressor: Bottleneck-Aware Compression for Scalable Feed-Forward 3DGS**|Weijie Wang et.al.|[2505.23734v1](http://arxiv.org/abs/2505.23734v1)|[link](https://github.com/ziplab/ZPressor)|
+|**2025-05-29**|**TiRex: Zero-Shot Forecasting Across Long and Short Horizons with Enhanced In-Context Learning**|Andreas Auer et.al.|[2505.23719v1](http://arxiv.org/abs/2505.23719v1)|null|
+|**2025-05-29**|**SocialMaze: A Benchmark for Evaluating Social Reasoning in Large Language Models**|Zixiang Xu et.al.|[2505.23713v1](http://arxiv.org/abs/2505.23713v1)|null|
+|**2025-05-29**|**Distributed Federated Learning for Vehicular Network Security: Anomaly Detection Benefits and Multi-Domain Attack Threats**|Utku Demir et.al.|[2505.23706v1](http://arxiv.org/abs/2505.23706v1)|null|
+|**2025-05-29**|**CLDTracker: A Comprehensive Language Description for Visual Tracking**|Mohamad Alansari et.al.|[2505.23704v1](http://arxiv.org/abs/2505.23704v1)|null|
+|**2025-05-29**|**(U)NFV: Supervised and Unsupervised Neural Finite Volume Methods for Solving Hyperbolic PDEs**|Nathan Lichtlé et.al.|[2505.23702v1](http://arxiv.org/abs/2505.23702v1)|null|
+|**2025-05-29**|**Grounded Reinforcement Learning for Visual Reasoning**|Gabriel Sarch et.al.|[2505.23678v1](http://arxiv.org/abs/2505.23678v1)|null|
+|**2025-05-29**|**OpenUni: A Simple Baseline for Unified Multimodal Understanding and Generation**|Size Wu et.al.|[2505.23661v1](http://arxiv.org/abs/2505.23661v1)|null|
+|**2025-05-29**|**D-AR: Diffusion via Autoregressive Models**|Ziteng Gao et.al.|[2505.23660v1](http://arxiv.org/abs/2505.23660v1)|null|
+|**2025-05-29**|**Continuous Chain of Thought Enables Parallel Exploration and Reasoning**|Halil Alperen Gozeten et.al.|[2505.23648v1](http://arxiv.org/abs/2505.23648v1)|null|
+|**2025-05-29**|**Are Reasoning Models More Prone to Hallucination?**|Zijun Yao et.al.|[2505.23646v1](http://arxiv.org/abs/2505.23646v1)|null|
+|**2025-05-29**|**Global optimization of graph acquisition functions for neural architecture search**|Yilin Xie et.al.|[2505.23640v1](http://arxiv.org/abs/2505.23640v1)|null|
+|**2025-05-29**|**MCP Safety Training: Learning to Refuse Falsely Benign MCP Exploits using Improved Preference Alignment**|John Halloran et.al.|[2505.23634v1](http://arxiv.org/abs/2505.23634v1)|null|
+|**2025-05-29**|**Human Empathy as Encoder: AI-Assisted Depression Assessment in Special Education**|Boning Zhao et.al.|[2505.23631v1](http://arxiv.org/abs/2505.23631v1)|null|
+|**2025-05-29**|**Prompting Whisper for Improved Verbatim Transcription and End-to-end Miscue Detection**|Griffin Dietz Smith et.al.|[2505.23627v1](http://arxiv.org/abs/2505.23627v1)|null|
+|**2025-05-29**|**Table-R1: Inference-Time Scaling for Table Reasoning**|Zheyuan Yang et.al.|[2505.23621v1](http://arxiv.org/abs/2505.23621v1)|null|
+|**2025-05-29**|**Muddit: Liberating Generation Beyond Text-to-Image with a Unified Discrete Diffusion Model**|Qingyu Shi et.al.|[2505.23606v1](http://arxiv.org/abs/2505.23606v1)|null|
+|**2025-05-29**|**Towards A Global Quantum Internet: A Review of Challenges Facing Aerial Quantum Networks**|Nitin Jha et.al.|[2505.23603v1](http://arxiv.org/abs/2505.23603v1)|null|
+|**2025-05-29**|**On Transferring Transferability: Towards a Theory for Size Generalization**|Eitan Levin et.al.|[2505.23599v1](http://arxiv.org/abs/2505.23599v1)|null|
+|**2025-05-29**|**MAPLE: A Mobile Assistant with Persistent Finite State Machines for Recovery Reasoning**|Linqiang Guo et.al.|[2505.23596v1](http://arxiv.org/abs/2505.23596v1)|null|
+|**2025-05-29**|**DeepChest: Dynamic Gradient-Free Task Weighting for Effective Multi-Task Learning in Chest X-ray Classification**|Youssef Mohamed et.al.|[2505.23595v1](http://arxiv.org/abs/2505.23595v1)|null|
+|**2025-05-29**|**Position: Federated Foundation Language Model Post-Training Should Focus on Open-Source Models**|Nikita Agrawal et.al.|[2505.23593v1](http://arxiv.org/abs/2505.23593v1)|null|
 
 ## Code Compile
 
