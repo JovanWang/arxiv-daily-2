@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-06-01 20:55:16 Asia/Shanghai
+ Automated deployment @ 2025-06-01 21:18:17 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -8,40 +8,6 @@
 ### Sparse Operator
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-
-### Sparse program Compile
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2025-05-29**|**Sketch Down the FLOPs: Towards Efficient Networks for Human Sketch**|Aneeshan Sain et.al.|[2505.23763v1](http://arxiv.org/abs/2505.23763v1)|null|
-|**2025-05-29**|**Rooms from Motion: Un-posed Indoor 3D Object Detection as Localization and Mapping**|Justin Lazarow et.al.|[2505.23756v1](http://arxiv.org/abs/2505.23756v1)|null|
-|**2025-05-29**|**Efficient sampling for sparse Bayesian learning using hierarchical prior normalization**|Jan Glaubitz et.al.|[2505.23753v1](http://arxiv.org/abs/2505.23753v1)|[link](https://github.com/jglaubitz/paper-2025-sbl-priornormalization)|
-|**2025-05-29**|**Fast Compressed-Domain N-Point Discrete Fourier Transform**|Saulo Queiroz et.al.|[2505.23718v1](http://arxiv.org/abs/2505.23718v1)|null|
-|**2025-05-29**|**AnySplat: Feed-forward 3D Gaussian Splatting from Unconstrained Views**|Lihan Jiang et.al.|[2505.23716v1](http://arxiv.org/abs/2505.23716v1)|null|
-|**2025-05-29**|**Dual-Task Graph Neural Network for Joint Seizure Onset Zone Localization and Outcome Prediction using Stereo EEG**|Syeda Abeera Amir et.al.|[2505.23669v1](http://arxiv.org/abs/2505.23669v1)|null|
-|**2025-05-29**|**LoLA: Low-Rank Linear Attention With Sparse Caching**|Luke McDermott et.al.|[2505.23666v1](http://arxiv.org/abs/2505.23666v1)|null|
-|**2025-05-29**|**ARC: Argument Representation and Coverage Analysis for Zero-Shot Long Document Summarization with Instruction Following LLMs**|Mohamed Elaraby et.al.|[2505.23654v1](http://arxiv.org/abs/2505.23654v1)|null|
-|**2025-05-29**|**Optimization-Free Diffusion Model -- A Perturbation Theory Approach**|Yuehaw Khoo et.al.|[2505.23652v1](http://arxiv.org/abs/2505.23652v1)|null|
-|**2025-05-29**|**Understanding Refusal in Language Models with Sparse Autoencoders**|Wei Jie Yeo et.al.|[2505.23556v1](http://arxiv.org/abs/2505.23556v1)|[link](https://github.com/wj210/refusal_sae)|
-|**2025-05-29**|**AnchorAttention: Difference-Aware Sparse Attention with Stripe Granularity**|Yu Zhang et.al.|[2505.23520v1](http://arxiv.org/abs/2505.23520v1)|[link](https://github.com/yuzhouzhang9/anchor-attention)|
-|**2025-05-29**|**PhysicsNeRF: Physics-Guided 3D Reconstruction from Sparse Views**|Mohamed Rayan Barhdadi et.al.|[2505.23481v1](http://arxiv.org/abs/2505.23481v1)|[link](https://github.com/anonymous-researcher-01/physicsnerf)|
-|**2025-05-29**|**TimePoint: Accelerated Time Series Alignment via Self-Supervised Keypoint and Descriptor Learning**|Ron Shapira Weber et.al.|[2505.23475v1](http://arxiv.org/abs/2505.23475v1)|[link](https://github.com/bgu-cs-vil/timepoint)|
-|**2025-05-29**|**Semantics-Aware Human Motion Generation from Audio Instructions**|Zi-An Wang et.al.|[2505.23465v1](http://arxiv.org/abs/2505.23465v1)|null|
-|**2025-05-29**|**Rethinking Regularization Methods for Knowledge Graph Completion**|Linyu Li et.al.|[2505.23442v1](http://arxiv.org/abs/2505.23442v1)|null|
-|**2025-05-29**|**Understanding the Information Propagation Effects of Communication Topologies in LLM-based Multi-Agent Systems**|Xu Shen et.al.|[2505.23352v1](http://arxiv.org/abs/2505.23352v1)|[link](https://github.com/se7esx/eib)|
-|**2025-05-29**|**DSAGL: Dual-Stream Attention-Guided Learning for Weakly Supervised Whole Slide Image Classification**|Daoxi Cao et.al.|[2505.23341v1](http://arxiv.org/abs/2505.23341v1)|null|
-|**2025-05-29**|**Group zero-norm regularized robust loss minimization: proximal MM method and statistical error bound**|Ling Liang et.al.|[2505.23294v1](http://arxiv.org/abs/2505.23294v1)|null|
-|**2025-05-29**|**Robust Sparse Phase Retrieval: Statistical Guarantee, Optimality Theory and Convergent Algorithm**|Jun Fan et.al.|[2505.23273v1](http://arxiv.org/abs/2505.23273v1)|null|
-|**2025-05-29**|**Joint estimation of smooth graph signals from partial linear measurements**|Hemant Tyagi et.al.|[2505.23240v1](http://arxiv.org/abs/2505.23240v1)|null|
-|**2025-05-29**|**Ghidorah: Fast LLM Inference on Edge with Speculative Decoding and Hetero-Core Parallelism**|Jinhui Wei et.al.|[2505.23219v1](http://arxiv.org/abs/2505.23219v1)|null|
-|**2025-05-29**|**Bigger, Regularized, Categorical: High-Capacity Value Functions are Efficient Multi-Task Learners**|Michal Nauman et.al.|[2505.23150v1](http://arxiv.org/abs/2505.23150v1)|null|
-|**2025-05-29**|**Offline Map Matching Based on Localization Error Distribution Modeling**|Ruilin Xu et.al.|[2505.23123v1](http://arxiv.org/abs/2505.23123v1)|null|
-|**2025-05-29**|**DX100: A Programmable Data Access Accelerator for Indirection**|Alireza Khadem et.al.|[2505.23073v1](http://arxiv.org/abs/2505.23073v1)|[link](https://github.com/arkhadem/dx100)|
-|**2025-05-29**|**Zero-P-to-3: Zero-Shot Partial-View Images to 3D Object**|Yuxuan Lin et.al.|[2505.23054v1](http://arxiv.org/abs/2505.23054v1)|null|
-|**2025-05-29**|**ProDiff: Prototype-Guided Diffusion for Minimal Information Trajectory Imputation**|Tianci Bu et.al.|[2505.23048v1](http://arxiv.org/abs/2505.23048v1)|[link](https://github.com/b010001y/prodiff)|
-|**2025-05-29**|**SpatialSplat: Efficient Semantic 3D from Sparse Unposed Images**|Yu Sheng et.al.|[2505.23044v1](http://arxiv.org/abs/2505.23044v1)|null|
-|**2025-05-29**|**Towards Privacy-Preserving Fine-Grained Visual Classification via Hierarchical Learning from Label Proportions**|Jinyi Chang et.al.|[2505.23031v1](http://arxiv.org/abs/2505.23031v1)|null|
-|**2025-05-29**|**Density Estimation on Rectifiable Sets**|Jack Kendrick et.al.|[2505.23023v1](http://arxiv.org/abs/2505.23023v1)|null|
-|**2025-05-28**|**Re-ttention: Ultra Sparse Visual Generation via Attention Statistical Reshape**|Ruichen Chen et.al.|[2505.22918v1](http://arxiv.org/abs/2505.22918v1)|[link](https://github.com/cccrrrccc/re-ttention)|
 
 ### Sparse Data Format
 |Publish Date|Title|Authors|PDF|Code|
@@ -76,6 +42,40 @@
 |**2025-05-29**|**An additive two-level parallel variant of the DMRG algorithm with coarse-space correction**|Laura Grigori et.al.|[2505.23429v1](http://arxiv.org/abs/2505.23429v1)|null|
 |**2025-05-29**|**Understanding the Information Propagation Effects of Communication Topologies in LLM-based Multi-Agent Systems**|Xu Shen et.al.|[2505.23352v1](http://arxiv.org/abs/2505.23352v1)|[link](https://github.com/se7esx/eib)|
 |**2025-05-29**|**DSAGL: Dual-Stream Attention-Guided Learning for Weakly Supervised Whole Slide Image Classification**|Daoxi Cao et.al.|[2505.23341v1](http://arxiv.org/abs/2505.23341v1)|null|
+
+### Sparse program Compile
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2025-05-29**|**Sketch Down the FLOPs: Towards Efficient Networks for Human Sketch**|Aneeshan Sain et.al.|[2505.23763v1](http://arxiv.org/abs/2505.23763v1)|null|
+|**2025-05-29**|**Rooms from Motion: Un-posed Indoor 3D Object Detection as Localization and Mapping**|Justin Lazarow et.al.|[2505.23756v1](http://arxiv.org/abs/2505.23756v1)|null|
+|**2025-05-29**|**Efficient sampling for sparse Bayesian learning using hierarchical prior normalization**|Jan Glaubitz et.al.|[2505.23753v1](http://arxiv.org/abs/2505.23753v1)|[link](https://github.com/jglaubitz/paper-2025-sbl-priornormalization)|
+|**2025-05-29**|**Fast Compressed-Domain N-Point Discrete Fourier Transform**|Saulo Queiroz et.al.|[2505.23718v1](http://arxiv.org/abs/2505.23718v1)|null|
+|**2025-05-29**|**AnySplat: Feed-forward 3D Gaussian Splatting from Unconstrained Views**|Lihan Jiang et.al.|[2505.23716v1](http://arxiv.org/abs/2505.23716v1)|null|
+|**2025-05-29**|**Dual-Task Graph Neural Network for Joint Seizure Onset Zone Localization and Outcome Prediction using Stereo EEG**|Syeda Abeera Amir et.al.|[2505.23669v1](http://arxiv.org/abs/2505.23669v1)|null|
+|**2025-05-29**|**LoLA: Low-Rank Linear Attention With Sparse Caching**|Luke McDermott et.al.|[2505.23666v1](http://arxiv.org/abs/2505.23666v1)|null|
+|**2025-05-29**|**ARC: Argument Representation and Coverage Analysis for Zero-Shot Long Document Summarization with Instruction Following LLMs**|Mohamed Elaraby et.al.|[2505.23654v1](http://arxiv.org/abs/2505.23654v1)|null|
+|**2025-05-29**|**Optimization-Free Diffusion Model -- A Perturbation Theory Approach**|Yuehaw Khoo et.al.|[2505.23652v1](http://arxiv.org/abs/2505.23652v1)|null|
+|**2025-05-29**|**Understanding Refusal in Language Models with Sparse Autoencoders**|Wei Jie Yeo et.al.|[2505.23556v1](http://arxiv.org/abs/2505.23556v1)|[link](https://github.com/wj210/refusal_sae)|
+|**2025-05-29**|**AnchorAttention: Difference-Aware Sparse Attention with Stripe Granularity**|Yu Zhang et.al.|[2505.23520v1](http://arxiv.org/abs/2505.23520v1)|[link](https://github.com/yuzhouzhang9/anchor-attention)|
+|**2025-05-29**|**PhysicsNeRF: Physics-Guided 3D Reconstruction from Sparse Views**|Mohamed Rayan Barhdadi et.al.|[2505.23481v1](http://arxiv.org/abs/2505.23481v1)|[link](https://github.com/anonymous-researcher-01/physicsnerf)|
+|**2025-05-29**|**TimePoint: Accelerated Time Series Alignment via Self-Supervised Keypoint and Descriptor Learning**|Ron Shapira Weber et.al.|[2505.23475v1](http://arxiv.org/abs/2505.23475v1)|[link](https://github.com/bgu-cs-vil/timepoint)|
+|**2025-05-29**|**Semantics-Aware Human Motion Generation from Audio Instructions**|Zi-An Wang et.al.|[2505.23465v1](http://arxiv.org/abs/2505.23465v1)|null|
+|**2025-05-29**|**Rethinking Regularization Methods for Knowledge Graph Completion**|Linyu Li et.al.|[2505.23442v1](http://arxiv.org/abs/2505.23442v1)|null|
+|**2025-05-29**|**Understanding the Information Propagation Effects of Communication Topologies in LLM-based Multi-Agent Systems**|Xu Shen et.al.|[2505.23352v1](http://arxiv.org/abs/2505.23352v1)|[link](https://github.com/se7esx/eib)|
+|**2025-05-29**|**DSAGL: Dual-Stream Attention-Guided Learning for Weakly Supervised Whole Slide Image Classification**|Daoxi Cao et.al.|[2505.23341v1](http://arxiv.org/abs/2505.23341v1)|null|
+|**2025-05-29**|**Group zero-norm regularized robust loss minimization: proximal MM method and statistical error bound**|Ling Liang et.al.|[2505.23294v1](http://arxiv.org/abs/2505.23294v1)|null|
+|**2025-05-29**|**Robust Sparse Phase Retrieval: Statistical Guarantee, Optimality Theory and Convergent Algorithm**|Jun Fan et.al.|[2505.23273v1](http://arxiv.org/abs/2505.23273v1)|null|
+|**2025-05-29**|**Joint estimation of smooth graph signals from partial linear measurements**|Hemant Tyagi et.al.|[2505.23240v1](http://arxiv.org/abs/2505.23240v1)|null|
+|**2025-05-29**|**Ghidorah: Fast LLM Inference on Edge with Speculative Decoding and Hetero-Core Parallelism**|Jinhui Wei et.al.|[2505.23219v1](http://arxiv.org/abs/2505.23219v1)|null|
+|**2025-05-29**|**Bigger, Regularized, Categorical: High-Capacity Value Functions are Efficient Multi-Task Learners**|Michal Nauman et.al.|[2505.23150v1](http://arxiv.org/abs/2505.23150v1)|null|
+|**2025-05-29**|**Offline Map Matching Based on Localization Error Distribution Modeling**|Ruilin Xu et.al.|[2505.23123v1](http://arxiv.org/abs/2505.23123v1)|null|
+|**2025-05-29**|**DX100: A Programmable Data Access Accelerator for Indirection**|Alireza Khadem et.al.|[2505.23073v1](http://arxiv.org/abs/2505.23073v1)|[link](https://github.com/arkhadem/dx100)|
+|**2025-05-29**|**Zero-P-to-3: Zero-Shot Partial-View Images to 3D Object**|Yuxuan Lin et.al.|[2505.23054v1](http://arxiv.org/abs/2505.23054v1)|null|
+|**2025-05-29**|**ProDiff: Prototype-Guided Diffusion for Minimal Information Trajectory Imputation**|Tianci Bu et.al.|[2505.23048v1](http://arxiv.org/abs/2505.23048v1)|[link](https://github.com/b010001y/prodiff)|
+|**2025-05-29**|**SpatialSplat: Efficient Semantic 3D from Sparse Unposed Images**|Yu Sheng et.al.|[2505.23044v1](http://arxiv.org/abs/2505.23044v1)|null|
+|**2025-05-29**|**Towards Privacy-Preserving Fine-Grained Visual Classification via Hierarchical Learning from Label Proportions**|Jinyi Chang et.al.|[2505.23031v1](http://arxiv.org/abs/2505.23031v1)|null|
+|**2025-05-29**|**Density Estimation on Rectifiable Sets**|Jack Kendrick et.al.|[2505.23023v1](http://arxiv.org/abs/2505.23023v1)|null|
+|**2025-05-28**|**Re-ttention: Ultra Sparse Visual Generation via Attention Statistical Reshape**|Ruichen Chen et.al.|[2505.22918v1](http://arxiv.org/abs/2505.22918v1)|[link](https://github.com/cccrrrccc/re-ttention)|
 
 ## AI
 
