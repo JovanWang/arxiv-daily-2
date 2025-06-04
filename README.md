@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-06-04 08:44:58 Asia/Shanghai
+ Automated deployment @ 2025-06-04 10:28:26 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -66,7 +66,7 @@
 |**2025-05-30**|**SALE : Low-bit Estimation for Efficient Sparse Attention in Long-context LLM Prefilling**|Xiaodong Ji et.al.|[2505.24179v1](http://arxiv.org/abs/2505.24179v1)|null|
 |**2025-05-30**|**A High-Performance Multilevel Framework for Quantum Layout Synthesis**|Shuohao Ping et.al.|[2505.24169v1](http://arxiv.org/abs/2505.24169v1)|null|
 |**2025-05-30**|**Threading Keyframe with Narratives: MLLMs as Strong Long Video Comprehenders**|Bo Fang et.al.|[2505.24158v1](http://arxiv.org/abs/2505.24158v1)|null|
-|**2025-05-30**|**S4-Driver: Scalable Self-Supervised Driving Multimodal Large Language Modelwith Spatio-Temporal Visual Representation**|Yichen Xie et.al.|[2505.24139v1](http://arxiv.org/abs/2505.24139v1)|null|
+|**2025-05-30**|**S4-Driver: Scalable Self-Supervised Driving Multimodal Large Language Modelwith Spatio-Temporal Visual Representation**|Yichen Xie et.al.|[2505.24139v2](http://arxiv.org/abs/2505.24139v2)|null|
 |**2025-05-30**|**Energy-Oriented Computing Architecture Simulator for SNN Training**|Yunhao Ma et.al.|[2505.24137v1](http://arxiv.org/abs/2505.24137v1)|null|
 |**2025-05-30**|**Sparsity-Driven Parallel Imaging Consistency for Improved Self-Supervised MRI Reconstruction**|Yaşar Utku Alçalar et.al.|[2505.24136v1](http://arxiv.org/abs/2505.24136v1)|null|
 |**2025-05-30**|**Evolution of Gas Velocity Dispersion in Discs from $z\sim8$ to $z\sim0.5$**|E. Wisnioski et.al.|[2505.24129v1](http://arxiv.org/abs/2505.24129v1)|null|
@@ -78,40 +78,6 @@
 |**2025-05-29**|**TSENOR: Highly-Efficient Algorithm for Finding Transposable N:M Sparse Masks**|Xiang Meng et.al.|[2505.23949v1](http://arxiv.org/abs/2505.23949v1)|null|
 
 ## Code Compile
-
-### C Code Generation
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2025-05-30**|**Open CaptchaWorld: A Comprehensive Web-based Platform for Testing and Benchmarking Multimodal LLM Agents**|Yaxin Luo et.al.|[2505.24878v1](http://arxiv.org/abs/2505.24878v1)|null|
-|**2025-05-30**|**AdaHuman: Animatable Detailed 3D Human Generation with Compositional Multiview Diffusion**|Yangyi Huang et.al.|[2505.24877v1](http://arxiv.org/abs/2505.24877v1)|null|
-|**2025-05-30**|**Agent-X: Evaluating Deep Multimodal Reasoning in Vision-Centric Agentic Tasks**|Tajamul Ashraf et.al.|[2505.24876v1](http://arxiv.org/abs/2505.24876v1)|null|
-|**2025-05-30**|**ReasonGen-R1: CoT for Autoregressive Image generation models through SFT and RL**|Yu Zhang et.al.|[2505.24875v1](http://arxiv.org/abs/2505.24875v1)|null|
-|**2025-05-30**|**The Road to Generalizable Neuro-Symbolic Learning Should be Paved with Foundation Models**|Adam Stein et.al.|[2505.24874v1](http://arxiv.org/abs/2505.24874v1)|null|
-|**2025-05-30**|**MiniMax-Remover: Taming Bad Noise Helps Video Object Removal**|Bojia Zi et.al.|[2505.24873v1](http://arxiv.org/abs/2505.24873v1)|null|
-|**2025-05-30**|**ProxyThinker: Test-Time Guidance through Small Visual Reasoners**|Zilin Xiao et.al.|[2505.24872v1](http://arxiv.org/abs/2505.24872v1)|null|
-|**2025-05-30**|**MoDoMoDo: Multi-Domain Data Mixtures for Multimodal LLM Reinforcement Learning**|Yiqing Liang et.al.|[2505.24871v1](http://arxiv.org/abs/2505.24871v1)|null|
-|**2025-05-30**|**GenSpace: Benchmarking Spatially-Aware Image Generation**|Zehan Wang et.al.|[2505.24870v1](http://arxiv.org/abs/2505.24870v1)|null|
-|**2025-05-30**|**SiLVR: A Simple Language-based Video Reasoning Framework**|Ce Zhang et.al.|[2505.24869v1](http://arxiv.org/abs/2505.24869v1)|null|
-|**2025-05-30**|**Consistent line clustering using geometric hypergraphs**|Kalle Alaluusua et.al.|[2505.24868v1](http://arxiv.org/abs/2505.24868v1)|null|
-|**2025-05-30**|**Time Blindness: Why Video-Language Models Can't See What Humans Can?**|Ujjwal Upadhyay et.al.|[2505.24867v1](http://arxiv.org/abs/2505.24867v1)|null|
-|**2025-05-30**|**TalkingHeadBench: A Multi-Modal Benchmark & Analysis of Talking-Head DeepFake Detection**|Xinqi Xiong et.al.|[2505.24866v1](http://arxiv.org/abs/2505.24866v1)|null|
-|**2025-05-30**|**AlphaOne: Reasoning Models Thinking Slow and Fast at Test Time**|Junyu Zhang et.al.|[2505.24863v1](http://arxiv.org/abs/2505.24863v1)|null|
-|**2025-05-30**|**ViStoryBench: Comprehensive Benchmark Suite for Story Visualization**|Cailin Zhuang et.al.|[2505.24862v1](http://arxiv.org/abs/2505.24862v1)|null|
-|**2025-05-30**|**Beyond Multiple Choice: Evaluating Steering Vectors for Adaptive Free-Form Summarization**|Joschka Braun et.al.|[2505.24859v1](http://arxiv.org/abs/2505.24859v1)|null|
-|**2025-05-30**|**MetaFaith: Faithful Natural Language Uncertainty Expression in LLMs**|Gabrielle Kaili-May Liu et.al.|[2505.24858v1](http://arxiv.org/abs/2505.24858v1)|null|
-|**2025-05-30**|**Accelerated Sampling from Masked Diffusion Models via Entropy Bounded Unmasking**|Heli Ben-Hamu et.al.|[2505.24857v1](http://arxiv.org/abs/2505.24857v1)|null|
-|**2025-05-30**|**The SPHEREx Sky Simulator: Science Data Modeling for the First All-Sky Near-Infrared Spectral Survey**|Brendan P. Crill et.al.|[2505.24856v1](http://arxiv.org/abs/2505.24856v1)|null|
-|**2025-05-30**|**Active Gaussian Network Model: a non-equilibrium description of protein fluctuations and allosteric behavior**|Giulio Costantini et.al.|[2505.24855v1](http://arxiv.org/abs/2505.24855v1)|null|
-|**2025-05-30**|**Harnessing Negative Signals: Reinforcement Distillation from Teacher Data for LLM Reasoning**|Shuyao Xu et.al.|[2505.24850v1](http://arxiv.org/abs/2505.24850v1)|null|
-|**2025-05-30**|**Statistical mechanics of extensive-width Bayesian neural networks near interpolation**|Jean Barbier et.al.|[2505.24849v1](http://arxiv.org/abs/2505.24849v1)|null|
-|**2025-05-30**|**Reading Recognition in the Wild**|Charig Yang et.al.|[2505.24848v1](http://arxiv.org/abs/2505.24848v1)|null|
-|**2025-05-30**|**Nematicity in iron pnictides: phase competition and emergent symmetry**|Yiming Wang et.al.|[2505.24847v1](http://arxiv.org/abs/2505.24847v1)|null|
-|**2025-05-30**|**Chameleon: A Flexible Data-mixing Framework for Language Model Pretraining and Finetuning**|Wanyun Xie et.al.|[2505.24844v1](http://arxiv.org/abs/2505.24844v1)|null|
-|**2025-05-30**|**Cascading Adversarial Bias from Injection to Distillation in Language Models**|Harsh Chaudhari et.al.|[2505.24842v1](http://arxiv.org/abs/2505.24842v1)|null|
-|**2025-05-30**|**pySTARBURST99: The Next Generation of STARBURST99**|Calum Hawcroft et.al.|[2505.24841v1](http://arxiv.org/abs/2505.24841v1)|null|
-|**2025-05-30**|**Novel methodology to obtain transonic solutions for dissipative flows around compact objects**|Shilpa Sarkar et.al.|[2505.24839v1](http://arxiv.org/abs/2505.24839v1)|null|
-|**2025-05-30**|**VideoCAD: A Large-Scale Video Dataset for Learning UI Interactions and 3D Reasoning from CAD Software**|Brandon Man et.al.|[2505.24838v1](http://arxiv.org/abs/2505.24838v1)|null|
-|**2025-05-30**|**Zero-Shot Chinese Character Recognition with Hierarchical Multi-Granularity Image-Text Aligning**|Yinglian Zhu et.al.|[2505.24837v1](http://arxiv.org/abs/2505.24837v1)|null|
 
 ### C Code Migration
 |Publish Date|Title|Authors|PDF|Code|
@@ -146,6 +112,40 @@
 |**2025-05-30**|**Realistic quantum network simulation for experimental BBM92 key distribution**|Michelle Chalupnik et.al.|[2505.24851v1](http://arxiv.org/abs/2505.24851v1)|null|
 |**2025-05-30**|**Harnessing Negative Signals: Reinforcement Distillation from Teacher Data for LLM Reasoning**|Shuyao Xu et.al.|[2505.24850v1](http://arxiv.org/abs/2505.24850v1)|null|
 |**2025-05-30**|**Statistical mechanics of extensive-width Bayesian neural networks near interpolation**|Jean Barbier et.al.|[2505.24849v1](http://arxiv.org/abs/2505.24849v1)|null|
+
+### C Code Generation
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2025-05-30**|**Open CaptchaWorld: A Comprehensive Web-based Platform for Testing and Benchmarking Multimodal LLM Agents**|Yaxin Luo et.al.|[2505.24878v1](http://arxiv.org/abs/2505.24878v1)|null|
+|**2025-05-30**|**AdaHuman: Animatable Detailed 3D Human Generation with Compositional Multiview Diffusion**|Yangyi Huang et.al.|[2505.24877v1](http://arxiv.org/abs/2505.24877v1)|null|
+|**2025-05-30**|**Agent-X: Evaluating Deep Multimodal Reasoning in Vision-Centric Agentic Tasks**|Tajamul Ashraf et.al.|[2505.24876v1](http://arxiv.org/abs/2505.24876v1)|null|
+|**2025-05-30**|**ReasonGen-R1: CoT for Autoregressive Image generation models through SFT and RL**|Yu Zhang et.al.|[2505.24875v1](http://arxiv.org/abs/2505.24875v1)|null|
+|**2025-05-30**|**The Road to Generalizable Neuro-Symbolic Learning Should be Paved with Foundation Models**|Adam Stein et.al.|[2505.24874v1](http://arxiv.org/abs/2505.24874v1)|null|
+|**2025-05-30**|**MiniMax-Remover: Taming Bad Noise Helps Video Object Removal**|Bojia Zi et.al.|[2505.24873v1](http://arxiv.org/abs/2505.24873v1)|null|
+|**2025-05-30**|**ProxyThinker: Test-Time Guidance through Small Visual Reasoners**|Zilin Xiao et.al.|[2505.24872v1](http://arxiv.org/abs/2505.24872v1)|null|
+|**2025-05-30**|**MoDoMoDo: Multi-Domain Data Mixtures for Multimodal LLM Reinforcement Learning**|Yiqing Liang et.al.|[2505.24871v1](http://arxiv.org/abs/2505.24871v1)|null|
+|**2025-05-30**|**GenSpace: Benchmarking Spatially-Aware Image Generation**|Zehan Wang et.al.|[2505.24870v1](http://arxiv.org/abs/2505.24870v1)|null|
+|**2025-05-30**|**SiLVR: A Simple Language-based Video Reasoning Framework**|Ce Zhang et.al.|[2505.24869v1](http://arxiv.org/abs/2505.24869v1)|null|
+|**2025-05-30**|**Consistent line clustering using geometric hypergraphs**|Kalle Alaluusua et.al.|[2505.24868v1](http://arxiv.org/abs/2505.24868v1)|null|
+|**2025-05-30**|**Time Blindness: Why Video-Language Models Can't See What Humans Can?**|Ujjwal Upadhyay et.al.|[2505.24867v1](http://arxiv.org/abs/2505.24867v1)|null|
+|**2025-05-30**|**TalkingHeadBench: A Multi-Modal Benchmark & Analysis of Talking-Head DeepFake Detection**|Xinqi Xiong et.al.|[2505.24866v1](http://arxiv.org/abs/2505.24866v1)|null|
+|**2025-05-30**|**AlphaOne: Reasoning Models Thinking Slow and Fast at Test Time**|Junyu Zhang et.al.|[2505.24863v1](http://arxiv.org/abs/2505.24863v1)|null|
+|**2025-05-30**|**ViStoryBench: Comprehensive Benchmark Suite for Story Visualization**|Cailin Zhuang et.al.|[2505.24862v1](http://arxiv.org/abs/2505.24862v1)|null|
+|**2025-05-30**|**Beyond Multiple Choice: Evaluating Steering Vectors for Adaptive Free-Form Summarization**|Joschka Braun et.al.|[2505.24859v1](http://arxiv.org/abs/2505.24859v1)|null|
+|**2025-05-30**|**MetaFaith: Faithful Natural Language Uncertainty Expression in LLMs**|Gabrielle Kaili-May Liu et.al.|[2505.24858v1](http://arxiv.org/abs/2505.24858v1)|null|
+|**2025-05-30**|**Accelerated Sampling from Masked Diffusion Models via Entropy Bounded Unmasking**|Heli Ben-Hamu et.al.|[2505.24857v1](http://arxiv.org/abs/2505.24857v1)|null|
+|**2025-05-30**|**The SPHEREx Sky Simulator: Science Data Modeling for the First All-Sky Near-Infrared Spectral Survey**|Brendan P. Crill et.al.|[2505.24856v1](http://arxiv.org/abs/2505.24856v1)|null|
+|**2025-05-30**|**Active Gaussian Network Model: a non-equilibrium description of protein fluctuations and allosteric behavior**|Giulio Costantini et.al.|[2505.24855v1](http://arxiv.org/abs/2505.24855v1)|null|
+|**2025-05-30**|**Harnessing Negative Signals: Reinforcement Distillation from Teacher Data for LLM Reasoning**|Shuyao Xu et.al.|[2505.24850v1](http://arxiv.org/abs/2505.24850v1)|null|
+|**2025-05-30**|**Statistical mechanics of extensive-width Bayesian neural networks near interpolation**|Jean Barbier et.al.|[2505.24849v1](http://arxiv.org/abs/2505.24849v1)|null|
+|**2025-05-30**|**Reading Recognition in the Wild**|Charig Yang et.al.|[2505.24848v1](http://arxiv.org/abs/2505.24848v1)|null|
+|**2025-05-30**|**Nematicity in iron pnictides: phase competition and emergent symmetry**|Yiming Wang et.al.|[2505.24847v1](http://arxiv.org/abs/2505.24847v1)|null|
+|**2025-05-30**|**Chameleon: A Flexible Data-mixing Framework for Language Model Pretraining and Finetuning**|Wanyun Xie et.al.|[2505.24844v1](http://arxiv.org/abs/2505.24844v1)|null|
+|**2025-05-30**|**Cascading Adversarial Bias from Injection to Distillation in Language Models**|Harsh Chaudhari et.al.|[2505.24842v1](http://arxiv.org/abs/2505.24842v1)|null|
+|**2025-05-30**|**pySTARBURST99: The Next Generation of STARBURST99**|Calum Hawcroft et.al.|[2505.24841v1](http://arxiv.org/abs/2505.24841v1)|null|
+|**2025-05-30**|**Novel methodology to obtain transonic solutions for dissipative flows around compact objects**|Shilpa Sarkar et.al.|[2505.24839v1](http://arxiv.org/abs/2505.24839v1)|null|
+|**2025-05-30**|**VideoCAD: A Large-Scale Video Dataset for Learning UI Interactions and 3D Reasoning from CAD Software**|Brandon Man et.al.|[2505.24838v1](http://arxiv.org/abs/2505.24838v1)|null|
+|**2025-05-30**|**Zero-Shot Chinese Character Recognition with Hierarchical Multi-Granularity Image-Text Aligning**|Yinglian Zhu et.al.|[2505.24837v1](http://arxiv.org/abs/2505.24837v1)|null|
 
 ## AI
 
