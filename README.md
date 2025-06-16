@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-06-16 20:17:49 Asia/Shanghai
+ Automated deployment @ 2025-06-16 21:02:56 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -76,76 +76,6 @@
 |**2025-06-13**|**Vectorized Sparse Second-Order Forward Automatic Differentiation for Optimal Control Direct Methods**|Yilin Zou et.al.|[2506.11537v1](http://arxiv.org/abs/2506.11537v1)|[link](https://github.com/zouyilin2000/pockit)|
 |**2025-06-13**|**Last-Pair Swapping Polar Codes: A Structure to Improve Polarization on Channels with Memory**|Yinuo Mei et.al.|[2506.11535v1](http://arxiv.org/abs/2506.11535v1)|null|
 |**2025-06-13**|**GNSS-inertial state initialization by distance residuals**|Samuel Cerezo et.al.|[2506.11534v1](http://arxiv.org/abs/2506.11534v1)|null|
-
-## AI
-
-### LLM Theory
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2025-06-13**|**Reimagining Dance: Real-time Music Co-creation between Dancers and AI**|Olga Vechtomova et.al.|[2506.12008v1](http://arxiv.org/abs/2506.12008v1)|null|
-|**2025-06-13**|**Upgrade or Switch: Do We Need a New Registry Architecture for the Internet of AI Agents?**|Ramesh Raskar et.al.|[2506.12003v1](http://arxiv.org/abs/2506.12003v1)|null|
-|**2025-06-13**|**pLSTM: parallelizable Linear Source Transition Mark networks**|Korbinian Pöppel et.al.|[2506.11997v1](http://arxiv.org/abs/2506.11997v1)|null|
-|**2025-06-13**|**Minimum-hop Constellation Design for Low Earth Orbit Satellite Networks**|Chirag Rao et.al.|[2506.11995v1](http://arxiv.org/abs/2506.11995v1)|null|
-|**2025-06-13**|**VGR: Visual Grounded Reasoning**|Jiacong Wang et.al.|[2506.11991v1](http://arxiv.org/abs/2506.11991v1)|null|
-|**2025-06-13**|**Simple Radiology VLLM Test-time Scaling with Thought Graph Traversal**|Yue Yao et.al.|[2506.11989v1](http://arxiv.org/abs/2506.11989v1)|null|
-|**2025-06-13**|**Learning Before Filtering: Real-Time Hardware Learning at the Detector Level**|Boštjan Maček et.al.|[2506.11981v1](http://arxiv.org/abs/2506.11981v1)|null|
-|**2025-06-13**|**How Visual Representations Map to Language Feature Space in Multimodal LLMs**|Constantin Venhoff et.al.|[2506.11976v1](http://arxiv.org/abs/2506.11976v1)|null|
-|**2025-06-13**|**Secure API-Driven Research Automation to Accelerate Scientific Discovery**|Tyler J. Skluzacek et.al.|[2506.11950v1](http://arxiv.org/abs/2506.11950v1)|null|
-|**2025-06-13**|**Intractable Cookie Crumbs: Unveiling the Nexus of Stateful Banner Interaction and Tracking Cookies**|Ali Rasaii et.al.|[2506.11947v1](http://arxiv.org/abs/2506.11947v1)|null|
-|**2025-06-13**|**Subjective Experience in AI Systems: What Do AI Researchers and the Public Believe?**|Noemi Dreksler et.al.|[2506.11945v1](http://arxiv.org/abs/2506.11945v1)|null|
-|**2025-06-13**|**Real-World Deployment of a Lane Change Prediction Architecture Based on Knowledge Graph Embeddings and Bayesian Inference**|M. Manzour et.al.|[2506.11925v1](http://arxiv.org/abs/2506.11925v1)|null|
-|**2025-06-13**|**GeistBERT: Breathing Life into German NLP**|Raphael Scheible-Schmitt et.al.|[2506.11903v1](http://arxiv.org/abs/2506.11903v1)|null|
-|**2025-06-13**|**Attention-based Adversarial Robust Distillation in Radio Signal Classifications for Low-Power IoT Devices**|Lu Zhang et.al.|[2506.11892v1](http://arxiv.org/abs/2506.11892v1)|null|
-|**2025-06-13**|**Understanding Input Selectivity in Mamba: Impact on Approximation Power, Memorization, and Associative Recall Capacity**|Ningyuan Huang et.al.|[2506.11891v1](http://arxiv.org/abs/2506.11891v1)|null|
-|**2025-06-13**|**Enter: Graduated Realism: A Pedagogical Framework for AI-Powered Avatars in Virtual Reality Teacher Training**|Judson Leroy Dean Haynes IV et.al.|[2506.11890v1](http://arxiv.org/abs/2506.11890v1)|null|
-|**2025-06-13**|**MindGrab for BrainChop: Fast and Accurate Skull Stripping for Command Line and Browser**|Armina Fani et.al.|[2506.11860v1](http://arxiv.org/abs/2506.11860v1)|null|
-|**2025-06-13**|**Radar Ranging Using Rydberg Atomic Homodyne Receiver**|Minze Chen et.al.|[2506.11833v1](http://arxiv.org/abs/2506.11833v1)|null|
-|**2025-06-13**|**A Tale of Two Mobile Generations: 5G-Advanced and 6G in 3GPP Release 20**|Xingqin Lin et.al.|[2506.11828v1](http://arxiv.org/abs/2506.11828v1)|null|
-|**2025-06-13**|**Rethinking Multilingual Vision-Language Translation: Dataset, Evaluation, and Adaptation**|Xintong Wang et.al.|[2506.11820v1](http://arxiv.org/abs/2506.11820v1)|null|
-|**2025-06-13**|**Teleoperated Driving: a New Challenge for 3D Object Detection in Compressed Point Clouds**|Filippo Bragato et.al.|[2506.11804v1](http://arxiv.org/abs/2506.11804v1)|null|
-|**2025-06-13**|**Learning to Integrate**|Oliver G. Ernst et.al.|[2506.11801v1](http://arxiv.org/abs/2506.11801v1)|null|
-|**2025-06-13**|**Holistic approach and Advanced Color Singlet Identification for physics measurements at high energy frontier**|Yongfeng Zhu et.al.|[2506.11783v1](http://arxiv.org/abs/2506.11783v1)|null|
-|**2025-06-13**|**Stable Synchronous Propagation in Feedforward Networks for Biped Locomotion**|Ian Stewart et.al.|[2506.11780v1](http://arxiv.org/abs/2506.11780v1)|null|
-|**2025-06-13**|**Long-Short Alignment for Effective Long-Context Modeling in LLMs**|Tianqi Du et.al.|[2506.11769v1](http://arxiv.org/abs/2506.11769v1)|null|
-|**2025-06-13**|**MambaVSR: Content-Aware Scanning State Space Model for Video Super-Resolution**|Linfeng He et.al.|[2506.11768v1](http://arxiv.org/abs/2506.11768v1)|null|
-|**2025-06-13**|**FeNN: A RISC-V vector processor for Spiking Neural Network acceleration**|Zainab Aizaz et.al.|[2506.11760v1](http://arxiv.org/abs/2506.11760v1)|null|
-|**2025-06-13**|**DART: Distilling Autoregressive Reasoning to Silent Thought**|Nan Jiang et.al.|[2506.11752v1](http://arxiv.org/abs/2506.11752v1)|null|
-|**2025-06-13**|**Distributed Learning for Reliable and Timely Communication in 6G Industrial Subnetworks**|Samira Abdelrahman et.al.|[2506.11749v1](http://arxiv.org/abs/2506.11749v1)|null|
-|**2025-06-13**|**The Throughput Gain of Hypercycle-level Resource Reservation for Time-Triggered Ethernet**|Peng Wang et.al.|[2506.11745v1](http://arxiv.org/abs/2506.11745v1)|null|
-
-### LLM Agent
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2025-06-13**|**code_transformed: The Influence of Large Language Models on Code**|Yuliang Xu et.al.|[2506.12014v1](http://arxiv.org/abs/2506.12014v1)|null|
-|**2025-06-13**|**Simple Radiology VLLM Test-time Scaling with Thought Graph Traversal**|Yue Yao et.al.|[2506.11989v1](http://arxiv.org/abs/2506.11989v1)|null|
-|**2025-06-13**|**LLM-based Dynamic Differential Testing for Database Connectors with Reinforcement Learning-Guided Prompt Selection**|Ce Lyu et.al.|[2506.11870v1](http://arxiv.org/abs/2506.11870v1)|null|
-|**2025-06-13**|**TrustGLM: Evaluating the Robustness of GraphLLMs Against Prompt, Text, and Structure Attacks**|Qihai Zhang et.al.|[2506.11844v1](http://arxiv.org/abs/2506.11844v1)|null|
-|**2025-06-13**|**On the Performance of LLMs for Real Estate Appraisal**|Margot Geerts et.al.|[2506.11812v1](http://arxiv.org/abs/2506.11812v1)|null|
-|**2025-06-13**|**Abstract Sound Fusion with Unconditioned Inversion Model**|Jing Liu et.al.|[2506.11811v1](http://arxiv.org/abs/2506.11811v1)|null|
-|**2025-06-13**|**Persona-driven Simulation of Voting Behavior in the European Parliament with Large Language Models**|Maximilian Kreutner et.al.|[2506.11798v1](http://arxiv.org/abs/2506.11798v1)|null|
-|**2025-06-13**|**Designing Effective LLM-Assisted Interfaces for Curriculum Development**|Abdolali Faraji et.al.|[2506.11767v1](http://arxiv.org/abs/2506.11767v1)|null|
-|**2025-06-13**|**Classification of Quality Characteristics in Online User Feedback using Linguistic Analysis, Crowdsourcing and LLMs**|Eduard C. Groen et.al.|[2506.11722v1](http://arxiv.org/abs/2506.11722v1)|null|
-|**2025-06-13**|**Configurable Preference Tuning with Rubric-Guided Synthetic Data**|Víctor Gallego et.al.|[2506.11702v1](http://arxiv.org/abs/2506.11702v1)|null|
-|**2025-06-13**|**LLMs for Sentence Simplification: A Hybrid Multi-Agent prompting Approach**|Pratibha Zunjare et.al.|[2506.11681v1](http://arxiv.org/abs/2506.11681v1)|null|
-|**2025-06-13**|**Malicious LLM-Based Conversational AI Makes Users Reveal Personal Information**|Xiao Zhan et.al.|[2506.11680v1](http://arxiv.org/abs/2506.11680v1)|null|
-|**2025-06-13**|**Recursive KalmanNet: Deep Learning-Augmented Kalman Filtering for State Estimation with Consistent Uncertainty Quantification**|Hassan Mortada et.al.|[2506.11639v1](http://arxiv.org/abs/2506.11639v1)|[link](https://github.com/ixblue/RecursiveKalmanNet)|
-|**2025-06-13**|**TongSearch-QR: Reinforced Query Reasoning for Retrieval**|Xubo Qin et.al.|[2506.11603v1](http://arxiv.org/abs/2506.11603v1)|null|
-|**2025-06-13**|**GraphRAG-Causal: A novel graph-augmented framework for causal reasoning and annotation in news**|Abdul Haque et.al.|[2506.11600v1](http://arxiv.org/abs/2506.11600v1)|null|
-|**2025-06-13**|**Identifying Helpful Context for LLM-based Vulnerability Repair: A Preliminary Study**|Gábor Antal et.al.|[2506.11561v1](http://arxiv.org/abs/2506.11561v1)|null|
-|**2025-06-13**|**Brewing Knowledge in Context: Distillation Perspectives on In-Context Learning**|Chengye Li et.al.|[2506.11516v1](http://arxiv.org/abs/2506.11516v1)|null|
-|**2025-06-13**|**Preserving Clusters in Prompt Learning for Unsupervised Domain Adaptation**|Tung-Long Vuong et.al.|[2506.11493v1](http://arxiv.org/abs/2506.11493v1)|null|
-|**2025-06-13**|**Reviving DSP for Advanced Theorem Proving in the Era of Reasoning Models**|Chenrui Cao et.al.|[2506.11487v1](http://arxiv.org/abs/2506.11487v1)|null|
-|**2025-06-13**|**VulStamp: Vulnerability Assessment using Large Language Model**|Haoshen et.al.|[2506.11484v1](http://arxiv.org/abs/2506.11484v1)|null|
-|**2025-06-13**|**AutoGen Driven Multi Agent Framework for Iterative Crime Data Analysis and Prediction**|Syeda Kisaa Fatima et.al.|[2506.11475v1](http://arxiv.org/abs/2506.11475v1)|null|
-|**2025-06-13**|**Leveraging Reference Documents for Zero-Shot Ranking via Large Language Models**|Jieran Li et.al.|[2506.11452v1](http://arxiv.org/abs/2506.11452v1)|null|
-|**2025-06-13**|**TAViS: Text-bridged Audio-Visual Segmentation with Foundation Models**|Ziyang Luo et.al.|[2506.11436v1](http://arxiv.org/abs/2506.11436v1)|null|
-|**2025-06-13**|**LoRA Users Beware: A Few Spurious Tokens Can Manipulate Your Finetuned Model**|Pradyut Sekhsaria et.al.|[2506.11402v1](http://arxiv.org/abs/2506.11402v1)|null|
-|**2025-06-13**|**Large Language Model-Powered Conversational Agent Delivering Problem-Solving Therapy (PST) for Family Caregivers: Enhancing Empathy and Therapeutic Alliance Using In-Context Learning**|Liying Wang et.al.|[2506.11376v1](http://arxiv.org/abs/2506.11376v1)|null|
-|**2025-06-12**|**The Biased Samaritan: LLM biases in Perceived Kindness**|Jack H Fagan et.al.|[2506.11361v1](http://arxiv.org/abs/2506.11361v1)|null|
-|**2025-06-12**|**The Sample Complexity of Parameter-Free Stochastic Convex Optimization**|Jared Lawrence et.al.|[2506.11336v1](http://arxiv.org/abs/2506.11336v1)|null|
-|**2025-06-12**|**Beyond Random Sampling: Efficient Language Model Pretraining via Curriculum Learning**|Yang Zhang et.al.|[2506.11300v1](http://arxiv.org/abs/2506.11300v1)|null|
-|**2025-06-12**|**No Universal Prompt: Unifying Reasoning through Adaptive Prompting for Temporal Table Reasoning**|Kushagra Dixit et.al.|[2506.11246v1](http://arxiv.org/abs/2506.11246v1)|null|
-|**2025-06-12**|**LLM-as-a-Fuzzy-Judge: Fine-Tuning Large Language Models as a Clinical Evaluation Judge with Fuzzy Logic**|Weibing Zheng et.al.|[2506.11221v1](http://arxiv.org/abs/2506.11221v1)|null|
 
 ## Code Compile
 
@@ -252,3 +182,73 @@
 |**2025-06-13**|**How Visual Representations Map to Language Feature Space in Multimodal LLMs**|Constantin Venhoff et.al.|[2506.11976v1](http://arxiv.org/abs/2506.11976v1)|null|
 |**2025-06-13**|**Comparison of schemes for highly loss tolerant photonic fusion based quantum computing**|Sara Bartolucci et.al.|[2506.11975v1](http://arxiv.org/abs/2506.11975v1)|null|
 |**2025-06-13**|**Self-Regulating Cars: Automating Traffic Control in Free Flow Road Networks**|Ankit Bhardwaj et.al.|[2506.11973v1](http://arxiv.org/abs/2506.11973v1)|null|
+
+## AI
+
+### LLM Agent
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2025-06-13**|**code_transformed: The Influence of Large Language Models on Code**|Yuliang Xu et.al.|[2506.12014v1](http://arxiv.org/abs/2506.12014v1)|null|
+|**2025-06-13**|**Simple Radiology VLLM Test-time Scaling with Thought Graph Traversal**|Yue Yao et.al.|[2506.11989v1](http://arxiv.org/abs/2506.11989v1)|null|
+|**2025-06-13**|**LLM-based Dynamic Differential Testing for Database Connectors with Reinforcement Learning-Guided Prompt Selection**|Ce Lyu et.al.|[2506.11870v1](http://arxiv.org/abs/2506.11870v1)|null|
+|**2025-06-13**|**TrustGLM: Evaluating the Robustness of GraphLLMs Against Prompt, Text, and Structure Attacks**|Qihai Zhang et.al.|[2506.11844v1](http://arxiv.org/abs/2506.11844v1)|null|
+|**2025-06-13**|**On the Performance of LLMs for Real Estate Appraisal**|Margot Geerts et.al.|[2506.11812v1](http://arxiv.org/abs/2506.11812v1)|null|
+|**2025-06-13**|**Abstract Sound Fusion with Unconditioned Inversion Model**|Jing Liu et.al.|[2506.11811v1](http://arxiv.org/abs/2506.11811v1)|null|
+|**2025-06-13**|**Persona-driven Simulation of Voting Behavior in the European Parliament with Large Language Models**|Maximilian Kreutner et.al.|[2506.11798v1](http://arxiv.org/abs/2506.11798v1)|null|
+|**2025-06-13**|**Designing Effective LLM-Assisted Interfaces for Curriculum Development**|Abdolali Faraji et.al.|[2506.11767v1](http://arxiv.org/abs/2506.11767v1)|null|
+|**2025-06-13**|**Classification of Quality Characteristics in Online User Feedback using Linguistic Analysis, Crowdsourcing and LLMs**|Eduard C. Groen et.al.|[2506.11722v1](http://arxiv.org/abs/2506.11722v1)|null|
+|**2025-06-13**|**Configurable Preference Tuning with Rubric-Guided Synthetic Data**|Víctor Gallego et.al.|[2506.11702v1](http://arxiv.org/abs/2506.11702v1)|null|
+|**2025-06-13**|**LLMs for Sentence Simplification: A Hybrid Multi-Agent prompting Approach**|Pratibha Zunjare et.al.|[2506.11681v1](http://arxiv.org/abs/2506.11681v1)|null|
+|**2025-06-13**|**Malicious LLM-Based Conversational AI Makes Users Reveal Personal Information**|Xiao Zhan et.al.|[2506.11680v1](http://arxiv.org/abs/2506.11680v1)|null|
+|**2025-06-13**|**Recursive KalmanNet: Deep Learning-Augmented Kalman Filtering for State Estimation with Consistent Uncertainty Quantification**|Hassan Mortada et.al.|[2506.11639v1](http://arxiv.org/abs/2506.11639v1)|[link](https://github.com/ixblue/RecursiveKalmanNet)|
+|**2025-06-13**|**TongSearch-QR: Reinforced Query Reasoning for Retrieval**|Xubo Qin et.al.|[2506.11603v1](http://arxiv.org/abs/2506.11603v1)|null|
+|**2025-06-13**|**GraphRAG-Causal: A novel graph-augmented framework for causal reasoning and annotation in news**|Abdul Haque et.al.|[2506.11600v1](http://arxiv.org/abs/2506.11600v1)|null|
+|**2025-06-13**|**Identifying Helpful Context for LLM-based Vulnerability Repair: A Preliminary Study**|Gábor Antal et.al.|[2506.11561v1](http://arxiv.org/abs/2506.11561v1)|null|
+|**2025-06-13**|**Brewing Knowledge in Context: Distillation Perspectives on In-Context Learning**|Chengye Li et.al.|[2506.11516v1](http://arxiv.org/abs/2506.11516v1)|null|
+|**2025-06-13**|**Preserving Clusters in Prompt Learning for Unsupervised Domain Adaptation**|Tung-Long Vuong et.al.|[2506.11493v1](http://arxiv.org/abs/2506.11493v1)|null|
+|**2025-06-13**|**Reviving DSP for Advanced Theorem Proving in the Era of Reasoning Models**|Chenrui Cao et.al.|[2506.11487v1](http://arxiv.org/abs/2506.11487v1)|null|
+|**2025-06-13**|**VulStamp: Vulnerability Assessment using Large Language Model**|Haoshen et.al.|[2506.11484v1](http://arxiv.org/abs/2506.11484v1)|null|
+|**2025-06-13**|**AutoGen Driven Multi Agent Framework for Iterative Crime Data Analysis and Prediction**|Syeda Kisaa Fatima et.al.|[2506.11475v1](http://arxiv.org/abs/2506.11475v1)|null|
+|**2025-06-13**|**Leveraging Reference Documents for Zero-Shot Ranking via Large Language Models**|Jieran Li et.al.|[2506.11452v1](http://arxiv.org/abs/2506.11452v1)|null|
+|**2025-06-13**|**TAViS: Text-bridged Audio-Visual Segmentation with Foundation Models**|Ziyang Luo et.al.|[2506.11436v1](http://arxiv.org/abs/2506.11436v1)|null|
+|**2025-06-13**|**LoRA Users Beware: A Few Spurious Tokens Can Manipulate Your Finetuned Model**|Pradyut Sekhsaria et.al.|[2506.11402v1](http://arxiv.org/abs/2506.11402v1)|null|
+|**2025-06-13**|**Large Language Model-Powered Conversational Agent Delivering Problem-Solving Therapy (PST) for Family Caregivers: Enhancing Empathy and Therapeutic Alliance Using In-Context Learning**|Liying Wang et.al.|[2506.11376v1](http://arxiv.org/abs/2506.11376v1)|null|
+|**2025-06-12**|**The Biased Samaritan: LLM biases in Perceived Kindness**|Jack H Fagan et.al.|[2506.11361v1](http://arxiv.org/abs/2506.11361v1)|null|
+|**2025-06-12**|**The Sample Complexity of Parameter-Free Stochastic Convex Optimization**|Jared Lawrence et.al.|[2506.11336v1](http://arxiv.org/abs/2506.11336v1)|null|
+|**2025-06-12**|**Beyond Random Sampling: Efficient Language Model Pretraining via Curriculum Learning**|Yang Zhang et.al.|[2506.11300v1](http://arxiv.org/abs/2506.11300v1)|null|
+|**2025-06-12**|**No Universal Prompt: Unifying Reasoning through Adaptive Prompting for Temporal Table Reasoning**|Kushagra Dixit et.al.|[2506.11246v1](http://arxiv.org/abs/2506.11246v1)|null|
+|**2025-06-12**|**LLM-as-a-Fuzzy-Judge: Fine-Tuning Large Language Models as a Clinical Evaluation Judge with Fuzzy Logic**|Weibing Zheng et.al.|[2506.11221v1](http://arxiv.org/abs/2506.11221v1)|null|
+
+### LLM Theory
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2025-06-13**|**Reimagining Dance: Real-time Music Co-creation between Dancers and AI**|Olga Vechtomova et.al.|[2506.12008v1](http://arxiv.org/abs/2506.12008v1)|null|
+|**2025-06-13**|**Upgrade or Switch: Do We Need a New Registry Architecture for the Internet of AI Agents?**|Ramesh Raskar et.al.|[2506.12003v1](http://arxiv.org/abs/2506.12003v1)|null|
+|**2025-06-13**|**pLSTM: parallelizable Linear Source Transition Mark networks**|Korbinian Pöppel et.al.|[2506.11997v1](http://arxiv.org/abs/2506.11997v1)|null|
+|**2025-06-13**|**Minimum-hop Constellation Design for Low Earth Orbit Satellite Networks**|Chirag Rao et.al.|[2506.11995v1](http://arxiv.org/abs/2506.11995v1)|null|
+|**2025-06-13**|**VGR: Visual Grounded Reasoning**|Jiacong Wang et.al.|[2506.11991v1](http://arxiv.org/abs/2506.11991v1)|null|
+|**2025-06-13**|**Simple Radiology VLLM Test-time Scaling with Thought Graph Traversal**|Yue Yao et.al.|[2506.11989v1](http://arxiv.org/abs/2506.11989v1)|null|
+|**2025-06-13**|**Learning Before Filtering: Real-Time Hardware Learning at the Detector Level**|Boštjan Maček et.al.|[2506.11981v1](http://arxiv.org/abs/2506.11981v1)|null|
+|**2025-06-13**|**How Visual Representations Map to Language Feature Space in Multimodal LLMs**|Constantin Venhoff et.al.|[2506.11976v1](http://arxiv.org/abs/2506.11976v1)|null|
+|**2025-06-13**|**Secure API-Driven Research Automation to Accelerate Scientific Discovery**|Tyler J. Skluzacek et.al.|[2506.11950v1](http://arxiv.org/abs/2506.11950v1)|null|
+|**2025-06-13**|**Intractable Cookie Crumbs: Unveiling the Nexus of Stateful Banner Interaction and Tracking Cookies**|Ali Rasaii et.al.|[2506.11947v1](http://arxiv.org/abs/2506.11947v1)|null|
+|**2025-06-13**|**Subjective Experience in AI Systems: What Do AI Researchers and the Public Believe?**|Noemi Dreksler et.al.|[2506.11945v1](http://arxiv.org/abs/2506.11945v1)|null|
+|**2025-06-13**|**Real-World Deployment of a Lane Change Prediction Architecture Based on Knowledge Graph Embeddings and Bayesian Inference**|M. Manzour et.al.|[2506.11925v1](http://arxiv.org/abs/2506.11925v1)|null|
+|**2025-06-13**|**GeistBERT: Breathing Life into German NLP**|Raphael Scheible-Schmitt et.al.|[2506.11903v1](http://arxiv.org/abs/2506.11903v1)|null|
+|**2025-06-13**|**Attention-based Adversarial Robust Distillation in Radio Signal Classifications for Low-Power IoT Devices**|Lu Zhang et.al.|[2506.11892v1](http://arxiv.org/abs/2506.11892v1)|null|
+|**2025-06-13**|**Understanding Input Selectivity in Mamba: Impact on Approximation Power, Memorization, and Associative Recall Capacity**|Ningyuan Huang et.al.|[2506.11891v1](http://arxiv.org/abs/2506.11891v1)|null|
+|**2025-06-13**|**Enter: Graduated Realism: A Pedagogical Framework for AI-Powered Avatars in Virtual Reality Teacher Training**|Judson Leroy Dean Haynes IV et.al.|[2506.11890v1](http://arxiv.org/abs/2506.11890v1)|null|
+|**2025-06-13**|**MindGrab for BrainChop: Fast and Accurate Skull Stripping for Command Line and Browser**|Armina Fani et.al.|[2506.11860v1](http://arxiv.org/abs/2506.11860v1)|null|
+|**2025-06-13**|**Radar Ranging Using Rydberg Atomic Homodyne Receiver**|Minze Chen et.al.|[2506.11833v1](http://arxiv.org/abs/2506.11833v1)|null|
+|**2025-06-13**|**A Tale of Two Mobile Generations: 5G-Advanced and 6G in 3GPP Release 20**|Xingqin Lin et.al.|[2506.11828v1](http://arxiv.org/abs/2506.11828v1)|null|
+|**2025-06-13**|**Rethinking Multilingual Vision-Language Translation: Dataset, Evaluation, and Adaptation**|Xintong Wang et.al.|[2506.11820v1](http://arxiv.org/abs/2506.11820v1)|null|
+|**2025-06-13**|**Teleoperated Driving: a New Challenge for 3D Object Detection in Compressed Point Clouds**|Filippo Bragato et.al.|[2506.11804v1](http://arxiv.org/abs/2506.11804v1)|null|
+|**2025-06-13**|**Learning to Integrate**|Oliver G. Ernst et.al.|[2506.11801v1](http://arxiv.org/abs/2506.11801v1)|null|
+|**2025-06-13**|**Holistic approach and Advanced Color Singlet Identification for physics measurements at high energy frontier**|Yongfeng Zhu et.al.|[2506.11783v1](http://arxiv.org/abs/2506.11783v1)|null|
+|**2025-06-13**|**Stable Synchronous Propagation in Feedforward Networks for Biped Locomotion**|Ian Stewart et.al.|[2506.11780v1](http://arxiv.org/abs/2506.11780v1)|null|
+|**2025-06-13**|**Long-Short Alignment for Effective Long-Context Modeling in LLMs**|Tianqi Du et.al.|[2506.11769v1](http://arxiv.org/abs/2506.11769v1)|null|
+|**2025-06-13**|**MambaVSR: Content-Aware Scanning State Space Model for Video Super-Resolution**|Linfeng He et.al.|[2506.11768v1](http://arxiv.org/abs/2506.11768v1)|null|
+|**2025-06-13**|**FeNN: A RISC-V vector processor for Spiking Neural Network acceleration**|Zainab Aizaz et.al.|[2506.11760v1](http://arxiv.org/abs/2506.11760v1)|null|
+|**2025-06-13**|**DART: Distilling Autoregressive Reasoning to Silent Thought**|Nan Jiang et.al.|[2506.11752v1](http://arxiv.org/abs/2506.11752v1)|null|
+|**2025-06-13**|**Distributed Learning for Reliable and Timely Communication in 6G Industrial Subnetworks**|Samira Abdelrahman et.al.|[2506.11749v1](http://arxiv.org/abs/2506.11749v1)|null|
+|**2025-06-13**|**The Throughput Gain of Hypercycle-level Resource Reservation for Time-Triggered Ethernet**|Peng Wang et.al.|[2506.11745v1](http://arxiv.org/abs/2506.11745v1)|null|
