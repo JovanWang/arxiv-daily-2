@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-06-18 20:17:50 Asia/Shanghai
+ Automated deployment @ 2025-06-18 21:02:25 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -147,42 +147,6 @@
 |**2025-06-16**|**Unlearning Isn't Invisible: Detecting Unlearning Traces in LLMs from Model Outputs**|Yiwei Chen et.al.|[2506.14003v1](http://arxiv.org/abs/2506.14003v1)|null|
 |**2025-06-16**|**ProfiLLM: An LLM-Based Framework for Implicit Profiling of Chatbot Users**|Shahaf David et.al.|[2506.13980v1](http://arxiv.org/abs/2506.13980v1)|null|
 
-## Large-Language Model
-
-### Large-Language Model
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2025-06-17**|**CDP: Towards Robust Autoregressive Visuomotor Policy Learning via Causal Diffusion**|Jiahua Ma et.al.|[2506.14769v1](http://arxiv.org/abs/2506.14769v1)|null|
-|**2025-06-17**|**Optimistic MEV in Ethereum Layer 2s: Why Blockspace Is Always in Demand**|Ozan Solmaz et.al.|[2506.14768v1](http://arxiv.org/abs/2506.14768v1)|null|
-|**2025-06-17**|**A Variational Framework for Improving Naturalness in Generative Spoken Language Models**|Li-Wei Chen et.al.|[2506.14767v1](http://arxiv.org/abs/2506.14767v1)|null|
-|**2025-06-17**|**ASCD: Attention-Steerable Contrastive Decoding for Reducing Hallucination in MLLM**|Yujun Wang et.al.|[2506.14766v1](http://arxiv.org/abs/2506.14766v1)|null|
-|**2025-06-17**|**Scaling-Up the Pretraining of the Earth Observation Foundation Model PhilEO to the MajorTOM Dataset**|Nikolaos Dionelis et.al.|[2506.14765v1](http://arxiv.org/abs/2506.14765v1)|null|
-|**2025-06-17**|**RobotSmith: Generative Robotic Tool Design for Acquisition of Complex Manipulation Skills**|Chunru Lin et.al.|[2506.14763v1](http://arxiv.org/abs/2506.14763v1)|null|
-|**2025-06-17**|**Markov Regime-Switching Intelligent Driver Model for Interpretable Car-Following Behavior**|Chengyuan Zhang et.al.|[2506.14762v1](http://arxiv.org/abs/2506.14762v1)|null|
-|**2025-06-17**|**From Bytes to Ideas: Language Modeling with Autoregressive U-Nets**|Mathurin Videau et.al.|[2506.14761v1](http://arxiv.org/abs/2506.14761v1)|null|
-|**2025-06-17**|**Geo-Somatic Resonance Theory A Vibrational Framework for Sleep as Planetary Entrainment**|Brathikan Vijayamohan Mankayarkarasi et.al.|[2506.14760v1](http://arxiv.org/abs/2506.14760v1)|null|
-|**2025-06-17**|**Reasoning with Exploration: An Entropy Perspective**|Daixuan Cheng et.al.|[2506.14758v1](http://arxiv.org/abs/2506.14758v1)|null|
-|**2025-06-17**|**Large Language Models -- the Future of Fundamental Physics?**|Caroline Heneka et.al.|[2506.14757v1](http://arxiv.org/abs/2506.14757v1)|null|
-|**2025-06-17**|**Joint Error Correction and Fading Channel Estimation Enhancement Leveraging GRAND**|Charles Wiame et.al.|[2506.14756v1](http://arxiv.org/abs/2506.14756v1)|null|
-|**2025-06-17**|**Optimizing Length Compression in Large Reasoning Models**|Zhengxiang Cheng et.al.|[2506.14755v1](http://arxiv.org/abs/2506.14755v1)|null|
-|**2025-06-17**|**Tactile Beyond Pixels: Multisensory Touch Representations for Robot Manipulation**|Carolina Higuera et.al.|[2506.14754v1](http://arxiv.org/abs/2506.14754v1)|null|
-|**2025-06-17**|**Cost-Aware Routing for Efficient Text-To-Image Generation**|Qinchan et.al.|[2506.14753v1](http://arxiv.org/abs/2506.14753v1)|null|
-|**2025-06-17**|**Unique support from identity-based groups: Professional networks of women and LGBTQ+ physicists analyzed and compared by career sector**|Chase Hatcher et.al.|[2506.14752v1](http://arxiv.org/abs/2506.14752v1)|null|
-|**2025-06-17**|**Exploring Speaker Diarization with Mixture of Experts**|Gaobin Yang et.al.|[2506.14750v1](http://arxiv.org/abs/2506.14750v1)|null|
-|**2025-06-17**|**Swarm-STL: A Framework for Motion Planning in Large-Scale, Multi-Swarm Systems**|Shiyu Cheng et.al.|[2506.14749v1](http://arxiv.org/abs/2506.14749v1)|null|
-|**2025-06-17**|**Quantum simulation of fermionic non-Abelian lattice gauge theories in $(2+1)$D with built-in gauge protection**|Gaia De Paciani et.al.|[2506.14747v1](http://arxiv.org/abs/2506.14747v1)|null|
-|**2025-06-17**|**On the Hardness of Bandit Learning**|Nataly Brukhim et.al.|[2506.14746v1](http://arxiv.org/abs/2506.14746v1)|null|
-|**2025-06-17**|**Union-Intersection Union-Find for Decoding Depolarizing Errors in Topological Codes**|Tzu-Hao Lin et.al.|[2506.14745v1](http://arxiv.org/abs/2506.14745v1)|null|
-|**2025-06-17**|**SyncTalk++: High-Fidelity and Efficient Synchronized Talking Heads Synthesis Using Gaussian Splatting**|Ziqiao Peng et.al.|[2506.14742v1](http://arxiv.org/abs/2506.14742v1)|null|
-|**2025-06-17**|**Partition function of 2D Coulomb gases with radially symmetric potentials and a hard wall**|Matthias Allard et.al.|[2506.14738v1](http://arxiv.org/abs/2506.14738v1)|null|
-|**2025-06-17**|**SETI@home: Data Analysis and Findings**|David P. Anderson et.al.|[2506.14737v1](http://arxiv.org/abs/2506.14737v1)|null|
-|**2025-06-17**|**Sulphur abundances in star-forming regions from optical emission lines: A new approach based on photoionization models consistent with the direct method**|Enrique Pérez-Montero et.al.|[2506.14736v1](http://arxiv.org/abs/2506.14736v1)|null|
-|**2025-06-17**|**K3 surfaces over small number fields and Kummer constructions in families**|Stefan Schröer et.al.|[2506.14732v1](http://arxiv.org/abs/2506.14732v1)|null|
-|**2025-06-17**|**Ring-lite: Scalable Reasoning via C3PO-Stabilized Reinforcement Learning for LLMs**|Ring Team et.al.|[2506.14731v1](http://arxiv.org/abs/2506.14731v1)|null|
-|**2025-06-17**|**Direct numerical simulations of inhalation in a 23-generation lung model**|Marco Atzori et.al.|[2506.14729v1](http://arxiv.org/abs/2506.14729v1)|null|
-|**2025-06-17**|**AgentDistill: Training-Free Agent Distillation with Generalizable MCP Boxes**|Jiahao Qiu et.al.|[2506.14728v1](http://arxiv.org/abs/2506.14728v1)|null|
-|**2025-06-17**|**Casper: Inferring Diverse Intents for Assistive Teleoperation with Vision Language Models**|Huihan Liu et.al.|[2506.14727v1](http://arxiv.org/abs/2506.14727v1)|null|
-
 ## Code Compile
 
 ### C Code Migration
@@ -252,3 +216,39 @@
 |**2025-06-17**|**A stochastic noise model based excess noise factor expressions for staircase avalanche photodiodes**|Ankitha E Bangera et.al.|[2506.14722v1](http://arxiv.org/abs/2506.14722v1)|null|
 |**2025-06-17**|**Plug-and-Play with 2.5D Artifact Reduction Prior for Fast and Accurate Industrial Computed Tomography Reconstruction**|Haley Duba-Sullivan et.al.|[2506.14719v1](http://arxiv.org/abs/2506.14719v1)|null|
 |**2025-06-17**|**Triangular instability of a strained Batchelor vortex**|A. S. P. Ayapilla et.al.|[2506.14717v1](http://arxiv.org/abs/2506.14717v1)|null|
+
+## Large-Language Model
+
+### Large-Language Model
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2025-06-17**|**CDP: Towards Robust Autoregressive Visuomotor Policy Learning via Causal Diffusion**|Jiahua Ma et.al.|[2506.14769v1](http://arxiv.org/abs/2506.14769v1)|null|
+|**2025-06-17**|**Optimistic MEV in Ethereum Layer 2s: Why Blockspace Is Always in Demand**|Ozan Solmaz et.al.|[2506.14768v1](http://arxiv.org/abs/2506.14768v1)|null|
+|**2025-06-17**|**A Variational Framework for Improving Naturalness in Generative Spoken Language Models**|Li-Wei Chen et.al.|[2506.14767v1](http://arxiv.org/abs/2506.14767v1)|null|
+|**2025-06-17**|**ASCD: Attention-Steerable Contrastive Decoding for Reducing Hallucination in MLLM**|Yujun Wang et.al.|[2506.14766v1](http://arxiv.org/abs/2506.14766v1)|null|
+|**2025-06-17**|**Scaling-Up the Pretraining of the Earth Observation Foundation Model PhilEO to the MajorTOM Dataset**|Nikolaos Dionelis et.al.|[2506.14765v1](http://arxiv.org/abs/2506.14765v1)|null|
+|**2025-06-17**|**RobotSmith: Generative Robotic Tool Design for Acquisition of Complex Manipulation Skills**|Chunru Lin et.al.|[2506.14763v1](http://arxiv.org/abs/2506.14763v1)|null|
+|**2025-06-17**|**Markov Regime-Switching Intelligent Driver Model for Interpretable Car-Following Behavior**|Chengyuan Zhang et.al.|[2506.14762v1](http://arxiv.org/abs/2506.14762v1)|null|
+|**2025-06-17**|**From Bytes to Ideas: Language Modeling with Autoregressive U-Nets**|Mathurin Videau et.al.|[2506.14761v1](http://arxiv.org/abs/2506.14761v1)|null|
+|**2025-06-17**|**Geo-Somatic Resonance Theory A Vibrational Framework for Sleep as Planetary Entrainment**|Brathikan Vijayamohan Mankayarkarasi et.al.|[2506.14760v1](http://arxiv.org/abs/2506.14760v1)|null|
+|**2025-06-17**|**Reasoning with Exploration: An Entropy Perspective**|Daixuan Cheng et.al.|[2506.14758v1](http://arxiv.org/abs/2506.14758v1)|null|
+|**2025-06-17**|**Large Language Models -- the Future of Fundamental Physics?**|Caroline Heneka et.al.|[2506.14757v1](http://arxiv.org/abs/2506.14757v1)|null|
+|**2025-06-17**|**Joint Error Correction and Fading Channel Estimation Enhancement Leveraging GRAND**|Charles Wiame et.al.|[2506.14756v1](http://arxiv.org/abs/2506.14756v1)|null|
+|**2025-06-17**|**Optimizing Length Compression in Large Reasoning Models**|Zhengxiang Cheng et.al.|[2506.14755v1](http://arxiv.org/abs/2506.14755v1)|null|
+|**2025-06-17**|**Tactile Beyond Pixels: Multisensory Touch Representations for Robot Manipulation**|Carolina Higuera et.al.|[2506.14754v1](http://arxiv.org/abs/2506.14754v1)|null|
+|**2025-06-17**|**Cost-Aware Routing for Efficient Text-To-Image Generation**|Qinchan et.al.|[2506.14753v1](http://arxiv.org/abs/2506.14753v1)|null|
+|**2025-06-17**|**Unique support from identity-based groups: Professional networks of women and LGBTQ+ physicists analyzed and compared by career sector**|Chase Hatcher et.al.|[2506.14752v1](http://arxiv.org/abs/2506.14752v1)|null|
+|**2025-06-17**|**Exploring Speaker Diarization with Mixture of Experts**|Gaobin Yang et.al.|[2506.14750v1](http://arxiv.org/abs/2506.14750v1)|null|
+|**2025-06-17**|**Swarm-STL: A Framework for Motion Planning in Large-Scale, Multi-Swarm Systems**|Shiyu Cheng et.al.|[2506.14749v1](http://arxiv.org/abs/2506.14749v1)|null|
+|**2025-06-17**|**Quantum simulation of fermionic non-Abelian lattice gauge theories in $(2+1)$D with built-in gauge protection**|Gaia De Paciani et.al.|[2506.14747v1](http://arxiv.org/abs/2506.14747v1)|null|
+|**2025-06-17**|**On the Hardness of Bandit Learning**|Nataly Brukhim et.al.|[2506.14746v1](http://arxiv.org/abs/2506.14746v1)|null|
+|**2025-06-17**|**Union-Intersection Union-Find for Decoding Depolarizing Errors in Topological Codes**|Tzu-Hao Lin et.al.|[2506.14745v1](http://arxiv.org/abs/2506.14745v1)|null|
+|**2025-06-17**|**SyncTalk++: High-Fidelity and Efficient Synchronized Talking Heads Synthesis Using Gaussian Splatting**|Ziqiao Peng et.al.|[2506.14742v1](http://arxiv.org/abs/2506.14742v1)|null|
+|**2025-06-17**|**Partition function of 2D Coulomb gases with radially symmetric potentials and a hard wall**|Matthias Allard et.al.|[2506.14738v1](http://arxiv.org/abs/2506.14738v1)|null|
+|**2025-06-17**|**SETI@home: Data Analysis and Findings**|David P. Anderson et.al.|[2506.14737v1](http://arxiv.org/abs/2506.14737v1)|null|
+|**2025-06-17**|**Sulphur abundances in star-forming regions from optical emission lines: A new approach based on photoionization models consistent with the direct method**|Enrique Pérez-Montero et.al.|[2506.14736v1](http://arxiv.org/abs/2506.14736v1)|null|
+|**2025-06-17**|**K3 surfaces over small number fields and Kummer constructions in families**|Stefan Schröer et.al.|[2506.14732v1](http://arxiv.org/abs/2506.14732v1)|null|
+|**2025-06-17**|**Ring-lite: Scalable Reasoning via C3PO-Stabilized Reinforcement Learning for LLMs**|Ring Team et.al.|[2506.14731v1](http://arxiv.org/abs/2506.14731v1)|null|
+|**2025-06-17**|**Direct numerical simulations of inhalation in a 23-generation lung model**|Marco Atzori et.al.|[2506.14729v1](http://arxiv.org/abs/2506.14729v1)|null|
+|**2025-06-17**|**AgentDistill: Training-Free Agent Distillation with Generalizable MCP Boxes**|Jiahao Qiu et.al.|[2506.14728v1](http://arxiv.org/abs/2506.14728v1)|null|
+|**2025-06-17**|**Casper: Inferring Diverse Intents for Assistive Teleoperation with Vision Language Models**|Huihan Liu et.al.|[2506.14727v1](http://arxiv.org/abs/2506.14727v1)|null|
