@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-06-17 21:02:32 Asia/Shanghai
+ Automated deployment @ 2025-06-18 08:44:46 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -20,7 +20,7 @@
 |**2025-06-16**|**PRO: Projection Domain Synthesis for CT Imaging**|Kang Chen et.al.|[2506.13443v1](http://arxiv.org/abs/2506.13443v1)|null|
 |**2025-06-16**|**Sparse Convolutional Recurrent Learning for Efficient Event-based Neuromorphic Object Detection**|Shenqi Wang et.al.|[2506.13440v1](http://arxiv.org/abs/2506.13440v1)|null|
 |**2025-06-16**|**Delving Into the Psychology of Machines: Exploring the Structure of Self-Regulated Learning via LLM-Generated Survey Responses**|Leonie V. D. E. Vogelsmeier et.al.|[2506.13384v1](http://arxiv.org/abs/2506.13384v1)|null|
-|**2025-06-16**|**Dual guidance: ROM-informed field reconstruction with generative models**|Sajad Salavatidezfouli et.al.|[2506.13369v1](http://arxiv.org/abs/2506.13369v1)|null|
+|**2025-06-16**|**Dual guidance: ROM-informed field reconstruction with generative models**|Sajad Salavatidezfouli et.al.|[2506.13369v2](http://arxiv.org/abs/2506.13369v2)|null|
 |**2025-06-16**|**Learning to Explore in Diverse Reward Settings via Temporal-Difference-Error Maximization**|Sebastian Griesbach et.al.|[2506.13345v1](http://arxiv.org/abs/2506.13345v1)|null|
 |**2025-06-16**|**Efficient algorithms for quantum chemistry on modular quantum processors**|Tian Xue et.al.|[2506.13332v1](http://arxiv.org/abs/2506.13332v1)|null|
 |**2025-06-16**|**EAQuant: Enhancing Post-Training Quantization for MoE Models via Expert-Aware Optimization**|Zhongqian Fu et.al.|[2506.13329v1](http://arxiv.org/abs/2506.13329v1)|null|
@@ -70,7 +70,7 @@
 |**2025-06-16**|**Entanglement-minimized orbitals enable faster quantum simulation of molecules**|Zhendong Li et.al.|[2506.13386v1](http://arxiv.org/abs/2506.13386v1)|null|
 |**2025-06-16**|**Delving Into the Psychology of Machines: Exploring the Structure of Self-Regulated Learning via LLM-Generated Survey Responses**|Leonie V. D. E. Vogelsmeier et.al.|[2506.13384v1](http://arxiv.org/abs/2506.13384v1)|null|
 |**2025-06-16**|**Meeting a Challenge raised by Ekhad and Zeilberger related to Stern's Triangle**|Jinlong Tang et.al.|[2506.13375v1](http://arxiv.org/abs/2506.13375v1)|null|
-|**2025-06-16**|**Dual guidance: ROM-informed field reconstruction with generative models**|Sajad Salavatidezfouli et.al.|[2506.13369v1](http://arxiv.org/abs/2506.13369v1)|null|
+|**2025-06-16**|**Dual guidance: ROM-informed field reconstruction with generative models**|Sajad Salavatidezfouli et.al.|[2506.13369v2](http://arxiv.org/abs/2506.13369v2)|null|
 |**2025-06-16**|**From Graphical Lasso to Atomic Norms: High-Dimensional Pattern Recovery**|Piotr Graczyk et.al.|[2506.13353v1](http://arxiv.org/abs/2506.13353v1)|null|
 |**2025-06-16**|**Learning to Explore in Diverse Reward Settings via Temporal-Difference-Error Maximization**|Sebastian Griesbach et.al.|[2506.13345v1](http://arxiv.org/abs/2506.13345v1)|null|
 |**2025-06-16**|**EAQuant: Enhancing Post-Training Quantization for MoE Models via Expert-Aware Optimization**|Zhongqian Fu et.al.|[2506.13329v1](http://arxiv.org/abs/2506.13329v1)|null|
@@ -85,7 +85,7 @@
 |**2025-06-16**|**PF-LHM: 3D Animatable Avatar Reconstruction from Pose-free Articulated Human Images**|Lingteng Qiu et.al.|[2506.13766v1](http://arxiv.org/abs/2506.13766v1)|null|
 |**2025-06-16**|**AutoVLA: A Vision-Language-Action Model for End-to-End Autonomous Driving with Adaptive Reasoning and Reinforcement Fine-Tuning**|Zewei Zhou et.al.|[2506.13757v1](http://arxiv.org/abs/2506.13757v1)|null|
 |**2025-06-16**|**MARCO: Hardware-Aware Neural Architecture Search for Edge Devices with Multi-Agent Reinforcement Learning and Conformal Prediction Filtering**|Arya Fayyazi et.al.|[2506.13755v1](http://arxiv.org/abs/2506.13755v1)|null|
-|**2025-06-16**|**VideoPDE: Unified Generative PDE Solving via Video Inpainting Diffusion Models**|Edward Li et.al.|[2506.13754v1](http://arxiv.org/abs/2506.13754v1)|null|
+|**2025-06-16**|**VideoPDE: Unified Generative PDE Solving via Video Inpainting Diffusion Models**|Edward Li et.al.|[2506.13754v2](http://arxiv.org/abs/2506.13754v2)|null|
 |**2025-06-16**|**Numerical approach to second-order canonical perturbation theory in the planetary 3-body problem. Application to exoplanets**|Aya Alnajjarine et.al.|[2506.13745v1](http://arxiv.org/abs/2506.13745v1)|null|
 |**2025-06-16**|**Intelligent Metasurface-Enabled Integrated Sensing and Communication: Unified Framework and Key Technologies**|Shunyu Li et.al.|[2506.13713v1](http://arxiv.org/abs/2506.13713v1)|null|
 |**2025-06-16**|**OneRec Technical Report**|Guorui Zhou et.al.|[2506.13695v1](http://arxiv.org/abs/2506.13695v1)|null|
@@ -128,7 +128,7 @@
 |**2025-06-16**|**Flexible-length Text Infilling for Discrete Diffusion Models**|Andrew Zhang et.al.|[2506.13579v1](http://arxiv.org/abs/2506.13579v1)|null|
 |**2025-06-16**|**X-Scene: Large-Scale Driving Scene Generation with High Fidelity and Flexible Controllability**|Yu Yang et.al.|[2506.13558v1](http://arxiv.org/abs/2506.13558v1)|null|
 |**2025-06-16**|**A New Determination of the Mass of NGC 3603-A1: the Most Massive Binary Known?**|Philip Massey et.al.|[2506.13522v1](http://arxiv.org/abs/2506.13522v1)|null|
-|**2025-06-16**|**Safe-Child-LLM: A Developmental Benchmark for Evaluating LLM Safety in Child-AI Interactions**|Junfeng Jiao et.al.|[2506.13510v1](http://arxiv.org/abs/2506.13510v1)|null|
+|**2025-06-16**|**Safe-Child-LLM: A Developmental Benchmark for Evaluating LLM Safety in Child-LLM Interactions**|Junfeng Jiao et.al.|[2506.13510v2](http://arxiv.org/abs/2506.13510v2)|null|
 |**2025-06-16**|**DDiT: Dynamic Resource Allocation for Diffusion Transformer Model Serving**|Heyang Huang et.al.|[2506.13497v1](http://arxiv.org/abs/2506.13497v1)|null|
 |**2025-06-16**|**First Positronium Lifetime Imaging with Scandium-44 on a Long Axial Field-of-view PET/CT**|Lorenzo Mercolli et.al.|[2506.13460v1](http://arxiv.org/abs/2506.13460v1)|null|
 |**2025-06-16**|**PRO: Projection Domain Synthesis for CT Imaging**|Kang Chen et.al.|[2506.13443v1](http://arxiv.org/abs/2506.13443v1)|null|
@@ -160,7 +160,7 @@
 |**2025-06-16**|**Discrete Diffusion in Large Language and Multimodal Models: A Survey**|Runpeng Yu et.al.|[2506.13759v1](http://arxiv.org/abs/2506.13759v1)|null|
 |**2025-06-16**|**AutoVLA: A Vision-Language-Action Model for End-to-End Autonomous Driving with Adaptive Reasoning and Reinforcement Fine-Tuning**|Zewei Zhou et.al.|[2506.13757v1](http://arxiv.org/abs/2506.13757v1)|null|
 |**2025-06-16**|**UltraZoom: Generating Gigapixel Images from Regular Photos**|Jingwei Ma et.al.|[2506.13756v1](http://arxiv.org/abs/2506.13756v1)|null|
-|**2025-06-16**|**VideoPDE: Unified Generative PDE Solving via Video Inpainting Diffusion Models**|Edward Li et.al.|[2506.13754v1](http://arxiv.org/abs/2506.13754v1)|null|
+|**2025-06-16**|**VideoPDE: Unified Generative PDE Solving via Video Inpainting Diffusion Models**|Edward Li et.al.|[2506.13754v2](http://arxiv.org/abs/2506.13754v2)|null|
 |**2025-06-16**|**Steering LLM Thinking with Budget Guidance**|Junyan Li et.al.|[2506.13752v1](http://arxiv.org/abs/2506.13752v1)|null|
 |**2025-06-16**|**LeVERB: Humanoid Whole-Body Control with Latent Vision-Language Instruction**|Haoru Xue et.al.|[2506.13751v1](http://arxiv.org/abs/2506.13751v1)|null|
 |**2025-06-16**|**Test3R: Learning to Reconstruct 3D at Test Time**|Yuheng Yuan et.al.|[2506.13750v1](http://arxiv.org/abs/2506.13750v1)|null|
@@ -198,7 +198,7 @@
 |**2025-06-16**|**AutoVLA: A Vision-Language-Action Model for End-to-End Autonomous Driving with Adaptive Reasoning and Reinforcement Fine-Tuning**|Zewei Zhou et.al.|[2506.13757v1](http://arxiv.org/abs/2506.13757v1)|null|
 |**2025-06-16**|**UltraZoom: Generating Gigapixel Images from Regular Photos**|Jingwei Ma et.al.|[2506.13756v1](http://arxiv.org/abs/2506.13756v1)|null|
 |**2025-06-16**|**MARCO: Hardware-Aware Neural Architecture Search for Edge Devices with Multi-Agent Reinforcement Learning and Conformal Prediction Filtering**|Arya Fayyazi et.al.|[2506.13755v1](http://arxiv.org/abs/2506.13755v1)|null|
-|**2025-06-16**|**VideoPDE: Unified Generative PDE Solving via Video Inpainting Diffusion Models**|Edward Li et.al.|[2506.13754v1](http://arxiv.org/abs/2506.13754v1)|null|
+|**2025-06-16**|**VideoPDE: Unified Generative PDE Solving via Video Inpainting Diffusion Models**|Edward Li et.al.|[2506.13754v2](http://arxiv.org/abs/2506.13754v2)|null|
 |**2025-06-16**|**Edge Nearest Neighbor in Sampling-Based Motion Planning**|Stav Ashur et.al.|[2506.13753v1](http://arxiv.org/abs/2506.13753v1)|null|
 |**2025-06-16**|**Steering LLM Thinking with Budget Guidance**|Junyan Li et.al.|[2506.13752v1](http://arxiv.org/abs/2506.13752v1)|null|
 |**2025-06-16**|**LeVERB: Humanoid Whole-Body Control with Latent Vision-Language Instruction**|Haoru Xue et.al.|[2506.13751v1](http://arxiv.org/abs/2506.13751v1)|null|
@@ -232,7 +232,7 @@
 |**2025-06-16**|**AutoVLA: A Vision-Language-Action Model for End-to-End Autonomous Driving with Adaptive Reasoning and Reinforcement Fine-Tuning**|Zewei Zhou et.al.|[2506.13757v1](http://arxiv.org/abs/2506.13757v1)|null|
 |**2025-06-16**|**UltraZoom: Generating Gigapixel Images from Regular Photos**|Jingwei Ma et.al.|[2506.13756v1](http://arxiv.org/abs/2506.13756v1)|null|
 |**2025-06-16**|**MARCO: Hardware-Aware Neural Architecture Search for Edge Devices with Multi-Agent Reinforcement Learning and Conformal Prediction Filtering**|Arya Fayyazi et.al.|[2506.13755v1](http://arxiv.org/abs/2506.13755v1)|null|
-|**2025-06-16**|**VideoPDE: Unified Generative PDE Solving via Video Inpainting Diffusion Models**|Edward Li et.al.|[2506.13754v1](http://arxiv.org/abs/2506.13754v1)|null|
+|**2025-06-16**|**VideoPDE: Unified Generative PDE Solving via Video Inpainting Diffusion Models**|Edward Li et.al.|[2506.13754v2](http://arxiv.org/abs/2506.13754v2)|null|
 |**2025-06-16**|**Edge Nearest Neighbor in Sampling-Based Motion Planning**|Stav Ashur et.al.|[2506.13753v1](http://arxiv.org/abs/2506.13753v1)|null|
 |**2025-06-16**|**Steering LLM Thinking with Budget Guidance**|Junyan Li et.al.|[2506.13752v1](http://arxiv.org/abs/2506.13752v1)|null|
 |**2025-06-16**|**LeVERB: Humanoid Whole-Body Control with Latent Vision-Language Instruction**|Haoru Xue et.al.|[2506.13751v1](http://arxiv.org/abs/2506.13751v1)|null|
