@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-06-30 20:17:32 Asia/Shanghai
+ Automated deployment @ 2025-06-30 21:02:37 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -77,6 +77,112 @@
 |**2025-06-27**|**StructMG: A Fast and Scalable Structured Algebraic Multigrid**|Yi Zong et.al.|[2506.21932v1](http://arxiv.org/abs/2506.21932v1)|null|
 |**2025-06-27**|**Periodic-MAE: Periodic Video Masked Autoencoder for rPPG Estimation**|Jiho Choi et.al.|[2506.21855v1](http://arxiv.org/abs/2506.21855v1)|null|
 
+## Code Compile
+
+### C Code Migration
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2025-06-27**|**Is Lindblad for me?**|Martino Stefanini et.al.|[2506.22436v1](http://arxiv.org/abs/2506.22436v1)|null|
+|**2025-06-27**|**Correlation Enhanced Electron-Phonon Coupling in FeSe/SrTiO$_3$ at a Magic Angle**|Qiang Zou et.al.|[2506.22435v1](http://arxiv.org/abs/2506.22435v1)|null|
+|**2025-06-27**|**MiCo: Multi-image Contrast for Reinforcement Visual Reasoning**|Xi Chen et.al.|[2506.22434v1](http://arxiv.org/abs/2506.22434v1)|null|
+|**2025-06-27**|**WarpRF: Multi-View Consistency for Training-Free Uncertainty Quantification and Applications in Radiance Fields**|Sadra Safadoust et.al.|[2506.22433v1](http://arxiv.org/abs/2506.22433v1)|null|
+|**2025-06-27**|**Shape-for-Motion: Precise and Consistent Video Editing with 3D Proxy**|Yuhao Liu et.al.|[2506.22432v1](http://arxiv.org/abs/2506.22432v1)|null|
+|**2025-06-27**|**Gravitational redshift from large-scale structure: nonlinearities, anti-symmetries, and the dipole**|Lawrence Dam et.al.|[2506.22431v1](http://arxiv.org/abs/2506.22431v1)|null|
+|**2025-06-27**|**General many-body entanglement swapping protocol**|Santeri Huhtanen et.al.|[2506.22430v1](http://arxiv.org/abs/2506.22430v1)|null|
+|**2025-06-27**|**Beyond ReLU: How Activations Affect Neural Kernels and Random Wide Networks**|David Holzmüller et.al.|[2506.22429v1](http://arxiv.org/abs/2506.22429v1)|null|
+|**2025-06-27**|**Augmented Lagrangian methods for infeasible convex optimization problems and diverging proximal-point algorithms**|Roland Andrews et.al.|[2506.22428v1](http://arxiv.org/abs/2506.22428v1)|null|
+|**2025-06-27**|**CLoVE: Personalized Federated Learning through Clustering of Loss Vector Embeddings**|Randeep Bhatia et.al.|[2506.22427v1](http://arxiv.org/abs/2506.22427v1)|null|
+|**2025-06-27**|**Single-shot HDR using conventional image sensor shutter functions and optical randomization**|Xiang Dai et.al.|[2506.22426v1](http://arxiv.org/abs/2506.22426v1)|null|
+|**2025-06-27**|**Derivation of Tissue Properties from Basis-Vector Model Weights for Dual-Energy CT-Based Monte Carlo Proton Beam Dose Calculations**|Maria Jose Medrano et.al.|[2506.22425v1](http://arxiv.org/abs/2506.22425v1)|null|
+|**2025-06-27**|**Mesoscale properties of protein clusters determine the size and nature of liquid-liquid phase separation (LLPS)**|Gonen Golani et.al.|[2506.22424v1](http://arxiv.org/abs/2506.22424v1)|null|
+|**2025-06-27**|**ARMOR: Robust Reinforcement Learning-based Control for UAVs under Physical Attacks**|Pritam Dash et.al.|[2506.22423v1](http://arxiv.org/abs/2506.22423v1)|null|
+|**2025-06-27**|**Structure-Property Correlations in Sb, Ge, and Ga Doped AlFe$_2$B$_2$ for Magnetocaloric Applications**|R. Preyadarshini et.al.|[2506.22422v1](http://arxiv.org/abs/2506.22422v1)|null|
+|**2025-06-27**|**An iterated random function with Lipschitz number one**|Aaron Abrams et.al.|[2506.22420v1](http://arxiv.org/abs/2506.22420v1)|null|
+|**2025-06-27**|**The Automated LLM Speedrunning Benchmark: Reproducing NanoGPT Improvements**|Bingchen Zhao et.al.|[2506.22419v1](http://arxiv.org/abs/2506.22419v1)|null|
+|**2025-06-27**|**Universal Quantum Computational Spectroscopy on a Quantum Chip**|Chonghao Zhai et.al.|[2506.22418v1](http://arxiv.org/abs/2506.22418v1)|null|
+|**2025-06-27**|**Quantum-geometric dipole: a topological boost to flavor ferromagnetism in flat bands**|Lei Chen et.al.|[2506.22417v1](http://arxiv.org/abs/2506.22417v1)|null|
+|**2025-06-27**|**Cosmology from Planck CMB Lensing and DESI DR1 Quasar Tomography**|R. de Belsunce et.al.|[2506.22416v1](http://arxiv.org/abs/2506.22416v1)|null|
+|**2025-06-27**|**Linear operators preserving volume polynomials**|Lukas Grund et.al.|[2506.22415v1](http://arxiv.org/abs/2506.22415v1)|null|
+|**2025-06-27**|**Spin Seebeck Effect of Triangular-lattice Spin Supersolid**|Yuan Gao et.al.|[2506.22414v1](http://arxiv.org/abs/2506.22414v1)|null|
+|**2025-06-27**|**Physics-Informed Neural Networks: Bridging the Divide Between Conservative and Non-Conservative Equations**|Arun Govind Neelan et.al.|[2506.22413v1](http://arxiv.org/abs/2506.22413v1)|null|
+|**2025-06-27**|**QCD sum rule analysis of $J^{PC}=1^{--}$ light hybrid mesons**|Shuang-Hong Li et.al.|[2506.22412v1](http://arxiv.org/abs/2506.22412v1)|null|
+|**2025-06-27**|**19.3 GHz Acoustic Filter with High Close-in Rejection in Tri-layer Thin-Film Lithium Niobate**|Omar Barrera et.al.|[2506.22411v1](http://arxiv.org/abs/2506.22411v1)|null|
+|**2025-06-27**|**Spherical Pendulum with Quad-Rotor Thrust Vectoring Actuation -- A Novel Mechatronics and Control Benchmark Platform**|Yuchen Li et.al.|[2506.22410v1](http://arxiv.org/abs/2506.22410v1)|null|
+|**2025-06-27**|**NuSTAR and XMM-Newton Observations of PSR J1930+1852 and Its Pulsar Wind Nebula**|J. A. J. Alford et.al.|[2506.22409v1](http://arxiv.org/abs/2506.22409v1)|null|
+|**2025-06-27**|**Quantum-Classical Auxiliary Field Quantum Monte Carlo with Matchgate Shadows on Trapped Ion Quantum Computers**|Luning Zhao et.al.|[2506.22408v1](http://arxiv.org/abs/2506.22408v1)|null|
+|**2025-06-27**|**Over the Stability Space of a Multivariate Time Series**|Roberto Vásquez-Martínez et.al.|[2506.22407v1](http://arxiv.org/abs/2506.22407v1)|null|
+|**2025-06-27**|**Economic Model Predictive Control with a Non-Fixed Reference Trajectory for Optimal Microgrid Dispatch**|Avik Ghosh et.al.|[2506.22406v1](http://arxiv.org/abs/2506.22406v1)|null|
+
+### C Code Generation
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2025-06-27**|**MiCo: Multi-image Contrast for Reinforcement Visual Reasoning**|Xi Chen et.al.|[2506.22434v1](http://arxiv.org/abs/2506.22434v1)|null|
+|**2025-06-27**|**WarpRF: Multi-View Consistency for Training-Free Uncertainty Quantification and Applications in Radiance Fields**|Sadra Safadoust et.al.|[2506.22433v1](http://arxiv.org/abs/2506.22433v1)|null|
+|**2025-06-27**|**Shape-for-Motion: Precise and Consistent Video Editing with 3D Proxy**|Yuhao Liu et.al.|[2506.22432v1](http://arxiv.org/abs/2506.22432v1)|null|
+|**2025-06-27**|**General many-body entanglement swapping protocol**|Santeri Huhtanen et.al.|[2506.22430v1](http://arxiv.org/abs/2506.22430v1)|null|
+|**2025-06-27**|**Beyond ReLU: How Activations Affect Neural Kernels and Random Wide Networks**|David Holzmüller et.al.|[2506.22429v1](http://arxiv.org/abs/2506.22429v1)|null|
+|**2025-06-27**|**Augmented Lagrangian methods for infeasible convex optimization problems and diverging proximal-point algorithms**|Roland Andrews et.al.|[2506.22428v1](http://arxiv.org/abs/2506.22428v1)|null|
+|**2025-06-27**|**CLoVE: Personalized Federated Learning through Clustering of Loss Vector Embeddings**|Randeep Bhatia et.al.|[2506.22427v1](http://arxiv.org/abs/2506.22427v1)|null|
+|**2025-06-27**|**Derivation of Tissue Properties from Basis-Vector Model Weights for Dual-Energy CT-Based Monte Carlo Proton Beam Dose Calculations**|Maria Jose Medrano et.al.|[2506.22425v1](http://arxiv.org/abs/2506.22425v1)|null|
+|**2025-06-27**|**ARMOR: Robust Reinforcement Learning-based Control for UAVs under Physical Attacks**|Pritam Dash et.al.|[2506.22423v1](http://arxiv.org/abs/2506.22423v1)|null|
+|**2025-06-27**|**The Automated LLM Speedrunning Benchmark: Reproducing NanoGPT Improvements**|Bingchen Zhao et.al.|[2506.22419v1](http://arxiv.org/abs/2506.22419v1)|null|
+|**2025-06-27**|**Quantum-geometric dipole: a topological boost to flavor ferromagnetism in flat bands**|Lei Chen et.al.|[2506.22417v1](http://arxiv.org/abs/2506.22417v1)|null|
+|**2025-06-27**|**Spherical Pendulum with Quad-Rotor Thrust Vectoring Actuation -- A Novel Mechatronics and Control Benchmark Platform**|Yuchen Li et.al.|[2506.22410v1](http://arxiv.org/abs/2506.22410v1)|null|
+|**2025-06-27**|**Economic Model Predictive Control with a Non-Fixed Reference Trajectory for Optimal Microgrid Dispatch**|Avik Ghosh et.al.|[2506.22406v1](http://arxiv.org/abs/2506.22406v1)|null|
+|**2025-06-27**|**Sequential Diagnosis with Language Models**|Harsha Nori et.al.|[2506.22405v1](http://arxiv.org/abs/2506.22405v1)|null|
+|**2025-06-27**|**Refining Czech GEC: Insights from a Multi-Experiment Approach**|Petr Pechman et.al.|[2506.22402v1](http://arxiv.org/abs/2506.22402v1)|null|
+|**2025-06-27**|**Exploration from a Primal-Dual Lens: Value-Incentivized Actor-Critic Methods for Sample-Efficient Online RL**|Tong Yang et.al.|[2506.22401v1](http://arxiv.org/abs/2506.22401v1)|null|
+|**2025-06-27**|**Cost Effective Designs For Next-Generation Radio Telescopes**|G B Raghavkrishna et.al.|[2506.22398v1](http://arxiv.org/abs/2506.22398v1)|null|
+|**2025-06-27**|**Dehazing Light Microscopy Images with Guided Conditional Flow Matching: finding a sweet spot between fidelity and realism**|Anirban Ray et.al.|[2506.22397v1](http://arxiv.org/abs/2506.22397v1)|null|
+|**2025-06-27**|**Regularized Extragradient Methods for Solving Equilibrium Problems on Hadamard Manifolds**|Shikher Sharmaa et.al.|[2506.22391v1](http://arxiv.org/abs/2506.22391v1)|null|
+|**2025-06-27**|**What Makes ChatGPT Effective for Software Issue Resolution? An Empirical Study of Developer-ChatGPT Conversations in GitHub**|Ramtin Ehsani et.al.|[2506.22390v1](http://arxiv.org/abs/2506.22390v1)|null|
+|**2025-06-27**|**Towards Distributed Neural Architectures**|Aditya Cowsik et.al.|[2506.22389v1](http://arxiv.org/abs/2506.22389v1)|null|
+|**2025-06-27**|**A Common Origin of Asymmetric Self-interacting Dark Matter and Dirac Leptogenesis**|Manoranjan Dutta et.al.|[2506.22388v1](http://arxiv.org/abs/2506.22388v1)|null|
+|**2025-06-27**|**Can Video Large Multimodal Models Think Like Doubters-or Double-Down: A Study on Defeasible Video Entailment**|Yue Zhang et.al.|[2506.22385v1](http://arxiv.org/abs/2506.22385v1)|null|
+|**2025-06-27**|**Forecasting constraints on quintessential inflation from future generation of galaxy and CMB surveys**|G. Rodrigues et.al.|[2506.22384v1](http://arxiv.org/abs/2506.22384v1)|null|
+|**2025-06-27**|**Spin squeezing generation in atom-cavity systems: on the effects of adiabatic elimination beyond the leading order**|Stefano Gregorio Giaccari et.al.|[2506.22383v1](http://arxiv.org/abs/2506.22383v1)|null|
+|**2025-06-27**|**Modeling the Mass Distribution and Gravitational Potential of Nearby Disk Galaxies: Implications for the ISM Dynamical Equilibrium**|Vivek Vijayakumar et.al.|[2506.22381v1](http://arxiv.org/abs/2506.22381v1)|null|
+|**2025-06-27**|**Sheaf-Based Decentralized Multimodal Learning for Next-Generation Wireless Communication Systems**|Abdulmomen Ghalkha et.al.|[2506.22374v1](http://arxiv.org/abs/2506.22374v1)|null|
+|**2025-06-27**|**Topological Defect Propagation to Classify Knitted Fabrics**|Daisuke S. Shimamoto et.al.|[2506.22369v1](http://arxiv.org/abs/2506.22369v1)|null|
+|**2025-06-27**|**Exploring hadronic rescattering effects on resonance productions in pp and p-Pb collisions with PYTHIA8**|Su-Jeong Ji et.al.|[2506.22368v1](http://arxiv.org/abs/2506.22368v1)|null|
+|**2025-06-27**|**Constraining the Stellar-to-Halo Mass Relation with Galaxy Clustering and Weak Lensing from DES Year 3 Data**|G. Zacharegkas et.al.|[2506.22367v1](http://arxiv.org/abs/2506.22367v1)|null|
+
+## Large-Language Model
+
+### Large-Language Model
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2025-06-27**|**Is Lindblad for me?**|Martino Stefanini et.al.|[2506.22436v1](http://arxiv.org/abs/2506.22436v1)|null|
+|**2025-06-27**|**Correlation Enhanced Electron-Phonon Coupling in FeSe/SrTiO$_3$ at a Magic Angle**|Qiang Zou et.al.|[2506.22435v1](http://arxiv.org/abs/2506.22435v1)|null|
+|**2025-06-27**|**MiCo: Multi-image Contrast for Reinforcement Visual Reasoning**|Xi Chen et.al.|[2506.22434v1](http://arxiv.org/abs/2506.22434v1)|null|
+|**2025-06-27**|**WarpRF: Multi-View Consistency for Training-Free Uncertainty Quantification and Applications in Radiance Fields**|Sadra Safadoust et.al.|[2506.22433v1](http://arxiv.org/abs/2506.22433v1)|null|
+|**2025-06-27**|**Shape-for-Motion: Precise and Consistent Video Editing with 3D Proxy**|Yuhao Liu et.al.|[2506.22432v1](http://arxiv.org/abs/2506.22432v1)|null|
+|**2025-06-27**|**Gravitational redshift from large-scale structure: nonlinearities, anti-symmetries, and the dipole**|Lawrence Dam et.al.|[2506.22431v1](http://arxiv.org/abs/2506.22431v1)|null|
+|**2025-06-27**|**CLoVE: Personalized Federated Learning through Clustering of Loss Vector Embeddings**|Randeep Bhatia et.al.|[2506.22427v1](http://arxiv.org/abs/2506.22427v1)|null|
+|**2025-06-27**|**Derivation of Tissue Properties from Basis-Vector Model Weights for Dual-Energy CT-Based Monte Carlo Proton Beam Dose Calculations**|Maria Jose Medrano et.al.|[2506.22425v1](http://arxiv.org/abs/2506.22425v1)|null|
+|**2025-06-27**|**Mesoscale properties of protein clusters determine the size and nature of liquid-liquid phase separation (LLPS)**|Gonen Golani et.al.|[2506.22424v1](http://arxiv.org/abs/2506.22424v1)|null|
+|**2025-06-27**|**ARMOR: Robust Reinforcement Learning-based Control for UAVs under Physical Attacks**|Pritam Dash et.al.|[2506.22423v1](http://arxiv.org/abs/2506.22423v1)|null|
+|**2025-06-27**|**Estimating causal distances with non-causal ones**|Beatrice Acciaio et.al.|[2506.22421v1](http://arxiv.org/abs/2506.22421v1)|null|
+|**2025-06-27**|**The Automated LLM Speedrunning Benchmark: Reproducing NanoGPT Improvements**|Bingchen Zhao et.al.|[2506.22419v1](http://arxiv.org/abs/2506.22419v1)|null|
+|**2025-06-27**|**Universal Quantum Computational Spectroscopy on a Quantum Chip**|Chonghao Zhai et.al.|[2506.22418v1](http://arxiv.org/abs/2506.22418v1)|null|
+|**2025-06-27**|**Quantum-geometric dipole: a topological boost to flavor ferromagnetism in flat bands**|Lei Chen et.al.|[2506.22417v1](http://arxiv.org/abs/2506.22417v1)|null|
+|**2025-06-27**|**Cosmology from Planck CMB Lensing and DESI DR1 Quasar Tomography**|R. de Belsunce et.al.|[2506.22416v1](http://arxiv.org/abs/2506.22416v1)|null|
+|**2025-06-27**|**QCD sum rule analysis of $J^{PC}=1^{--}$ light hybrid mesons**|Shuang-Hong Li et.al.|[2506.22412v1](http://arxiv.org/abs/2506.22412v1)|null|
+|**2025-06-27**|**Spherical Pendulum with Quad-Rotor Thrust Vectoring Actuation -- A Novel Mechatronics and Control Benchmark Platform**|Yuchen Li et.al.|[2506.22410v1](http://arxiv.org/abs/2506.22410v1)|null|
+|**2025-06-27**|**NuSTAR and XMM-Newton Observations of PSR J1930+1852 and Its Pulsar Wind Nebula**|J. A. J. Alford et.al.|[2506.22409v1](http://arxiv.org/abs/2506.22409v1)|null|
+|**2025-06-27**|**Quantum-Classical Auxiliary Field Quantum Monte Carlo with Matchgate Shadows on Trapped Ion Quantum Computers**|Luning Zhao et.al.|[2506.22408v1](http://arxiv.org/abs/2506.22408v1)|null|
+|**2025-06-27**|**Over the Stability Space of a Multivariate Time Series**|Roberto Vásquez-Martínez et.al.|[2506.22407v1](http://arxiv.org/abs/2506.22407v1)|null|
+|**2025-06-27**|**Economic Model Predictive Control with a Non-Fixed Reference Trajectory for Optimal Microgrid Dispatch**|Avik Ghosh et.al.|[2506.22406v1](http://arxiv.org/abs/2506.22406v1)|null|
+|**2025-06-27**|**Sequential Diagnosis with Language Models**|Harsha Nori et.al.|[2506.22405v1](http://arxiv.org/abs/2506.22405v1)|null|
+|**2025-06-27**|**Data-Driven Intrusion Detection in Vehicles: Integrating Unscented Kalman Filter (UKF) with Machine Learning**|Shuhao Bian et.al.|[2506.22404v1](http://arxiv.org/abs/2506.22404v1)|null|
+|**2025-06-27**|**HyperCLOVA X THINK Technical Report**|NAVER Cloud HyperCLOVA X Team et.al.|[2506.22403v1](http://arxiv.org/abs/2506.22403v1)|null|
+|**2025-06-27**|**Refining Czech GEC: Insights from a Multi-Experiment Approach**|Petr Pechman et.al.|[2506.22402v1](http://arxiv.org/abs/2506.22402v1)|null|
+|**2025-06-27**|**QuickSilver -- Speeding up LLM Inference through Dynamic Token Halting, KV Skipping, Contextual Token Fusion, and Adaptive Matryoshka Quantization**|Danush Khanna et.al.|[2506.22396v1](http://arxiv.org/abs/2506.22396v1)|null|
+|**2025-06-27**|**Test-Time Consistency in Vision Language Models**|Shih-Han Chou et.al.|[2506.22395v1](http://arxiv.org/abs/2506.22395v1)|null|
+|**2025-06-27**|**Decoherence of Majorana qubits by 1/f noise**|Abhijeet Alase et.al.|[2506.22394v1](http://arxiv.org/abs/2506.22394v1)|null|
+|**2025-06-27**|**Multi-View Contrastive Learning for Robust Domain Adaptation in Medical Time Series Analysis**|YongKyung Oh et.al.|[2506.22393v1](http://arxiv.org/abs/2506.22393v1)|null|
+|**2025-06-27**|**What Makes ChatGPT Effective for Software Issue Resolution? An Empirical Study of Developer-ChatGPT Conversations in GitHub**|Ramtin Ehsani et.al.|[2506.22390v1](http://arxiv.org/abs/2506.22390v1)|null|
+
 ## AI
 
 ### LLM Agent
@@ -146,109 +252,3 @@
 |**2025-06-27**|**Resilient Communication For Avalanche Response in Infrastructure-Limited Environments**|Joshua Goulton et.al.|[2506.22148v1](http://arxiv.org/abs/2506.22148v1)|null|
 |**2025-06-27**|**Visual Structures Helps Visual Reasoning: Addressing the Binding Problem in VLMs**|Amirmohammad Izadi et.al.|[2506.22146v1](http://arxiv.org/abs/2506.22146v1)|null|
 |**2025-06-27**|**Power- and Area-Efficient Unary Sorting Architecture Using FSM-Based Unary Number Generator**|Amir Hossein Jalilvand et.al.|[2506.22107v1](http://arxiv.org/abs/2506.22107v1)|null|
-
-## Large-Language Model
-
-### Large-Language Model
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2025-06-27**|**Is Lindblad for me?**|Martino Stefanini et.al.|[2506.22436v1](http://arxiv.org/abs/2506.22436v1)|null|
-|**2025-06-27**|**Correlation Enhanced Electron-Phonon Coupling in FeSe/SrTiO$_3$ at a Magic Angle**|Qiang Zou et.al.|[2506.22435v1](http://arxiv.org/abs/2506.22435v1)|null|
-|**2025-06-27**|**MiCo: Multi-image Contrast for Reinforcement Visual Reasoning**|Xi Chen et.al.|[2506.22434v1](http://arxiv.org/abs/2506.22434v1)|null|
-|**2025-06-27**|**WarpRF: Multi-View Consistency for Training-Free Uncertainty Quantification and Applications in Radiance Fields**|Sadra Safadoust et.al.|[2506.22433v1](http://arxiv.org/abs/2506.22433v1)|null|
-|**2025-06-27**|**Shape-for-Motion: Precise and Consistent Video Editing with 3D Proxy**|Yuhao Liu et.al.|[2506.22432v1](http://arxiv.org/abs/2506.22432v1)|null|
-|**2025-06-27**|**Gravitational redshift from large-scale structure: nonlinearities, anti-symmetries, and the dipole**|Lawrence Dam et.al.|[2506.22431v1](http://arxiv.org/abs/2506.22431v1)|null|
-|**2025-06-27**|**CLoVE: Personalized Federated Learning through Clustering of Loss Vector Embeddings**|Randeep Bhatia et.al.|[2506.22427v1](http://arxiv.org/abs/2506.22427v1)|null|
-|**2025-06-27**|**Derivation of Tissue Properties from Basis-Vector Model Weights for Dual-Energy CT-Based Monte Carlo Proton Beam Dose Calculations**|Maria Jose Medrano et.al.|[2506.22425v1](http://arxiv.org/abs/2506.22425v1)|null|
-|**2025-06-27**|**Mesoscale properties of protein clusters determine the size and nature of liquid-liquid phase separation (LLPS)**|Gonen Golani et.al.|[2506.22424v1](http://arxiv.org/abs/2506.22424v1)|null|
-|**2025-06-27**|**ARMOR: Robust Reinforcement Learning-based Control for UAVs under Physical Attacks**|Pritam Dash et.al.|[2506.22423v1](http://arxiv.org/abs/2506.22423v1)|null|
-|**2025-06-27**|**Estimating causal distances with non-causal ones**|Beatrice Acciaio et.al.|[2506.22421v1](http://arxiv.org/abs/2506.22421v1)|null|
-|**2025-06-27**|**The Automated LLM Speedrunning Benchmark: Reproducing NanoGPT Improvements**|Bingchen Zhao et.al.|[2506.22419v1](http://arxiv.org/abs/2506.22419v1)|null|
-|**2025-06-27**|**Universal Quantum Computational Spectroscopy on a Quantum Chip**|Chonghao Zhai et.al.|[2506.22418v1](http://arxiv.org/abs/2506.22418v1)|null|
-|**2025-06-27**|**Quantum-geometric dipole: a topological boost to flavor ferromagnetism in flat bands**|Lei Chen et.al.|[2506.22417v1](http://arxiv.org/abs/2506.22417v1)|null|
-|**2025-06-27**|**Cosmology from Planck CMB Lensing and DESI DR1 Quasar Tomography**|R. de Belsunce et.al.|[2506.22416v1](http://arxiv.org/abs/2506.22416v1)|null|
-|**2025-06-27**|**QCD sum rule analysis of $J^{PC}=1^{--}$ light hybrid mesons**|Shuang-Hong Li et.al.|[2506.22412v1](http://arxiv.org/abs/2506.22412v1)|null|
-|**2025-06-27**|**Spherical Pendulum with Quad-Rotor Thrust Vectoring Actuation -- A Novel Mechatronics and Control Benchmark Platform**|Yuchen Li et.al.|[2506.22410v1](http://arxiv.org/abs/2506.22410v1)|null|
-|**2025-06-27**|**NuSTAR and XMM-Newton Observations of PSR J1930+1852 and Its Pulsar Wind Nebula**|J. A. J. Alford et.al.|[2506.22409v1](http://arxiv.org/abs/2506.22409v1)|null|
-|**2025-06-27**|**Quantum-Classical Auxiliary Field Quantum Monte Carlo with Matchgate Shadows on Trapped Ion Quantum Computers**|Luning Zhao et.al.|[2506.22408v1](http://arxiv.org/abs/2506.22408v1)|null|
-|**2025-06-27**|**Over the Stability Space of a Multivariate Time Series**|Roberto Vásquez-Martínez et.al.|[2506.22407v1](http://arxiv.org/abs/2506.22407v1)|null|
-|**2025-06-27**|**Economic Model Predictive Control with a Non-Fixed Reference Trajectory for Optimal Microgrid Dispatch**|Avik Ghosh et.al.|[2506.22406v1](http://arxiv.org/abs/2506.22406v1)|null|
-|**2025-06-27**|**Sequential Diagnosis with Language Models**|Harsha Nori et.al.|[2506.22405v1](http://arxiv.org/abs/2506.22405v1)|null|
-|**2025-06-27**|**Data-Driven Intrusion Detection in Vehicles: Integrating Unscented Kalman Filter (UKF) with Machine Learning**|Shuhao Bian et.al.|[2506.22404v1](http://arxiv.org/abs/2506.22404v1)|null|
-|**2025-06-27**|**HyperCLOVA X THINK Technical Report**|NAVER Cloud HyperCLOVA X Team et.al.|[2506.22403v1](http://arxiv.org/abs/2506.22403v1)|null|
-|**2025-06-27**|**Refining Czech GEC: Insights from a Multi-Experiment Approach**|Petr Pechman et.al.|[2506.22402v1](http://arxiv.org/abs/2506.22402v1)|null|
-|**2025-06-27**|**QuickSilver -- Speeding up LLM Inference through Dynamic Token Halting, KV Skipping, Contextual Token Fusion, and Adaptive Matryoshka Quantization**|Danush Khanna et.al.|[2506.22396v1](http://arxiv.org/abs/2506.22396v1)|null|
-|**2025-06-27**|**Test-Time Consistency in Vision Language Models**|Shih-Han Chou et.al.|[2506.22395v1](http://arxiv.org/abs/2506.22395v1)|null|
-|**2025-06-27**|**Decoherence of Majorana qubits by 1/f noise**|Abhijeet Alase et.al.|[2506.22394v1](http://arxiv.org/abs/2506.22394v1)|null|
-|**2025-06-27**|**Multi-View Contrastive Learning for Robust Domain Adaptation in Medical Time Series Analysis**|YongKyung Oh et.al.|[2506.22393v1](http://arxiv.org/abs/2506.22393v1)|null|
-|**2025-06-27**|**What Makes ChatGPT Effective for Software Issue Resolution? An Empirical Study of Developer-ChatGPT Conversations in GitHub**|Ramtin Ehsani et.al.|[2506.22390v1](http://arxiv.org/abs/2506.22390v1)|null|
-
-## Code Compile
-
-### C Code Generation
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2025-06-27**|**MiCo: Multi-image Contrast for Reinforcement Visual Reasoning**|Xi Chen et.al.|[2506.22434v1](http://arxiv.org/abs/2506.22434v1)|null|
-|**2025-06-27**|**WarpRF: Multi-View Consistency for Training-Free Uncertainty Quantification and Applications in Radiance Fields**|Sadra Safadoust et.al.|[2506.22433v1](http://arxiv.org/abs/2506.22433v1)|null|
-|**2025-06-27**|**Shape-for-Motion: Precise and Consistent Video Editing with 3D Proxy**|Yuhao Liu et.al.|[2506.22432v1](http://arxiv.org/abs/2506.22432v1)|null|
-|**2025-06-27**|**General many-body entanglement swapping protocol**|Santeri Huhtanen et.al.|[2506.22430v1](http://arxiv.org/abs/2506.22430v1)|null|
-|**2025-06-27**|**Beyond ReLU: How Activations Affect Neural Kernels and Random Wide Networks**|David Holzmüller et.al.|[2506.22429v1](http://arxiv.org/abs/2506.22429v1)|null|
-|**2025-06-27**|**Augmented Lagrangian methods for infeasible convex optimization problems and diverging proximal-point algorithms**|Roland Andrews et.al.|[2506.22428v1](http://arxiv.org/abs/2506.22428v1)|null|
-|**2025-06-27**|**CLoVE: Personalized Federated Learning through Clustering of Loss Vector Embeddings**|Randeep Bhatia et.al.|[2506.22427v1](http://arxiv.org/abs/2506.22427v1)|null|
-|**2025-06-27**|**Derivation of Tissue Properties from Basis-Vector Model Weights for Dual-Energy CT-Based Monte Carlo Proton Beam Dose Calculations**|Maria Jose Medrano et.al.|[2506.22425v1](http://arxiv.org/abs/2506.22425v1)|null|
-|**2025-06-27**|**ARMOR: Robust Reinforcement Learning-based Control for UAVs under Physical Attacks**|Pritam Dash et.al.|[2506.22423v1](http://arxiv.org/abs/2506.22423v1)|null|
-|**2025-06-27**|**The Automated LLM Speedrunning Benchmark: Reproducing NanoGPT Improvements**|Bingchen Zhao et.al.|[2506.22419v1](http://arxiv.org/abs/2506.22419v1)|null|
-|**2025-06-27**|**Quantum-geometric dipole: a topological boost to flavor ferromagnetism in flat bands**|Lei Chen et.al.|[2506.22417v1](http://arxiv.org/abs/2506.22417v1)|null|
-|**2025-06-27**|**Spherical Pendulum with Quad-Rotor Thrust Vectoring Actuation -- A Novel Mechatronics and Control Benchmark Platform**|Yuchen Li et.al.|[2506.22410v1](http://arxiv.org/abs/2506.22410v1)|null|
-|**2025-06-27**|**Economic Model Predictive Control with a Non-Fixed Reference Trajectory for Optimal Microgrid Dispatch**|Avik Ghosh et.al.|[2506.22406v1](http://arxiv.org/abs/2506.22406v1)|null|
-|**2025-06-27**|**Sequential Diagnosis with Language Models**|Harsha Nori et.al.|[2506.22405v1](http://arxiv.org/abs/2506.22405v1)|null|
-|**2025-06-27**|**Refining Czech GEC: Insights from a Multi-Experiment Approach**|Petr Pechman et.al.|[2506.22402v1](http://arxiv.org/abs/2506.22402v1)|null|
-|**2025-06-27**|**Exploration from a Primal-Dual Lens: Value-Incentivized Actor-Critic Methods for Sample-Efficient Online RL**|Tong Yang et.al.|[2506.22401v1](http://arxiv.org/abs/2506.22401v1)|null|
-|**2025-06-27**|**Cost Effective Designs For Next-Generation Radio Telescopes**|G B Raghavkrishna et.al.|[2506.22398v1](http://arxiv.org/abs/2506.22398v1)|null|
-|**2025-06-27**|**Dehazing Light Microscopy Images with Guided Conditional Flow Matching: finding a sweet spot between fidelity and realism**|Anirban Ray et.al.|[2506.22397v1](http://arxiv.org/abs/2506.22397v1)|null|
-|**2025-06-27**|**Regularized Extragradient Methods for Solving Equilibrium Problems on Hadamard Manifolds**|Shikher Sharmaa et.al.|[2506.22391v1](http://arxiv.org/abs/2506.22391v1)|null|
-|**2025-06-27**|**What Makes ChatGPT Effective for Software Issue Resolution? An Empirical Study of Developer-ChatGPT Conversations in GitHub**|Ramtin Ehsani et.al.|[2506.22390v1](http://arxiv.org/abs/2506.22390v1)|null|
-|**2025-06-27**|**Towards Distributed Neural Architectures**|Aditya Cowsik et.al.|[2506.22389v1](http://arxiv.org/abs/2506.22389v1)|null|
-|**2025-06-27**|**A Common Origin of Asymmetric Self-interacting Dark Matter and Dirac Leptogenesis**|Manoranjan Dutta et.al.|[2506.22388v1](http://arxiv.org/abs/2506.22388v1)|null|
-|**2025-06-27**|**Can Video Large Multimodal Models Think Like Doubters-or Double-Down: A Study on Defeasible Video Entailment**|Yue Zhang et.al.|[2506.22385v1](http://arxiv.org/abs/2506.22385v1)|null|
-|**2025-06-27**|**Forecasting constraints on quintessential inflation from future generation of galaxy and CMB surveys**|G. Rodrigues et.al.|[2506.22384v1](http://arxiv.org/abs/2506.22384v1)|null|
-|**2025-06-27**|**Spin squeezing generation in atom-cavity systems: on the effects of adiabatic elimination beyond the leading order**|Stefano Gregorio Giaccari et.al.|[2506.22383v1](http://arxiv.org/abs/2506.22383v1)|null|
-|**2025-06-27**|**Modeling the Mass Distribution and Gravitational Potential of Nearby Disk Galaxies: Implications for the ISM Dynamical Equilibrium**|Vivek Vijayakumar et.al.|[2506.22381v1](http://arxiv.org/abs/2506.22381v1)|null|
-|**2025-06-27**|**Sheaf-Based Decentralized Multimodal Learning for Next-Generation Wireless Communication Systems**|Abdulmomen Ghalkha et.al.|[2506.22374v1](http://arxiv.org/abs/2506.22374v1)|null|
-|**2025-06-27**|**Topological Defect Propagation to Classify Knitted Fabrics**|Daisuke S. Shimamoto et.al.|[2506.22369v1](http://arxiv.org/abs/2506.22369v1)|null|
-|**2025-06-27**|**Exploring hadronic rescattering effects on resonance productions in pp and p-Pb collisions with PYTHIA8**|Su-Jeong Ji et.al.|[2506.22368v1](http://arxiv.org/abs/2506.22368v1)|null|
-|**2025-06-27**|**Constraining the Stellar-to-Halo Mass Relation with Galaxy Clustering and Weak Lensing from DES Year 3 Data**|G. Zacharegkas et.al.|[2506.22367v1](http://arxiv.org/abs/2506.22367v1)|null|
-
-### C Code Migration
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2025-06-27**|**Is Lindblad for me?**|Martino Stefanini et.al.|[2506.22436v1](http://arxiv.org/abs/2506.22436v1)|null|
-|**2025-06-27**|**Correlation Enhanced Electron-Phonon Coupling in FeSe/SrTiO$_3$ at a Magic Angle**|Qiang Zou et.al.|[2506.22435v1](http://arxiv.org/abs/2506.22435v1)|null|
-|**2025-06-27**|**MiCo: Multi-image Contrast for Reinforcement Visual Reasoning**|Xi Chen et.al.|[2506.22434v1](http://arxiv.org/abs/2506.22434v1)|null|
-|**2025-06-27**|**WarpRF: Multi-View Consistency for Training-Free Uncertainty Quantification and Applications in Radiance Fields**|Sadra Safadoust et.al.|[2506.22433v1](http://arxiv.org/abs/2506.22433v1)|null|
-|**2025-06-27**|**Shape-for-Motion: Precise and Consistent Video Editing with 3D Proxy**|Yuhao Liu et.al.|[2506.22432v1](http://arxiv.org/abs/2506.22432v1)|null|
-|**2025-06-27**|**Gravitational redshift from large-scale structure: nonlinearities, anti-symmetries, and the dipole**|Lawrence Dam et.al.|[2506.22431v1](http://arxiv.org/abs/2506.22431v1)|null|
-|**2025-06-27**|**General many-body entanglement swapping protocol**|Santeri Huhtanen et.al.|[2506.22430v1](http://arxiv.org/abs/2506.22430v1)|null|
-|**2025-06-27**|**Beyond ReLU: How Activations Affect Neural Kernels and Random Wide Networks**|David Holzmüller et.al.|[2506.22429v1](http://arxiv.org/abs/2506.22429v1)|null|
-|**2025-06-27**|**Augmented Lagrangian methods for infeasible convex optimization problems and diverging proximal-point algorithms**|Roland Andrews et.al.|[2506.22428v1](http://arxiv.org/abs/2506.22428v1)|null|
-|**2025-06-27**|**CLoVE: Personalized Federated Learning through Clustering of Loss Vector Embeddings**|Randeep Bhatia et.al.|[2506.22427v1](http://arxiv.org/abs/2506.22427v1)|null|
-|**2025-06-27**|**Single-shot HDR using conventional image sensor shutter functions and optical randomization**|Xiang Dai et.al.|[2506.22426v1](http://arxiv.org/abs/2506.22426v1)|null|
-|**2025-06-27**|**Derivation of Tissue Properties from Basis-Vector Model Weights for Dual-Energy CT-Based Monte Carlo Proton Beam Dose Calculations**|Maria Jose Medrano et.al.|[2506.22425v1](http://arxiv.org/abs/2506.22425v1)|null|
-|**2025-06-27**|**Mesoscale properties of protein clusters determine the size and nature of liquid-liquid phase separation (LLPS)**|Gonen Golani et.al.|[2506.22424v1](http://arxiv.org/abs/2506.22424v1)|null|
-|**2025-06-27**|**ARMOR: Robust Reinforcement Learning-based Control for UAVs under Physical Attacks**|Pritam Dash et.al.|[2506.22423v1](http://arxiv.org/abs/2506.22423v1)|null|
-|**2025-06-27**|**Structure-Property Correlations in Sb, Ge, and Ga Doped AlFe$_2$B$_2$ for Magnetocaloric Applications**|R. Preyadarshini et.al.|[2506.22422v1](http://arxiv.org/abs/2506.22422v1)|null|
-|**2025-06-27**|**An iterated random function with Lipschitz number one**|Aaron Abrams et.al.|[2506.22420v1](http://arxiv.org/abs/2506.22420v1)|null|
-|**2025-06-27**|**The Automated LLM Speedrunning Benchmark: Reproducing NanoGPT Improvements**|Bingchen Zhao et.al.|[2506.22419v1](http://arxiv.org/abs/2506.22419v1)|null|
-|**2025-06-27**|**Universal Quantum Computational Spectroscopy on a Quantum Chip**|Chonghao Zhai et.al.|[2506.22418v1](http://arxiv.org/abs/2506.22418v1)|null|
-|**2025-06-27**|**Quantum-geometric dipole: a topological boost to flavor ferromagnetism in flat bands**|Lei Chen et.al.|[2506.22417v1](http://arxiv.org/abs/2506.22417v1)|null|
-|**2025-06-27**|**Cosmology from Planck CMB Lensing and DESI DR1 Quasar Tomography**|R. de Belsunce et.al.|[2506.22416v1](http://arxiv.org/abs/2506.22416v1)|null|
-|**2025-06-27**|**Linear operators preserving volume polynomials**|Lukas Grund et.al.|[2506.22415v1](http://arxiv.org/abs/2506.22415v1)|null|
-|**2025-06-27**|**Spin Seebeck Effect of Triangular-lattice Spin Supersolid**|Yuan Gao et.al.|[2506.22414v1](http://arxiv.org/abs/2506.22414v1)|null|
-|**2025-06-27**|**Physics-Informed Neural Networks: Bridging the Divide Between Conservative and Non-Conservative Equations**|Arun Govind Neelan et.al.|[2506.22413v1](http://arxiv.org/abs/2506.22413v1)|null|
-|**2025-06-27**|**QCD sum rule analysis of $J^{PC}=1^{--}$ light hybrid mesons**|Shuang-Hong Li et.al.|[2506.22412v1](http://arxiv.org/abs/2506.22412v1)|null|
-|**2025-06-27**|**19.3 GHz Acoustic Filter with High Close-in Rejection in Tri-layer Thin-Film Lithium Niobate**|Omar Barrera et.al.|[2506.22411v1](http://arxiv.org/abs/2506.22411v1)|null|
-|**2025-06-27**|**Spherical Pendulum with Quad-Rotor Thrust Vectoring Actuation -- A Novel Mechatronics and Control Benchmark Platform**|Yuchen Li et.al.|[2506.22410v1](http://arxiv.org/abs/2506.22410v1)|null|
-|**2025-06-27**|**NuSTAR and XMM-Newton Observations of PSR J1930+1852 and Its Pulsar Wind Nebula**|J. A. J. Alford et.al.|[2506.22409v1](http://arxiv.org/abs/2506.22409v1)|null|
-|**2025-06-27**|**Quantum-Classical Auxiliary Field Quantum Monte Carlo with Matchgate Shadows on Trapped Ion Quantum Computers**|Luning Zhao et.al.|[2506.22408v1](http://arxiv.org/abs/2506.22408v1)|null|
-|**2025-06-27**|**Over the Stability Space of a Multivariate Time Series**|Roberto Vásquez-Martínez et.al.|[2506.22407v1](http://arxiv.org/abs/2506.22407v1)|null|
-|**2025-06-27**|**Economic Model Predictive Control with a Non-Fixed Reference Trajectory for Optimal Microgrid Dispatch**|Avik Ghosh et.al.|[2506.22406v1](http://arxiv.org/abs/2506.22406v1)|null|
