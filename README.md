@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-07-09 20:17:54 Asia/Shanghai
+ Automated deployment @ 2025-07-09 21:03:05 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -149,40 +149,6 @@
 
 ## Code Compile
 
-### C Code Generation
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2025-07-08**|**RSRefSeg 2: Decoupling Referring Remote Sensing Image Segmentation with Foundation Models**|Keyan Chen et.al.|[2507.06231v1](http://arxiv.org/abs/2507.06231v1)|null|
-|**2025-07-08**|**Error Exponents for Quantum Packing Problems via An Operator Layer Cake Theorem**|Hao-Chung Cheng et.al.|[2507.06232v1](http://arxiv.org/abs/2507.06232v1)|null|
-|**2025-07-08**|**Learning to Track Any Points from Human Motion**|Inès Hyeonsu Kim et.al.|[2507.06233v1](http://arxiv.org/abs/2507.06233v1)|null|
-|**2025-07-08**|**Feed-Forward SceneDINO for Unsupervised Semantic Scene Completion**|Aleksandar Jevtić et.al.|[2507.06230v1](http://arxiv.org/abs/2507.06230v1)|null|
-|**2025-07-08**|**Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving**|Xiangru Tang et.al.|[2507.06229v1](http://arxiv.org/abs/2507.06229v1)|null|
-|**2025-07-08**|**EC-Flow: Enabling Versatile Robotic Manipulation from Action-Unlabeled Videos via Embodiment-Centric Flow**|Yixiang Chen et.al.|[2507.06224v1](http://arxiv.org/abs/2507.06224v1)|null|
-|**2025-07-08**|**Is Diversity All You Need for Scalable Robotic Manipulation?**|Modi Shi et.al.|[2507.06219v1](http://arxiv.org/abs/2507.06219v1)|null|
-|**2025-07-08**|**Modern Methods in Associative Memory**|Dmitry Krotov et.al.|[2507.06211v1](http://arxiv.org/abs/2507.06211v1)|null|
-|**2025-07-08**|**CultureCLIP: Empowering CLIP with Cultural Awareness through Synthetic Images and Contextualized Captions**|Yuchen Huang et.al.|[2507.06210v1](http://arxiv.org/abs/2507.06210v1)|null|
-|**2025-07-08**|**Ontological differentiation as a measure of semantic accuracy**|Pablo Garcia-Cuadrillero et.al.|[2507.06208v1](http://arxiv.org/abs/2507.06208v1)|null|
-|**2025-07-08**|**DS@GT at CheckThat! 2025: Ensemble Methods for Detection of Scientific Discourse on Social Media**|Ayush Parikh et.al.|[2507.06205v1](http://arxiv.org/abs/2507.06205v1)|null|
-|**2025-07-08**|**Differential Mamba**|Nadav Schneider et.al.|[2507.06204v1](http://arxiv.org/abs/2507.06204v1)|null|
-|**2025-07-08**|**Surface-Code Hardware Hamiltonian**|Xuexin Xu et.al.|[2507.06201v1](http://arxiv.org/abs/2507.06201v1)|null|
-|**2025-07-08**|**Investigating the imprint of quintessence in cosmic magnification**|Didam Duniya et.al.|[2507.06200v1](http://arxiv.org/abs/2507.06200v1)|null|
-|**2025-07-08**|**A Generalized $\ell_1$-Merit Function SQP Method Using Function Approximations with Tunable Accuracy**|Dane S. Grundvig et.al.|[2507.06199v1](http://arxiv.org/abs/2507.06199v1)|null|
-|**2025-07-08**|**UQLM: A Python Package for Uncertainty Quantification in Large Language Models**|Dylan Bouchard et.al.|[2507.06196v1](http://arxiv.org/abs/2507.06196v1)|null|
-|**2025-07-08**|**DS@GT at CheckThat! 2025: Evaluating Context and Tokenization Strategies for Numerical Fact Verification**|Maximilian Heil et.al.|[2507.06195v1](http://arxiv.org/abs/2507.06195v1)|null|
-|**2025-07-08**|**Identity isn't everything -- how far do demographics take us towards self-identified party ID?**|Sabina Tomkins et.al.|[2507.06193v1](http://arxiv.org/abs/2507.06193v1)|null|
-|**2025-07-08**|**SQLBarber: A System Leveraging Large Language Models to Generate Customized and Realistic SQL Workloads**|Jiale Lao et.al.|[2507.06192v1](http://arxiv.org/abs/2507.06192v1)|null|
-|**2025-07-08**|**Conservative approximation-based feedforward neural network for WENO schemes**|Kwanghyuk Park et.al.|[2507.06190v1](http://arxiv.org/abs/2507.06190v1)|null|
-|**2025-07-08**|**DS@GT at CheckThat! 2025: Detecting Subjectivity via Transfer-Learning and Corrective Data Augmentation**|Maximilian Heil et.al.|[2507.06189v1](http://arxiv.org/abs/2507.06189v1)|null|
-|**2025-07-08**|**The Delta Learning Hypothesis: Preference Tuning on Weak Data can Yield Strong Gains**|Scott Geng et.al.|[2507.06187v1](http://arxiv.org/abs/2507.06187v1)|null|
-|**2025-07-08**|**Hidden Prompts in Manuscripts Exploit AI-Assisted Peer Review**|Zhicheng Lin et.al.|[2507.06185v1](http://arxiv.org/abs/2507.06185v1)|null|
-|**2025-07-08**|**CriticLean: Critic-Guided Reinforcement Learning for Mathematical Formalization**|Zhongyuan Peng et.al.|[2507.06181v1](http://arxiv.org/abs/2507.06181v1)|null|
-|**2025-07-08**|**Nonlinear Nonlocal Metasurface for Harmonic Generation and Manipulation**|Hooman Barati Sedeh et.al.|[2507.06180v1](http://arxiv.org/abs/2507.06180v1)|null|
-|**2025-07-08**|**Learning Agile Tensile Perching for Aerial Robots from Demonstrations**|Kangle Yuan et.al.|[2507.06172v1](http://arxiv.org/abs/2507.06172v1)|null|
-|**2025-07-08**|**An explanation of the number or points and symmetries of starbursts**|Sergio Barbero et.al.|[2507.06170v1](http://arxiv.org/abs/2507.06170v1)|null|
-|**2025-07-08**|**OmniPart: Part-Aware 3D Generation with Semantic Decoupling and Structural Cohesion**|Yunhan Yang et.al.|[2507.06165v1](http://arxiv.org/abs/2507.06165v1)|null|
-|**2025-07-08**|**Normalizing Diffusion Kernels with Optimal Transport**|Nathan Kessler et.al.|[2507.06161v1](http://arxiv.org/abs/2507.06161v1)|null|
-|**2025-07-08**|**Addition Automata and Attractors of Digit Systems Corresponding to Expanding Rational Matrices**|Anjelo Gabriel R. Cruz et.al.|[2507.06158v1](http://arxiv.org/abs/2507.06158v1)|null|
-
 ### C Code Migration
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
@@ -216,3 +182,37 @@
 |**2025-07-08**|**Differential Mamba**|Nadav Schneider et.al.|[2507.06204v1](http://arxiv.org/abs/2507.06204v1)|null|
 |**2025-07-08**|**A Survey on Latent Reasoning**|Rui-Jie Zhu et.al.|[2507.06203v1](http://arxiv.org/abs/2507.06203v1)|null|
 |**2025-07-08**|**V(is)owel: An Interactive Vowel Chart to Understand What Makes Visual Pronunciation Effective in Second Language Learning**|Charlotte Kiesel et.al.|[2507.06202v1](http://arxiv.org/abs/2507.06202v1)|null|
+
+### C Code Generation
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2025-07-08**|**RSRefSeg 2: Decoupling Referring Remote Sensing Image Segmentation with Foundation Models**|Keyan Chen et.al.|[2507.06231v1](http://arxiv.org/abs/2507.06231v1)|null|
+|**2025-07-08**|**Error Exponents for Quantum Packing Problems via An Operator Layer Cake Theorem**|Hao-Chung Cheng et.al.|[2507.06232v1](http://arxiv.org/abs/2507.06232v1)|null|
+|**2025-07-08**|**Learning to Track Any Points from Human Motion**|Inès Hyeonsu Kim et.al.|[2507.06233v1](http://arxiv.org/abs/2507.06233v1)|null|
+|**2025-07-08**|**Feed-Forward SceneDINO for Unsupervised Semantic Scene Completion**|Aleksandar Jevtić et.al.|[2507.06230v1](http://arxiv.org/abs/2507.06230v1)|null|
+|**2025-07-08**|**Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving**|Xiangru Tang et.al.|[2507.06229v1](http://arxiv.org/abs/2507.06229v1)|null|
+|**2025-07-08**|**EC-Flow: Enabling Versatile Robotic Manipulation from Action-Unlabeled Videos via Embodiment-Centric Flow**|Yixiang Chen et.al.|[2507.06224v1](http://arxiv.org/abs/2507.06224v1)|null|
+|**2025-07-08**|**Is Diversity All You Need for Scalable Robotic Manipulation?**|Modi Shi et.al.|[2507.06219v1](http://arxiv.org/abs/2507.06219v1)|null|
+|**2025-07-08**|**Modern Methods in Associative Memory**|Dmitry Krotov et.al.|[2507.06211v1](http://arxiv.org/abs/2507.06211v1)|null|
+|**2025-07-08**|**CultureCLIP: Empowering CLIP with Cultural Awareness through Synthetic Images and Contextualized Captions**|Yuchen Huang et.al.|[2507.06210v1](http://arxiv.org/abs/2507.06210v1)|null|
+|**2025-07-08**|**Ontological differentiation as a measure of semantic accuracy**|Pablo Garcia-Cuadrillero et.al.|[2507.06208v1](http://arxiv.org/abs/2507.06208v1)|null|
+|**2025-07-08**|**DS@GT at CheckThat! 2025: Ensemble Methods for Detection of Scientific Discourse on Social Media**|Ayush Parikh et.al.|[2507.06205v1](http://arxiv.org/abs/2507.06205v1)|null|
+|**2025-07-08**|**Differential Mamba**|Nadav Schneider et.al.|[2507.06204v1](http://arxiv.org/abs/2507.06204v1)|null|
+|**2025-07-08**|**Surface-Code Hardware Hamiltonian**|Xuexin Xu et.al.|[2507.06201v1](http://arxiv.org/abs/2507.06201v1)|null|
+|**2025-07-08**|**Investigating the imprint of quintessence in cosmic magnification**|Didam Duniya et.al.|[2507.06200v1](http://arxiv.org/abs/2507.06200v1)|null|
+|**2025-07-08**|**A Generalized $\ell_1$-Merit Function SQP Method Using Function Approximations with Tunable Accuracy**|Dane S. Grundvig et.al.|[2507.06199v1](http://arxiv.org/abs/2507.06199v1)|null|
+|**2025-07-08**|**UQLM: A Python Package for Uncertainty Quantification in Large Language Models**|Dylan Bouchard et.al.|[2507.06196v1](http://arxiv.org/abs/2507.06196v1)|null|
+|**2025-07-08**|**DS@GT at CheckThat! 2025: Evaluating Context and Tokenization Strategies for Numerical Fact Verification**|Maximilian Heil et.al.|[2507.06195v1](http://arxiv.org/abs/2507.06195v1)|null|
+|**2025-07-08**|**Identity isn't everything -- how far do demographics take us towards self-identified party ID?**|Sabina Tomkins et.al.|[2507.06193v1](http://arxiv.org/abs/2507.06193v1)|null|
+|**2025-07-08**|**SQLBarber: A System Leveraging Large Language Models to Generate Customized and Realistic SQL Workloads**|Jiale Lao et.al.|[2507.06192v1](http://arxiv.org/abs/2507.06192v1)|null|
+|**2025-07-08**|**Conservative approximation-based feedforward neural network for WENO schemes**|Kwanghyuk Park et.al.|[2507.06190v1](http://arxiv.org/abs/2507.06190v1)|null|
+|**2025-07-08**|**DS@GT at CheckThat! 2025: Detecting Subjectivity via Transfer-Learning and Corrective Data Augmentation**|Maximilian Heil et.al.|[2507.06189v1](http://arxiv.org/abs/2507.06189v1)|null|
+|**2025-07-08**|**The Delta Learning Hypothesis: Preference Tuning on Weak Data can Yield Strong Gains**|Scott Geng et.al.|[2507.06187v1](http://arxiv.org/abs/2507.06187v1)|null|
+|**2025-07-08**|**Hidden Prompts in Manuscripts Exploit AI-Assisted Peer Review**|Zhicheng Lin et.al.|[2507.06185v1](http://arxiv.org/abs/2507.06185v1)|null|
+|**2025-07-08**|**CriticLean: Critic-Guided Reinforcement Learning for Mathematical Formalization**|Zhongyuan Peng et.al.|[2507.06181v1](http://arxiv.org/abs/2507.06181v1)|null|
+|**2025-07-08**|**Nonlinear Nonlocal Metasurface for Harmonic Generation and Manipulation**|Hooman Barati Sedeh et.al.|[2507.06180v1](http://arxiv.org/abs/2507.06180v1)|null|
+|**2025-07-08**|**Learning Agile Tensile Perching for Aerial Robots from Demonstrations**|Kangle Yuan et.al.|[2507.06172v1](http://arxiv.org/abs/2507.06172v1)|null|
+|**2025-07-08**|**An explanation of the number or points and symmetries of starbursts**|Sergio Barbero et.al.|[2507.06170v1](http://arxiv.org/abs/2507.06170v1)|null|
+|**2025-07-08**|**OmniPart: Part-Aware 3D Generation with Semantic Decoupling and Structural Cohesion**|Yunhan Yang et.al.|[2507.06165v1](http://arxiv.org/abs/2507.06165v1)|null|
+|**2025-07-08**|**Normalizing Diffusion Kernels with Optimal Transport**|Nathan Kessler et.al.|[2507.06161v1](http://arxiv.org/abs/2507.06161v1)|null|
+|**2025-07-08**|**Addition Automata and Attractors of Digit Systems Corresponding to Expanding Rational Matrices**|Anjelo Gabriel R. Cruz et.al.|[2507.06158v1](http://arxiv.org/abs/2507.06158v1)|null|
