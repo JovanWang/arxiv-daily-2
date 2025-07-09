@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-07-09 08:46:30 Asia/Shanghai
+ Automated deployment @ 2025-07-09 10:32:46 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -8,40 +8,6 @@
 ### Sparse Operator
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-
-### Sparse program Compile
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2025-07-07**|**Quantum-Inspired Tensor-Network Fractional-Step Method for Incompressible Flow in Curvilinear Coordinates**|Nis-Luca van Hülst et.al.|[2507.05222v1](http://arxiv.org/abs/2507.05222v1)|null|
-|**2025-07-07**|**All in One: Visual-Description-Guided Unified Point Cloud Segmentation**|Zongyan Han et.al.|[2507.05211v1](http://arxiv.org/abs/2507.05211v1)|null|
-|**2025-07-07**|**4DSloMo: 4D Reconstruction for High Speed Scene with Asynchronous Capture**|Yutian Chen et.al.|[2507.05163v1](http://arxiv.org/abs/2507.05163v1)|null|
-|**2025-07-07**|**Real-Time Graph-based Point Cloud Networks on FPGAs via Stall-Free Deep Pipelining**|Marc Neu et.al.|[2507.05099v1](http://arxiv.org/abs/2507.05099v1)|null|
-|**2025-07-07**|**Sequential Attention-based Sampling for Histopathological Analysis**|Tarun G et.al.|[2507.05077v1](http://arxiv.org/abs/2507.05077v1)|null|
-|**2025-07-07**|**Estimating Object Physical Properties from RGB-D Vision and Depth Robot Sensors Using Deep Learning**|Ricardo Cardoso et.al.|[2507.05029v1](http://arxiv.org/abs/2507.05029v1)|null|
-|**2025-07-07**|**Efficient implicit-explicit sparse stochastic method for high dimensional semi-linear nonlocal diffusion equations**|Changtao Sheng et.al.|[2507.04973v1](http://arxiv.org/abs/2507.04973v1)|null|
-|**2025-07-07**|**DYNAMO: Dynamic Neutral Atom Multi-programming Optimizer Towards Quantum Operating Systems**|Wenjie Sun et.al.|[2507.04874v1](http://arxiv.org/abs/2507.04874v1)|null|
-|**2025-07-07**|**Semantically Consistent Discrete Diffusion for 3D Biological Graph Modeling**|Chinmay Prabhakar et.al.|[2507.04856v1](http://arxiv.org/abs/2507.04856v1)|null|
-|**2025-07-07**|**A High-Level Compiler Integration Approach for Deep Learning Accelerators Supporting Abstraction and Optimization**|Samira Ahmadifarsani et.al.|[2507.04828v1](http://arxiv.org/abs/2507.04828v1)|null|
-|**2025-07-07**|**MCFormer: A Multi-Cost-Volume Network and Comprehensive Benchmark for Particle Image Velocimetry**|Zicheng Lin et.al.|[2507.04750v1](http://arxiv.org/abs/2507.04750v1)|null|
-|**2025-07-07**|**CueLearner: Bootstrapping and local policy adaptation from relative feedback**|Giulio Schiavi et.al.|[2507.04730v1](http://arxiv.org/abs/2507.04730v1)|null|
-|**2025-07-07**|**SPIDER: Structure-Preferential Implicit Deep Network for Biplanar X-ray Reconstruction**|Tianqi Yu et.al.|[2507.04684v1](http://arxiv.org/abs/2507.04684v1)|null|
-|**2025-07-07**|**DRAE: Dynamic Retrieval-Augmented Expert Networks for Lifelong Learning and Task Adaptation in Robotics**|Yayu Long et.al.|[2507.04661v1](http://arxiv.org/abs/2507.04661v1)|null|
-|**2025-07-07**|**SOSAE: Self-Organizing Sparse AutoEncoder**|Sarthak Ketanbhai Modi et.al.|[2507.04644v1](http://arxiv.org/abs/2507.04644v1)|null|
-|**2025-07-07**|**HiLa: Hierarchical Vision-Language Collaboration for Cancer Survival Prediction**|Jiaqi Cui et.al.|[2507.04613v1](http://arxiv.org/abs/2507.04613v1)|null|
-|**2025-07-07**|**Accelerated Online Reinforcement Learning using Auxiliary Start State Distributions**|Aman Mehra et.al.|[2507.04606v1](http://arxiv.org/abs/2507.04606v1)|null|
-|**2025-07-07**|**CVFusion: Cross-View Fusion of 4D Radar and Camera for 3D Object Detection**|Hanzhi Zhong et.al.|[2507.04587v1](http://arxiv.org/abs/2507.04587v1)|null|
-|**2025-07-06**|**SPIRA: Building an Intelligent System for Respiratory Insufficiency Detection**|Renato Cordeiro Ferreira et.al.|[2507.04548v1](http://arxiv.org/abs/2507.04548v1)|null|
-|**2025-07-06**|**BiVM: Accurate Binarized Neural Network for Efficient Video Matting**|Haotong Qin et.al.|[2507.04456v1](http://arxiv.org/abs/2507.04456v1)|null|
-|**2025-07-06**|**ESSA: Evolutionary Strategies for Scalable Alignment**|Daria Korotyshova et.al.|[2507.04453v1](http://arxiv.org/abs/2507.04453v1)|null|
-|**2025-07-06**|**CEMP: a platform unifying high-throughput online calculation, databases and predictive models for clean energy materials**|Jifeng Wang et.al.|[2507.04423v1](http://arxiv.org/abs/2507.04423v1)|null|
-|**2025-07-06**|**Sat2City: 3D City Generation from A Single Satellite Image with Cascaded Latent Diffusion**|Tongyan Hua et.al.|[2507.04403v1](http://arxiv.org/abs/2507.04403v1)|null|
-|**2025-07-06**|**The Hybrid Elevated Radio Observatory for Neutrinos (HERON) Project**|Kumiko Kotera et.al.|[2507.04382v1](http://arxiv.org/abs/2507.04382v1)|null|
-|**2025-07-06**|**Hierarchical Reinforcement Learning with Targeted Causal Interventions**|Sadegh Khorasani et.al.|[2507.04373v1](http://arxiv.org/abs/2507.04373v1)|null|
-|**2025-07-06**|**Efficient Simulation of High-Level Quantum Gates**|Adam Husted Kjelstrøm et.al.|[2507.04337v1](http://arxiv.org/abs/2507.04337v1)|null|
-|**2025-07-06**|**TinyProto: Communication-Efficient Federated Learning with Sparse Prototypes in Resource-Constrained Environments**|Gyuejeong Lee et.al.|[2507.04327v1](http://arxiv.org/abs/2507.04327v1)|null|
-|**2025-07-06**|**MoReMouse: Monocular Reconstruction of Laboratory Mouse**|Yuan Zhong et.al.|[2507.04258v1](http://arxiv.org/abs/2507.04258v1)|null|
-|**2025-07-06**|**Normalized Iterative Hard Thresholding for Tensor Recovery**|Li Li et.al.|[2507.04228v1](http://arxiv.org/abs/2507.04228v1)|null|
-|**2025-07-05**|**Towards Accurate and Efficient 3D Object Detection for Autonomous Driving: A Mixture of Experts Computing System on Edge**|Linshen Liu et.al.|[2507.04123v1](http://arxiv.org/abs/2507.04123v1)|null|
 
 ### Sparse Data Format
 |Publish Date|Title|Authors|PDF|Code|
@@ -76,6 +42,40 @@
 |**2025-07-07**|**SPIDER: Structure-Preferential Implicit Deep Network for Biplanar X-ray Reconstruction**|Tianqi Yu et.al.|[2507.04684v1](http://arxiv.org/abs/2507.04684v1)|null|
 |**2025-07-07**|**Riemannian Inexact Gradient Descent for Quadratic Discrimination**|Uday Talwar et.al.|[2507.04670v1](http://arxiv.org/abs/2507.04670v1)|null|
 |**2025-07-07**|**A General Class of Model-Free Dense Precision Matrix Estimators**|Mehmet Caner Agostino Capponi Mihailo Stojnic et.al.|[2507.04663v1](http://arxiv.org/abs/2507.04663v1)|null|
+
+### Sparse program Compile
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2025-07-07**|**Quantum-Inspired Tensor-Network Fractional-Step Method for Incompressible Flow in Curvilinear Coordinates**|Nis-Luca van Hülst et.al.|[2507.05222v1](http://arxiv.org/abs/2507.05222v1)|null|
+|**2025-07-07**|**All in One: Visual-Description-Guided Unified Point Cloud Segmentation**|Zongyan Han et.al.|[2507.05211v1](http://arxiv.org/abs/2507.05211v1)|null|
+|**2025-07-07**|**4DSloMo: 4D Reconstruction for High Speed Scene with Asynchronous Capture**|Yutian Chen et.al.|[2507.05163v1](http://arxiv.org/abs/2507.05163v1)|null|
+|**2025-07-07**|**Real-Time Graph-based Point Cloud Networks on FPGAs via Stall-Free Deep Pipelining**|Marc Neu et.al.|[2507.05099v1](http://arxiv.org/abs/2507.05099v1)|null|
+|**2025-07-07**|**Sequential Attention-based Sampling for Histopathological Analysis**|Tarun G et.al.|[2507.05077v1](http://arxiv.org/abs/2507.05077v1)|null|
+|**2025-07-07**|**Estimating Object Physical Properties from RGB-D Vision and Depth Robot Sensors Using Deep Learning**|Ricardo Cardoso et.al.|[2507.05029v1](http://arxiv.org/abs/2507.05029v1)|null|
+|**2025-07-07**|**Efficient implicit-explicit sparse stochastic method for high dimensional semi-linear nonlocal diffusion equations**|Changtao Sheng et.al.|[2507.04973v1](http://arxiv.org/abs/2507.04973v1)|null|
+|**2025-07-07**|**DYNAMO: Dynamic Neutral Atom Multi-programming Optimizer Towards Quantum Operating Systems**|Wenjie Sun et.al.|[2507.04874v1](http://arxiv.org/abs/2507.04874v1)|null|
+|**2025-07-07**|**Semantically Consistent Discrete Diffusion for 3D Biological Graph Modeling**|Chinmay Prabhakar et.al.|[2507.04856v1](http://arxiv.org/abs/2507.04856v1)|null|
+|**2025-07-07**|**A High-Level Compiler Integration Approach for Deep Learning Accelerators Supporting Abstraction and Optimization**|Samira Ahmadifarsani et.al.|[2507.04828v1](http://arxiv.org/abs/2507.04828v1)|null|
+|**2025-07-07**|**MCFormer: A Multi-Cost-Volume Network and Comprehensive Benchmark for Particle Image Velocimetry**|Zicheng Lin et.al.|[2507.04750v1](http://arxiv.org/abs/2507.04750v1)|null|
+|**2025-07-07**|**CueLearner: Bootstrapping and local policy adaptation from relative feedback**|Giulio Schiavi et.al.|[2507.04730v1](http://arxiv.org/abs/2507.04730v1)|null|
+|**2025-07-07**|**SPIDER: Structure-Preferential Implicit Deep Network for Biplanar X-ray Reconstruction**|Tianqi Yu et.al.|[2507.04684v1](http://arxiv.org/abs/2507.04684v1)|null|
+|**2025-07-07**|**DRAE: Dynamic Retrieval-Augmented Expert Networks for Lifelong Learning and Task Adaptation in Robotics**|Yayu Long et.al.|[2507.04661v1](http://arxiv.org/abs/2507.04661v1)|null|
+|**2025-07-07**|**SOSAE: Self-Organizing Sparse AutoEncoder**|Sarthak Ketanbhai Modi et.al.|[2507.04644v1](http://arxiv.org/abs/2507.04644v1)|null|
+|**2025-07-07**|**HiLa: Hierarchical Vision-Language Collaboration for Cancer Survival Prediction**|Jiaqi Cui et.al.|[2507.04613v1](http://arxiv.org/abs/2507.04613v1)|null|
+|**2025-07-07**|**Accelerated Online Reinforcement Learning using Auxiliary Start State Distributions**|Aman Mehra et.al.|[2507.04606v1](http://arxiv.org/abs/2507.04606v1)|null|
+|**2025-07-07**|**CVFusion: Cross-View Fusion of 4D Radar and Camera for 3D Object Detection**|Hanzhi Zhong et.al.|[2507.04587v1](http://arxiv.org/abs/2507.04587v1)|null|
+|**2025-07-06**|**SPIRA: Building an Intelligent System for Respiratory Insufficiency Detection**|Renato Cordeiro Ferreira et.al.|[2507.04548v1](http://arxiv.org/abs/2507.04548v1)|null|
+|**2025-07-06**|**BiVM: Accurate Binarized Neural Network for Efficient Video Matting**|Haotong Qin et.al.|[2507.04456v1](http://arxiv.org/abs/2507.04456v1)|null|
+|**2025-07-06**|**ESSA: Evolutionary Strategies for Scalable Alignment**|Daria Korotyshova et.al.|[2507.04453v1](http://arxiv.org/abs/2507.04453v1)|null|
+|**2025-07-06**|**CEMP: a platform unifying high-throughput online calculation, databases and predictive models for clean energy materials**|Jifeng Wang et.al.|[2507.04423v1](http://arxiv.org/abs/2507.04423v1)|null|
+|**2025-07-06**|**Sat2City: 3D City Generation from A Single Satellite Image with Cascaded Latent Diffusion**|Tongyan Hua et.al.|[2507.04403v1](http://arxiv.org/abs/2507.04403v1)|null|
+|**2025-07-06**|**The Hybrid Elevated Radio Observatory for Neutrinos (HERON) Project**|Kumiko Kotera et.al.|[2507.04382v1](http://arxiv.org/abs/2507.04382v1)|null|
+|**2025-07-06**|**Hierarchical Reinforcement Learning with Targeted Causal Interventions**|Sadegh Khorasani et.al.|[2507.04373v1](http://arxiv.org/abs/2507.04373v1)|null|
+|**2025-07-06**|**Efficient Simulation of High-Level Quantum Gates**|Adam Husted Kjelstrøm et.al.|[2507.04337v1](http://arxiv.org/abs/2507.04337v1)|null|
+|**2025-07-06**|**TinyProto: Communication-Efficient Federated Learning with Sparse Prototypes in Resource-Constrained Environments**|Gyuejeong Lee et.al.|[2507.04327v1](http://arxiv.org/abs/2507.04327v1)|null|
+|**2025-07-06**|**MoReMouse: Monocular Reconstruction of Laboratory Mouse**|Yuan Zhong et.al.|[2507.04258v1](http://arxiv.org/abs/2507.04258v1)|null|
+|**2025-07-06**|**Normalized Iterative Hard Thresholding for Tensor Recovery**|Li Li et.al.|[2507.04228v1](http://arxiv.org/abs/2507.04228v1)|null|
+|**2025-07-05**|**Towards Accurate and Efficient 3D Object Detection for Autonomous Driving: A Mixture of Experts Computing System on Edge**|Linshen Liu et.al.|[2507.04123v1](http://arxiv.org/abs/2507.04123v1)|null|
 
 ## AI
 
@@ -120,7 +120,7 @@
 |**2025-07-07**|**From Marginal to Joint Predictions: Evaluating Scene-Consistent Trajectory Prediction Approaches for Automated Driving**|Fabian Konstantinidis et.al.|[2507.05254v1](http://arxiv.org/abs/2507.05254v1)|null|
 |**2025-07-07**|**Multi-Disease Deep Learning Framework for GWAS: Beyond Feature Selection Constraints**|Iqra Farooq et.al.|[2507.05247v1](http://arxiv.org/abs/2507.05247v1)|null|
 |**2025-07-07**|**When Chain of Thought is Necessary, Language Models Struggle to Evade Monitors**|Scott Emmons et.al.|[2507.05246v1](http://arxiv.org/abs/2507.05246v1)|null|
-|**2025-07-07**|**SciMaster: Towards General-Purpose Scientific AI Agents, Part I. X-Master as Foundation: Can We Lead on Humanity's Last Exam?**|Jingyi Chai et.al.|[2507.05241v1](http://arxiv.org/abs/2507.05241v1)|null|
+|**2025-07-07**|**SciMaster: Towards General-Purpose Scientific AI Agents, Part I. X-Master as Foundation: Can We Lead on Humanity's Last Exam?**|Jingyi Chai et.al.|[2507.05241v2](http://arxiv.org/abs/2507.05241v2)|null|
 |**2025-07-07**|**Bridging Expressivity and Scalability with Adaptive Unitary SSMs**|Arjun Karuvally et.al.|[2507.05238v1](http://arxiv.org/abs/2507.05238v1)|null|
 |**2025-07-07**|**Quantum Quasinormal Mode Theory for Dissipative Nano-Optics and Magnetodielectric Cavity Quantum Electrodynamics**|Lars Meschede et.al.|[2507.05233v1](http://arxiv.org/abs/2507.05233v1)|null|
 |**2025-07-07**|**CTA: Cross-Task Alignment for Better Test Time Training**|Samuel Barbeau et.al.|[2507.05221v2](http://arxiv.org/abs/2507.05221v2)|null|
@@ -129,7 +129,7 @@
 |**2025-07-07**|**Rossby number regime, convection suppression, and dynamo-generated magnetism in inflated hot Jupiters**|Albert Elias-López et.al.|[2507.05202v1](http://arxiv.org/abs/2507.05202v1)|null|
 |**2025-07-07**|**QMoE: A Quantum Mixture of Experts Framework for Scalable Quantum Neural Networks**|Hoang-Quan Nguyen et.al.|[2507.05190v1](http://arxiv.org/abs/2507.05190v1)|null|
 |**2025-07-07**|**CREW-WILDFIRE: Benchmarking Agentic Multi-Agent Collaborations at Scale**|Jonathan Hyun et.al.|[2507.05178v1](http://arxiv.org/abs/2507.05178v1)|null|
-|**2025-07-07**|**OpenS2S: Advancing Open-Source End-to-End Empathetic Large Speech Language Model**|Chen Wang et.al.|[2507.05177v1](http://arxiv.org/abs/2507.05177v1)|null|
+|**2025-07-07**|**OpenS2S: Advancing Fully Open-Source End-to-End Empathetic Large Speech Language Model**|Chen Wang et.al.|[2507.05177v2](http://arxiv.org/abs/2507.05177v2)|null|
 |**2025-07-07**|**Critiques of World Models**|Eric Xing et.al.|[2507.05169v1](http://arxiv.org/abs/2507.05169v1)|null|
 |**2025-07-07**|**A Dynamical Systems Perspective on the Analysis of Neural Networks**|Dennis Chemnitz et.al.|[2507.05164v1](http://arxiv.org/abs/2507.05164v1)|null|
 |**2025-07-07**|**LAID: Lightweight AI-Generated Image Detection in Spatial and Spectral Domains**|Nicholas Chivaran et.al.|[2507.05162v1](http://arxiv.org/abs/2507.05162v1)|null|
@@ -198,7 +198,7 @@
 |**2025-07-07**|**Interstellar comet 3I/ATLAS: discovery and physical description**|Bryce T. Bolin et.al.|[2507.05252v1](http://arxiv.org/abs/2507.05252v1)|null|
 |**2025-07-07**|**Response Attack: Exploiting Contextual Priming to Jailbreak Large Language Models**|Ziqi Miao et.al.|[2507.05248v1](http://arxiv.org/abs/2507.05248v1)|null|
 |**2025-07-07**|**Modeling Latent Partner Strategies for Adaptive Zero-Shot Human-Agent Collaboration**|Benjamin Li et.al.|[2507.05244v1](http://arxiv.org/abs/2507.05244v1)|null|
-|**2025-07-07**|**SciMaster: Towards General-Purpose Scientific AI Agents, Part I. X-Master as Foundation: Can We Lead on Humanity's Last Exam?**|Jingyi Chai et.al.|[2507.05241v1](http://arxiv.org/abs/2507.05241v1)|null|
+|**2025-07-07**|**SciMaster: Towards General-Purpose Scientific AI Agents, Part I. X-Master as Foundation: Can We Lead on Humanity's Last Exam?**|Jingyi Chai et.al.|[2507.05241v2](http://arxiv.org/abs/2507.05241v2)|null|
 |**2025-07-07**|**StreamVLN: Streaming Vision-and-Language Navigation via SlowFast Context Modeling**|Meng Wei et.al.|[2507.05240v1](http://arxiv.org/abs/2507.05240v1)|null|
 |**2025-07-07**|**Towards a consistent Semiclassical Theory of Gravity**|Francisco Pipa et.al.|[2507.05237v1](http://arxiv.org/abs/2507.05237v1)|null|
 |**2025-07-07**|**Logit Reweighting for Topic-Focused Summarization**|Joschka Braun et.al.|[2507.05235v1](http://arxiv.org/abs/2507.05235v1)|null|
@@ -216,7 +216,7 @@
 |**2025-07-07**|**Hierarchical Subtraction with Neural Density Estimators as a General Solution to Overlapping Gravitational Wave Signals**|Qian Hu et.al.|[2507.05209v1](http://arxiv.org/abs/2507.05209v1)|null|
 |**2025-07-07**|**Interacting Scalar Fields as Dark Energy and Dark Matter in Einstein scalar Gauss Bonnet Gravity**|Saddam Hussain et.al.|[2507.05207v1](http://arxiv.org/abs/2507.05207v1)|null|
 |**2025-07-07**|**Rossby number regime, convection suppression, and dynamo-generated magnetism in inflated hot Jupiters**|Albert Elias-López et.al.|[2507.05202v1](http://arxiv.org/abs/2507.05202v1)|null|
-|**2025-07-07**|**MedGemma Technical Report**|Andrew Sellergren et.al.|[2507.05201v1](http://arxiv.org/abs/2507.05201v1)|null|
+|**2025-07-07**|**MedGemma Technical Report**|Andrew Sellergren et.al.|[2507.05201v2](http://arxiv.org/abs/2507.05201v2)|null|
 |**2025-07-07**|**In-Context Learning as an Effective Estimator of Functional Correctness of LLM-Generated Code**|Susmita Das et.al.|[2507.05200v1](http://arxiv.org/abs/2507.05200v1)|null|
 
 ### C Code Migration
@@ -241,7 +241,7 @@
 |**2025-07-07**|**Modeling Latent Partner Strategies for Adaptive Zero-Shot Human-Agent Collaboration**|Benjamin Li et.al.|[2507.05244v1](http://arxiv.org/abs/2507.05244v1)|null|
 |**2025-07-07**|**On amenability constants of Fourier algebras: new bounds and new examples**|Yemon Choi et.al.|[2507.05243v1](http://arxiv.org/abs/2507.05243v1)|null|
 |**2025-07-07**|**On Araki-Type Trace Inequalities**|Po-Chieh Liu et.al.|[2507.05242v1](http://arxiv.org/abs/2507.05242v1)|null|
-|**2025-07-07**|**SciMaster: Towards General-Purpose Scientific AI Agents, Part I. X-Master as Foundation: Can We Lead on Humanity's Last Exam?**|Jingyi Chai et.al.|[2507.05241v1](http://arxiv.org/abs/2507.05241v1)|null|
+|**2025-07-07**|**SciMaster: Towards General-Purpose Scientific AI Agents, Part I. X-Master as Foundation: Can We Lead on Humanity's Last Exam?**|Jingyi Chai et.al.|[2507.05241v2](http://arxiv.org/abs/2507.05241v2)|null|
 |**2025-07-07**|**StreamVLN: Streaming Vision-and-Language Navigation via SlowFast Context Modeling**|Meng Wei et.al.|[2507.05240v1](http://arxiv.org/abs/2507.05240v1)|null|
 |**2025-07-07**|**Constraining the Milky Way Halo Accretion History With Simulated Stellar Halos: Designing the HALO7D-X Survey**|Miranda Apfel et.al.|[2507.05239v1](http://arxiv.org/abs/2507.05239v1)|null|
 |**2025-07-07**|**Bridging Expressivity and Scalability with Adaptive Unitary SSMs**|Arjun Karuvally et.al.|[2507.05238v1](http://arxiv.org/abs/2507.05238v1)|null|
