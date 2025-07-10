@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-07-10 20:17:59 Asia/Shanghai
+ Automated deployment @ 2025-07-10 21:03:37 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -8,40 +8,6 @@
 ### Sparse Operator
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-
-### Sparse Data Format
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2025-07-09**|**Ray-tracing Fast Radio Bursts Through IllustrisTNG: Cosmological Dispersion Measures from Redshift 0 to 5.5**|Ralf M. Konietzka et.al.|[2507.07090v1](http://arxiv.org/abs/2507.07090v1)|null|
-|**2025-07-09**|**Simple polynomial equations over (mxm)-matrices**|Vitalij A. Chatyrko et.al.|[2507.07085v1](http://arxiv.org/abs/2507.07085v1)|null|
-|**2025-07-09**|**Integer Factorization: Another perspective**|Gilda Rech Bansimba et.al.|[2507.07055v1](http://arxiv.org/abs/2507.07055v1)|null|
-|**2025-07-09**|**Opto-ViT: Architecting a Near-Sensor Region of Interest-Aware Vision Transformer Accelerator with Silicon Photonics**|Mehrdad Morsali et.al.|[2507.07044v1](http://arxiv.org/abs/2507.07044v1)|null|
-|**2025-07-09**|**On Construction of Approximate Real Mutually Unbiased Bases for an infinite class of dimensions $d \not\equiv 0 \bmod 4$**|Ajeet Kumar et.al.|[2507.07028v1](http://arxiv.org/abs/2507.07028v1)|null|
-|**2025-07-09**|**The Post Science Paradigm of Scientific Discovery in the Era of Artificial Intelligence: Modelling the Collapse of Ideation Costs, Epistemic Inversion, and the End of Knowledge Scarcity**|Christian William Callaghan et.al.|[2507.07019v1](http://arxiv.org/abs/2507.07019v1)|null|
-|**2025-07-09**|**GNN-ViTCap: GNN-Enhanced Multiple Instance Learning with Vision Transformers for Whole Slide Image Classification and Captioning**|S M Taslim Uddin Raju et.al.|[2507.07006v1](http://arxiv.org/abs/2507.07006v1)|null|
-|**2025-07-09**|**DenoiseCP-Net: Efficient Collective Perception in Adverse Weather via Joint LiDAR-Based 3D Object Detection and Denoising**|Sven Teufel et.al.|[2507.06976v1](http://arxiv.org/abs/2507.06976v1)|null|
-|**2025-07-09**|**Fractional Programming for Stochastic Precoding over Generalized Fading Channels**|Wenyu Wang et.al.|[2507.06944v1](http://arxiv.org/abs/2507.06944v1)|null|
-|**2025-07-09**|**Accelerated Spatio-Temporal Bayesian Modeling for Multivariate Gaussian Processes**|Lisa Gaedke-Merzhäuser et.al.|[2507.06938v1](http://arxiv.org/abs/2507.06938v1)|null|
-|**2025-07-09**|**Walk Matrix-Based Upper Bounds on Generalized Cospectral Mates**|Muhammad Raza et.al.|[2507.06927v1](http://arxiv.org/abs/2507.06927v1)|null|
-|**2025-07-09**|**SemRaFiner: Panoptic Segmentation in Sparse and Noisy Radar Point Clouds**|Matthias Zeller et.al.|[2507.06906v1](http://arxiv.org/abs/2507.06906v1)|null|
-|**2025-07-09**|**Cluster algebraic interpretation of generalized Markov numbers and their matrixizations**|Esther Banaian et.al.|[2507.06900v1](http://arxiv.org/abs/2507.06900v1)|null|
-|**2025-07-09**|**Horizontal and Vertical Federated Causal Structure Learning via Higher-order Cumulants**|Wei Chen et.al.|[2507.06888v1](http://arxiv.org/abs/2507.06888v1)|null|
-|**2025-07-09**|**CDC: Causal Domain Clustering for Multi-Domain Recommendation**|Huishi Luo et.al.|[2507.06877v1](http://arxiv.org/abs/2507.06877v1)|null|
-|**2025-07-09**|**Jordan Derivation On Generalized Triangular Matrix Rings**|Peter Danchev et.al.|[2507.06871v1](http://arxiv.org/abs/2507.06871v1)|null|
-|**2025-07-09**|**Know Your Attention Maps: Class-specific Token Masking for Weakly Supervised Semantic Segmentation**|Joelle Hanna et.al.|[2507.06848v1](http://arxiv.org/abs/2507.06848v1)|null|
-|**2025-07-09**|**Scalable Gaussian Processes: Advances in Iterative Methods and Pathwise Conditioning**|Jihao Andreas Lin et.al.|[2507.06839v1](http://arxiv.org/abs/2507.06839v1)|null|
-|**2025-07-09**|**Speckle2Self: Self-Supervised Ultrasound Speckle Reduction Without Clean Data**|Xuesong Li et.al.|[2507.06828v1](http://arxiv.org/abs/2507.06828v1)|null|
-|**2025-07-09**|**HeLo: Heterogeneous Multi-Modal Fusion with Label Correlation for Emotion Distribution Learning**|Chuhang Zheng et.al.|[2507.06821v1](http://arxiv.org/abs/2507.06821v1)|null|
-|**2025-07-09**|**Designing Robust Software Sensors for Nonlinear Systems via Neural Networks and Adaptive Sliding Mode Control**|Ayoub Farkane et.al.|[2507.06817v1](http://arxiv.org/abs/2507.06817v1)|null|
-|**2025-07-09**|**Dynamic Output-Feedback Controller Synthesis for Dissipativity from Noisy Input-State Data**|Pietro Kristović et.al.|[2507.06788v1](http://arxiv.org/abs/2507.06788v1)|null|
-|**2025-07-09**|**Bayesian Generalized Nonlinear Models Offer Basis Free SINDy With Model Uncertainty**|Aliaksandr Hubin et.al.|[2507.06776v1](http://arxiv.org/abs/2507.06776v1)|null|
-|**2025-07-09**|**A derivative-free Levenberg-Marquardt method for sparse nonlinear least squares problems**|Yuchen Feng et.al.|[2507.06772v1](http://arxiv.org/abs/2507.06772v1)|null|
-|**2025-07-09**|**Real-space understanding of electron-phonon coupling in superconducting hydrides**|Trinidad Novoa et.al.|[2507.06749v1](http://arxiv.org/abs/2507.06749v1)|null|
-|**2025-07-09**|**On the T-linear resistivity of cuprates: theory**|Charu Dhiman et.al.|[2507.06725v1](http://arxiv.org/abs/2507.06725v1)|null|
-|**2025-07-09**|**PINN-Obs: Physics-Informed Neural Network-Based Observer for Nonlinear Dynamical Systems**|Ayoub Farkane et.al.|[2507.06712v1](http://arxiv.org/abs/2507.06712v1)|null|
-|**2025-07-09**|**Signal Model and Energy Reconstruction for the Radio Detection of Inclined Air Showers in the 50-200 MHz Frequency Band**|Lukas Gülzow et.al.|[2507.06698v1](http://arxiv.org/abs/2507.06698v1)|null|
-|**2025-07-09**|**Robustness of the flux-free sector of the Kitaev honeycomb against environment**|Alexander Sattler et.al.|[2507.06683v1](http://arxiv.org/abs/2507.06683v1)|null|
-|**2025-07-09**|**MS-DPPs: Multi-Source Determinantal Point Processes for Contextual Diversity Refinement of Composite Attributes in Text to Image Retrieval**|Naoya Sogi et.al.|[2507.06654v1](http://arxiv.org/abs/2507.06654v1)|null|
 
 ### Sparse program Compile
 |Publish Date|Title|Authors|PDF|Code|
@@ -76,6 +42,40 @@
 |**2025-07-08**|**Mamba Goes HoME: Hierarchical Soft Mixture-of-Experts for 3D Medical Image Segmentation**|Szymon Płotka et.al.|[2507.06363v1](http://arxiv.org/abs/2507.06363v1)|null|
 |**2025-07-08**|**Pyrosome: Verified Compilation for Modular Metatheory**|Dustin Jamner et.al.|[2507.06360v1](http://arxiv.org/abs/2507.06360v1)|null|
 |**2025-07-08**|**Parallel Batch-Dynamic Algorithms for Spanners, and Extensions**|Mohsen Ghaffari et.al.|[2507.06338v1](http://arxiv.org/abs/2507.06338v1)|null|
+
+### Sparse Data Format
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2025-07-09**|**Ray-tracing Fast Radio Bursts Through IllustrisTNG: Cosmological Dispersion Measures from Redshift 0 to 5.5**|Ralf M. Konietzka et.al.|[2507.07090v1](http://arxiv.org/abs/2507.07090v1)|null|
+|**2025-07-09**|**Simple polynomial equations over (mxm)-matrices**|Vitalij A. Chatyrko et.al.|[2507.07085v1](http://arxiv.org/abs/2507.07085v1)|null|
+|**2025-07-09**|**Integer Factorization: Another perspective**|Gilda Rech Bansimba et.al.|[2507.07055v1](http://arxiv.org/abs/2507.07055v1)|null|
+|**2025-07-09**|**Opto-ViT: Architecting a Near-Sensor Region of Interest-Aware Vision Transformer Accelerator with Silicon Photonics**|Mehrdad Morsali et.al.|[2507.07044v1](http://arxiv.org/abs/2507.07044v1)|null|
+|**2025-07-09**|**On Construction of Approximate Real Mutually Unbiased Bases for an infinite class of dimensions $d \not\equiv 0 \bmod 4$**|Ajeet Kumar et.al.|[2507.07028v1](http://arxiv.org/abs/2507.07028v1)|null|
+|**2025-07-09**|**The Post Science Paradigm of Scientific Discovery in the Era of Artificial Intelligence: Modelling the Collapse of Ideation Costs, Epistemic Inversion, and the End of Knowledge Scarcity**|Christian William Callaghan et.al.|[2507.07019v1](http://arxiv.org/abs/2507.07019v1)|null|
+|**2025-07-09**|**GNN-ViTCap: GNN-Enhanced Multiple Instance Learning with Vision Transformers for Whole Slide Image Classification and Captioning**|S M Taslim Uddin Raju et.al.|[2507.07006v1](http://arxiv.org/abs/2507.07006v1)|null|
+|**2025-07-09**|**DenoiseCP-Net: Efficient Collective Perception in Adverse Weather via Joint LiDAR-Based 3D Object Detection and Denoising**|Sven Teufel et.al.|[2507.06976v1](http://arxiv.org/abs/2507.06976v1)|null|
+|**2025-07-09**|**Fractional Programming for Stochastic Precoding over Generalized Fading Channels**|Wenyu Wang et.al.|[2507.06944v1](http://arxiv.org/abs/2507.06944v1)|null|
+|**2025-07-09**|**Accelerated Spatio-Temporal Bayesian Modeling for Multivariate Gaussian Processes**|Lisa Gaedke-Merzhäuser et.al.|[2507.06938v1](http://arxiv.org/abs/2507.06938v1)|null|
+|**2025-07-09**|**Walk Matrix-Based Upper Bounds on Generalized Cospectral Mates**|Muhammad Raza et.al.|[2507.06927v1](http://arxiv.org/abs/2507.06927v1)|null|
+|**2025-07-09**|**SemRaFiner: Panoptic Segmentation in Sparse and Noisy Radar Point Clouds**|Matthias Zeller et.al.|[2507.06906v1](http://arxiv.org/abs/2507.06906v1)|null|
+|**2025-07-09**|**Cluster algebraic interpretation of generalized Markov numbers and their matrixizations**|Esther Banaian et.al.|[2507.06900v1](http://arxiv.org/abs/2507.06900v1)|null|
+|**2025-07-09**|**Horizontal and Vertical Federated Causal Structure Learning via Higher-order Cumulants**|Wei Chen et.al.|[2507.06888v1](http://arxiv.org/abs/2507.06888v1)|null|
+|**2025-07-09**|**CDC: Causal Domain Clustering for Multi-Domain Recommendation**|Huishi Luo et.al.|[2507.06877v1](http://arxiv.org/abs/2507.06877v1)|null|
+|**2025-07-09**|**Jordan Derivation On Generalized Triangular Matrix Rings**|Peter Danchev et.al.|[2507.06871v1](http://arxiv.org/abs/2507.06871v1)|null|
+|**2025-07-09**|**Know Your Attention Maps: Class-specific Token Masking for Weakly Supervised Semantic Segmentation**|Joelle Hanna et.al.|[2507.06848v1](http://arxiv.org/abs/2507.06848v1)|null|
+|**2025-07-09**|**Scalable Gaussian Processes: Advances in Iterative Methods and Pathwise Conditioning**|Jihao Andreas Lin et.al.|[2507.06839v1](http://arxiv.org/abs/2507.06839v1)|null|
+|**2025-07-09**|**Speckle2Self: Self-Supervised Ultrasound Speckle Reduction Without Clean Data**|Xuesong Li et.al.|[2507.06828v1](http://arxiv.org/abs/2507.06828v1)|null|
+|**2025-07-09**|**HeLo: Heterogeneous Multi-Modal Fusion with Label Correlation for Emotion Distribution Learning**|Chuhang Zheng et.al.|[2507.06821v1](http://arxiv.org/abs/2507.06821v1)|null|
+|**2025-07-09**|**Designing Robust Software Sensors for Nonlinear Systems via Neural Networks and Adaptive Sliding Mode Control**|Ayoub Farkane et.al.|[2507.06817v1](http://arxiv.org/abs/2507.06817v1)|null|
+|**2025-07-09**|**Dynamic Output-Feedback Controller Synthesis for Dissipativity from Noisy Input-State Data**|Pietro Kristović et.al.|[2507.06788v1](http://arxiv.org/abs/2507.06788v1)|null|
+|**2025-07-09**|**Bayesian Generalized Nonlinear Models Offer Basis Free SINDy With Model Uncertainty**|Aliaksandr Hubin et.al.|[2507.06776v1](http://arxiv.org/abs/2507.06776v1)|null|
+|**2025-07-09**|**A derivative-free Levenberg-Marquardt method for sparse nonlinear least squares problems**|Yuchen Feng et.al.|[2507.06772v1](http://arxiv.org/abs/2507.06772v1)|null|
+|**2025-07-09**|**Real-space understanding of electron-phonon coupling in superconducting hydrides**|Trinidad Novoa et.al.|[2507.06749v1](http://arxiv.org/abs/2507.06749v1)|null|
+|**2025-07-09**|**On the T-linear resistivity of cuprates: theory**|Charu Dhiman et.al.|[2507.06725v1](http://arxiv.org/abs/2507.06725v1)|null|
+|**2025-07-09**|**PINN-Obs: Physics-Informed Neural Network-Based Observer for Nonlinear Dynamical Systems**|Ayoub Farkane et.al.|[2507.06712v1](http://arxiv.org/abs/2507.06712v1)|null|
+|**2025-07-09**|**Signal Model and Energy Reconstruction for the Radio Detection of Inclined Air Showers in the 50-200 MHz Frequency Band**|Lukas Gülzow et.al.|[2507.06698v1](http://arxiv.org/abs/2507.06698v1)|null|
+|**2025-07-09**|**Robustness of the flux-free sector of the Kitaev honeycomb against environment**|Alexander Sattler et.al.|[2507.06683v1](http://arxiv.org/abs/2507.06683v1)|null|
+|**2025-07-09**|**MS-DPPs: Multi-Source Determinantal Point Processes for Contextual Diversity Refinement of Composite Attributes in Text to Image Retrieval**|Naoya Sogi et.al.|[2507.06654v1](http://arxiv.org/abs/2507.06654v1)|null|
 
 ## AI
 
