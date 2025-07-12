@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-07-12 08:47:54 Asia/Shanghai
+ Automated deployment @ 2025-07-12 10:45:30 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -8,40 +8,6 @@
 ### Sparse Operator
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-
-### Sparse Data Format
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2025-07-10**|**Correlations and quantum circuits with dynamical causal order**|Raphaël Mothe et.al.|[2507.07992v1](http://arxiv.org/abs/2507.07992v1)|null|
-|**2025-07-10**|**Strong converse rate for asymptotic hypothesis testing in type III**|Nicholas Laracuente et.al.|[2507.07989v1](http://arxiv.org/abs/2507.07989v1)|null|
-|**2025-07-10**|**Finding sparse induced subgraphs on graphs of bounded induced matching treewidth**|Hans L. Bodlaender et.al.|[2507.07975v1](http://arxiv.org/abs/2507.07975v1)|null|
-|**2025-07-10**|**Reinforcement Learning with Action Chunking**|Qiyang Li et.al.|[2507.07969v1](http://arxiv.org/abs/2507.07969v1)|null|
-|**2025-07-10**|**Chiral superconductivity near a fractional Chern insulator**|Taige Wang et.al.|[2507.07921v1](http://arxiv.org/abs/2507.07921v1)|null|
-|**2025-07-10**|**Robust Lindbladian Estimation for Quantum Dynamics**|Yinchen Liu et.al.|[2507.07912v1](http://arxiv.org/abs/2507.07912v1)|null|
-|**2025-07-10**|**A statistical physics framework for optimal learning**|Francesca Mignacco et.al.|[2507.07907v1](http://arxiv.org/abs/2507.07907v1)|null|
-|**2025-07-10**|**The effect of fiber plasticity on domain formation in soft biological composites -- Part I: a bifurcation analysis**|Michalis Agoras et.al.|[2507.07843v1](http://arxiv.org/abs/2507.07843v1)|null|
-|**2025-07-10**|**MoSE: Skill-by-Skill Mixture-of-Expert Learning for Autonomous Driving**|Lu Xu et.al.|[2507.07818v1](http://arxiv.org/abs/2507.07818v1)|null|
-|**2025-07-10**|**Probing ultra-high-energy neutrinos with the IceCube-Gen2 in-ice radio array**|Christian Glaser et.al.|[2507.07813v1](http://arxiv.org/abs/2507.07813v1)|null|
-|**2025-07-10**|**When Large Language Models Meet Law: Dual-Lens Taxonomy, Technical Advances, and Ethical Governance**|Peizhang Shao et.al.|[2507.07748v1](http://arxiv.org/abs/2507.07748v1)|null|
-|**2025-07-10**|**Sparse-Dense Side-Tuner for efficient Video Temporal Grounding**|David Pujol-Perich et.al.|[2507.07744v1](http://arxiv.org/abs/2507.07744v1)|null|
-|**2025-07-10**|**Muonium as a probe of point defects in type-Ib diamond**|K. Yokoyama et.al.|[2507.07726v1](http://arxiv.org/abs/2507.07726v1)|null|
-|**2025-07-10**|**Quench spectroscopy for Lieb-Liniger bosons in the presence of harmonic trap**|Jiachen Yu et.al.|[2507.07699v1](http://arxiv.org/abs/2507.07699v1)|null|
-|**2025-07-10**|**KeyKnowledgeRAG (K^2RAG): An Enhanced RAG method for improved LLM question-answering capabilities**|Hruday Markondapatnaikuni et.al.|[2507.07695v1](http://arxiv.org/abs/2507.07695v1)|null|
-|**2025-07-10**|**Accelerating Transposed Convolutions on FPGA-based Edge Devices**|Jude Haris et.al.|[2507.07683v1](http://arxiv.org/abs/2507.07683v1)|null|
-|**2025-07-10**|**Action Unit Enhance Dynamic Facial Expression Recognition**|Feng Liu et.al.|[2507.07678v1](http://arxiv.org/abs/2507.07678v1)|null|
-|**2025-07-10**|**Some Theoretical Results on Layerwise Effective Dimension Oscillations in Finite Width ReLU Networks**|Darshan Makwana et.al.|[2507.07675v1](http://arxiv.org/abs/2507.07675v1)|null|
-|**2025-07-10**|**Effects of One-particle Reduced Density Matrix Optimization in Variational Quantum Eigensolvers**|Amanda Marques de Lima et.al.|[2507.07667v1](http://arxiv.org/abs/2507.07667v1)|null|
-|**2025-07-10**|**Testing Isomorphism of Boolean Functions over Finite Abelian Groups**|Swarnalipa Datta et.al.|[2507.07654v1](http://arxiv.org/abs/2507.07654v1)|null|
-|**2025-07-10**|**Summing Real Time Feynman Paths of Lattice Polaron with Matrix Product States**|Qi Gao et.al.|[2507.07648v1](http://arxiv.org/abs/2507.07648v1)|null|
-|**2025-07-10**|**Consistent and Asymptotically Efficient Localization from Bearing-only Measurements**|Shenghua Hu et.al.|[2507.07647v1](http://arxiv.org/abs/2507.07647v1)|null|
-|**2025-07-10**|**T-GVC: Trajectory-Guided Generative Video Coding at Ultra-Low Bitrates**|Zhitao Wang et.al.|[2507.07633v1](http://arxiv.org/abs/2507.07633v1)|null|
-|**2025-07-10**|**Sparse Causal Discovery with Generative Intervention for Unsupervised Graph Domain Adaptation**|Junyu Luo et.al.|[2507.07621v1](http://arxiv.org/abs/2507.07621v1)|null|
-|**2025-07-10**|**Sparse Self-Federated Learning for Energy Efficient Cooperative Intelligence in Society 5.0**|Davide Domini et.al.|[2507.07613v1](http://arxiv.org/abs/2507.07613v1)|null|
-|**2025-07-10**|**Biquandle Virtual Brackets and Virtual Knotoids**|Neslihan Gügümcü et.al.|[2507.07612v1](http://arxiv.org/abs/2507.07612v1)|null|
-|**2025-07-10**|**LOSC: LiDAR Open-voc Segmentation Consolidator**|Nermin Samet et.al.|[2507.07605v1](http://arxiv.org/abs/2507.07605v1)|null|
-|**2025-07-10**|**Online Quantum State Tomography via Stochastic Gradient Descent**|Jian-Feng Cai et.al.|[2507.07601v1](http://arxiv.org/abs/2507.07601v1)|null|
-|**2025-07-10**|**COALA: Numerically Stable and Efficient Framework for Context-Aware Low-Rank Approximation**|Uliana Parkina et.al.|[2507.07580v1](http://arxiv.org/abs/2507.07580v1)|null|
-|**2025-07-10**|**Sparse Signal Recovery From Quadratic Systems with Full-Rank Matrices**|Jinming Wen et.al.|[2507.07557v1](http://arxiv.org/abs/2507.07557v1)|null|
 
 ### Sparse program Compile
 |Publish Date|Title|Authors|PDF|Code|
@@ -76,6 +42,40 @@
 |**2025-07-09**|**ZKTorch: Compiling ML Inference to Zero-Knowledge Proofs via Parallel Proof Accumulation**|Bing-Jyue Chen et.al.|[2507.07031v1](http://arxiv.org/abs/2507.07031v1)|null|
 |**2025-07-09**|**Exploring Fairness Interventions in Open Source Projects**|Sadia Afrin Mim et.al.|[2507.07026v1](http://arxiv.org/abs/2507.07026v1)|null|
 |**2025-07-09**|**DenoiseCP-Net: Efficient Collective Perception in Adverse Weather via Joint LiDAR-Based 3D Object Detection and Denoising**|Sven Teufel et.al.|[2507.06976v1](http://arxiv.org/abs/2507.06976v1)|null|
+
+### Sparse Data Format
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2025-07-10**|**Correlations and quantum circuits with dynamical causal order**|Raphaël Mothe et.al.|[2507.07992v1](http://arxiv.org/abs/2507.07992v1)|null|
+|**2025-07-10**|**Strong converse rate for asymptotic hypothesis testing in type III**|Nicholas Laracuente et.al.|[2507.07989v1](http://arxiv.org/abs/2507.07989v1)|null|
+|**2025-07-10**|**Finding sparse induced subgraphs on graphs of bounded induced matching treewidth**|Hans L. Bodlaender et.al.|[2507.07975v1](http://arxiv.org/abs/2507.07975v1)|null|
+|**2025-07-10**|**Reinforcement Learning with Action Chunking**|Qiyang Li et.al.|[2507.07969v1](http://arxiv.org/abs/2507.07969v1)|null|
+|**2025-07-10**|**Chiral superconductivity near a fractional Chern insulator**|Taige Wang et.al.|[2507.07921v1](http://arxiv.org/abs/2507.07921v1)|null|
+|**2025-07-10**|**Robust Lindbladian Estimation for Quantum Dynamics**|Yinchen Liu et.al.|[2507.07912v1](http://arxiv.org/abs/2507.07912v1)|null|
+|**2025-07-10**|**A statistical physics framework for optimal learning**|Francesca Mignacco et.al.|[2507.07907v1](http://arxiv.org/abs/2507.07907v1)|null|
+|**2025-07-10**|**The effect of fiber plasticity on domain formation in soft biological composites -- Part I: a bifurcation analysis**|Michalis Agoras et.al.|[2507.07843v1](http://arxiv.org/abs/2507.07843v1)|null|
+|**2025-07-10**|**MoSE: Skill-by-Skill Mixture-of-Expert Learning for Autonomous Driving**|Lu Xu et.al.|[2507.07818v1](http://arxiv.org/abs/2507.07818v1)|null|
+|**2025-07-10**|**Probing ultra-high-energy neutrinos with the IceCube-Gen2 in-ice radio array**|Christian Glaser et.al.|[2507.07813v1](http://arxiv.org/abs/2507.07813v1)|null|
+|**2025-07-10**|**When Large Language Models Meet Law: Dual-Lens Taxonomy, Technical Advances, and Ethical Governance**|Peizhang Shao et.al.|[2507.07748v1](http://arxiv.org/abs/2507.07748v1)|null|
+|**2025-07-10**|**Sparse-Dense Side-Tuner for efficient Video Temporal Grounding**|David Pujol-Perich et.al.|[2507.07744v1](http://arxiv.org/abs/2507.07744v1)|null|
+|**2025-07-10**|**Muonium as a probe of point defects in type-Ib diamond**|K. Yokoyama et.al.|[2507.07726v1](http://arxiv.org/abs/2507.07726v1)|null|
+|**2025-07-10**|**Quench spectroscopy for Lieb-Liniger bosons in the presence of harmonic trap**|Jiachen Yu et.al.|[2507.07699v1](http://arxiv.org/abs/2507.07699v1)|null|
+|**2025-07-10**|**KeyKnowledgeRAG (K^2RAG): An Enhanced RAG method for improved LLM question-answering capabilities**|Hruday Markondapatnaikuni et.al.|[2507.07695v1](http://arxiv.org/abs/2507.07695v1)|null|
+|**2025-07-10**|**Accelerating Transposed Convolutions on FPGA-based Edge Devices**|Jude Haris et.al.|[2507.07683v1](http://arxiv.org/abs/2507.07683v1)|null|
+|**2025-07-10**|**Action Unit Enhance Dynamic Facial Expression Recognition**|Feng Liu et.al.|[2507.07678v1](http://arxiv.org/abs/2507.07678v1)|null|
+|**2025-07-10**|**Some Theoretical Results on Layerwise Effective Dimension Oscillations in Finite Width ReLU Networks**|Darshan Makwana et.al.|[2507.07675v1](http://arxiv.org/abs/2507.07675v1)|null|
+|**2025-07-10**|**Effects of One-particle Reduced Density Matrix Optimization in Variational Quantum Eigensolvers**|Amanda Marques de Lima et.al.|[2507.07667v1](http://arxiv.org/abs/2507.07667v1)|null|
+|**2025-07-10**|**Testing Isomorphism of Boolean Functions over Finite Abelian Groups**|Swarnalipa Datta et.al.|[2507.07654v1](http://arxiv.org/abs/2507.07654v1)|null|
+|**2025-07-10**|**Summing Real Time Feynman Paths of Lattice Polaron with Matrix Product States**|Qi Gao et.al.|[2507.07648v1](http://arxiv.org/abs/2507.07648v1)|null|
+|**2025-07-10**|**Consistent and Asymptotically Efficient Localization from Bearing-only Measurements**|Shenghua Hu et.al.|[2507.07647v1](http://arxiv.org/abs/2507.07647v1)|null|
+|**2025-07-10**|**T-GVC: Trajectory-Guided Generative Video Coding at Ultra-Low Bitrates**|Zhitao Wang et.al.|[2507.07633v1](http://arxiv.org/abs/2507.07633v1)|null|
+|**2025-07-10**|**Sparse Causal Discovery with Generative Intervention for Unsupervised Graph Domain Adaptation**|Junyu Luo et.al.|[2507.07621v1](http://arxiv.org/abs/2507.07621v1)|null|
+|**2025-07-10**|**Sparse Self-Federated Learning for Energy Efficient Cooperative Intelligence in Society 5.0**|Davide Domini et.al.|[2507.07613v1](http://arxiv.org/abs/2507.07613v1)|null|
+|**2025-07-10**|**Biquandle Virtual Brackets and Virtual Knotoids**|Neslihan Gügümcü et.al.|[2507.07612v1](http://arxiv.org/abs/2507.07612v1)|null|
+|**2025-07-10**|**LOSC: LiDAR Open-voc Segmentation Consolidator**|Nermin Samet et.al.|[2507.07605v1](http://arxiv.org/abs/2507.07605v1)|null|
+|**2025-07-10**|**Online Quantum State Tomography via Stochastic Gradient Descent**|Jian-Feng Cai et.al.|[2507.07601v1](http://arxiv.org/abs/2507.07601v1)|null|
+|**2025-07-10**|**COALA: Numerically Stable and Efficient Framework for Context-Aware Low-Rank Approximation**|Uliana Parkina et.al.|[2507.07580v1](http://arxiv.org/abs/2507.07580v1)|null|
+|**2025-07-10**|**Sparse Signal Recovery From Quadratic Systems with Full-Rank Matrices**|Jinming Wen et.al.|[2507.07557v1](http://arxiv.org/abs/2507.07557v1)|null|
 
 ## Large-Language Model
 
