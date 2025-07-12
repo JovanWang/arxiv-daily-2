@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-07-12 20:57:18 Asia/Shanghai
+ Automated deployment @ 2025-07-12 21:23:21 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -76,6 +76,42 @@
 |**2025-07-10**|**Online Quantum State Tomography via Stochastic Gradient Descent**|Jian-Feng Cai et.al.|[2507.07601v1](http://arxiv.org/abs/2507.07601v1)|null|
 |**2025-07-10**|**COALA: Numerically Stable and Efficient Framework for Context-Aware Low-Rank Approximation**|Uliana Parkina et.al.|[2507.07580v1](http://arxiv.org/abs/2507.07580v1)|null|
 |**2025-07-10**|**Sparse Signal Recovery From Quadratic Systems with Full-Rank Matrices**|Jinming Wen et.al.|[2507.07557v1](http://arxiv.org/abs/2507.07557v1)|null|
+
+## Large-Language Model
+
+### Large-Language Model
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2025-07-10**|**Impact of Pretraining Word Co-occurrence on Compositional Generalization in Multimodal Models**|Helen Qu et.al.|[2507.08000v1](http://arxiv.org/abs/2507.08000v1)|null|
+|**2025-07-10**|**Traceable Evidence Enhanced Visual Grounded Reasoning: Evaluation and Methodology**|Haochen Wang et.al.|[2507.07999v1](http://arxiv.org/abs/2507.07999v1)|null|
+|**2025-07-10**|**PyVision: Agentic Vision with Dynamic Tooling**|Shitian Zhao et.al.|[2507.07998v1](http://arxiv.org/abs/2507.07998v1)|null|
+|**2025-07-10**|**MGVQ: Could VQ-VAE Beat VAE? A Generalizable Tokenizer with Multi-group Quantization**|Mingkai Jia et.al.|[2507.07997v1](http://arxiv.org/abs/2507.07997v1)|null|
+|**2025-07-10**|**Single-pass Adaptive Image Tokenization for Minimum Program Search**|Shivam Duggal et.al.|[2507.07995v1](http://arxiv.org/abs/2507.07995v1)|null|
+|**2025-07-10**|**Skip a Layer or Loop it? Test-Time Depth Adaptation of Pretrained LLMs**|Ziyue Li et.al.|[2507.07996v1](http://arxiv.org/abs/2507.07996v1)|null|
+|**2025-07-10**|**Doodle Your Keypoints: Sketch-Based Few-Shot Keypoint Detection**|Subhajit Maity et.al.|[2507.07994v1](http://arxiv.org/abs/2507.07994v1)|null|
+|**2025-07-10**|**Multigranular Evaluation for Brain Visual Decoding**|Weihao Xia et.al.|[2507.07993v1](http://arxiv.org/abs/2507.07993v1)|null|
+|**2025-07-10**|**Baryonification II: Constraining feedback with X-ray and kinematic Sunyaev-Zel'dovich observations**|Michael Kovač et.al.|[2507.07991v1](http://arxiv.org/abs/2507.07991v1)|null|
+|**2025-07-10**|**Multi-Granular Spatio-Temporal Token Merging for Training-Free Acceleration of Video LLMs**|Jeongseok Hyun et.al.|[2507.07990v1](http://arxiv.org/abs/2507.07990v1)|null|
+|**2025-07-10**|**Automating Expert-Level Medical Reasoning Evaluation of Large Language Models**|Shuang Zhou et.al.|[2507.07988v1](http://arxiv.org/abs/2507.07988v1)|null|
+|**2025-07-10**|**EXPO: Stable Reinforcement Learning with Expressive Policies**|Perry Dong et.al.|[2507.07986v1](http://arxiv.org/abs/2507.07986v1)|null|
+|**2025-07-10**|**CLIP Won't Learn Object-Attribute Binding from Natural Data and Here is Why**|Bijay Gurung et.al.|[2507.07985v1](http://arxiv.org/abs/2507.07985v1)|null|
+|**2025-07-10**|**OST-Bench: Evaluating the Capabilities of MLLMs in Online Spatio-temporal Scene Understanding**|JingLi Lin et.al.|[2507.07984v1](http://arxiv.org/abs/2507.07984v1)|null|
+|**2025-07-10**|**Performance and Practical Considerations of Large and Small Language Models in Clinical Decision Support in Rheumatology**|Sabine Felde et.al.|[2507.07983v1](http://arxiv.org/abs/2507.07983v1)|null|
+|**2025-07-10**|**Geometry Forcing: Marrying Video Diffusion and 3D Representation for Consistent World Modeling**|Haoyu Wu et.al.|[2507.07982v1](http://arxiv.org/abs/2507.07982v1)|null|
+|**2025-07-10**|**Why is Your Language Model a Poor Implicit Reward Model?**|Noam Razin et.al.|[2507.07981v1](http://arxiv.org/abs/2507.07981v1)|null|
+|**2025-07-10**|**A Service Architecture for Dataspaces**|Benedikt T. Arnold et.al.|[2507.07979v1](http://arxiv.org/abs/2507.07979v1)|null|
+|**2025-07-10**|**Martian World Models: Controllable Video Synthesis with Physically Accurate 3D Reconstructions**|Longfei Li et.al.|[2507.07978v1](http://arxiv.org/abs/2507.07978v1)|null|
+|**2025-07-10**|**Defending Against Prompt Injection With a Few DefensiveTokens**|Sizhe Chen et.al.|[2507.07974v1](http://arxiv.org/abs/2507.07974v1)|null|
+|**2025-07-10**|**Multiple Axions Save High-Scale Inflation**|Dan Kondo et.al.|[2507.07973v1](http://arxiv.org/abs/2507.07973v1)|null|
+|**2025-07-10**|**Spectral networks for polynomial cubic differentials**|Omar Kidwai et.al.|[2507.07971v1](http://arxiv.org/abs/2507.07971v1)|null|
+|**2025-07-10**|**Non-holomorphic Contributions in GMSB with Adjoint Messengers**|Busra Nis et.al.|[2507.07970v1](http://arxiv.org/abs/2507.07970v1)|null|
+|**2025-07-10**|**Constraints from CMB lensing tomography with projected bispectra**|Lea Harscouet et.al.|[2507.07968v1](http://arxiv.org/abs/2507.07968v1)|null|
+|**2025-07-10**|**Scaling RL to Long Videos**|Yukang Chen et.al.|[2507.07966v1](http://arxiv.org/abs/2507.07966v1)|null|
+|**2025-07-10**|**Synthesizing Sun-as-a-star flare spectra from high-resolution solar observations**|M. De Wilde et.al.|[2507.07967v1](http://arxiv.org/abs/2507.07967v1)|null|
+|**2025-07-10**|**Gravitational lensing rarely produces high-mass outliers to the compact binary population**|Amanda Farah et.al.|[2507.07964v1](http://arxiv.org/abs/2507.07964v1)|null|
+|**2025-07-10**|**A Semi-Analytic model for Effects of Fuzzy Dark Matter Granule Perturbations on Orbital Motion**|Yu Zhao et.al.|[2507.07963v1](http://arxiv.org/abs/2507.07963v1)|null|
+|**2025-07-10**|**Sharp estimates of quantum covering problems via a novel trace inequality**|Hao-Chung Cheng et.al.|[2507.07961v1](http://arxiv.org/abs/2507.07961v1)|null|
+|**2025-07-10**|**Spin-only dynamics of the multi-species nonreciprocal Dicke model**|Joseph Jachinowski et.al.|[2507.07960v1](http://arxiv.org/abs/2507.07960v1)|null|
 
 ## AI
 
