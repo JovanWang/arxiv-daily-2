@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-07-17 20:18:32 Asia/Shanghai
+ Automated deployment @ 2025-07-17 21:05:39 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -77,76 +77,6 @@
 |**2025-07-15**|**Lower bounds for dominating set reconfiguration on sparse (directed) graphs**|Jona Dirks et.al.|[2507.11446v1](http://arxiv.org/abs/2507.11446v1)|null|
 |**2025-07-15**|**KisMATH: Do LLMs Have Knowledge of Implicit Structures in Mathematical Reasoning?**|Soumadeep Saha et.al.|[2507.11408v1](http://arxiv.org/abs/2507.11408v1)|null|
 
-## AI
-
-### LLM Agent
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2025-07-16**|**Assessing the Value of Visual Input: A Benchmark of Multimodal Large Language Models for Robotic Path Planning**|Jacinto Colan et.al.|[2507.12391v1](http://arxiv.org/abs/2507.12391v1)|null|
-|**2025-07-16**|**Probing for Arithmetic Errors in Language Models**|Yucheng Sun et.al.|[2507.12379v1](http://arxiv.org/abs/2507.12379v1)|null|
-|**2025-07-16**|**Developing Visual Augmented Q&A System using Scalable Vision Embedding Retrieval & Late Interaction Re-ranker**|Rachna Saxena et.al.|[2507.12378v1](http://arxiv.org/abs/2507.12378v1)|null|
-|**2025-07-16**|**Thought Purity: Defense Paradigm For Chain-of-Thought Attack**|Zihao Xue et.al.|[2507.12314v1](http://arxiv.org/abs/2507.12314v1)|null|
-|**2025-07-16**|**Chain-of-Descriptions: Improving Code LLMs for VHDL Code Generation and Summarization**|Prashanth Vijayaraghavan et.al.|[2507.12308v1](http://arxiv.org/abs/2507.12308v1)|null|
-|**2025-07-16**|**PROL : Rehearsal Free Continual Learning in Streaming Data via Prompt Online Learning**|M. Anwar Ma'sum et.al.|[2507.12305v1](http://arxiv.org/abs/2507.12305v1)|null|
-|**2025-07-16**|**Humans are more gullible than LLMs in believing common psychological myths**|Bevan Koopman et.al.|[2507.12296v1](http://arxiv.org/abs/2507.12296v1)|null|
-|**2025-07-16**|**MGFFD-VLM: Multi-Granularity Prompt Learning for Face Forgery Detection with VLM**|Tao Chen et.al.|[2507.12232v1](http://arxiv.org/abs/2507.12232v1)|null|
-|**2025-07-16**|**Draw an Ugly Person An Exploration of Generative AIs Perceptions of Ugliness**|Garyoung Kim et.al.|[2507.12212v1](http://arxiv.org/abs/2507.12212v1)|null|
-|**2025-07-16**|**LidarPainter: One-Step Away From Any Lidar View To Novel Guidance**|Yuzhou Ji et.al.|[2507.12114v1](http://arxiv.org/abs/2507.12114v1)|null|
-|**2025-07-16**|**LLAMA: Multi-Feedback Smart Contract Fuzzing Framework with LLM-Guided Seed Generation**|Keke Gai et.al.|[2507.12084v1](http://arxiv.org/abs/2507.12084v1)|null|
-|**2025-07-16**|**High spin kaons**|Ya-Rong Wang et.al.|[2507.12072v1](http://arxiv.org/abs/2507.12072v1)|null|
-|**2025-07-16**|**SAMST: A Transformer framework based on SAM pseudo label filtering for remote sensing semi-supervised semantic segmentation**|Jun Yin et.al.|[2507.11994v1](http://arxiv.org/abs/2507.11994v1)|null|
-|**2025-07-16**|**Style Composition within Distinct LoRA modules for Traditional Art**|Jaehyun Lee et.al.|[2507.11986v1](http://arxiv.org/abs/2507.11986v1)|null|
-|**2025-07-16**|**Simplifications are Absolutists: How Simplified Language Reduces Word Sense Awareness in LLM-Generated Definitions**|Lukas Ellinger et.al.|[2507.11981v1](http://arxiv.org/abs/2507.11981v1)|null|
-|**2025-07-16**|**Value-Based Large Language Model Agent Simulation for Mutual Evaluation of Trust and Interpersonal Closeness**|Yuki Sakamoto et.al.|[2507.11979v1](http://arxiv.org/abs/2507.11979v1)|null|
-|**2025-07-16**|**Graph Representations for Reading Comprehension Analysis using Large Language Model and Eye-Tracking Biomarker**|Yuhong Zhang et.al.|[2507.11972v1](http://arxiv.org/abs/2507.11972v1)|null|
-|**2025-07-16**|**GS-Bias: Global-Spatial Bias Learner for Single-Image Test-Time Adaptation of Vision-Language Models**|Zhaohong Huang et.al.|[2507.11969v1](http://arxiv.org/abs/2507.11969v1)|null|
-|**2025-07-16**|**Toxicity-Aware Few-Shot Prompting for Low-Resource Singlish Translation**|Ziyu Ge et.al.|[2507.11966v1](http://arxiv.org/abs/2507.11966v1)|null|
-|**2025-07-16**|**RaDL: Relation-aware Disentangled Learning for Multi-Instance Text-to-Image Generation**|Geon Park et.al.|[2507.11947v1](http://arxiv.org/abs/2507.11947v1)|null|
-|**2025-07-16**|**DAC: A Dynamic Attention-aware Approach for Task-Agnostic Prompt Compression**|Yi Zhao et.al.|[2507.11942v1](http://arxiv.org/abs/2507.11942v1)|null|
-|**2025-07-16**|**Marco-Bench-MIF: On Multilingual Instruction-Following Capability of Large Language Models**|Bo Zeng et.al.|[2507.11882v1](http://arxiv.org/abs/2507.11882v1)|null|
-|**2025-07-15**|**Analyzing the free states of one quantum resource theory as resource states of another**|Andrew E. Deneris et.al.|[2507.11793v1](http://arxiv.org/abs/2507.11793v1)|null|
-|**2025-07-15**|**Jailbreak-Tuning: Models Efficiently Learn Jailbreak Susceptibility**|Brendan Murphy et.al.|[2507.11630v1](http://arxiv.org/abs/2507.11630v1)|null|
-|**2025-07-15**|**How Many Instructions Can LLMs Follow at Once?**|Daniel Jaroslawicz et.al.|[2507.11538v1](http://arxiv.org/abs/2507.11538v1)|null|
-|**2025-07-15**|**LLM-based ambiguity detection in natural language instructions for collaborative surgical robots**|Ana Davila et.al.|[2507.11525v1](http://arxiv.org/abs/2507.11525v1)|null|
-|**2025-07-15**|**Enhancing the Clique Local Decoder to Correct Length-2 Space Errors in the Surface Code**|Zikang Jia et.al.|[2507.11481v1](http://arxiv.org/abs/2507.11481v1)|null|
-|**2025-07-15**|**LRMR: LLM-Driven Relational Multi-node Ranking for Lymph Node Metastasis Assessment in Rectal Cancer**|Yaoxian Dong et.al.|[2507.11457v1](http://arxiv.org/abs/2507.11457v1)|null|
-|**2025-07-15**|**FasTUSS: Faster Task-Aware Unified Source Separation**|Francesco Paissan et.al.|[2507.11435v1](http://arxiv.org/abs/2507.11435v1)|null|
-|**2025-07-15**|**Reasoning Strategies in Large Language Models: Can They Follow, Prefer, and Optimize?**|Yanjian Zhang et.al.|[2507.11423v2](http://arxiv.org/abs/2507.11423v2)|null|
-
-### LLM Theory
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2025-07-16**|**PhysX: Physical-Grounded 3D Asset Generation**|Ziang Cao et.al.|[2507.12465v1](http://arxiv.org/abs/2507.12465v1)|null|
-|**2025-07-16**|**SpatialTrackerV2: 3D Point Tracking Made Easy**|Yuxi Xiao et.al.|[2507.12462v1](http://arxiv.org/abs/2507.12462v1)|null|
-|**2025-07-16**|**Interpreting Radiologist's Intention from Eye Movements in Chest X-ray Diagnosis**|Trong-Thang Pham et.al.|[2507.12461v1](http://arxiv.org/abs/2507.12461v1)|null|
-|**2025-07-16**|**Cost-aware Stopping for Bayesian Optimization**|Qian Xie et.al.|[2507.12453v1](http://arxiv.org/abs/2507.12453v1)|null|
-|**2025-07-16**|**Jenga-Krotov algorithm: Efficient compilation of multi-qubit gates for exchange-only qubits**|Jiahao Wu et.al.|[2507.12448v1](http://arxiv.org/abs/2507.12448v1)|null|
-|**2025-07-16**|**CRAFT: Latency and Cost-Aware Genetic-Based Framework for Node Placement in Edge-Fog Environments**|Soheil Mahdizadeh et.al.|[2507.12445v1](http://arxiv.org/abs/2507.12445v1)|null|
-|**2025-07-16**|**BitWave: Exploiting Column-Based Bit-Level Sparsity for Deep Learning Acceleration**|Man Shi et.al.|[2507.12444v1](http://arxiv.org/abs/2507.12444v1)|null|
-|**2025-07-16**|**LLM-Based Config Synthesis requires Disambiguation**|Rajdeep Mondal et.al.|[2507.12443v1](http://arxiv.org/abs/2507.12443v1)|null|
-|**2025-07-16**|**Characterizing State Space Model (SSM) and SSM-Transformer Hybrid Language Model Performance with Long Context Length**|Saptarshi Mitra et.al.|[2507.12442v1](http://arxiv.org/abs/2507.12442v1)|null|
-|**2025-07-16**|**Targeted Deep Architectures: A TMLE-Based Framework for Robust Causal Inference in Neural Networks**|Yi Li et.al.|[2507.12435v1](http://arxiv.org/abs/2507.12435v1)|null|
-|**2025-07-16**|**Design and Development of an Automated Contact Angle Tester (ACAT) for Surface Wettability Measurement**|Connor Burgess et.al.|[2507.12431v1](http://arxiv.org/abs/2507.12431v1)|null|
-|**2025-07-16**|**Can We Predict Alignment Before Models Finish Thinking? Towards Monitoring Misaligned Reasoning Models**|Yik Siu Chan et.al.|[2507.12428v1](http://arxiv.org/abs/2507.12428v1)|null|
-|**2025-07-16**|**DVFL-Net: A Lightweight Distilled Video Focal Modulation Network for Spatio-Temporal Action Recognition**|Hayat Ullah et.al.|[2507.12426v1](http://arxiv.org/abs/2507.12426v1)|null|
-|**2025-07-16**|**Mixture of Raytraced Experts**|Andrea Perin et.al.|[2507.12419v1](http://arxiv.org/abs/2507.12419v1)|null|
-|**2025-07-16**|**High-Performance Pipelined NTT Accelerators with Homogeneous Digit-Serial Modulo Arithmetic**|George Alexakis et.al.|[2507.12418v1](http://arxiv.org/abs/2507.12418v1)|null|
-|**2025-07-16**|**OD-VIRAT: A Large-Scale Benchmark for Object Detection in Realistic Surveillance Environments**|Hayat Ullah et.al.|[2507.12396v1](http://arxiv.org/abs/2507.12396v1)|null|
-|**2025-07-16**|**Invariant non-equilibrium dynamics of transcriptional regulation optimize information flow**|Benjamin Zoller et.al.|[2507.12395v1](http://arxiv.org/abs/2507.12395v1)|null|
-|**2025-07-16**|**Towards dislocation-driven quantum interconnects**|Cunzhi Zhang et.al.|[2507.12387v1](http://arxiv.org/abs/2507.12387v1)|null|
-|**2025-07-16**|**Heat Kernel Goes Topological**|Maximilian Krahn et.al.|[2507.12380v1](http://arxiv.org/abs/2507.12380v1)|null|
-|**2025-07-16**|**Probing for Arithmetic Errors in Language Models**|Yucheng Sun et.al.|[2507.12379v1](http://arxiv.org/abs/2507.12379v1)|null|
-|**2025-07-16**|**Beyond Single Models: Enhancing LLM Detection of Ambiguity in Requests through Debate**|Ana Davila et.al.|[2507.12370v1](http://arxiv.org/abs/2507.12370v1)|null|
-|**2025-07-16**|**Efficient Control Flow Attestation by Speculating on Control Flow Path Representations**|Liam Tyler et.al.|[2507.12345v1](http://arxiv.org/abs/2507.12345v1)|null|
-|**2025-07-16**|**Neural Polar Decoders for Deletion Channels**|Ziv Aharoni et.al.|[2507.12329v1](http://arxiv.org/abs/2507.12329v1)|null|
-|**2025-07-16**|**Thought Purity: Defense Paradigm For Chain-of-Thought Attack**|Zihao Xue et.al.|[2507.12314v1](http://arxiv.org/abs/2507.12314v1)|null|
-|**2025-07-16**|**Chain-of-Descriptions: Improving Code LLMs for VHDL Code Generation and Summarization**|Prashanth Vijayaraghavan et.al.|[2507.12308v1](http://arxiv.org/abs/2507.12308v1)|null|
-|**2025-07-16**|**Constraining shear modulus of polycrystalline neutron star crust: Hashin-Shtrikman variational approach**|Nikita A. Zemlyakov et.al.|[2507.12266v1](http://arxiv.org/abs/2507.12266v1)|null|
-|**2025-07-16**|**FastReChain: Highly Responsive and Low-Overhead Centralized Route Scheduling in Clos Datacenter Networks**|Zihan Zhu et.al.|[2507.12265v1](http://arxiv.org/abs/2507.12265v1)|null|
-|**2025-07-16**|**Design Automation in Quantum Error Correction**|Archisman Ghosh et.al.|[2507.12253v1](http://arxiv.org/abs/2507.12253v1)|null|
-|**2025-07-16**|**Optimizers Qualitatively Alter Solutions And We Should Leverage This**|Razvan Pascanu et.al.|[2507.12224v1](http://arxiv.org/abs/2507.12224v1)|null|
-|**2025-07-16**|**Cell Sensing: Traffic detection**|Saúl Fenollosa et.al.|[2507.12211v1](http://arxiv.org/abs/2507.12211v1)|null|
-
 ## Large-Language Model
 
 ### Large-Language Model
@@ -182,6 +112,76 @@
 |**2025-07-16**|**Hierarchical Temporal Point Process Modeling of Aggressive Behavior Onset in Psychiatric Inpatient Youth with Autism for Branching Factor Estimation**|Michael Potter et.al.|[2507.12424v1](http://arxiv.org/abs/2507.12424v1)|null|
 |**2025-07-16**|**Effect of a downstream vertical wall on the rise regime of an isolated bubble: an experimental study**|T. González-Rubio et.al.|[2507.12422v1](http://arxiv.org/abs/2507.12422v1)|null|
 |**2025-07-16**|**InterpIoU: Rethinking Bounding Box Regression with Interpolation-Based IoU Optimization**|Haoyuan Liu et.al.|[2507.12420v1](http://arxiv.org/abs/2507.12420v1)|null|
+
+## AI
+
+### LLM Theory
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2025-07-16**|**PhysX: Physical-Grounded 3D Asset Generation**|Ziang Cao et.al.|[2507.12465v1](http://arxiv.org/abs/2507.12465v1)|null|
+|**2025-07-16**|**SpatialTrackerV2: 3D Point Tracking Made Easy**|Yuxi Xiao et.al.|[2507.12462v1](http://arxiv.org/abs/2507.12462v1)|null|
+|**2025-07-16**|**Interpreting Radiologist's Intention from Eye Movements in Chest X-ray Diagnosis**|Trong-Thang Pham et.al.|[2507.12461v1](http://arxiv.org/abs/2507.12461v1)|null|
+|**2025-07-16**|**Cost-aware Stopping for Bayesian Optimization**|Qian Xie et.al.|[2507.12453v1](http://arxiv.org/abs/2507.12453v1)|null|
+|**2025-07-16**|**Jenga-Krotov algorithm: Efficient compilation of multi-qubit gates for exchange-only qubits**|Jiahao Wu et.al.|[2507.12448v1](http://arxiv.org/abs/2507.12448v1)|null|
+|**2025-07-16**|**CRAFT: Latency and Cost-Aware Genetic-Based Framework for Node Placement in Edge-Fog Environments**|Soheil Mahdizadeh et.al.|[2507.12445v1](http://arxiv.org/abs/2507.12445v1)|null|
+|**2025-07-16**|**BitWave: Exploiting Column-Based Bit-Level Sparsity for Deep Learning Acceleration**|Man Shi et.al.|[2507.12444v1](http://arxiv.org/abs/2507.12444v1)|null|
+|**2025-07-16**|**LLM-Based Config Synthesis requires Disambiguation**|Rajdeep Mondal et.al.|[2507.12443v1](http://arxiv.org/abs/2507.12443v1)|null|
+|**2025-07-16**|**Characterizing State Space Model (SSM) and SSM-Transformer Hybrid Language Model Performance with Long Context Length**|Saptarshi Mitra et.al.|[2507.12442v1](http://arxiv.org/abs/2507.12442v1)|null|
+|**2025-07-16**|**Targeted Deep Architectures: A TMLE-Based Framework for Robust Causal Inference in Neural Networks**|Yi Li et.al.|[2507.12435v1](http://arxiv.org/abs/2507.12435v1)|null|
+|**2025-07-16**|**Design and Development of an Automated Contact Angle Tester (ACAT) for Surface Wettability Measurement**|Connor Burgess et.al.|[2507.12431v1](http://arxiv.org/abs/2507.12431v1)|null|
+|**2025-07-16**|**Can We Predict Alignment Before Models Finish Thinking? Towards Monitoring Misaligned Reasoning Models**|Yik Siu Chan et.al.|[2507.12428v1](http://arxiv.org/abs/2507.12428v1)|null|
+|**2025-07-16**|**DVFL-Net: A Lightweight Distilled Video Focal Modulation Network for Spatio-Temporal Action Recognition**|Hayat Ullah et.al.|[2507.12426v1](http://arxiv.org/abs/2507.12426v1)|null|
+|**2025-07-16**|**Mixture of Raytraced Experts**|Andrea Perin et.al.|[2507.12419v1](http://arxiv.org/abs/2507.12419v1)|null|
+|**2025-07-16**|**High-Performance Pipelined NTT Accelerators with Homogeneous Digit-Serial Modulo Arithmetic**|George Alexakis et.al.|[2507.12418v1](http://arxiv.org/abs/2507.12418v1)|null|
+|**2025-07-16**|**OD-VIRAT: A Large-Scale Benchmark for Object Detection in Realistic Surveillance Environments**|Hayat Ullah et.al.|[2507.12396v1](http://arxiv.org/abs/2507.12396v1)|null|
+|**2025-07-16**|**Invariant non-equilibrium dynamics of transcriptional regulation optimize information flow**|Benjamin Zoller et.al.|[2507.12395v1](http://arxiv.org/abs/2507.12395v1)|null|
+|**2025-07-16**|**Towards dislocation-driven quantum interconnects**|Cunzhi Zhang et.al.|[2507.12387v1](http://arxiv.org/abs/2507.12387v1)|null|
+|**2025-07-16**|**Heat Kernel Goes Topological**|Maximilian Krahn et.al.|[2507.12380v1](http://arxiv.org/abs/2507.12380v1)|null|
+|**2025-07-16**|**Probing for Arithmetic Errors in Language Models**|Yucheng Sun et.al.|[2507.12379v1](http://arxiv.org/abs/2507.12379v1)|null|
+|**2025-07-16**|**Beyond Single Models: Enhancing LLM Detection of Ambiguity in Requests through Debate**|Ana Davila et.al.|[2507.12370v1](http://arxiv.org/abs/2507.12370v1)|null|
+|**2025-07-16**|**Efficient Control Flow Attestation by Speculating on Control Flow Path Representations**|Liam Tyler et.al.|[2507.12345v1](http://arxiv.org/abs/2507.12345v1)|null|
+|**2025-07-16**|**Neural Polar Decoders for Deletion Channels**|Ziv Aharoni et.al.|[2507.12329v1](http://arxiv.org/abs/2507.12329v1)|null|
+|**2025-07-16**|**Thought Purity: Defense Paradigm For Chain-of-Thought Attack**|Zihao Xue et.al.|[2507.12314v1](http://arxiv.org/abs/2507.12314v1)|null|
+|**2025-07-16**|**Chain-of-Descriptions: Improving Code LLMs for VHDL Code Generation and Summarization**|Prashanth Vijayaraghavan et.al.|[2507.12308v1](http://arxiv.org/abs/2507.12308v1)|null|
+|**2025-07-16**|**Constraining shear modulus of polycrystalline neutron star crust: Hashin-Shtrikman variational approach**|Nikita A. Zemlyakov et.al.|[2507.12266v1](http://arxiv.org/abs/2507.12266v1)|null|
+|**2025-07-16**|**FastReChain: Highly Responsive and Low-Overhead Centralized Route Scheduling in Clos Datacenter Networks**|Zihan Zhu et.al.|[2507.12265v1](http://arxiv.org/abs/2507.12265v1)|null|
+|**2025-07-16**|**Design Automation in Quantum Error Correction**|Archisman Ghosh et.al.|[2507.12253v1](http://arxiv.org/abs/2507.12253v1)|null|
+|**2025-07-16**|**Optimizers Qualitatively Alter Solutions And We Should Leverage This**|Razvan Pascanu et.al.|[2507.12224v1](http://arxiv.org/abs/2507.12224v1)|null|
+|**2025-07-16**|**Cell Sensing: Traffic detection**|Saúl Fenollosa et.al.|[2507.12211v1](http://arxiv.org/abs/2507.12211v1)|null|
+
+### LLM Agent
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2025-07-16**|**Assessing the Value of Visual Input: A Benchmark of Multimodal Large Language Models for Robotic Path Planning**|Jacinto Colan et.al.|[2507.12391v1](http://arxiv.org/abs/2507.12391v1)|null|
+|**2025-07-16**|**Probing for Arithmetic Errors in Language Models**|Yucheng Sun et.al.|[2507.12379v1](http://arxiv.org/abs/2507.12379v1)|null|
+|**2025-07-16**|**Developing Visual Augmented Q&A System using Scalable Vision Embedding Retrieval & Late Interaction Re-ranker**|Rachna Saxena et.al.|[2507.12378v1](http://arxiv.org/abs/2507.12378v1)|null|
+|**2025-07-16**|**Thought Purity: Defense Paradigm For Chain-of-Thought Attack**|Zihao Xue et.al.|[2507.12314v1](http://arxiv.org/abs/2507.12314v1)|null|
+|**2025-07-16**|**Chain-of-Descriptions: Improving Code LLMs for VHDL Code Generation and Summarization**|Prashanth Vijayaraghavan et.al.|[2507.12308v1](http://arxiv.org/abs/2507.12308v1)|null|
+|**2025-07-16**|**PROL : Rehearsal Free Continual Learning in Streaming Data via Prompt Online Learning**|M. Anwar Ma'sum et.al.|[2507.12305v1](http://arxiv.org/abs/2507.12305v1)|null|
+|**2025-07-16**|**Humans are more gullible than LLMs in believing common psychological myths**|Bevan Koopman et.al.|[2507.12296v1](http://arxiv.org/abs/2507.12296v1)|null|
+|**2025-07-16**|**MGFFD-VLM: Multi-Granularity Prompt Learning for Face Forgery Detection with VLM**|Tao Chen et.al.|[2507.12232v1](http://arxiv.org/abs/2507.12232v1)|null|
+|**2025-07-16**|**Draw an Ugly Person An Exploration of Generative AIs Perceptions of Ugliness**|Garyoung Kim et.al.|[2507.12212v1](http://arxiv.org/abs/2507.12212v1)|null|
+|**2025-07-16**|**LidarPainter: One-Step Away From Any Lidar View To Novel Guidance**|Yuzhou Ji et.al.|[2507.12114v1](http://arxiv.org/abs/2507.12114v1)|null|
+|**2025-07-16**|**LLAMA: Multi-Feedback Smart Contract Fuzzing Framework with LLM-Guided Seed Generation**|Keke Gai et.al.|[2507.12084v1](http://arxiv.org/abs/2507.12084v1)|null|
+|**2025-07-16**|**High spin kaons**|Ya-Rong Wang et.al.|[2507.12072v1](http://arxiv.org/abs/2507.12072v1)|null|
+|**2025-07-16**|**SAMST: A Transformer framework based on SAM pseudo label filtering for remote sensing semi-supervised semantic segmentation**|Jun Yin et.al.|[2507.11994v1](http://arxiv.org/abs/2507.11994v1)|null|
+|**2025-07-16**|**Style Composition within Distinct LoRA modules for Traditional Art**|Jaehyun Lee et.al.|[2507.11986v1](http://arxiv.org/abs/2507.11986v1)|null|
+|**2025-07-16**|**Simplifications are Absolutists: How Simplified Language Reduces Word Sense Awareness in LLM-Generated Definitions**|Lukas Ellinger et.al.|[2507.11981v1](http://arxiv.org/abs/2507.11981v1)|null|
+|**2025-07-16**|**Value-Based Large Language Model Agent Simulation for Mutual Evaluation of Trust and Interpersonal Closeness**|Yuki Sakamoto et.al.|[2507.11979v1](http://arxiv.org/abs/2507.11979v1)|null|
+|**2025-07-16**|**Graph Representations for Reading Comprehension Analysis using Large Language Model and Eye-Tracking Biomarker**|Yuhong Zhang et.al.|[2507.11972v1](http://arxiv.org/abs/2507.11972v1)|null|
+|**2025-07-16**|**GS-Bias: Global-Spatial Bias Learner for Single-Image Test-Time Adaptation of Vision-Language Models**|Zhaohong Huang et.al.|[2507.11969v1](http://arxiv.org/abs/2507.11969v1)|null|
+|**2025-07-16**|**Toxicity-Aware Few-Shot Prompting for Low-Resource Singlish Translation**|Ziyu Ge et.al.|[2507.11966v1](http://arxiv.org/abs/2507.11966v1)|null|
+|**2025-07-16**|**RaDL: Relation-aware Disentangled Learning for Multi-Instance Text-to-Image Generation**|Geon Park et.al.|[2507.11947v1](http://arxiv.org/abs/2507.11947v1)|null|
+|**2025-07-16**|**DAC: A Dynamic Attention-aware Approach for Task-Agnostic Prompt Compression**|Yi Zhao et.al.|[2507.11942v1](http://arxiv.org/abs/2507.11942v1)|null|
+|**2025-07-16**|**Marco-Bench-MIF: On Multilingual Instruction-Following Capability of Large Language Models**|Bo Zeng et.al.|[2507.11882v1](http://arxiv.org/abs/2507.11882v1)|null|
+|**2025-07-15**|**Analyzing the free states of one quantum resource theory as resource states of another**|Andrew E. Deneris et.al.|[2507.11793v1](http://arxiv.org/abs/2507.11793v1)|null|
+|**2025-07-15**|**Jailbreak-Tuning: Models Efficiently Learn Jailbreak Susceptibility**|Brendan Murphy et.al.|[2507.11630v1](http://arxiv.org/abs/2507.11630v1)|null|
+|**2025-07-15**|**How Many Instructions Can LLMs Follow at Once?**|Daniel Jaroslawicz et.al.|[2507.11538v1](http://arxiv.org/abs/2507.11538v1)|null|
+|**2025-07-15**|**LLM-based ambiguity detection in natural language instructions for collaborative surgical robots**|Ana Davila et.al.|[2507.11525v1](http://arxiv.org/abs/2507.11525v1)|null|
+|**2025-07-15**|**Enhancing the Clique Local Decoder to Correct Length-2 Space Errors in the Surface Code**|Zikang Jia et.al.|[2507.11481v1](http://arxiv.org/abs/2507.11481v1)|null|
+|**2025-07-15**|**LRMR: LLM-Driven Relational Multi-node Ranking for Lymph Node Metastasis Assessment in Rectal Cancer**|Yaoxian Dong et.al.|[2507.11457v1](http://arxiv.org/abs/2507.11457v1)|null|
+|**2025-07-15**|**FasTUSS: Faster Task-Aware Unified Source Separation**|Francesco Paissan et.al.|[2507.11435v1](http://arxiv.org/abs/2507.11435v1)|null|
+|**2025-07-15**|**Reasoning Strategies in Large Language Models: Can They Follow, Prefer, and Optimize?**|Yanjian Zhang et.al.|[2507.11423v2](http://arxiv.org/abs/2507.11423v2)|null|
 
 ## Code Compile
 
