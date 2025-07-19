@@ -1,5 +1,5 @@
 # arxiv-daily
- Automated deployment @ 2025-07-19 10:32:17 Asia/Shanghai
+ Automated deployment @ 2025-07-19 20:15:51 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
 
@@ -8,40 +8,6 @@
 ### Sparse Operator
 |Publish Date|Title|Authors|PDF|Code|
 | :---: | :---: | :---: | :---: | :---: |
-
-### Sparse Data Format
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
-|**2025-07-17**|**Diffuman4D: 4D Consistent Human View Synthesis from Sparse-View Videos with Spatio-Temporal Diffusion Models**|Yudong Jin et.al.|[2507.13344v1](http://arxiv.org/abs/2507.13344v1)|null|
-|**2025-07-17**|**Simple ways of preparing qudit Dicke states**|Noah B. Kerzner et.al.|[2507.13308v1](http://arxiv.org/abs/2507.13308v1)|null|
-|**2025-07-17**|**Efficiently Constructing Sparse Navigable Graphs**|Alex Conway et.al.|[2507.13296v1](http://arxiv.org/abs/2507.13296v1)|null|
-|**2025-07-17**|**Efficient Adaptation of Pre-trained Vision Transformer underpinned by Approximately Orthogonal Fine-Tuning Strategy**|Yiting Yang et.al.|[2507.13260v1](http://arxiv.org/abs/2507.13260v1)|null|
-|**2025-07-17**|**VITA: Vision-to-Action Flow Matching Policy**|Dechen Gao et.al.|[2507.13231v1](http://arxiv.org/abs/2507.13231v1)|null|
-|**2025-07-17**|**Topology-Enhanced Superconducting Qubit Networks for In-Sensor Quantum Information Processing**|J. Settino et.al.|[2507.13228v1](http://arxiv.org/abs/2507.13228v1)|null|
-|**2025-07-17**|**Vertex functions for bow varieties and their Mirror Symmetry**|Tommaso Maria Botta et.al.|[2507.13219v1](http://arxiv.org/abs/2507.13219v1)|null|
-|**2025-07-17**|**Aligning Humans and Robots via Reinforcement Learning from Implicit Human Feedback**|Suzie Kim et.al.|[2507.13171v1](http://arxiv.org/abs/2507.13171v1)|null|
-|**2025-07-17**|**Inverse Reinforcement Learning Meets Large Language Model Post-Training: Basics, Advances, and Opportunities**|Hao Sun et.al.|[2507.13158v1](http://arxiv.org/abs/2507.13158v1)|null|
-|**2025-07-17**|**DINO-VO: A Feature-based Visual Odometry Leveraging a Visual Foundation Model**|Maulana Bisyir Azhari et.al.|[2507.13145v1](http://arxiv.org/abs/2507.13145v1)|null|
-|**2025-07-17**|**Generalized Scattering Matrix Framework for Modeling Implantable Antennas in Multilayered Spherical Media**|Chenbo Shi et.al.|[2507.13119v1](http://arxiv.org/abs/2507.13119v1)|null|
-|**2025-07-17**|**Leveraging Language Prior for Infrared Small Target Detection**|Pranav Singh et.al.|[2507.13113v1](http://arxiv.org/abs/2507.13113v1)|null|
-|**2025-07-17**|**Geometry of quantum states and chaos-integrability transition**|Ankit Gill et.al.|[2507.13067v1](http://arxiv.org/abs/2507.13067v1)|null|
-|**2025-07-17**|**High Performance Parallel Solvers for the time-harmonic Maxwell Equations**|Elise Fressart et.al.|[2507.13066v1](http://arxiv.org/abs/2507.13066v1)|null|
-|**2025-07-17**|**Efficient Online Learning and Adaptive Planning for Robotic Information Gathering Based on Streaming Data**|Sanjeev Ramkumar Sudha et.al.|[2507.13053v1](http://arxiv.org/abs/2507.13053v1)|null|
-|**2025-07-17**|**Teach Old SAEs New Domain Tricks with Boosting**|Nikita Koriagin et.al.|[2507.12990v1](http://arxiv.org/abs/2507.12990v1)|null|
-|**2025-07-17**|**Harmonic generation of graphene quantum dots in Hartree-Fock approximation**|Kainan Chang et.al.|[2507.12982v1](http://arxiv.org/abs/2507.12982v1)|null|
-|**2025-07-17**|**Analytic Gravitational Wave Spectrum in Next-to-Minimal Bouncing Cosmology**|Changhong Li et.al.|[2507.12968v1](http://arxiv.org/abs/2507.12968v1)|null|
-|**2025-07-17**|**LoViC: Efficient Long Video Generation with Context Compression**|Jiaxiu Jiang et.al.|[2507.12952v1](http://arxiv.org/abs/2507.12952v1)|null|
-|**2025-07-17**|**Insights into a radiology-specialised multimodal large language model with sparse autoencoders**|Kenza Bouzid et.al.|[2507.12950v1](http://arxiv.org/abs/2507.12950v1)|null|
-|**2025-07-17**|**From a Mixed-Policy Perspective: Improving Differentiable Automatic Post-editing Optimization**|Hongze Tan et.al.|[2507.12931v1](http://arxiv.org/abs/2507.12931v1)|null|
-|**2025-07-17**|**An ultra-low-power CGRA for accelerating Transformers at the edge**|Rohit Prasad et.al.|[2507.12904v1](http://arxiv.org/abs/2507.12904v1)|null|
-|**2025-07-17**|**Unsupervised Techniques to Detect Quantum Chaos**|Dmitry Nemirovsky et.al.|[2507.12887v1](http://arxiv.org/abs/2507.12887v1)|null|
-|**2025-07-17**|**Robust Beamforming Design for Secure Near-Field ISAC Systems**|Ziqiang CHen et.al.|[2507.12881v1](http://arxiv.org/abs/2507.12881v1)|null|
-|**2025-07-17**|**Supervised Fine Tuning on Curated Data is Reinforcement Learning (and can be improved)**|Chongli Qin et.al.|[2507.12856v1](http://arxiv.org/abs/2507.12856v1)|null|
-|**2025-07-17**|**Understanding the Evolution of the Neural Tangent Kernel at the Edge of Stability**|Kaiqi Jiang et.al.|[2507.12837v1](http://arxiv.org/abs/2507.12837v1)|null|
-|**2025-07-17**|**Sample-Constrained Black Box Optimization for Audio Personalization**|Rajalaxmi Rajagopalan et.al.|[2507.12773v1](http://arxiv.org/abs/2507.12773v1)|null|
-|**2025-07-17**|**The Total Coloring Conjecture holds for planar graphs without three special subgraphs**|Rongjin Su et.al.|[2507.12737v1](http://arxiv.org/abs/2507.12737v1)|null|
-|**2025-07-17**|**Tensor-Tensor Products, Group Representations, and Semidefinite Programming**|Alex Dunbar et.al.|[2507.12729v1](http://arxiv.org/abs/2507.12729v1)|null|
-|**2025-07-17**|**Fast Consensus over Almost Regular Directed Graphs**|Susie Lu et.al.|[2507.12726v1](http://arxiv.org/abs/2507.12726v1)|null|
 
 ### Sparse program Compile
 |Publish Date|Title|Authors|PDF|Code|
@@ -76,6 +42,40 @@
 |**2025-07-16**|**Toward Efficient SpMV in Sparse LLMs via Block Extraction and Compressed Storage**|Junqing Lin et.al.|[2507.12205v1](http://arxiv.org/abs/2507.12205v1)|null|
 |**2025-07-16**|**Sparse Autoencoders for Sequential Recommendation Models: Interpretation and Flexible Control**|Anton Klenitskiy et.al.|[2507.12202v1](http://arxiv.org/abs/2507.12202v1)|null|
 |**2025-07-16**|**Optimized Qubit Routing for Commuting Gates via Integer Programming**|Moritz Stargalla et.al.|[2507.12199v1](http://arxiv.org/abs/2507.12199v1)|null|
+
+### Sparse Data Format
+|Publish Date|Title|Authors|PDF|Code|
+| :---: | :---: | :---: | :---: | :---: |
+|**2025-07-17**|**Diffuman4D: 4D Consistent Human View Synthesis from Sparse-View Videos with Spatio-Temporal Diffusion Models**|Yudong Jin et.al.|[2507.13344v1](http://arxiv.org/abs/2507.13344v1)|null|
+|**2025-07-17**|**Simple ways of preparing qudit Dicke states**|Noah B. Kerzner et.al.|[2507.13308v1](http://arxiv.org/abs/2507.13308v1)|null|
+|**2025-07-17**|**Efficiently Constructing Sparse Navigable Graphs**|Alex Conway et.al.|[2507.13296v1](http://arxiv.org/abs/2507.13296v1)|null|
+|**2025-07-17**|**Efficient Adaptation of Pre-trained Vision Transformer underpinned by Approximately Orthogonal Fine-Tuning Strategy**|Yiting Yang et.al.|[2507.13260v1](http://arxiv.org/abs/2507.13260v1)|null|
+|**2025-07-17**|**VITA: Vision-to-Action Flow Matching Policy**|Dechen Gao et.al.|[2507.13231v1](http://arxiv.org/abs/2507.13231v1)|null|
+|**2025-07-17**|**Topology-Enhanced Superconducting Qubit Networks for In-Sensor Quantum Information Processing**|J. Settino et.al.|[2507.13228v1](http://arxiv.org/abs/2507.13228v1)|null|
+|**2025-07-17**|**Vertex functions for bow varieties and their Mirror Symmetry**|Tommaso Maria Botta et.al.|[2507.13219v1](http://arxiv.org/abs/2507.13219v1)|null|
+|**2025-07-17**|**Aligning Humans and Robots via Reinforcement Learning from Implicit Human Feedback**|Suzie Kim et.al.|[2507.13171v1](http://arxiv.org/abs/2507.13171v1)|null|
+|**2025-07-17**|**Inverse Reinforcement Learning Meets Large Language Model Post-Training: Basics, Advances, and Opportunities**|Hao Sun et.al.|[2507.13158v1](http://arxiv.org/abs/2507.13158v1)|null|
+|**2025-07-17**|**DINO-VO: A Feature-based Visual Odometry Leveraging a Visual Foundation Model**|Maulana Bisyir Azhari et.al.|[2507.13145v1](http://arxiv.org/abs/2507.13145v1)|null|
+|**2025-07-17**|**Generalized Scattering Matrix Framework for Modeling Implantable Antennas in Multilayered Spherical Media**|Chenbo Shi et.al.|[2507.13119v1](http://arxiv.org/abs/2507.13119v1)|null|
+|**2025-07-17**|**Leveraging Language Prior for Infrared Small Target Detection**|Pranav Singh et.al.|[2507.13113v1](http://arxiv.org/abs/2507.13113v1)|null|
+|**2025-07-17**|**Geometry of quantum states and chaos-integrability transition**|Ankit Gill et.al.|[2507.13067v1](http://arxiv.org/abs/2507.13067v1)|null|
+|**2025-07-17**|**High Performance Parallel Solvers for the time-harmonic Maxwell Equations**|Elise Fressart et.al.|[2507.13066v1](http://arxiv.org/abs/2507.13066v1)|null|
+|**2025-07-17**|**Efficient Online Learning and Adaptive Planning for Robotic Information Gathering Based on Streaming Data**|Sanjeev Ramkumar Sudha et.al.|[2507.13053v1](http://arxiv.org/abs/2507.13053v1)|null|
+|**2025-07-17**|**Teach Old SAEs New Domain Tricks with Boosting**|Nikita Koriagin et.al.|[2507.12990v1](http://arxiv.org/abs/2507.12990v1)|null|
+|**2025-07-17**|**Harmonic generation of graphene quantum dots in Hartree-Fock approximation**|Kainan Chang et.al.|[2507.12982v1](http://arxiv.org/abs/2507.12982v1)|null|
+|**2025-07-17**|**Analytic Gravitational Wave Spectrum in Next-to-Minimal Bouncing Cosmology**|Changhong Li et.al.|[2507.12968v1](http://arxiv.org/abs/2507.12968v1)|null|
+|**2025-07-17**|**LoViC: Efficient Long Video Generation with Context Compression**|Jiaxiu Jiang et.al.|[2507.12952v1](http://arxiv.org/abs/2507.12952v1)|null|
+|**2025-07-17**|**Insights into a radiology-specialised multimodal large language model with sparse autoencoders**|Kenza Bouzid et.al.|[2507.12950v1](http://arxiv.org/abs/2507.12950v1)|null|
+|**2025-07-17**|**From a Mixed-Policy Perspective: Improving Differentiable Automatic Post-editing Optimization**|Hongze Tan et.al.|[2507.12931v1](http://arxiv.org/abs/2507.12931v1)|null|
+|**2025-07-17**|**An ultra-low-power CGRA for accelerating Transformers at the edge**|Rohit Prasad et.al.|[2507.12904v1](http://arxiv.org/abs/2507.12904v1)|null|
+|**2025-07-17**|**Unsupervised Techniques to Detect Quantum Chaos**|Dmitry Nemirovsky et.al.|[2507.12887v1](http://arxiv.org/abs/2507.12887v1)|null|
+|**2025-07-17**|**Robust Beamforming Design for Secure Near-Field ISAC Systems**|Ziqiang CHen et.al.|[2507.12881v1](http://arxiv.org/abs/2507.12881v1)|null|
+|**2025-07-17**|**Supervised Fine Tuning on Curated Data is Reinforcement Learning (and can be improved)**|Chongli Qin et.al.|[2507.12856v1](http://arxiv.org/abs/2507.12856v1)|null|
+|**2025-07-17**|**Understanding the Evolution of the Neural Tangent Kernel at the Edge of Stability**|Kaiqi Jiang et.al.|[2507.12837v1](http://arxiv.org/abs/2507.12837v1)|null|
+|**2025-07-17**|**Sample-Constrained Black Box Optimization for Audio Personalization**|Rajalaxmi Rajagopalan et.al.|[2507.12773v1](http://arxiv.org/abs/2507.12773v1)|null|
+|**2025-07-17**|**The Total Coloring Conjecture holds for planar graphs without three special subgraphs**|Rongjin Su et.al.|[2507.12737v1](http://arxiv.org/abs/2507.12737v1)|null|
+|**2025-07-17**|**Tensor-Tensor Products, Group Representations, and Semidefinite Programming**|Alex Dunbar et.al.|[2507.12729v1](http://arxiv.org/abs/2507.12729v1)|null|
+|**2025-07-17**|**Fast Consensus over Almost Regular Directed Graphs**|Susie Lu et.al.|[2507.12726v1](http://arxiv.org/abs/2507.12726v1)|null|
 
 ## Code Compile
 
