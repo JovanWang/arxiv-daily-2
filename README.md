@@ -1,10 +1,4 @@
 # arxiv-daily
- Automated deployment @ 2026-04-29 21:15:34 Asia/Shanghai
+ Automated deployment @ 2026-04-30 09:31:04 Asia/Shanghai
 > Welcome to contribute! Add your topics and keywords in [`topic.yml`](https://github.com/beiyuouo/arxiv-daily/blob/main/database/topic.yml).
 > You can also view historical data through the [storage](https://github.com/beiyuouo/arxiv-daily/blob/main/database/storage).
-
-## Sparse Computing
-
-### Sparse Operator
-|Publish Date|Title|Authors|PDF|Code|
-| :---: | :---: | :---: | :---: | :---: |
